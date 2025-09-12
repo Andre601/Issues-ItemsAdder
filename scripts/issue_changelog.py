@@ -68,7 +68,7 @@ def compare_snapshots(old, new):
 
 def format_changelog(changes):
     if not any(changes.values()):
-        return nil
+        return None
     
     lines = [f"### Issue Activity Summary ({datetime.utcnow().isoformat()} UTC)\n"]
 
