@@ -5,7 +5,7 @@ from datetime import datetime
 
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 REPO = os.environ['REPO']
-TARGET_ISSUE = int(os.environ.get('TARGET_ISSUE', 1))  # Default to issue #1
+TARGET_ISSUE = int(os.environ.get('TARGET_ISSUE', 1))
 SNAPSHOT_FILE = 'issue_snapshot.json'
 
 HEADERS = {
@@ -42,6 +42,10 @@ def get_issue_data(issue):
         'labels': sorted([l['name'] for l in issue['labels']]),
         'updated_at': issue['updated_at'],
     }
+
+def fetch_target_issue():
+    resp = requests.get(f"https://api.github.com/repos/{REPO}/issues/{TARGET_ISSUE}", headers=HEADERS)
+    return resp.json()
 
 def load_snapshot():
     if not os.path.exists(SNAPSHOT_FILE):
@@ -127,8 +131,11 @@ def main():
     changelog = format_changelog(changes)
     
     if changelog:
-        print("Changelog present")
-        post_comment(TARGET_ISSUE, changelog)
+        issue = fetch_target_issue()
+        if issue.get("locked"):
+            print("Issue is locked. Skipping comment!")
+        else:
+            post_comment(TARGET_ISSUE, changelog)
 
     print(current_issues)
     save_snapshot(current_issues)
