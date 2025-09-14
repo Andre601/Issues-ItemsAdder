@@ -23,12 +23,9 @@ def fetch_issues(state='all'):
         data = response.json()
         if not data:
             break
-        print(f"Data {page}: {data}")
-        #if data["number"] == TARGET_ISSUE:
-        #    
         issues.extend(data)
         page += 1
-    return [i for i in issues if 'pull_request' not in i]  # Exclude PRs
+    return [i for i in issues if 'pull_request' not in i and i["number"] != TARGET_ISSUE]  # Exclude PRs and target issue
 
 def get_issue_data(issue):
     return {
