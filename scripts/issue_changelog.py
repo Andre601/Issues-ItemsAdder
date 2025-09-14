@@ -25,7 +25,11 @@ def fetch_issues(state='all'):
             break
         issues.extend(data)
         page += 1
-    return [i for i in issues if 'pull_request' not in i and i["number"] != TARGET_ISSUE]  # Exclude PRs and target issue
+    # Exclude PRs from the list and the target issue.
+    return [
+        i for i in issues
+        if 'pull_request' not in i and i['number'] != TARGET_ISSUE
+    ]
 
 def get_issue_data(issue):
     return {
