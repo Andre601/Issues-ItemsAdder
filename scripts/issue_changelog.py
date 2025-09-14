@@ -125,7 +125,13 @@ def main():
     
     if changelog:
         print("Changelog present")
-        post_comment(TARGET_ISSUE, changelog)
+        output_path = os.environ.get("GITHUB_OUTPUT")
+        if output_path:
+            with open(output_path, "a") as f:
+                f.write(f"changelog={changelog}\n")
+        else:
+            print("Couldn't obtain GITHUB_OUTPUT environement file")
+        #post_comment(TARGET_ISSUE, changelog)
 
     print(current_issues)
     save_snapshot(current_issues)
