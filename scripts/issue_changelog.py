@@ -13,9 +13,6 @@ HEADERS = {
     'Accept': 'application/vnd.github+json',
 }
 
-if GITHUB_TOKEN:
-    print("Token present!", GITHUB_TOKEN[:5])
-
 def fetch_issues(state='all'):
     issues = []
     page = 1
@@ -24,16 +21,16 @@ def fetch_issues(state='all'):
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
         data = response.json()
-        print(data)
         if not data:
             break
+        print(f"Data {page}: {data}")
+        #if data["number"] == TARGET_ISSUE:
+        #    
         issues.extend(data)
-        print(issues)
         page += 1
     return [i for i in issues if 'pull_request' not in i]  # Exclude PRs
 
 def get_issue_data(issue):
-    print(issue)
     return {
         'number': issue['number'],
         'title': issue['title'],
@@ -135,8 +132,7 @@ def main():
             print("Issue is locked. Skipping comment!")
         else:
             post_comment(TARGET_ISSUE, changelog)
-
-    print(current_issues)
+    
     save_snapshot(current_issues)
 
 if __name__ == '__main__':
