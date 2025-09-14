@@ -9,9 +9,12 @@ TARGET_ISSUE = int(os.environ.get('TARGET_ISSUE', 1))  # Default to issue #1
 SNAPSHOT_FILE = 'issue_snapshot.json'
 
 HEADERS = {
-    'Authorization': f'token {GITHUB_TOKEN}',
-    'Accept': 'application/vnd.github.v3+json',
+    'Authorization': f'Bearer {GITHUB_TOKEN}',
+    'Accept': 'application/vnd.github+json',
 }
+
+if GITHUB_TOKEN:
+    print("Token present!", GITHUB_TOKEN[:5])
 
 def fetch_issues(state='all'):
     issues = []
