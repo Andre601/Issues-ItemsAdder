@@ -82,28 +82,27 @@ def format_changelog(changes):
     if not any(changes.values()):
         return None
     
-    lines = [f"### Issue Activity Summary ({datetime.utcnow().isoformat()} UTC)\n"]
+    lines = [f"### Issue Activity Summary","There have been Issue changes since the last Check has been performed! Below is a summary.\n"]
     
     if changes['new']:
-        lines.append("#### 🆕 New Issues")
+        lines.append("#### New Issues")
         for issue in changes['new']:
-            print("Added new Issue")
             lines.append(f"- #{issue['number']} {issue['title']}")
     
     if changes['closed']:
-        lines.append("#### ✅ Closed Issues")
+        lines.append("#### Closed Issues")
         for issue in changes['closed']:
             print("Added closed Issue")
             lines.append(f"- #{issue['number']} {issue['title']}")
     
     if changes['comments']:
-        lines.append("#### 💬 New Comments")
+        lines.append("#### New Comments")
         for issue in changes['comments']:
             print("Added new Comment")
             lines.append(f"- #{issue['number']} {issue['title']} ({issue['comments']} comments)")
     
     if changes['labels']:
-        lines.append("#### 🏷️ Label Changes")
+        lines.append("#### Label Changes")
         for issue in changes['labels']:
             print("Added Label Change")
             lines.append(f"- #{issue['number']} {issue['title']} (Labels: {', '.join(issue['labels'])})")
