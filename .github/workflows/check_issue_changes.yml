@@ -16,22 +16,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: pip install requests
-
       - name: Run changelog script
+        if: changelog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
           TARGET_ISSUE: 1
         run: python scripts/issue_changelog.py
-
+      - name: Print output
+        run: 'echo "Output: ${{ steps.changelog.outputs.changelog }}"'
       - name: Commit updated snapshot
         run: |
           git config user.name "github-actions"
