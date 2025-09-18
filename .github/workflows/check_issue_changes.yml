@@ -26,8 +26,9 @@ jobs:
         id: changelog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: ${{ github.repository }}
-          TARGET_ISSUE: 1
+          SOURCE_REPO: 'PluginBugs/Issues-ItemsAdder'
+          TARGET_REPO: ${{ github.repository }}
+          TARGET_ISSUE: 5
         run: python scripts/issue_changelog.py
       - name: Print output
         run: 'echo "Output: ${{ steps.changelog.outputs.changelog }}"'
