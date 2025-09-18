@@ -4,7 +4,8 @@ import requests
 from datetime import datetime
 
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
-REPO = os.environ['REPO']
+SOURCE_REPO = os.environ['SOURCE_REPO']
+TARGET_REPO = os.environ['TARGET_REPO']
 TARGET_ISSUE = int(os.environ.get('TARGET_ISSUE', 1))
 SNAPSHOT_FILE = 'issue_snapshot.json'
 
@@ -17,7 +18,7 @@ def fetch_issues(state='all'):
     issues = []
     page = 1
     while True:
-        url = f'https://api.github.com/repos/{REPO}/issues?state={state}&page={page}&per_page=100'
+        url = f'https://api.github.com/repos/{SOURCE_REPO}/issues?state={state}&page={page}&per_page=100'
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
         data = response.json()
@@ -25,10 +26,10 @@ def fetch_issues(state='all'):
             break
         issues.extend(data)
         page += 1
-    # Exclude PRs from the list and the target issue.
+    # Exclude PRs from the list
     return [
         i for i in issues
-        if 'pull_request' not in i and i['number'] != TARGET_ISSUE
+        if 'pull_request' not in i
     ]
 
 def get_issue_data(issue):
@@ -42,7 +43,7 @@ def get_issue_data(issue):
     }
 
 def fetch_target_issue():
-    resp = requests.get(f"https://api.github.com/repos/{REPO}/issues/{TARGET_ISSUE}", headers=HEADERS)
+    resp = requests.get(f"https://api.github.com/repos/{TARGET_REPO}/issues/{TARGET_ISSUE}", headers=HEADERS)
     return resp.json()
 
 def load_snapshot():
@@ -56,8 +57,6 @@ def save_snapshot(snapshot):
         json.dump(snapshot, f, indent=2)
 
 def compare_snapshots(old, new):
-    print(f'Old: {old}')
-    print(f'New: {new}')
     changes = {'new': [], 'closed': [], 'comments': [], 'labels': []}
     old_keys = set(old)
     new_keys = set(new)
@@ -109,7 +108,7 @@ def format_changelog(changes):
     return "\n".join(lines)
 
 def post_comment(issue_number, body):
-    url = f'https://api.github.com/repos/{REPO}/issues/{issue_number}/comments'
+    url = f'https://api.github.com/repos/{TARGET_REPO}/issues/{issue_number}/comments'
     response = requests.post(url, headers=HEADERS, json={'body': body})
     response.raise_for_status()
 
