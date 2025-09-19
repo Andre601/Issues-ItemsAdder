@@ -1,4 +1,14 @@
 {
+  "5027": {
+    "number": 5027,
+    "title": "Custom fires don't display like they used to in older versions",
+    "state": "open",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-18T21:50:31Z"
+  },
   "5026": {
     "number": 5026,
     "title": "Custom Naturally Spawned Ores Missing textures After v4.0.13",
@@ -74,11 +84,11 @@
     "number": 5019,
     "title": "Pack hash mismatch",
     "state": "open",
-    "comments": 4,
+    "comments": 5,
     "labels": [
       "type: bug"
     ],
-    "updated_at": "2025-09-18T15:45:21Z"
+    "updated_at": "2025-09-18T21:30:02Z"
   },
   "5018": {
     "number": 5018,
