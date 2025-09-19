@@ -84,25 +84,25 @@ def format_changelog(changes):
     if changes['new']:
         lines.append("#### New Issues")
         for issue in changes['new']:
-            lines.append(f"- #{issue['number']} {issue['title']}")
+            lines.append(f"- #{issue['number']}")
     
     if changes['closed']:
         lines.append("#### Closed Issues")
         for issue in changes['closed']:
             print("Added closed Issue")
-            lines.append(f"- #{issue['number']} {issue['title']}")
+            lines.append(f"- #{issue['number']}")
     
     if changes['comments']:
         lines.append("#### New Comments")
         for issue in changes['comments']:
             print("Added new Comment")
-            lines.append(f"- #{issue['number']} {issue['title']} ({issue['comments']} comments)")
+            lines.append(f"- #{issue['number']} ({issue['comments']} comments)")
     
     if changes['labels']:
         lines.append("#### Label Changes")
         for issue in changes['labels']:
             print("Added Label Change")
-            lines.append(f"- #{issue['number']} {issue['title']} (Labels: {', '.join(issue['labels'])})")
+            lines.append(f"- #{issue['number']} (Labels: {', '.join(issue['labels'])})")
 
     print(lines)
     return "\n".join(lines)
