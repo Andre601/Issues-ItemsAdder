@@ -1,13 +1,23 @@
 {
-  "5027": {
-    "number": 5027,
-    "title": "Custom fires don't display like they used to in older versions",
+  "5028": {
+    "number": 5028,
+    "title": "no visible cobwebs or flowers",
     "state": "open",
     "comments": 0,
     "labels": [
       "type: bug"
     ],
-    "updated_at": "2025-09-18T21:50:31Z"
+    "updated_at": "2025-09-19T22:37:08Z"
+  },
+  "5027": {
+    "number": 5027,
+    "title": "Custom fires don't display like they used to in older versions",
+    "state": "open",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-19T00:54:52Z"
   },
   "5026": {
     "number": 5026,
