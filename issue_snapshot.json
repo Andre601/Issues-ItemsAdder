@@ -1,13 +1,33 @@
 {
-  "5028": {
-    "number": 5028,
-    "title": "no visible cobwebs or flowers",
-    "state": "open",
-    "comments": 0,
+  "5030": {
+    "number": 5030,
+    "title": "BUG visual duplication",
+    "state": "closed",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
-    "updated_at": "2025-09-19T22:37:08Z"
+    "updated_at": "2025-09-20T19:59:19Z"
+  },
+  "5029": {
+    "number": 5029,
+    "title": "no flowers and cobwebs after /iazip",
+    "state": "closed",
+    "comments": 2,
+    "labels": [
+      "type: duplicate"
+    ],
+    "updated_at": "2025-09-20T01:08:50Z"
+  },
+  "5028": {
+    "number": 5028,
+    "title": "no visible cobwebs or flowers",
+    "state": "closed",
+    "comments": 5,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-20T00:54:53Z"
   },
   "5027": {
     "number": 5027,
@@ -94,11 +114,11 @@
     "number": 5019,
     "title": "Pack hash mismatch",
     "state": "open",
-    "comments": 5,
+    "comments": 6,
     "labels": [
       "type: bug"
     ],
-    "updated_at": "2025-09-18T21:30:02Z"
+    "updated_at": "2025-09-20T00:57:32Z"
   },
   "5018": {
     "number": 5018,
