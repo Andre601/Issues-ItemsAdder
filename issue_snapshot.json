@@ -1,4 +1,44 @@
 {
+  "5034": {
+    "number": 5034,
+    "title": "ERROR: POI data mismatch",
+    "state": "open",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-21T20:18:00Z"
+  },
+  "5033": {
+    "number": 5033,
+    "title": "Interact event getting cancelled when clicked block is typeof AIR",
+    "state": "open",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-21T20:49:11Z"
+  },
+  "5032": {
+    "number": 5032,
+    "title": "IAEntities command doesn't work",
+    "state": "open",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-21T20:42:22Z"
+  },
+  "5031": {
+    "number": 5031,
+    "title": "Itemsadder becomes disabled after a while.",
+    "state": "open",
+    "comments": 2,
+    "labels": [
+      "type: bug"
+    ],
+    "updated_at": "2025-09-21T20:24:53Z"
+  },
   "5030": {
     "number": 5030,
     "title": "BUG visual duplication",
