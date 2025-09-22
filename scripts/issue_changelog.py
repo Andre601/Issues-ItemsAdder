@@ -55,7 +55,7 @@ def load_snapshot():
 
 def save_snapshot(snapshot):
     with open(SNAPSHOT_FILE, 'w') as f:
-        json.dump(snapshot, f, indent=2)
+        json.dump(snapshot, f, indent=0)
 
 def compare_snapshots(old, new):
     changes = {'new': [], 'closed': [], 'comments': [], 'labels': []}
