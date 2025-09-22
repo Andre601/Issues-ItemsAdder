@@ -35,6 +35,7 @@ def fetch_issues(state='all'):
 def get_issue_data(issue):
     return {
         'number': issue['number'],
+        'author': issue['user']['login'],
         'title': issue['title'],
         'state': issue['state'],
         'comments': issue['comments'],
@@ -84,13 +85,13 @@ def format_changelog(changes):
     if changes['new']:
         lines.append("#### New Issues")
         for issue in changes['new']:
-            lines.append(f"- #{issue['number']}")
+            lines.append(f"- #{issue['number']} by {issue['author']}")
     
     if changes['closed']:
         lines.append("#### Closed Issues")
         for issue in changes['closed']:
             print("Added closed Issue")
-            lines.append(f"- #{issue['number']}")
+            lines.append(f"- #{issue['number']} by {issue['author']}")
     
     if changes['comments']:
         lines.append("#### New Comments")
