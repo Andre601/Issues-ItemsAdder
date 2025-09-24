@@ -1,4 +1,27 @@
 {
+"5038": {
+"number": 5038,
+"author": "NoHere32",
+"title": "[Merge Other Ressource Folder] Duplication merge other ressource folder",
+"state": "open",
+"comments": 3,
+"labels": [
+"env: unofficial spigot fork",
+"type: bug"
+],
+"updated_at": "2025-09-24T08:21:43Z"
+},
+"5037": {
+"number": 5037,
+"author": "neviskcubo",
+"title": "Some entitys are not showing from 1.21.3 or above",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-23T18:59:53Z"
+},
 "5036": {
 "number": 5036,
 "author": "ShanvirGaming",
@@ -15,11 +38,11 @@
 "author": "heartlion1",
 "title": "Can\u2019t place CustomFurniture by using api",
 "state": "open",
-"comments": 1,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-22T09:45:26Z"
+"updated_at": "2025-09-24T08:46:22Z"
 },
 "5034": {
 "number": 5034,
@@ -193,11 +216,11 @@
 "author": "imlaptev",
 "title": "Pack hash mismatch",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-20T00:57:32Z"
+"updated_at": "2025-09-23T05:46:45Z"
 },
 "5018": {
 "number": 5018,
