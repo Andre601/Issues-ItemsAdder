@@ -1,4 +1,37 @@
 {
+"5041": {
+"number": 5041,
+"author": "konfix",
+"title": "Cave decorator not placing blocks correctly",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-24T23:27:00Z"
+},
+"5040": {
+"number": 5040,
+"author": "Andre601",
+"title": "Use new Object Text Component for emojis in chat",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-09-24T13:16:08Z"
+},
+"5039": {
+"number": 5039,
+"author": "SamGamerYT",
+"title": "[Bug] Crossbow `generate: true` method generating not properly.",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-24T13:23:42Z"
+},
 "5038": {
 "number": 5038,
 "author": "NoHere32",
