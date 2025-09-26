@@ -1,14 +1,47 @@
 {
-"5041": {
-"number": 5041,
-"author": "konfix",
-"title": "Cave decorator not placing blocks correctly",
+"5044": {
+"number": 5044,
+"author": "NoHere32",
+"title": "[oversized_in_gui] No application of oversized in gui",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-24T23:27:00Z"
+"updated_at": "2025-09-26T11:12:26Z"
+},
+"5043": {
+"number": 5043,
+"author": "andy3559167",
+"title": "Anvil bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-26T09:14:09Z"
+},
+"5042": {
+"number": 5042,
+"author": "WataLaker37821",
+"title": "InteractiveChatDiscordSRVaddon plugin bug (Caused by: java.util.zip.ZipException: incorrect data check and Caused by: javax.imageio.IIOException: Error reading PNG image data)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-26T01:33:57Z"
+},
+"5041": {
+"number": 5041,
+"author": "konfix",
+"title": "Cave decorator not placing blocks correctly",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-25T14:44:06Z"
 },
 "5040": {
 "number": 5040,
@@ -338,12 +371,12 @@
 "number": 5011,
 "author": "Distolfix",
 "title": "ItemsAdder: even with 200 FPS, the pack lags",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-12T10:13:08Z"
+"updated_at": "2025-09-26T09:45:06Z"
 },
 "5010": {
 "number": 5010,
