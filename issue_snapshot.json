@@ -1,4 +1,26 @@
 {
+"5046": {
+"number": 5046,
+"author": "iambibi",
+"title": "Error reading vanilla model for material PALE_OAK_LOG",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-27T11:15:46Z"
+},
+"5045": {
+"number": 5045,
+"author": "slemmannen",
+"title": "Textures not applying correctly",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-27T10:28:49Z"
+},
 "5044": {
 "number": 5044,
 "author": "NoHere32",
