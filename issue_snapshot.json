@@ -1,4 +1,15 @@
 {
+"5047": {
+"number": 5047,
+"author": "Pikezin021",
+"title": "the armor bugs when placed on the body but in the inventory it remains normal",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-28T11:40:23Z"
+},
 "5046": {
 "number": 5046,
 "author": "iambibi",
@@ -339,11 +350,11 @@
 "author": "Antwns",
 "title": ".java scripting and custom block methods",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-18T15:47:27Z"
+"updated_at": "2025-09-28T10:07:53Z"
 },
 "5015": {
 "number": 5015,
@@ -52161,12 +52172,12 @@
 "author": "YoutubeNosios",
 "title": "New Crop System",
 "state": "open",
-"comments": 7,
+"comments": 8,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-17T14:12:05Z"
+"updated_at": "2025-09-27T20:12:12Z"
 },
 "553": {
 "number": 553,
