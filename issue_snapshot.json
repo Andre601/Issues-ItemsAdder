@@ -1,4 +1,37 @@
 {
+"5050": {
+"number": 5050,
+"author": "Uaizi",
+"title": "Books do not maintain the custom model",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-30T01:16:29Z"
+},
+"5049": {
+"number": 5049,
+"author": "EagL3-GIT",
+"title": "Some packet errors",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-29T22:01:29Z"
+},
+"5048": {
+"number": 5048,
+"author": "Foxxite",
+"title": "Axiom replace mode causes NPE in Itemsadder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-09-30T09:23:05Z"
+},
 "5047": {
 "number": 5047,
 "author": "Pikezin021",
