@@ -1,4 +1,26 @@
 {
+"5052": {
+"number": 5052,
+"author": "pxlarified",
+"title": "bow.arrow_damage only modifying damage to unarmed entities",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-01T12:05:40Z"
+},
+"5051": {
+"number": 5051,
+"author": "daniel-skopek",
+"title": "Custom Enchantments don't apply on ItemsAdder's items",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-01T00:54:22Z"
+},
 "5050": {
 "number": 5050,
 "author": "Uaizi",
@@ -180,12 +202,12 @@
 "number": 5034,
 "author": "00Hrtz",
 "title": "ERROR: POI data mismatch",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-22T10:40:28Z"
+"updated_at": "2025-09-30T14:08:12Z"
 },
 "5033": {
 "number": 5033,
@@ -4849,12 +4871,12 @@
 "author": "00Hrtz",
 "title": "Weapon Reload feature",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: feature request",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2025-08-21T17:18:01Z"
+"updated_at": "2025-10-01T11:58:15Z"
 },
 "4623": {
 "number": 4623,
@@ -52205,12 +52227,12 @@
 "author": "YoutubeNosios",
 "title": "New Crop System",
 "state": "open",
-"comments": 8,
+"comments": 9,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-27T20:12:12Z"
+"updated_at": "2025-09-30T14:03:05Z"
 },
 "553": {
 "number": 553,
