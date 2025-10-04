@@ -1,4 +1,26 @@
 {
+"5054": {
+"number": 5054,
+"author": "kosroy",
+"title": "The equipment fails to display its texture or model after being worn.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-04T10:29:39Z"
+},
+"5053": {
+"number": 5053,
+"author": "Pizza1150",
+"title": "IA automatically overrides files in minecraft/items",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-03T19:45:09Z"
+},
 "5052": {
 "number": 5052,
 "author": "pxlarified",
@@ -9729,7 +9751,7 @@
 },
 "4202": {
 "number": 4202,
-"author": "cpr061",
+"author": "cpr061CAM",
 "title": "target_potion_effect attack not working",
 "state": "closed",
 "comments": 1,
