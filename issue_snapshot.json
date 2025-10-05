@@ -1,14 +1,36 @@
 {
+"5056": {
+"number": 5056,
+"author": "PSYCHEER",
+"title": "/iaplaysound tabcompletion",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-04T14:36:17Z"
+},
+"5055": {
+"number": 5055,
+"author": "PSYCHEER",
+"title": "Connected Furnitures System",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-04T14:29:08Z"
+},
 "5054": {
 "number": 5054,
 "author": "kosroy",
 "title": "The equipment fails to display its texture or model after being worn.",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-04T10:29:39Z"
+"updated_at": "2025-10-04T12:51:53Z"
 },
 "5053": {
 "number": 5053,
@@ -29160,7 +29182,7 @@
 },
 "2544": {
 "number": 2544,
-"author": "temez",
+"author": "ii1818nn",
 "title": "iaplayerstat and PlayerQuantityHudWrapper.setFloatValue() not working",
 "state": "closed",
 "comments": 1,
