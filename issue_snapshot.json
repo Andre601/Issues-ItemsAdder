@@ -1,4 +1,26 @@
 {
+"5058": {
+"number": 5058,
+"author": "dinobossytnew",
+"title": "1.21.9",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-05T18:37:10Z"
+},
+"5057": {
+"number": 5057,
+"author": "keelfy",
+"title": "Can't combine broken armor pieces",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-06T10:48:14Z"
+},
 "5056": {
 "number": 5056,
 "author": "PSYCHEER",
@@ -37,11 +59,11 @@
 "author": "Pizza1150",
 "title": "IA automatically overrides files in minecraft/items",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-03T19:45:09Z"
+"updated_at": "2025-10-05T12:13:10Z"
 },
 "5052": {
 "number": 5052,
@@ -125,11 +147,11 @@
 "author": "slemmannen",
 "title": "Textures not applying correctly",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-27T10:28:49Z"
+"updated_at": "2025-10-05T15:29:27Z"
 },
 "5044": {
 "number": 5044,
