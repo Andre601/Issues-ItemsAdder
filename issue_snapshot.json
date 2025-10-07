@@ -1,4 +1,16 @@
 {
+"5059": {
+"number": 5059,
+"author": "LoneDev6",
+"title": "New crops system API",
+"state": "open",
+"comments": 0,
+"labels": [
+"scope: api",
+"type: feature request"
+],
+"updated_at": "2025-10-06T13:59:42Z"
+},
 "5058": {
 "number": 5058,
 "author": "dinobossytnew",
@@ -20634,7 +20646,7 @@
 },
 "3272": {
 "number": 3272,
-"author": "nroj95",
+"author": "ghost",
 "title": "1.20.2 - Unknown packet ADD_RESOURCE_PACK",
 "state": "closed",
 "comments": 2,
@@ -22688,7 +22700,7 @@
 },
 "3097": {
 "number": 3097,
-"author": "nroj95",
+"author": "ghost",
 "title": "Items with event cooldowns won't execute events on first try",
 "state": "closed",
 "comments": 4,
@@ -52299,7 +52311,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-30T14:03:05Z"
+"updated_at": "2025-10-06T12:54:03Z"
 },
 "553": {
 "number": 553,
