@@ -1,4 +1,39 @@
 {
+"5062": {
+"number": 5062,
+"author": "LoneDev6",
+"title": "1.21.9+ - fix emotes",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update",
+"impact: graphical issue",
+"type: bug"
+],
+"updated_at": "2025-10-08T10:41:45Z"
+},
+"5061": {
+"number": 5061,
+"author": "AgeStudios",
+"title": "AnimationCore Support",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-08T06:52:24Z"
+},
+"5060": {
+"number": 5060,
+"author": "GrafGurka",
+"title": "Itemsadder error on newest version of citizen with itemsadder",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-07T20:42:22Z"
+},
 "5059": {
 "number": 5059,
 "author": "LoneDev6",
@@ -185,7 +220,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-26T09:14:09Z"
+"updated_at": "2025-10-08T09:43:36Z"
 },
 "5042": {
 "number": 5042,
@@ -248,11 +283,11 @@
 "author": "neviskcubo",
 "title": "Some entitys are not showing from 1.21.3 or above",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-23T18:59:53Z"
+"updated_at": "2025-10-07T15:10:39Z"
 },
 "5036": {
 "number": 5036,
@@ -50356,7 +50391,7 @@
 },
 "729": {
 "number": 729,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event BlockPhysicsEvent to ItemsAdder v2.1.42",
 "state": "closed",
 "comments": 1,
@@ -50562,7 +50597,7 @@
 },
 "710": {
 "number": 710,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] semi di grano = peperoncino",
 "state": "closed",
 "comments": 1,
@@ -51014,7 +51049,7 @@
 },
 "671": {
 "number": 671,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Fornitures stucked",
 "state": "closed",
 "comments": 1,
@@ -51464,7 +51499,7 @@
 },
 "631": {
 "number": 631,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event InventoryClickEvent",
 "state": "closed",
 "comments": 5,
@@ -51621,7 +51656,7 @@
 },
 "617": {
 "number": 617,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "RPGMoney - Could not pass event InventoryClickEvent to RPGMoney v1.1.26",
 "state": "closed",
 "comments": 2,
@@ -51775,7 +51810,7 @@
 },
 "603": {
 "number": 603,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Redstone Lamps Blockus mod",
 "state": "closed",
 "comments": 2,
@@ -51876,7 +51911,7 @@
 },
 "593": {
 "number": 593,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Resource Pack download",
 "state": "closed",
 "comments": 11,
@@ -51923,7 +51958,7 @@
 },
 "589": {
 "number": 589,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Slimefun Addon",
 "state": "closed",
 "comments": 1,
@@ -51947,7 +51982,7 @@
 },
 "587": {
 "number": 587,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event EntityDeathEvent",
 "state": "closed",
 "comments": 4,
@@ -52340,7 +52375,7 @@
 },
 "550": {
 "number": 550,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] adding-content/advanced/sounds (shuffle system)",
 "state": "closed",
 "comments": 5,
@@ -52386,7 +52421,7 @@
 },
 "545": {
 "number": 545,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Suggestion] Musica nelle regioni di worldguard o custom itemsadder regions",
 "state": "closed",
 "comments": 1,
@@ -52397,7 +52432,7 @@
 },
 "544": {
 "number": 544,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event ItemsAdderFirstLoadEvent to ItemsAdder v2.1.21",
 "state": "closed",
 "comments": 3,
@@ -52522,7 +52557,7 @@
 },
 "533": {
 "number": 533,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[SUPPORT REQUEST] Configurazione degli Zainetti (suoni personalizzati)",
 "state": "closed",
 "comments": 13,
@@ -52603,7 +52638,7 @@
 },
 "526": {
 "number": 526,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Support request] Texture pack",
 "state": "closed",
 "comments": 1,
@@ -52614,7 +52649,7 @@
 },
 "525": {
 "number": 525,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Suggestion] Silencing giving message",
 "state": "closed",
 "comments": 1,
@@ -52722,7 +52757,7 @@
 },
 "515": {
 "number": 515,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Mysterius_Head",
 "state": "closed",
 "comments": 3,
@@ -53424,7 +53459,7 @@
 },
 "452": {
 "number": 452,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Crash Report",
 "state": "closed",
 "comments": 1,
@@ -53435,7 +53470,7 @@
 },
 "451": {
 "number": 451,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] SlimeFun",
 "state": "closed",
 "comments": 2,
@@ -53478,7 +53513,7 @@
 },
 "447": {
 "number": 447,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] java.lang.IllegalArgumentException: Cannot measure distance between world and world_nether",
 "state": "closed",
 "comments": 4,
@@ -53512,7 +53547,7 @@
 },
 "444": {
 "number": 444,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event BlockPhysicsEvent to ItemsAdder v2.1.10",
 "state": "closed",
 "comments": 16,
@@ -53534,7 +53569,7 @@
 },
 "442": {
 "number": 442,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "Emoji in chat (with kingdoms+) ",
 "state": "closed",
 "comments": 3,
@@ -53917,7 +53952,7 @@
 },
 "408": {
 "number": 408,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] ItemsAdder autodisabled",
 "state": "closed",
 "comments": 1,
@@ -53951,7 +53986,7 @@
 },
 "405": {
 "number": 405,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] menu IA doppio dopo installazione ultimo update",
 "state": "closed",
 "comments": 8,
@@ -55440,7 +55475,7 @@
 },
 "268": {
 "number": 268,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] RPG Money",
 "state": "closed",
 "comments": 1,
@@ -55546,7 +55581,7 @@
 },
 "252": {
 "number": 252,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Suggestion] Hydration",
 "state": "closed",
 "comments": 1,
@@ -55558,7 +55593,7 @@
 },
 "251": {
 "number": 251,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Question] Una spada difficile da aggiungere",
 "state": "closed",
 "comments": 6,
@@ -55615,7 +55650,7 @@
 },
 "239": {
 "number": 239,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[Suggestion] Protection Login Delay",
 "state": "closed",
 "comments": 1,
@@ -55626,7 +55661,7 @@
 },
 "238": {
 "number": 238,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] strange bug, don't know why",
 "state": "closed",
 "comments": 2,
@@ -55749,7 +55784,7 @@
 },
 "227": {
 "number": 227,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "Texture: new item adding problem",
 "state": "closed",
 "comments": 11,
@@ -55784,7 +55819,7 @@
 },
 "224": {
 "number": 224,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] /iareload console error",
 "state": "closed",
 "comments": 2,
@@ -55795,7 +55830,7 @@
 },
 "223": {
 "number": 223,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Builder's Basic Addon",
 "state": "closed",
 "comments": 6,
@@ -55806,7 +55841,7 @@
 },
 "222": {
 "number": 222,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Plugin ItemsAdder v2.0.22 generated an exception while executing task 2586",
 "state": "closed",
 "comments": 2,
@@ -55817,7 +55852,7 @@
 },
 "221": {
 "number": 221,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG]  Could not pass event EntityDeathEvent to ItemsAdder v2.0.22",
 "state": "closed",
 "comments": 1,
@@ -55830,7 +55865,7 @@
 },
 "220": {
 "number": 220,
-"author": "DevLan-Fargus",
+"author": "Fargus-Van-Crystal-de-Mindark",
 "title": "[BUG] Could not pass event EntityDeathEvent to RPGMoney v1.1.20",
 "state": "closed",
 "comments": 1,
