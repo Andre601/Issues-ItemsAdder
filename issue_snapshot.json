@@ -187,18 +187,18 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-27T11:15:46Z"
+"updated_at": "2025-10-08T14:31:23Z"
 },
 "5045": {
 "number": 5045,
 "author": "slemmannen",
 "title": "Textures not applying correctly",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-05T15:29:27Z"
+"updated_at": "2025-10-08T18:12:07Z"
 },
 "5044": {
 "number": 5044,
