@@ -1,4 +1,16 @@
 {
+"5063": {
+"number": 5063,
+"author": "lexxorz",
+"title": "Errors forcing IA to close on 1.21.9",
+"state": "closed",
+"comments": 3,
+"labels": [
+"env: paper",
+"type: bug"
+],
+"updated_at": "2025-10-10T19:13:39Z"
+},
 "5062": {
 "number": 5062,
 "author": "LoneDev6",
@@ -194,11 +206,11 @@
 "author": "slemmannen",
 "title": "Textures in `folder structure 3` not working anymore",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-10T09:00:44Z"
+"updated_at": "2025-10-10T16:31:05Z"
 },
 "5044": {
 "number": 5044,
@@ -49869,11 +49881,11 @@
 "author": "Sylvenight",
 "title": "Adding inventories to furniture/custom blocks",
 "state": "open",
-"comments": 5,
+"comments": 8,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-05-08T08:32:30Z"
+"updated_at": "2025-10-10T19:16:22Z"
 },
 "776": {
 "number": 776,
