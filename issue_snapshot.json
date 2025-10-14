@@ -1,4 +1,49 @@
 {
+"5069": {
+"number": 5069,
+"author": "Connor-03",
+"title": "Item_Flag modifier in items only does one rule (IE. Hide Enchants OR Hide Attributes)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-14T06:47:29Z"
+},
+"5068": {
+"number": 5068,
+"author": "Yassounou",
+"title": "Block loosing thier textures",
+"state": "open",
+"comments": 3,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-14T09:46:21Z"
+},
+"5067": {
+"number": 5067,
+"author": "dudullle",
+"title": "Allow players to enable or disable parts of the generated resource pack",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-13T18:14:01Z"
+},
+"5066": {
+"number": 5066,
+"author": "Nuckerr",
+"title": "Where can I get support for the API??",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2025-10-13T17:56:46Z"
+},
 "5065": {
 "number": 5065,
 "author": "dinobossytnew",
@@ -100,7 +145,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-06T10:48:14Z"
+"updated_at": "2025-10-14T10:14:18Z"
 },
 "5056": {
 "number": 5056,
@@ -254,7 +299,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-08T09:43:36Z"
+"updated_at": "2025-10-14T10:16:30Z"
 },
 "5042": {
 "number": 5042,
@@ -403,7 +448,7 @@
 },
 "5029": {
 "number": 5029,
-"author": "veeky-ai",
+"author": "veeky-mc",
 "title": "no flowers and cobwebs after /iazip",
 "state": "closed",
 "comments": 2,
@@ -414,7 +459,7 @@
 },
 "5028": {
 "number": 5028,
-"author": "veeky-ai",
+"author": "veeky-mc",
 "title": "no visible cobwebs or flowers",
 "state": "closed",
 "comments": 5,
