@@ -15,11 +15,11 @@
 "author": "Yassounou",
 "title": "Block loosing thier textures",
 "state": "open",
-"comments": 3,
+"comments": 7,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-14T09:46:21Z"
+"updated_at": "2025-10-15T10:49:49Z"
 },
 "5067": {
 "number": 5067,
@@ -37,12 +37,12 @@
 "author": "Nuckerr",
 "title": "Where can I get support for the API??",
 "state": "closed",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-10-13T17:56:46Z"
+"updated_at": "2025-10-14T12:23:00Z"
 },
 "5065": {
 "number": 5065,
@@ -350,12 +350,12 @@
 "author": "NoHere32",
 "title": "[Merge Other Ressource Folder] Duplication merge other ressource folder",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-09-24T08:21:43Z"
+"updated_at": "2025-10-14T18:07:25Z"
 },
 "5037": {
 "number": 5037,
@@ -28066,7 +28066,7 @@
 "number": 2653,
 "author": "NoHere32",
 "title": "ItemsAdder WorldEdit not working correctly on FastAsyncWorldEdit",
-"state": "open",
+"state": "closed",
 "comments": 15,
 "labels": [
 "compat: plugin",
@@ -28075,7 +28075,7 @@
 "type: other plugin bug",
 "verdict: no solution"
 ],
-"updated_at": "2025-07-28T18:38:36Z"
+"updated_at": "2025-10-14T18:04:52Z"
 },
 "2652": {
 "number": 2652,
