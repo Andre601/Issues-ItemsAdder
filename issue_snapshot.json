@@ -1,4 +1,26 @@
 {
+"5071": {
+"number": 5071,
+"author": "AlCraft-Network",
+"title": "Items don\u2019t inherit events when using variant_of",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-16T01:24:38Z"
+},
+"5070": {
+"number": 5070,
+"author": "therealaqz",
+"title": "Rendering issue",
+"state": "closed",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-16T00:36:12Z"
+},
 "5069": {
 "number": 5069,
 "author": "Connor-03",
@@ -37,23 +59,23 @@
 "author": "Nuckerr",
 "title": "Where can I get support for the API??",
 "state": "closed",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-10-14T12:23:00Z"
+"updated_at": "2025-10-16T00:35:31Z"
 },
 "5065": {
 "number": 5065,
 "author": "dinobossytnew",
 "title": "Support PacketEvents",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-12T15:00:48Z"
+"updated_at": "2025-10-16T01:10:46Z"
 },
 "5064": {
 "number": 5064,
@@ -830,12 +852,12 @@
 "author": "BattleBornPMC",
 "title": "Armor item textures not working",
 "state": "closed",
-"comments": 4,
+"comments": 6,
 "labels": [
 "verdict: invalid",
 "verdict: misconfigured"
 ],
-"updated_at": "2025-09-05T14:33:52Z"
+"updated_at": "2025-10-16T11:43:47Z"
 },
 "4995": {
 "number": 4995,
