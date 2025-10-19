@@ -1,4 +1,15 @@
 {
+"5078": {
+"number": 5078,
+"author": "n0dai",
+"title": "pStats wrong path with world-container",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-18T19:03:14Z"
+},
 "5077": {
 "number": 5077,
 "author": "LoneDev6",
@@ -98,11 +109,11 @@
 "author": "Yassounou",
 "title": "Block loosing thier textures",
 "state": "open",
-"comments": 7,
+"comments": 8,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-15T10:49:49Z"
+"updated_at": "2025-10-19T03:19:30Z"
 },
 "5067": {
 "number": 5067,
