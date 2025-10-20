@@ -1,4 +1,26 @@
 {
+"5080": {
+"number": 5080,
+"author": "glutaminus",
+"title": "Emote shadeable by shadow",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-19T17:00:26Z"
+},
+"5079": {
+"number": 5079,
+"author": "dan28000",
+"title": "PlayerEditBookEvent interferance",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-19T15:02:31Z"
+},
 "5078": {
 "number": 5078,
 "author": "n0dai",
@@ -11198,7 +11220,7 @@
 },
 "4095": {
 "number": 4095,
-"author": "DevNinjaMC",
+"author": "RealNinjaMC",
 "title": "1.21.1 - Custom Durability does not work on leather armour",
 "state": "closed",
 "comments": 9,
