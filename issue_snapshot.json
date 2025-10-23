@@ -1,4 +1,15 @@
 {
+"5084": {
+"number": 5084,
+"author": "Litning11",
+"title": "Shift-Clicking Crafting Multiple Items Drops To Floor",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-23T00:15:23Z"
+},
 "5083": {
 "number": 5083,
 "author": "siberanka",
@@ -5874,12 +5885,12 @@
 "author": "Litning11",
 "title": "Furnace Recipe Return Items",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-08-06T06:15:55Z"
+"updated_at": "2025-10-22T18:06:58Z"
 },
 "4565": {
 "number": 4565,
@@ -6469,12 +6480,12 @@
 "author": "Litning11",
 "title": "Multiple Leaves in Tree Generators",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-06-16T06:13:42Z"
+"updated_at": "2025-10-22T18:07:14Z"
 },
 "4514": {
 "number": 4514,
