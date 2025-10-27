@@ -1,4 +1,26 @@
 {
+"5086": {
+"number": 5086,
+"author": "EpicPlayerA10",
+"title": "Improve creative scroll-click with furnitures",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-26T20:51:26Z"
+},
+"5085": {
+"number": 5085,
+"author": "Qg9",
+"title": "Automatic Categorisation",
+"state": "open",
+"comments": 3,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-26T21:54:58Z"
+},
 "5084": {
 "number": 5084,
 "author": "Litning11",
