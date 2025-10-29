@@ -1,4 +1,37 @@
 {
+"5090": {
+"number": 5090,
+"author": "bruhhhwarrior",
+"title": "Add play animation action",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-10-29T00:14:20Z"
+},
+"5089": {
+"number": 5089,
+"author": "Ferippuh",
+"title": "Book reset CustomModelData when write in",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-28T17:24:04Z"
+},
+"5088": {
+"number": 5088,
+"author": "AxenoDev",
+"title": "The numbers in the scoreboard are always hidden",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-28T15:51:55Z"
+},
 "5087": {
 "number": 5087,
 "author": "Gorderok",
