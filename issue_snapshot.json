@@ -277,9 +277,9 @@
 "state": "closed",
 "comments": 2,
 "labels": [
-"type: feature request"
+"type: duplicate"
 ],
-"updated_at": "2025-10-25T11:22:09Z"
+"updated_at": "2025-10-29T17:41:33Z"
 },
 "5064": {
 "number": 5064,
@@ -611,11 +611,11 @@
 "author": "heartlion1",
 "title": "Can\u2019t place CustomFurniture by using api",
 "state": "open",
-"comments": 5,
+"comments": 9,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-13T02:35:53Z"
+"updated_at": "2025-10-29T12:46:51Z"
 },
 "5034": {
 "number": 5034,
@@ -2481,7 +2481,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-07-14T15:52:21Z"
+"updated_at": "2025-10-29T17:41:37Z"
 },
 "4873": {
 "number": 4873,
