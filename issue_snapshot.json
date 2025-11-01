@@ -1,4 +1,39 @@
 {
+"5093": {
+"number": 5093,
+"author": "jasulkowski",
+"title": "Cant enable resourcepack for MAC OS",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-31T21:27:42Z"
+},
+"5092": {
+"number": 5092,
+"author": "LuluxClient",
+"title": "Duplication merge with other ressource folder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-10-31T19:51:53Z"
+},
+"5091": {
+"number": 5091,
+"author": "nullnameincognito-lab",
+"title": "TotemAnimation API",
+"state": "closed",
+"comments": 3,
+"labels": [
+"env: paper",
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2025-10-31T17:18:01Z"
+},
 "5090": {
 "number": 5090,
 "author": "bruhhhwarrior",
@@ -241,11 +276,11 @@
 "author": "Yassounou",
 "title": "Block loosing thier textures",
 "state": "open",
-"comments": 8,
+"comments": 9,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-19T03:19:30Z"
+"updated_at": "2025-10-31T22:36:27Z"
 },
 "5067": {
 "number": 5067,
