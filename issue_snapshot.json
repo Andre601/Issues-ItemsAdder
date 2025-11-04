@@ -1,4 +1,26 @@
 {
+"5095": {
+"number": 5095,
+"author": "LunarsWorldLLC",
+"title": "Emoji parsing in chat causing lag",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-03T23:19:11Z"
+},
+"5094": {
+"number": 5094,
+"author": "EVBooster",
+"title": "1.21.1 Sweet berries bush becomes transparent bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-03T14:21:09Z"
+},
 "5093": {
 "number": 5093,
 "author": "jasulkowski",
