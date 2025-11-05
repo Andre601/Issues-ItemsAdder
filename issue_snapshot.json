@@ -1,4 +1,60 @@
 {
+"5100": {
+"number": 5100,
+"author": "SamGamerYT",
+"title": "[Language Bug] minecraft_lang_overwrite not supporting child changes.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-05T01:18:45Z"
+},
+"5099": {
+"number": 5099,
+"author": "SpaceSlayer1",
+"title": "Merging MTVehicle Texture Pack",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-04T23:07:10Z"
+},
+"5098": {
+"number": 5098,
+"author": "LoneDev6",
+"title": "Custom Crops - crops that spawn a block on their final stage (like vanilla Melon)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement",
+"type: feature request"
+],
+"updated_at": "2025-11-04T14:32:19Z"
+},
+"5097": {
+"number": 5097,
+"author": "LoneDev6",
+"title": "Vehicles issue - Asynchronous getNearbyEntities!",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-04T14:16:32Z"
+},
+"5096": {
+"number": 5096,
+"author": "LoneDev6",
+"title": "Couldn't load file/generated.zip pack metadata: Pack declares support for format 32, but game versions supporting formats 17 to 64 require a supported_formats field.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-04T13:50:06Z"
+},
 "5095": {
 "number": 5095,
 "author": "LunarsWorldLLC",
@@ -149,11 +205,11 @@
 "author": "Artiesy",
 "title": "4.0.14, 1.21.1 - After zipping resourcepack some default minecraft items become invisible",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-02T03:48:22Z"
+"updated_at": "2025-11-04T19:47:00Z"
 },
 "5081": {
 "number": 5081,
@@ -208,7 +264,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-17T14:29:19Z"
+"updated_at": "2025-11-04T14:30:58Z"
 },
 "5076": {
 "number": 5076,
@@ -622,12 +678,12 @@
 "number": 5039,
 "author": "SamGamerYT",
 "title": "[Bug] Crossbow `generate: true` method generating not properly.",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-24T13:23:42Z"
+"updated_at": "2025-11-05T00:53:32Z"
 },
 "5038": {
 "number": 5038,
@@ -805,7 +861,7 @@
 "labels": [
 "type: enhancement"
 ],
-"updated_at": "2025-09-17T14:11:45Z"
+"updated_at": "2025-11-04T14:31:07Z"
 },
 "5022": {
 "number": 5022,
@@ -2981,7 +3037,7 @@
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-09-17T14:12:00Z"
+"updated_at": "2025-11-04T14:31:09Z"
 },
 "4835": {
 "number": 4835,
