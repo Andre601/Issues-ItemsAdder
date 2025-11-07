@@ -193,12 +193,12 @@
 "number": 5085,
 "author": "Qg9",
 "title": "Automatic Categorisation",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
-"type: feature request"
+"verdict: already implemented"
 ],
-"updated_at": "2025-10-26T21:54:58Z"
+"updated_at": "2025-11-06T16:45:07Z"
 },
 "5084": {
 "number": 5084,
@@ -712,12 +712,12 @@
 "author": "NoHere32",
 "title": "[Merge Other Ressource Folder] Duplication merge other ressource folder",
 "state": "open",
-"comments": 4,
+"comments": 6,
 "labels": [
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-10-14T18:07:25Z"
+"updated_at": "2025-11-06T15:32:05Z"
 },
 "5037": {
 "number": 5037,
@@ -16929,12 +16929,12 @@
 "author": "iCrashMix0",
 "title": "Command to stop player emote",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-17T14:11:55Z"
+"updated_at": "2025-11-06T16:53:28Z"
 },
 "3625": {
 "number": 3625,
@@ -19205,11 +19205,11 @@
 "author": "EpicPlayerA10",
 "title": "Sort categories alphabetically by their name",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-17T14:12:03Z"
+"updated_at": "2025-11-06T16:44:32Z"
 },
 "3433": {
 "number": 3433,
@@ -25210,14 +25210,14 @@
 "2921": {
 "number": 2921,
 "author": "ofunny",
-"title": "The order of the main category menu (cmd /ia) is diffrent on diffrent servers on my network while all share the similar config.",
+"title": "Custom order for items categories",
 "state": "open",
 "comments": 6,
 "labels": [
 "impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2025-11-05T18:46:10Z"
+"updated_at": "2025-11-06T16:53:46Z"
 },
 "2920": {
 "number": 2920,
