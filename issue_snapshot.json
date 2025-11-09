@@ -1,4 +1,51 @@
 {
+"5106": {
+"number": 5106,
+"author": "dan28000",
+"title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-09T12:03:11Z"
+},
+"5105": {
+"number": 5105,
+"author": "tgbhy",
+"title": "CustomBlock.byAlreadyPlaced not working properly",
+"state": "open",
+"comments": 1,
+"labels": [
+"env: paper",
+"type: bug",
+"verdict: misconfigured"
+],
+"updated_at": "2025-11-08T22:38:36Z"
+},
+"5104": {
+"number": 5104,
+"author": "4ak4akEvrey",
+"title": "Invisible players",
+"state": "closed",
+"comments": 0,
+"labels": [
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2025-11-08T18:33:21Z"
+},
+"5103": {
+"number": 5103,
+"author": "00Hrtz",
+"title": "CRITICAL Cooldown limit and completely broken.",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-09T11:34:11Z"
+},
 "5102": {
 "number": 5102,
 "author": "notafaqgamer-droid",
@@ -92,12 +139,12 @@
 "number": 5094,
 "author": "EVBooster",
 "title": "1.21.1 Sweet berries bush becomes transparent bug",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 8,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-03T14:21:09Z"
+"updated_at": "2025-11-09T09:17:10Z"
 },
 "5093": {
 "number": 5093,
