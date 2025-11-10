@@ -1,4 +1,15 @@
 {
+"5107": {
+"number": 5107,
+"author": "Yertled",
+"title": "Console spamming, low TPS, huge latest.log",
+"state": "open",
+"comments": 5,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-10T05:40:11Z"
+},
 "5106": {
 "number": 5106,
 "author": "dan28000",
