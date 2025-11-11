@@ -1,4 +1,16 @@
 {
+"5108": {
+"number": 5108,
+"author": "Manuelih",
+"title": "Reqeusto",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2025-11-10T23:21:31Z"
+},
 "5107": {
 "number": 5107,
 "author": "Yertled",
@@ -272,13 +284,13 @@
 "5083": {
 "number": 5083,
 "author": "siberanka",
-"title": "When using advanced enchantments on items with custom attributes, grindstone - Mainhand state duplication",
+"title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
 "comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T23:04:30Z"
+"updated_at": "2025-11-10T20:22:29Z"
 },
 "5082": {
 "number": 5082,
@@ -1084,11 +1096,11 @@
 "author": "homerek111",
 "title": "some players have issue with loading texturepack on 1.21.4",
 "state": "open",
-"comments": 9,
+"comments": 10,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:44Z"
+"updated_at": "2025-11-10T22:31:50Z"
 },
 "5009": {
 "number": 5009,
@@ -7678,7 +7690,7 @@
 },
 "4433": {
 "number": 4433,
-"author": "anonymous9741844",
+"author": "0cerOff",
 "title": "v3 legacy - Internal Exception: io.netty.handler.codec.DecoderException:  com.google.gson.JsonSyntaxException: Expected id to be a string, was an array ([-85...52])",
 "state": "open",
 "comments": 0,
