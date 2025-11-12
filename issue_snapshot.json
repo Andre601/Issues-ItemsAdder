@@ -1,4 +1,27 @@
 {
+"5110": {
+"number": 5110,
+"author": "JrRequeim",
+"title": "ScreenEffects brokes item glowing",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-12T10:41:15Z"
+},
+"5109": {
+"number": 5109,
+"author": "qaroq",
+"title": "Font Image won't load on reconnect",
+"state": "open",
+"comments": 2,
+"labels": [
+"env: paper",
+"type: bug"
+],
+"updated_at": "2025-11-12T10:57:07Z"
+},
 "5108": {
 "number": 5108,
 "author": "Manuelih",
@@ -16,11 +39,11 @@
 "author": "Yertled",
 "title": "Console spamming, low TPS, huge latest.log",
 "state": "open",
-"comments": 5,
+"comments": 9,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-10T05:40:11Z"
+"updated_at": "2025-11-11T13:48:50Z"
 },
 "5106": {
 "number": 5106,
