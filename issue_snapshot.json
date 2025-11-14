@@ -15,12 +15,12 @@
 "author": "qaroq",
 "title": "Font Image won't load on reconnect",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-11-12T10:57:07Z"
+"updated_at": "2025-11-14T11:54:53Z"
 },
 "5108": {
 "number": 5108,
@@ -39,22 +39,22 @@
 "author": "Yertled",
 "title": "Console spamming, low TPS, huge latest.log",
 "state": "open",
-"comments": 9,
+"comments": 10,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-11T13:48:50Z"
+"updated_at": "2025-11-14T11:53:36Z"
 },
 "5106": {
 "number": 5106,
 "author": "dan28000",
 "title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-09T12:03:11Z"
+"updated_at": "2025-11-14T11:57:26Z"
 },
 "5105": {
 "number": 5105,
@@ -86,11 +86,11 @@
 "author": "00Hrtz",
 "title": "CRITICAL Cooldown limit and completely broken.",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-09T11:34:11Z"
+"updated_at": "2025-11-14T11:52:00Z"
 },
 "5102": {
 "number": 5102,
@@ -108,11 +108,11 @@
 "author": "Litning11",
 "title": "Resource Pack Turns Blue",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-05T14:04:25Z"
+"updated_at": "2025-11-14T11:59:42Z"
 },
 "5100": {
 "number": 5100,
@@ -129,12 +129,12 @@
 "number": 5099,
 "author": "SpaceSlayer1",
 "title": "Merging MTVehicle Texture Pack",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"type: other plugin bug"
 ],
-"updated_at": "2025-11-05T15:06:02Z"
+"updated_at": "2025-11-14T12:00:37Z"
 },
 "5098": {
 "number": 5098,
@@ -175,11 +175,11 @@
 "author": "LunarsWorldLLC",
 "title": "Emoji parsing in chat causing lag",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-03T23:19:11Z"
+"updated_at": "2025-11-14T12:05:36Z"
 },
 "5094": {
 "number": 5094,
@@ -206,13 +206,13 @@
 "5092": {
 "number": 5092,
 "author": "LuluxClient",
-"title": "Duplication merge with other ressource folder",
+"title": "Duplication merge with other resource folder",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-31T19:51:53Z"
+"updated_at": "2025-11-14T12:06:52Z"
 },
 "5091": {
 "number": 5091,
@@ -242,12 +242,12 @@
 "number": 5089,
 "author": "Ferippuh",
 "title": "Book reset CustomModelData when write in",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-10-28T17:24:04Z"
+"updated_at": "2025-11-14T12:08:39Z"
 },
 "5088": {
 "number": 5088,
@@ -366,9 +366,10 @@
 "state": "open",
 "comments": 0,
 "labels": [
-"type: bug"
+"type: bug",
+"type: other plugin bug"
 ],
-"updated_at": "2025-10-18T19:03:14Z"
+"updated_at": "2025-11-14T11:50:39Z"
 },
 "5077": {
 "number": 5077,
@@ -3557,15 +3558,16 @@
 "number": 4800,
 "author": "dorori123",
 "title": "Custom Item/Recipes Bug",
-"state": "open",
+"state": "closed",
 "comments": 4,
 "labels": [
+"status: inactive",
 "type: bug",
 "verdict: can't reproduce",
 "verdict: invalid",
 "verdict: misconfigured"
 ],
-"updated_at": "2025-07-28T18:09:05Z"
+"updated_at": "2025-11-14T11:49:37Z"
 },
 "4799": {
 "number": 4799,
@@ -8091,12 +8093,12 @@
 "number": 4400,
 "author": "LoneDev6",
 "title": "`Error getting constructor for ClientEntity`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-10T16:57:39Z"
+"updated_at": "2025-11-14T11:49:18Z"
 },
 "4399": {
 "number": 4399,
@@ -15129,11 +15131,12 @@
 "author": "Projecki",
 "title": "Font image and text effect replacement in chat causes lag at high frequencies",
 "state": "closed",
-"comments": 6,
+"comments": 5,
 "labels": [
-"type: duplicate"
+"status: inactive",
+"type: bug"
 ],
-"updated_at": "2025-01-13T13:40:54Z"
+"updated_at": "2025-11-14T12:04:44Z"
 },
 "3791": {
 "number": 3791,
