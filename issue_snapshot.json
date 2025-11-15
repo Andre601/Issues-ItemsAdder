@@ -1,26 +1,50 @@
 {
-"5110": {
-"number": 5110,
-"author": "JrRequeim",
-"title": "ScreenEffects brokes item glowing",
+"5112": {
+"number": 5112,
+"author": "KamikotoTkach",
+"title": "Tile blocks appear as spawners when placed",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-12T10:41:15Z"
+"updated_at": "2025-11-14T18:36:35Z"
+},
+"5111": {
+"number": 5111,
+"author": "LoneDev6",
+"title": "Remove old `effects` settings from `config.yml`",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-14T12:26:47Z"
+},
+"5110": {
+"number": 5110,
+"author": "JrRequeim",
+"title": "ScreenEffects brokes item glowing",
+"state": "closed",
+"comments": 1,
+"labels": [
+"impact: graphical issue",
+"type: bug",
+"verdict: minecraft limitation"
+],
+"updated_at": "2025-11-14T13:35:40Z"
 },
 "5109": {
 "number": 5109,
 "author": "qaroq",
 "title": "Font Image won't load on reconnect",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-11-14T11:54:53Z"
+"updated_at": "2025-11-14T16:18:13Z"
 },
 "5108": {
 "number": 5108,
@@ -60,14 +84,15 @@
 "number": 5105,
 "author": "tgbhy",
 "title": "CustomBlock.byAlreadyPlaced not working properly",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "env: paper",
+"scope: api",
 "type: bug",
 "verdict: misconfigured"
 ],
-"updated_at": "2025-11-08T22:38:36Z"
+"updated_at": "2025-11-14T13:08:11Z"
 },
 "5104": {
 "number": 5104,
@@ -85,12 +110,12 @@
 "number": 5103,
 "author": "00Hrtz",
 "title": "CRITICAL Cooldown limit and completely broken.",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T11:52:00Z"
+"updated_at": "2025-11-14T16:19:11Z"
 },
 "5102": {
 "number": 5102,
@@ -175,11 +200,11 @@
 "author": "LunarsWorldLLC",
 "title": "Emoji parsing in chat causing lag",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T12:05:36Z"
+"updated_at": "2025-11-15T03:39:59Z"
 },
 "5094": {
 "number": 5094,
@@ -190,7 +215,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-09T09:17:10Z"
+"updated_at": "2025-11-14T13:02:24Z"
 },
 "5093": {
 "number": 5093,
@@ -207,12 +232,12 @@
 "number": 5092,
 "author": "LuluxClient",
 "title": "Duplication merge with other resource folder",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2025-11-14T12:06:52Z"
+"updated_at": "2025-11-14T13:44:47Z"
 },
 "5091": {
 "number": 5091,
@@ -245,20 +270,23 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"verdict: misconfigured"
+"type: duplicate"
 ],
-"updated_at": "2025-11-14T12:08:39Z"
+"updated_at": "2025-11-14T13:29:03Z"
 },
 "5088": {
 "number": 5088,
 "author": "AxenoDev",
 "title": "The numbers in the scoreboard are always hidden",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"type: other plugin bug",
+"verdict: can't reproduce",
+"verdict: misconfigured"
 ],
-"updated_at": "2025-10-28T15:51:55Z"
+"updated_at": "2025-11-14T12:52:34Z"
 },
 "5087": {
 "number": 5087,
@@ -269,7 +297,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-27T18:07:56Z"
+"updated_at": "2025-11-14T13:06:35Z"
 },
 "5086": {
 "number": 5086,
@@ -280,7 +308,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-26T20:51:26Z"
+"updated_at": "2025-11-14T13:08:27Z"
 },
 "5085": {
 "number": 5085,
@@ -298,33 +326,35 @@
 "author": "Litning11",
 "title": "Shift-Clicking Crafting Multiple Items Drops To Floor",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-23T00:15:23Z"
+"updated_at": "2025-11-14T13:09:39Z"
 },
 "5083": {
 "number": 5083,
 "author": "siberanka",
 "title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
-"type: bug"
+"compat: plugin",
+"type: bug",
+"type: other plugin bug"
 ],
-"updated_at": "2025-11-10T20:22:29Z"
+"updated_at": "2025-11-14T13:32:50Z"
 },
 "5082": {
 "number": 5082,
 "author": "Artiesy",
 "title": "4.0.14, 1.21.1 - After zipping resourcepack some default minecraft items become invisible",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2025-11-04T19:47:00Z"
+"updated_at": "2025-11-14T13:00:06Z"
 },
 "5081": {
 "number": 5081,
@@ -341,12 +371,15 @@
 "number": 5080,
 "author": "glutaminus",
 "title": "Emote shadeable by shadow",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: feature request"
+"type: feature request",
+"type: other plugin bug",
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2025-10-19T17:00:26Z"
+"updated_at": "2025-11-14T13:06:09Z"
 },
 "5079": {
 "number": 5079,
@@ -404,7 +437,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-16T15:38:20Z"
+"updated_at": "2025-11-14T13:10:48Z"
 },
 "5074": {
 "number": 5074,
@@ -416,7 +449,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-10-16T14:58:12Z"
+"updated_at": "2025-11-14T15:41:20Z"
 },
 "5073": {
 "number": 5073,
@@ -435,11 +468,11 @@
 "author": "AlCraft-Network",
 "title": "Items don\u2019t inherit events when using variant_of",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-16T01:24:38Z"
+"updated_at": "2025-11-14T13:12:02Z"
 },
 "5070": {
 "number": 5070,
@@ -459,22 +492,23 @@
 "author": "Connor-03",
 "title": "Item_Flag modifier in items only does one rule (IE. Hide Enchants OR Hide Attributes)",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-14T06:47:29Z"
+"updated_at": "2025-11-14T13:15:09Z"
 },
 "5068": {
 "number": 5068,
 "author": "Yassounou",
 "title": "Block loosing thier textures",
 "state": "open",
-"comments": 9,
+"comments": 12,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2025-10-31T22:36:27Z"
+"updated_at": "2025-11-14T14:07:49Z"
 },
 "5067": {
 "number": 5067,
@@ -514,12 +548,12 @@
 "number": 5064,
 "author": "Antwns",
 "title": "Custom entity Nametag",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-16T19:44:50Z"
+"updated_at": "2025-11-14T13:34:32Z"
 },
 "5063": {
 "number": 5063,
@@ -560,13 +594,14 @@
 "5060": {
 "number": 5060,
 "author": "GrafGurka",
-"title": "Itemsadder error on newest version of citizen with itemsadder",
+"title": "Citizens 2.0.40 - `NullPointerException: Cannot invoke \"java.lang.reflect.Method`",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
+"compat: plugin",
 "type: bug"
 ],
-"updated_at": "2025-10-07T20:42:22Z"
+"updated_at": "2025-11-14T15:13:27Z"
 },
 "5059": {
 "number": 5059,
@@ -606,13 +641,13 @@
 "5056": {
 "number": 5056,
 "author": "PSYCHEER",
-"title": "/iaplaysound tabcompletion",
+"title": "`/iaplaysound` tabcompletion",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-04T14:36:17Z"
+"updated_at": "2025-11-14T13:37:12Z"
 },
 "5055": {
 "number": 5055,
@@ -630,88 +665,99 @@
 "author": "kosroy",
 "title": "The equipment fails to display its texture or model after being worn.",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2025-10-22T11:26:24Z"
+"updated_at": "2025-11-14T13:39:30Z"
 },
 "5053": {
 "number": 5053,
 "author": "Pizza1150",
 "title": "IA automatically overrides files in minecraft/items",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-10-05T12:13:10Z"
+"updated_at": "2025-11-14T13:30:16Z"
 },
 "5052": {
 "number": 5052,
 "author": "pxlarified",
 "title": "bow.arrow_damage only modifying damage to unarmed entities",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"type: bug",
+"type: minecraft bug",
+"type: spigot bug",
+"verdict: no solution",
+"verdict: working as intended"
 ],
-"updated_at": "2025-10-02T10:18:13Z"
+"updated_at": "2025-11-14T13:49:28Z"
 },
 "5051": {
 "number": 5051,
 "author": "daniel-skopek",
 "title": "Custom Enchantments don't apply on ItemsAdder's items",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-10-01T00:54:22Z"
+"updated_at": "2025-11-14T13:40:44Z"
 },
 "5050": {
 "number": 5050,
 "author": "Uaizi",
 "title": "Books do not maintain the custom model",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-09-30T01:16:29Z"
+"updated_at": "2025-11-14T13:29:15Z"
 },
 "5049": {
 "number": 5049,
 "author": "EagL3-GIT",
 "title": "Some packet errors",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce",
+"verdict: invalid"
 ],
-"updated_at": "2025-09-29T22:01:29Z"
+"updated_at": "2025-11-14T13:43:16Z"
 },
 "5048": {
 "number": 5048,
 "author": "Foxxite",
 "title": "Axiom replace mode causes NPE in Itemsadder",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: mod bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-09-30T09:23:05Z"
+"updated_at": "2025-11-14T15:22:56Z"
 },
 "5047": {
 "number": 5047,
 "author": "Pikezin021",
 "title": "the armor bugs when placed on the body but in the inventory it remains normal",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
+"status: inactive",
+"type: addon bug",
 "type: bug"
 ],
-"updated_at": "2025-09-28T11:40:23Z"
+"updated_at": "2025-11-14T15:16:15Z"
 },
 "5046": {
 "number": 5046,
@@ -739,12 +785,12 @@
 "number": 5044,
 "author": "NoHere32",
 "title": "[oversized_in_gui] No application of oversized in gui",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2025-09-26T11:12:26Z"
+"updated_at": "2025-11-14T13:49:47Z"
 },
 "5043": {
 "number": 5043,
@@ -761,12 +807,14 @@
 "number": 5042,
 "author": "WataLaker37821",
 "title": "InteractiveChatDiscordSRVaddon plugin bug (Caused by: java.util.zip.ZipException: incorrect data check and Caused by: javax.imageio.IIOException: Error reading PNG image data)",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"type: other plugin bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-09-26T01:33:57Z"
+"updated_at": "2025-11-14T15:29:50Z"
 },
 "5041": {
 "number": 5041,
@@ -777,7 +825,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-25T14:44:06Z"
+"updated_at": "2025-11-14T13:50:11Z"
 },
 "5040": {
 "number": 5040,
@@ -804,14 +852,14 @@
 "5038": {
 "number": 5038,
 "author": "NoHere32",
-"title": "[Merge Other Ressource Folder] Duplication merge other ressource folder",
+"title": "`merge_other_plugins_resourcepacks_folders` duplication `assets` folder",
 "state": "open",
 "comments": 6,
 "labels": [
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-11-06T15:32:05Z"
+"updated_at": "2025-11-14T13:45:18Z"
 },
 "5037": {
 "number": 5037,
@@ -828,12 +876,13 @@
 "number": 5036,
 "author": "ShanvirGaming",
 "title": "Composite Model",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: feature request"
+"type: feature request",
+"verdict: already implemented"
 ],
-"updated_at": "2025-09-22T09:00:05Z"
+"updated_at": "2025-11-14T13:46:11Z"
 },
 "5035": {
 "number": 5035,
@@ -842,9 +891,10 @@
 "state": "open",
 "comments": 9,
 "labels": [
+"scope: api",
 "type: bug"
 ],
-"updated_at": "2025-10-29T12:46:51Z"
+"updated_at": "2025-11-14T13:51:37Z"
 },
 "5034": {
 "number": 5034,
@@ -866,18 +916,18 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-21T20:49:11Z"
+"updated_at": "2025-11-14T15:24:34Z"
 },
 "5032": {
 "number": 5032,
 "author": "PSYCHEER",
-"title": "IAEntities command doesn't work",
+"title": "Custom entities error `java.lang.IllegalArgumentException: attribute`",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-02T12:40:24Z"
+"updated_at": "2025-11-14T14:10:05Z"
 },
 "5031": {
 "number": 5031,
@@ -928,23 +978,23 @@
 "number": 5027,
 "author": "R5A0",
 "title": "Custom fires don't display like they used to in older versions",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: bug"
+"verdict: can't reproduce"
 ],
-"updated_at": "2025-09-19T00:54:52Z"
+"updated_at": "2025-11-14T15:20:32Z"
 },
 "5026": {
 "number": 5026,
 "author": "WOSK24",
 "title": "Custom Naturally Spawned Ores Missing textures After v4.0.13",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-18T16:37:27Z"
+"updated_at": "2025-11-14T15:03:58Z"
 },
 "5025": {
 "number": 5025,
@@ -1017,12 +1067,15 @@
 "number": 5019,
 "author": "imlaptev",
 "title": "Pack hash mismatch",
-"state": "open",
-"comments": 7,
+"state": "closed",
+"comments": 8,
 "labels": [
-"type: bug"
+"impact: graphical issue",
+"status: inactive",
+"type: bug",
+"verdict: misconfigured"
 ],
-"updated_at": "2025-09-23T05:46:45Z"
+"updated_at": "2025-11-14T15:50:14Z"
 },
 "5018": {
 "number": 5018,
@@ -1119,12 +1172,14 @@
 "number": 5010,
 "author": "homerek111",
 "title": "some players have issue with loading texturepack on 1.21.4",
-"state": "open",
-"comments": 10,
+"state": "closed",
+"comments": 11,
 "labels": [
-"type: bug"
+"type: bug",
+"type: other plugin bug",
+"type: support request"
 ],
-"updated_at": "2025-11-10T22:31:50Z"
+"updated_at": "2025-11-14T23:06:34Z"
 },
 "5009": {
 "number": 5009,
@@ -1665,13 +1720,13 @@
 "author": "alexcrea",
 "title": "Compatibility with CustomAnvil",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "compat: plugin",
 "type: bug",
 "type: feature request"
 ],
-"updated_at": "2025-08-26T13:20:49Z"
+"updated_at": "2025-11-14T16:08:25Z"
 },
 "4963": {
 "number": 4963,
@@ -2002,7 +2057,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:42Z"
+"updated_at": "2025-11-14T16:16:39Z"
 },
 "4935": {
 "number": 4935,
@@ -2913,13 +2968,13 @@
 "4856": {
 "number": 4856,
 "author": "LeBlach",
-"title": "Screen Animation Shader",
+"title": "1.21.2 - Screen animations using pumpkin overlay",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-07-21T08:46:02Z"
+"updated_at": "2025-11-14T16:02:03Z"
 },
 "4855": {
 "number": 4855,
@@ -2942,7 +2997,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-09-10T17:09:34Z"
+"updated_at": "2025-11-14T16:11:52Z"
 },
 "4853": {
 "number": 4853,
@@ -2994,13 +3049,13 @@
 "4849": {
 "number": 4849,
 "author": "J0T0S0",
-"title": "Vanilla Emissive Textures",
+"title": "1.21.2+ - Vanilla Emissive Textures",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-01T17:26:50Z"
+"updated_at": "2025-11-14T16:11:34Z"
 },
 "4848": {
 "number": 4848,
@@ -3372,7 +3427,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-06-25T10:41:43Z"
+"updated_at": "2025-11-14T15:26:23Z"
 },
 "4816": {
 "number": 4816,
@@ -3968,12 +4023,12 @@
 "number": 4765,
 "author": "mario638",
 "title": "Emojis animated using gifs",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-06-09T14:45:48Z"
+"updated_at": "2025-11-14T15:41:04Z"
 },
 "4764": {
 "number": 4764,
@@ -5564,7 +5619,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-07-15T06:13:48Z"
+"updated_at": "2025-11-14T16:02:39Z"
 },
 "4619": {
 "number": 4619,
@@ -6024,7 +6079,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-07-03T06:13:13Z"
+"updated_at": "2025-11-14T15:59:38Z"
 },
 "4579": {
 "number": 4579,
@@ -6187,7 +6242,7 @@
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-10-22T18:06:58Z"
+"updated_at": "2025-11-14T15:36:53Z"
 },
 "4565": {
 "number": 4565,
@@ -6260,7 +6315,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-07-07T06:13:44Z"
+"updated_at": "2025-11-14T16:03:04Z"
 },
 "4558": {
 "number": 4558,
@@ -6782,7 +6837,7 @@
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-10-22T18:07:14Z"
+"updated_at": "2025-11-14T16:03:49Z"
 },
 "4514": {
 "number": 4514,
@@ -7724,7 +7779,7 @@
 "outdated: server",
 "type: bug"
 ],
-"updated_at": "2025-07-28T18:11:52Z"
+"updated_at": "2025-11-14T15:30:28Z"
 },
 "4432": {
 "number": 4432,
@@ -7769,10 +7824,9 @@
 "state": "open",
 "comments": 0,
 "labels": [
-"status: inactive",
 "type: enhancement"
 ],
-"updated_at": "2025-05-15T06:12:13Z"
+"updated_at": "2025-11-14T16:03:35Z"
 },
 "4428": {
 "number": 4428,
@@ -10796,7 +10850,7 @@
 },
 "4164": {
 "number": 4164,
-"author": "MartiThaWizz",
+"author": "IgnjatRadojicic",
 "title": "MythicMobs Compatibility",
 "state": "closed",
 "comments": 2,
@@ -16054,14 +16108,14 @@
 "number": 3709,
 "author": "Asleeepp",
 "title": "New FontImageWrapper Method",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
 "scope: api",
-"status: inactive",
-"type: feature request"
+"type: feature request",
+"verdict: already implemented"
 ],
-"updated_at": "2024-12-07T06:09:48Z"
+"updated_at": "2025-11-14T16:05:08Z"
 },
 "3708": {
 "number": 3708,
@@ -17981,13 +18035,14 @@
 "number": 3543,
 "author": "khoiangel",
 "title": "MMoitems pickaxe linked with IA pickaxe",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "compat: plugin",
+"status: inactive",
 "type: bug"
 ],
-"updated_at": "2025-07-28T18:28:43Z"
+"updated_at": "2025-11-14T15:48:07Z"
 },
 "3542": {
 "number": 3542,
@@ -18337,12 +18392,13 @@
 "number": 3514,
 "author": "Ant001ne-dev",
 "title": "Database Compatibility to sync huds on various servers",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: feature request"
+"type: feature request",
+"verdict: already implemented"
 ],
-"updated_at": "2024-11-28T13:31:19Z"
+"updated_at": "2025-11-14T15:35:47Z"
 },
 "3513": {
 "number": 3513,
@@ -20655,24 +20711,24 @@
 "author": "LoneDev6",
 "title": "Infinite fuel property for vehicles",
 "state": "open",
-"comments": 1,
+"comments": 0,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2024-01-11T12:56:03Z"
+"updated_at": "2025-11-14T15:36:05Z"
 },
 "3319": {
 "number": 3319,
 "author": "LoneDev6",
 "title": "Custom vehicles sounds and exhaust particles",
 "state": "open",
-"comments": 1,
+"comments": 0,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2024-01-11T12:55:13Z"
+"updated_at": "2025-11-14T15:36:18Z"
 },
 "3318": {
 "number": 3318,
@@ -22651,9 +22707,10 @@
 "comments": 9,
 "labels": [
 "env: unofficial spigot fork",
+"status: inactive",
 "verdict: complex to implement"
 ],
-"updated_at": "2025-07-28T18:35:16Z"
+"updated_at": "2025-11-14T15:47:04Z"
 },
 "3153": {
 "number": 3153,
@@ -23991,14 +24048,14 @@
 "number": 3034,
 "author": "FilexCZE",
 "title": "FAWE copy furtniture",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "compat: plugin",
 "env: purpur",
 "type: bug"
 ],
-"updated_at": "2025-07-28T18:35:38Z"
+"updated_at": "2025-11-14T15:47:41Z"
 },
 "3033": {
 "number": 3033,
@@ -25970,12 +26027,15 @@
 "number": 2866,
 "author": "imh3ro",
 "title": "ItemsAdder items in MythicMobs mechanics",
-"state": "open",
+"state": "closed",
 "comments": 9,
 "labels": [
-"type: feature request"
+"compat: plugin",
+"type: feature request",
+"type: other plugin bug",
+"verdict: wont fix"
 ],
-"updated_at": "2024-11-28T14:51:44Z"
+"updated_at": "2025-11-14T15:43:31Z"
 },
 "2865": {
 "number": 2865,
@@ -26019,11 +26079,11 @@
 "author": "ImLeonardoo",
 "title": "MythicMobs integration - new mechanics",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
-"type: feature request"
+"type: bug"
 ],
-"updated_at": "2023-07-13T22:18:19Z"
+"updated_at": "2025-11-14T15:46:47Z"
 },
 "2860": {
 "number": 2860,
@@ -27784,13 +27844,13 @@
 "number": 2713,
 "author": "yorik100",
 "title": "Itemsadder WorldEdit FAWE and WorldEdit malfunctions",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "compat: plugin",
 "type: bug"
 ],
-"updated_at": "2025-07-28T18:38:18Z"
+"updated_at": "2025-11-14T15:48:25Z"
 },
 "2712": {
 "number": 2712,
@@ -28631,13 +28691,14 @@
 "number": 2643,
 "author": "LoneDev6",
 "title": "Executable Items Name doesn't show in-game",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "compat: plugin",
+"status: inactive",
 "type: bug"
 ],
-"updated_at": "2025-07-28T18:38:45Z"
+"updated_at": "2025-11-14T15:48:54Z"
 },
 "2642": {
 "number": 2642,
@@ -29652,7 +29713,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2023-05-30T20:34:44Z"
+"updated_at": "2025-11-14T15:41:41Z"
 },
 "2555": {
 "number": 2555,
@@ -32176,12 +32237,14 @@
 "number": 2341,
 "author": "chimal1994",
 "title": "Add conditions to events",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: feature request"
+"status: inactive",
+"type: feature request",
+"verdict: complex to implement"
 ],
-"updated_at": "2024-11-28T14:51:45Z"
+"updated_at": "2025-11-14T15:56:15Z"
 },
 "2340": {
 "number": 2340,
@@ -35585,13 +35648,14 @@
 "number": 2050,
 "author": "NichtStudioCode",
 "title": "API method to retrieve tool category / tier for block breaking",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
+"status: inactive",
 "type: feature request",
 "verdict: no solution"
 ],
-"updated_at": "2022-11-12T12:32:36Z"
+"updated_at": "2025-11-14T15:55:06Z"
 },
 "2049": {
 "number": 2049,
@@ -39836,9 +39900,11 @@
 "state": "open",
 "comments": 0,
 "labels": [
+"scope: api",
+"status: inactive",
 "type: feature request"
 ],
-"updated_at": "2022-05-03T15:10:00Z"
+"updated_at": "2025-11-14T15:54:07Z"
 },
 "1680": {
 "number": 1680,
@@ -40621,10 +40687,9 @@
 "state": "open",
 "comments": 1,
 "labels": [
-"type: feature request",
-"verdict: complex to implement"
+"type: feature request"
 ],
-"updated_at": "2025-07-28T18:40:24Z"
+"updated_at": "2025-11-14T13:34:46Z"
 },
 "1611": {
 "number": 1611,
@@ -40788,13 +40853,14 @@
 "number": 1598,
 "author": "The-Nyla",
 "title": "Better Vehicles",
-"state": "open",
-"comments": 7,
+"state": "closed",
+"comments": 8,
 "labels": [
 "scope: api",
-"type: feature request"
+"type: feature request",
+"verdict: already implemented"
 ],
-"updated_at": "2024-10-16T11:23:42Z"
+"updated_at": "2025-11-14T15:40:14Z"
 },
 "1597": {
 "number": 1597,
@@ -41107,7 +41173,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2023-03-23T15:24:14Z"
+"updated_at": "2025-11-14T15:53:33Z"
 },
 "1571": {
 "number": 1571,
@@ -41452,7 +41518,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2022-03-12T01:06:05Z"
+"updated_at": "2025-11-14T15:42:29Z"
 },
 "1541": {
 "number": 1541,
@@ -45034,7 +45100,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2024-11-28T13:32:44Z"
+"updated_at": "2025-11-14T16:04:10Z"
 },
 "1244": {
 "number": 1244,
@@ -50306,12 +50372,14 @@
 "number": 787,
 "author": "yebanme",
 "title": "Better association between EPIC BackPacks and ItemsAdder",
-"state": "open",
+"state": "closed",
 "comments": 3,
 "labels": [
+"compat: plugin",
+"status: inactive",
 "type: feature request"
 ],
-"updated_at": "2023-05-18T19:11:12Z"
+"updated_at": "2025-11-14T15:56:32Z"
 },
 "786": {
 "number": 786,
@@ -55449,12 +55517,13 @@
 "number": 318,
 "author": "yebanme",
 "title": "Add more trigger for thirst/mana bar",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
+"status: inactive",
 "type: feature request"
 ],
-"updated_at": "2023-05-18T19:11:24Z"
+"updated_at": "2025-11-14T15:57:32Z"
 },
 "317": {
 "number": 317,
