@@ -1,4 +1,49 @@
 {
+"5116": {
+"number": 5116,
+"author": "bruhhhwarrior",
+"title": "REAL_NOTE doesnt remove on explosion",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-16T04:24:13Z"
+},
+"5115": {
+"number": 5115,
+"author": "bruhhhwarrior",
+"title": "interact actions dont get executed when block is primed",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-16T04:19:39Z"
+},
+"5114": {
+"number": 5114,
+"author": "homerek111",
+"title": "skin / citizens npc invisible glitch on 1.21.4 client",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-16T05:56:26Z"
+},
+"5113": {
+"number": 5113,
+"author": "VALEIM1",
+"title": "ItemsAdder (ver.4.0.9-4.0.15) no work in 1.21",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug",
+"verdict: working as intended"
+],
+"updated_at": "2025-11-16T00:24:45Z"
+},
 "5112": {
 "number": 5112,
 "author": "KamikotoTkach",
@@ -222,11 +267,11 @@
 "author": "jasulkowski",
 "title": "Cant enable resourcepack for MAC OS",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-10-31T21:27:42Z"
+"updated_at": "2025-11-15T16:25:51Z"
 },
 "5092": {
 "number": 5092,
