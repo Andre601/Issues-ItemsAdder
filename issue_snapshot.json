@@ -19,7 +19,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-16T04:19:39Z"
+"updated_at": "2025-11-16T19:09:56Z"
 },
 "5114": {
 "number": 5114,
@@ -178,11 +178,11 @@
 "author": "Litning11",
 "title": "Resource Pack Turns Blue",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T11:59:42Z"
+"updated_at": "2025-11-16T16:19:45Z"
 },
 "5100": {
 "number": 5100,
@@ -371,11 +371,11 @@
 "author": "Litning11",
 "title": "Shift-Clicking Crafting Multiple Items Drops To Floor",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:09:39Z"
+"updated_at": "2025-11-16T16:17:40Z"
 },
 "5083": {
 "number": 5083,
