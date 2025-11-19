@@ -1,4 +1,15 @@
 {
+"5118": {
+"number": 5118,
+"author": "BakiDance",
+"title": "Add placeholder that returns resourcepack status",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2025-11-19T02:59:23Z"
+},
 "5117": {
 "number": 5117,
 "author": "AlphaBlock4k",
@@ -21990,7 +22001,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:19Z"
+"updated_at": "2025-11-18T17:58:06Z"
 },
 "3217": {
 "number": 3217,
@@ -32724,10 +32735,9 @@
 "state": "closed",
 "comments": 2,
 "labels": [
-"type: feature request",
-"verdict: needs an addon"
+"type: duplicate"
 ],
-"updated_at": "2024-11-06T14:18:06Z"
+"updated_at": "2025-11-18T18:06:58Z"
 },
 "2305": {
 "number": 2305,
