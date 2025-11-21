@@ -14,12 +14,12 @@
 "number": 5122,
 "author": "Marshcl",
 "title": "Update the API (MCPets Requires it)",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-19T22:18:45Z"
+"updated_at": "2025-11-20T14:37:37Z"
 },
 "5121": {
 "number": 5121,
@@ -460,13 +460,13 @@
 "author": "siberanka",
 "title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "compat: plugin",
 "type: bug",
 "type: other plugin bug"
 ],
-"updated_at": "2025-11-14T13:32:50Z"
+"updated_at": "2025-11-20T19:54:34Z"
 },
 "5082": {
 "number": 5082,
