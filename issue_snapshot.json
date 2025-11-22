@@ -1,4 +1,59 @@
 {
+"5128": {
+"number": 5128,
+"author": "fglitz1993-droid",
+"title": "Plugin ItemsAdder v4.0.15 generated an exception while executing task 20563",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-22T11:54:02Z"
+},
+"5127": {
+"number": 5127,
+"author": "Ardon2222GH",
+"title": "Script with Block Break event for Custom Blocks not work",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-21T16:45:02Z"
+},
+"5126": {
+"number": 5126,
+"author": "LoneDev6",
+"title": "Crops bonemeal duplication bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-21T14:57:11Z"
+},
+"5125": {
+"number": 5125,
+"author": "LoneDev6",
+"title": "`show_in_ia_gui` not working on template items",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-21T14:47:44Z"
+},
+"5124": {
+"number": 5124,
+"author": "LoneDev6",
+"title": "Some configuration (like `replace_furniture`) won't work if key has no namespace specified",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-21T14:40:53Z"
+},
 "5123": {
 "number": 5123,
 "author": "PuppyTransGirl",
@@ -104,11 +159,11 @@
 "author": "homerek111",
 "title": "skin / citizens npc invisible glitch on 1.21.4 client",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-16T05:56:26Z"
+"updated_at": "2025-11-21T13:40:04Z"
 },
 "5113": {
 "number": 5113,
@@ -1233,7 +1288,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-16T16:47:42Z"
+"updated_at": "2025-11-21T16:44:38Z"
 },
 "5015": {
 "number": 5015,
