@@ -167,7 +167,7 @@
 },
 "5113": {
 "number": 5113,
-"author": "VALEIM1",
+"author": "ghost",
 "title": "ItemsAdder (ver.4.0.9-4.0.15) no work in 1.21",
 "state": "open",
 "comments": 1,
@@ -239,13 +239,13 @@
 "5107": {
 "number": 5107,
 "author": "Yertled",
-"title": "Console spamming, low TPS, huge latest.log",
+"title": "`shoot_particle` - IllegalStateException: Asynchronous getNearbyEntities",
 "state": "open",
 "comments": 10,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T11:53:36Z"
+"updated_at": "2025-11-24T09:46:19Z"
 },
 "5106": {
 "number": 5106,
@@ -288,12 +288,12 @@
 "number": 5103,
 "author": "00Hrtz",
 "title": "CRITICAL Cooldown limit and completely broken.",
-"state": "closed",
+"state": "open",
 "comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T16:19:11Z"
+"updated_at": "2025-11-24T09:47:13Z"
 },
 "5102": {
 "number": 5102,
@@ -378,11 +378,11 @@
 "author": "LunarsWorldLLC",
 "title": "Emoji parsing in chat causing lag",
 "state": "open",
-"comments": 4,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-15T03:39:59Z"
+"updated_at": "2025-11-24T11:34:08Z"
 },
 "5094": {
 "number": 5094,
