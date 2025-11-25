@@ -1,4 +1,46 @@
 {
+"5132": {
+"number": 5132,
+"author": "LoneDev6",
+"title": "Crops not exploding with TNT",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-24T13:09:33Z"
+},
+"5131": {
+"number": 5131,
+"author": "LoneDev6",
+"title": "World rules ignore all the negative rules if `*` is specified",
+"state": "open",
+"comments": 0,
+"labels": [],
+"updated_at": "2025-11-24T13:08:36Z"
+},
+"5130": {
+"number": 5130,
+"author": "LoneDev6",
+"title": "Custom TNT not removing old block before exploding",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-24T12:32:42Z"
+},
+"5129": {
+"number": 5129,
+"author": "LoneDev6",
+"title": "Custom TNT primed sound not playing",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-24T12:32:49Z"
+},
 "5128": {
 "number": 5128,
 "author": "fglitz1993-droid",
@@ -378,11 +420,11 @@
 "author": "LunarsWorldLLC",
 "title": "Emoji parsing in chat causing lag",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T11:34:08Z"
+"updated_at": "2025-11-24T15:55:34Z"
 },
 "5094": {
 "number": 5094,
@@ -627,7 +669,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-14T15:41:20Z"
+"updated_at": "2025-11-24T14:04:20Z"
 },
 "5073": {
 "number": 5073,
@@ -2927,13 +2969,14 @@
 "4875": {
 "number": 4875,
 "author": "ChuengLafonte",
-"title": "DummyRegionFile.loadchunk() called issue",
+"title": "`DummyRegionFile.loadchunk() called`",
 "state": "open",
 "comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2025-11-07T17:22:41Z"
+"updated_at": "2025-11-24T13:12:33Z"
 },
 "4874": {
 "number": 4874,
@@ -3866,11 +3909,11 @@
 "author": "EspartaProJunior",
 "title": "place_furniture does not work",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:39Z"
+"updated_at": "2025-11-24T13:20:08Z"
 },
 "4793": {
 "number": 4793,
@@ -13144,7 +13187,7 @@
 },
 "3978": {
 "number": 3978,
-"author": "Minzilein2003",
+"author": "GamingJakob",
 "title": "1.21 Crafter Crafter Removes item and not durability",
 "state": "closed",
 "comments": 2,
