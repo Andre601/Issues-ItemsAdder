@@ -1,4 +1,26 @@
 {
+"5134": {
+"number": 5134,
+"author": "tomasalias",
+"title": "Items adder citizens error",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-26T08:36:06Z"
+},
+"5133": {
+"number": 5133,
+"author": "JoshuaPHYT",
+"title": "Items adder is not working in some launchers on mobile",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-25T23:42:51Z"
+},
 "5132": {
 "number": 5132,
 "author": "LoneDev6",
@@ -283,11 +305,11 @@
 "author": "Yertled",
 "title": "`shoot_particle` - IllegalStateException: Asynchronous getNearbyEntities",
 "state": "open",
-"comments": 10,
+"comments": 11,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T09:46:19Z"
+"updated_at": "2025-11-25T20:11:06Z"
 },
 "5106": {
 "number": 5106,
