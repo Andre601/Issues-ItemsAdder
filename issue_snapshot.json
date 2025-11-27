@@ -1,25 +1,59 @@
 {
-"5134": {
-"number": 5134,
-"author": "tomasalias",
-"title": "Items adder citizens error",
+"5137": {
+"number": 5137,
+"author": "Alugor",
+"title": "Observer randomly change noteblock textures",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-26T08:36:06Z"
+"updated_at": "2025-11-27T10:05:50Z"
+},
+"5136": {
+"number": 5136,
+"author": "Alugor",
+"title": "ItemsAdder failed main thread check: getNearbyEntities",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-27T09:57:53Z"
+},
+"5135": {
+"number": 5135,
+"author": "HaydoPotato1310",
+"title": "Item models are not loading properly",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-27T02:09:43Z"
+},
+"5134": {
+"number": 5134,
+"author": "tomasalias",
+"title": "Items adder citizens error",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-27T10:22:12Z"
 },
 "5133": {
 "number": 5133,
 "author": "JoshuaPHYT",
 "title": "Items adder is not working in some launchers on mobile",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
+"env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-11-25T23:42:51Z"
+"updated_at": "2025-11-26T21:45:32Z"
 },
 "5132": {
 "number": 5132,
@@ -896,11 +930,11 @@
 "author": "PSYCHEER",
 "title": "Connected Furnitures System",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-04T14:29:08Z"
+"updated_at": "2025-11-27T03:51:02Z"
 },
 "5054": {
 "number": 5054,
