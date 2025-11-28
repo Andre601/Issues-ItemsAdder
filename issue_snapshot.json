@@ -1,36 +1,52 @@
 {
+"5138": {
+"number": 5138,
+"author": "BattleBornPMC",
+"title": "Recourse Pack links from Dropbox, Google drive and similair websites do not work anymore.",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-28T11:24:36Z"
+},
 "5137": {
 "number": 5137,
 "author": "Alugor",
 "title": "Observer randomly change noteblock textures",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"env: paper",
+"impact: graphical issue",
+"scope: resourcepack",
+"type: bug",
+"type: clientside bug",
+"verdict: minecraft limitation"
 ],
-"updated_at": "2025-11-27T10:05:50Z"
+"updated_at": "2025-11-27T12:27:19Z"
 },
 "5136": {
 "number": 5136,
 "author": "Alugor",
 "title": "ItemsAdder failed main thread check: getNearbyEntities",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2025-11-27T09:57:53Z"
+"updated_at": "2025-11-27T12:29:21Z"
 },
 "5135": {
 "number": 5135,
 "author": "HaydoPotato1310",
 "title": "Item models are not loading properly",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-27T02:09:43Z"
+"updated_at": "2025-11-27T12:30:56Z"
 },
 "5134": {
 "number": 5134,
@@ -339,11 +355,11 @@
 "author": "Yertled",
 "title": "`shoot_particle` - IllegalStateException: Asynchronous getNearbyEntities",
 "state": "open",
-"comments": 11,
+"comments": 12,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-25T20:11:06Z"
+"updated_at": "2025-11-27T14:05:52Z"
 },
 "5106": {
 "number": 5106,
