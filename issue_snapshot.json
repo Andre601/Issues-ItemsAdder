@@ -1,25 +1,36 @@
 {
-"5139": {
-"number": 5139,
-"author": "Rdxry01",
-"title": "Help...",
+"5140": {
+"number": 5140,
+"author": "Oufluencer",
+"title": "Proxy - resourcepack loading twice",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-28T13:01:15Z"
+"updated_at": "2025-11-29T12:46:58Z"
+},
+"5139": {
+"number": 5139,
+"author": "Rdxry01",
+"title": "Help...",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-11-29T14:32:08Z"
 },
 "5138": {
 "number": 5138,
 "author": "BattleBornPMC",
 "title": "Recourse Pack links from Dropbox, Google drive and similair websites do not work anymore.",
 "state": "open",
-"comments": 1,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-28T11:24:36Z"
+"updated_at": "2025-11-29T16:19:39Z"
 },
 "5137": {
 "number": 5137,
