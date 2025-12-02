@@ -1,4 +1,26 @@
 {
+"5142": {
+"number": 5142,
+"author": "RVSkeLe",
+"title": "Performance issues with isCustomBlock in piston events",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-01T18:09:58Z"
+},
+"5141": {
+"number": 5141,
+"author": "HYVERSMC",
+"title": "Custom Hardness - Diamond Axe",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-01T14:53:05Z"
+},
 "5140": {
 "number": 5140,
 "author": "Oufluencer",
