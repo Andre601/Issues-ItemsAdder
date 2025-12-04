@@ -1,4 +1,24 @@
 {
+"5146": {
+"number": 5146,
+"author": "LoneDev6",
+"title": "Implement water-lava bottom block for crops",
+"state": "open",
+"comments": 0,
+"labels": [],
+"updated_at": "2025-12-03T16:59:48Z"
+},
+"5145": {
+"number": 5145,
+"author": "AK-0x7FFF",
+"title": "Smithing recipe does not work on 1.21.8",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-03T14:24:01Z"
+},
 "5144": {
 "number": 5144,
 "author": "ImJedss",
@@ -112,7 +132,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-03T04:00:24Z"
+"updated_at": "2025-12-04T01:49:19Z"
 },
 "5134": {
 "number": 5134,
