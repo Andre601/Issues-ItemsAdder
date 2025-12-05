@@ -1,4 +1,15 @@
 {
+"5147": {
+"number": 5147,
+"author": "Maftyss",
+"title": "I CANNOT SEE ANY FONT ICONS/EMOJIS/IMAGES",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-04T17:40:14Z"
+},
 "5146": {
 "number": 5146,
 "author": "LoneDev6",
@@ -34,12 +45,12 @@
 "number": 5143,
 "author": "Alugor",
 "title": "Unhandled exception occurred in onPacketSending(PacketEvent)",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-02T21:25:57Z"
+"updated_at": "2025-12-04T12:54:12Z"
 },
 "5142": {
 "number": 5142,
