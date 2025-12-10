@@ -1,4 +1,37 @@
 {
+"5153": {
+"number": 5153,
+"author": "notKolja",
+"title": "ItemsAdder blocking Enchanting Custom Items with Anvil",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-10T11:11:00Z"
+},
+"5152": {
+"number": 5152,
+"author": "Devoz-a",
+"title": "Custom armor will not take vanilla enchantments in an anvil unless name is removed.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-10T06:33:37Z"
+},
+"5151": {
+"number": 5151,
+"author": "RitsuElAnti",
+"title": "\"as_console: true\" does not execute",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-10T05:42:01Z"
+},
 "5150": {
 "number": 5150,
 "author": "ZenkoKasai",
@@ -8,7 +41,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-12-09T03:43:43Z"
+"updated_at": "2025-12-09T12:31:51Z"
 },
 "5149": {
 "number": 5149,
