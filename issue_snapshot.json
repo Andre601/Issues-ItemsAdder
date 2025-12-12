@@ -1,4 +1,59 @@
 {
+"5158": {
+"number": 5158,
+"author": "Bimmalord",
+"title": "Can't Red Image files",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-12T11:11:14Z"
+},
+"5157": {
+"number": 5157,
+"author": "Uaizi",
+"title": "onPacketSending(PacketEvent) Failed to convert data component value of type class com.github.retrooper.packetevents.util.adventure.NbtTagHolder to type class io.papermc.paper.adventure.PaperAdventure$DataComponentValueImpl",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-12T00:58:26Z"
+},
+"5156": {
+"number": 5156,
+"author": "BendikB03",
+"title": "Multi-break causes doors and beds to be cut in half",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-11T23:43:37Z"
+},
+"5155": {
+"number": 5155,
+"author": "xRedCrystalx",
+"title": "ItemsAdder.playTotemAnimation API call doesn't display custom totem texture",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-11T19:00:58Z"
+},
+"5154": {
+"number": 5154,
+"author": "Nusky57",
+"title": "[ItemsAdder] Unhandled exception occurred in onPacketSending(PacketEvent) for ItemsAdder java.lang.UnsupportedOperationException: The method getUniqueId is not supported for temporary players",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-11T12:39:06Z"
+},
 "5153": {
 "number": 5153,
 "author": "notKolja",
@@ -26,11 +81,11 @@
 "author": "RitsuElAnti",
 "title": "\"as_console: true\" does not execute",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-10T12:17:21Z"
+"updated_at": "2025-12-12T04:11:02Z"
 },
 "5150": {
 "number": 5150,
