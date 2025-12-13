@@ -15,11 +15,11 @@
 "author": "Uaizi",
 "title": "onPacketSending(PacketEvent) Failed to convert data component value of type class com.github.retrooper.packetevents.util.adventure.NbtTagHolder to type class io.papermc.paper.adventure.PaperAdventure$DataComponentValueImpl",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-12T00:58:26Z"
+"updated_at": "2025-12-12T18:17:17Z"
 },
 "5156": {
 "number": 5156,
@@ -48,11 +48,11 @@
 "author": "Nusky57",
 "title": "[ItemsAdder] Unhandled exception occurred in onPacketSending(PacketEvent) for ItemsAdder java.lang.UnsupportedOperationException: The method getUniqueId is not supported for temporary players",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-11T12:39:06Z"
+"updated_at": "2025-12-12T12:25:41Z"
 },
 "5153": {
 "number": 5153,
