@@ -1,25 +1,47 @@
 {
-"5160": {
-"number": 5160,
-"author": "yorik100",
-"title": "Reach does not show in tooltip with fix-show-attack-and-damage-as-lore",
+"5162": {
+"number": 5162,
+"author": "TabZz147",
+"title": "ItemsAdder executes getNearbyPlayers asynchronously in Entities-Tick on Paper 1.21.x",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-13T22:19:24Z"
+"updated_at": "2025-12-14T19:21:02Z"
+},
+"5161": {
+"number": 5161,
+"author": "KodeKrakenDev",
+"title": "Interacting with an entity does not work for any plugin using MythicMobs model",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-14T19:11:05Z"
+},
+"5160": {
+"number": 5160,
+"author": "yorik100",
+"title": "Reach does not show in tooltip with fix-show-attack-and-damage-as-lore",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-14T12:15:21Z"
 },
 "5159": {
 "number": 5159,
 "author": "yorik100",
 "title": "attackReach attribute throwing an error despite working",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-13T22:10:12Z"
+"updated_at": "2025-12-14T12:15:16Z"
 },
 "5158": {
 "number": 5158,
@@ -103,11 +125,11 @@
 "author": "RitsuElAnti",
 "title": "\"as_console: true\" does not execute",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-12T04:11:02Z"
+"updated_at": "2025-12-15T07:50:57Z"
 },
 "5150": {
 "number": 5150,
