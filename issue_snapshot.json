@@ -891,13 +891,13 @@
 "author": "siberanka",
 "title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "compat: plugin",
 "type: bug",
 "type: other plugin bug"
 ],
-"updated_at": "2025-11-20T19:54:34Z"
+"updated_at": "2025-12-16T13:19:38Z"
 },
 "5082": {
 "number": 5082,
