@@ -1,4 +1,26 @@
 {
+"5164": {
+"number": 5164,
+"author": "yorik100",
+"title": "player.block_break_speed attribute does not speed up breaking custom blocks",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-17T23:48:27Z"
+},
+"5163": {
+"number": 5163,
+"author": "jasulkowski",
+"title": "Smithing Table (lore double)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-17T17:11:02Z"
+},
 "5162": {
 "number": 5162,
 "author": "TabZz147",
