@@ -1,4 +1,26 @@
 {
+"5166": {
+"number": 5166,
+"author": "ItzStanleex",
+"title": "Outdated shadowed Adventure API breaks other plugins on Paper 1.21.10",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-20T16:06:13Z"
+},
+"5165": {
+"number": 5165,
+"author": "aaa8881",
+"title": "Server hang on itemsadder 4.0.15",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2025-12-20T14:09:29Z"
+},
 "5164": {
 "number": 5164,
 "author": "yorik100",
@@ -244,11 +266,11 @@
 "author": "RVSkeLe",
 "title": "Performance issues with isCustomBlock in piston events",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-01T18:09:58Z"
+"updated_at": "2025-12-20T21:46:58Z"
 },
 "5141": {
 "number": 5141,
