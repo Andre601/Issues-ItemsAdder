@@ -48,11 +48,11 @@
 "author": "TabZz147",
 "title": "ItemsAdder executes getNearbyPlayers asynchronously in Entities-Tick on Paper 1.21.x",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-14T19:21:02Z"
+"updated_at": "2025-12-21T13:38:09Z"
 },
 "5161": {
 "number": 5161,
@@ -135,12 +135,12 @@
 "number": 5154,
 "author": "Nusky57",
 "title": "[ItemsAdder] Unhandled exception occurred in onPacketSending(PacketEvent) for ItemsAdder java.lang.UnsupportedOperationException: The method getUniqueId is not supported for temporary players",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-12T12:25:41Z"
+"updated_at": "2025-12-22T02:19:48Z"
 },
 "5153": {
 "number": 5153,
@@ -8837,7 +8837,7 @@
 },
 "4392": {
 "number": 4392,
-"author": "MsxDevil",
+"author": "devanshk4",
 "title": "Player Invisible Glitch on loading texture pack on 1.21.4 server",
 "state": "closed",
 "comments": 4,
