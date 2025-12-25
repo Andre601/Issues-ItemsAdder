@@ -48,11 +48,11 @@
 "author": "TabZz147",
 "title": "ItemsAdder executes getNearbyPlayers asynchronously in Entities-Tick on Paper 1.21.x",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-21T13:38:09Z"
+"updated_at": "2025-12-24T16:08:17Z"
 },
 "5161": {
 "number": 5161,
