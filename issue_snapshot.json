@@ -1,4 +1,15 @@
 {
+"5168": {
+"number": 5168,
+"author": "Ihsannoob",
+"title": "Bug text GUI",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-02T13:51:49Z"
+},
 "5167": {
 "number": 5167,
 "author": "Ultim4t",
@@ -8580,12 +8591,12 @@
 "author": "dafsdfasde",
 "title": "The issue where sitting on furniture cannot be canceled.",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "scope: api",
 "type: bug"
 ],
-"updated_at": "2025-07-30T06:15:21Z"
+"updated_at": "2026-01-02T17:56:17Z"
 },
 "4414": {
 "number": 4414,
