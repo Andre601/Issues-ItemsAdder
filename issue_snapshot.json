@@ -1,14 +1,25 @@
 {
+"5169": {
+"number": 5169,
+"author": "HouYanShen",
+"title": "Failed to save Citizens NPCs.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-05T21:41:05Z"
+},
 "5168": {
 "number": 5168,
 "author": "Ihsannoob",
 "title": "Bug text GUI",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-03T20:50:05Z"
+"updated_at": "2026-01-06T04:45:21Z"
 },
 "5167": {
 "number": 5167,
@@ -6679,7 +6690,7 @@
 },
 "4581": {
 "number": 4581,
-"author": "SharkblackFr",
+"author": "Sharkblack3D",
 "title": "animated texture bug when applied with my modeling",
 "state": "closed",
 "comments": 14,
@@ -31803,7 +31814,7 @@
 },
 "2429": {
 "number": 2429,
-"author": "SharkblackFr",
+"author": "Sharkblack3D",
 "title": "Error when I have the latest version of itemadder ",
 "state": "closed",
 "comments": 1,
@@ -35801,7 +35812,7 @@
 },
 "2091": {
 "number": 2091,
-"author": "SharkblackFr",
+"author": "Sharkblack3D",
 "title": "Bug error item has invisible after being hit",
 "state": "closed",
 "comments": 0,
@@ -42166,7 +42177,7 @@
 },
 "1539": {
 "number": 1539,
-"author": "SharkblackFr",
+"author": "Sharkblack3D",
 "title": "Error when the plugin load ressource pack",
 "state": "closed",
 "comments": 2,
@@ -55433,7 +55444,7 @@
 },
 "385": {
 "number": 385,
-"author": "SharkblackFr",
+"author": "Sharkblack3D",
 "title": "Destroy impossible object",
 "state": "closed",
 "comments": 8,
