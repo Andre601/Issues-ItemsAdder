@@ -1,4 +1,26 @@
 {
+"5175": {
+"number": 5175,
+"author": "Askarionn",
+"title": "Can't find file ModelEngine",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-21T01:05:17Z"
+},
+"5174": {
+"number": 5174,
+"author": "k1netix",
+"title": "Incendium shields render wrong in-hand with ItemsAdder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-20T20:14:33Z"
+},
 "5173": {
 "number": 5173,
 "author": "dorori123",
