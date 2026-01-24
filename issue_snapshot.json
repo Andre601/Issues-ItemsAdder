@@ -4,22 +4,22 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 0,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-21T01:05:17Z"
+"updated_at": "2026-01-23T20:57:34Z"
 },
 "5174": {
 "number": 5174,
 "author": "k1netix",
 "title": "Incendium shields render wrong in-hand with ItemsAdder",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-20T20:14:33Z"
+"updated_at": "2026-01-23T18:49:51Z"
 },
 "5173": {
 "number": 5173,
@@ -760,11 +760,11 @@
 "author": "Yertled",
 "title": "`shoot_particle` - IllegalStateException: Asynchronous getNearbyEntities",
 "state": "open",
-"comments": 12,
+"comments": 13,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-27T14:05:52Z"
+"updated_at": "2026-01-23T18:44:41Z"
 },
 "5106": {
 "number": 5106,
@@ -1551,12 +1551,12 @@
 "author": "NoHere32",
 "title": "`merge_other_plugins_resourcepacks_folders` duplication `assets` folder",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:45:18Z"
+"updated_at": "2026-01-24T03:43:54Z"
 },
 "5037": {
 "number": 5037,
