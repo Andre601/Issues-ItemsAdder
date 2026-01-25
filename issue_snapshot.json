@@ -1,4 +1,26 @@
 {
+"5177": {
+"number": 5177,
+"author": "bruhhhwarrior",
+"title": "surface_populators dont work in the nether",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-24T15:43:30Z"
+},
+"5176": {
+"number": 5176,
+"author": "bruhhhwarrior",
+"title": "Emotes displaying floating heads",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-24T15:33:40Z"
+},
 "5175": {
 "number": 5175,
 "author": "Askarionn",
