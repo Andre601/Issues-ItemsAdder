@@ -10344,14 +10344,14 @@
 "number": 4276,
 "author": "azapg",
 "title": "Furniture sit options API to allow NPCs to sit on them",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "scope: api",
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-04-14T06:12:30Z"
+"updated_at": "2026-01-28T19:19:17Z"
 },
 "4275": {
 "number": 4275,
@@ -51166,6 +51166,17 @@
 "type: support request"
 ],
 "updated_at": "2024-11-28T15:33:58Z"
+},
+"780": {
+"number": 780,
+"author": "1chunghu",
+"title": "[BUG] Error in ItemsAdder plugin",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2021-03-26T10:03:56Z"
 },
 "779": {
 "number": 779,
