@@ -1,4 +1,15 @@
 {
+"5178": {
+"number": 5178,
+"author": "Alugor",
+"title": "Add command to clean orphaned/unknown block entries from pregion database",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-01-29T19:44:53Z"
+},
 "5177": {
 "number": 5177,
 "author": "bruhhhwarrior",
@@ -8819,7 +8830,7 @@
 },
 "4404": {
 "number": 4404,
-"author": "dasalex0",
+"author": "dxsalex",
 "title": "`FurnitureInteractEvent` event is no longer being sent",
 "state": "closed",
 "comments": 1,
