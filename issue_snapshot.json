@@ -1,4 +1,15 @@
 {
+"5179": {
+"number": 5179,
+"author": "bobhenl",
+"title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-01-30T18:13:54Z"
+},
 "5178": {
 "number": 5178,
 "author": "Alugor",
@@ -428,7 +439,7 @@
 },
 "5139": {
 "number": 5139,
-"author": "Rdxry01",
+"author": "Sahur01-arch",
 "title": "Help...",
 "state": "open",
 "comments": 1,
