@@ -1,14 +1,25 @@
 {
+"5180": {
+"number": 5180,
+"author": "UnderLink666",
+"title": "New ia item action : mythicmob skills",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-01T11:09:57Z"
+},
 "5179": {
 "number": 5179,
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-30T18:13:54Z"
+"updated_at": "2026-01-31T20:17:15Z"
 },
 "5178": {
 "number": 5178,
