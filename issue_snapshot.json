@@ -1,4 +1,15 @@
 {
+"5181": {
+"number": 5181,
+"author": "siberanka",
+"title": "Items that normally cannot be broken can be broken with multiple_break.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-01T13:53:42Z"
+},
 "5180": {
 "number": 5180,
 "author": "UnderLink666",
@@ -50,9 +61,10 @@
 "state": "open",
 "comments": 1,
 "labels": [
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-01-24T15:33:40Z"
+"updated_at": "2026-02-02T10:55:24Z"
 },
 "5175": {
 "number": 5175,
@@ -169,11 +181,11 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-27T15:21:41Z"
+"updated_at": "2026-02-02T11:01:31Z"
 },
 "5164": {
 "number": 5164,
