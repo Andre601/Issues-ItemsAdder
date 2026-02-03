@@ -1,14 +1,36 @@
 {
-"5181": {
-"number": 5181,
-"author": "siberanka",
-"title": "Items that normally cannot be broken can be broken with multiple_break.",
+"5183": {
+"number": 5183,
+"author": "piterx4",
+"title": "[10:51:27 WARN]: java.lang.EnumConstantNotPresentException",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-01T13:53:42Z"
+"updated_at": "2026-02-03T10:17:52Z"
+},
+"5182": {
+"number": 5182,
+"author": "Zibsa03",
+"title": "[ itemsadder ] Skipping 1.21.4+ compatibility file creation.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-03T07:30:21Z"
+},
+"5181": {
+"number": 5181,
+"author": "siberanka",
+"title": "Items that normally cannot be broken can be broken with multiple_break.",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-02T12:51:31Z"
 },
 "5180": {
 "number": 5180,
