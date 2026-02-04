@@ -1,14 +1,25 @@
 {
-"5183": {
-"number": 5183,
-"author": "piterx4",
-"title": "[10:51:27 WARN]: java.lang.EnumConstantNotPresentException",
+"5184": {
+"number": 5184,
+"author": "Marcoral",
+"title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-03T10:17:52Z"
+"updated_at": "2026-02-03T20:46:54Z"
+},
+"5183": {
+"number": 5183,
+"author": "piterx4",
+"title": "[10:51:27 WARN]: java.lang.EnumConstantNotPresentException",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-03T12:29:41Z"
 },
 "5182": {
 "number": 5182,
@@ -86,7 +97,7 @@
 "impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-02-02T10:55:24Z"
+"updated_at": "2026-02-04T10:29:04Z"
 },
 "5175": {
 "number": 5175,
@@ -207,7 +218,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-02T11:01:31Z"
+"updated_at": "2026-02-04T10:28:51Z"
 },
 "5164": {
 "number": 5164,
@@ -326,9 +337,9 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2025-12-22T02:19:48Z"
+"updated_at": "2026-02-04T09:41:47Z"
 },
 "5153": {
 "number": 5153,
@@ -414,7 +425,7 @@
 "state": "open",
 "comments": 0,
 "labels": [],
-"updated_at": "2025-12-03T16:59:48Z"
+"updated_at": "2026-02-04T10:29:04Z"
 },
 "5145": {
 "number": 5145,
@@ -434,9 +445,9 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-12-02T23:20:02Z"
+"updated_at": "2026-02-04T09:41:17Z"
 },
 "5143": {
 "number": 5143,
@@ -445,9 +456,9 @@
 "state": "closed",
 "comments": 4,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2025-12-04T12:54:12Z"
+"updated_at": "2026-02-04T09:41:36Z"
 },
 "5142": {
 "number": 5142,
@@ -518,7 +529,7 @@
 "type: clientside bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2025-11-27T12:27:19Z"
+"updated_at": "2026-02-04T09:40:54Z"
 },
 "5136": {
 "number": 5136,
@@ -529,7 +540,7 @@
 "labels": [
 "type: duplicate"
 ],
-"updated_at": "2025-11-27T12:29:21Z"
+"updated_at": "2026-02-04T09:40:58Z"
 },
 "5135": {
 "number": 5135,
@@ -680,9 +691,10 @@
 "state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"type: other plugin bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-20T14:37:37Z"
+"updated_at": "2026-02-04T09:40:43Z"
 },
 "5121": {
 "number": 5121,
@@ -828,9 +840,11 @@
 "comments": 4,
 "labels": [
 "env: paper",
-"type: bug"
+"status: inactive",
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-14T16:18:13Z"
+"updated_at": "2026-02-04T09:39:45Z"
 },
 "5108": {
 "number": 5108,
@@ -839,10 +853,9 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-11-10T23:21:31Z"
+"updated_at": "2026-02-04T09:39:08Z"
 },
 "5107": {
 "number": 5107,
@@ -887,10 +900,9 @@
 "state": "closed",
 "comments": 0,
 "labels": [
-"type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-11-08T18:33:21Z"
+"updated_at": "2026-02-04T09:39:01Z"
 },
 "5103": {
 "number": 5103,
@@ -901,7 +913,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T09:47:13Z"
+"updated_at": "2026-02-04T10:29:03Z"
 },
 "5102": {
 "number": 5102,
@@ -910,9 +922,9 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2025-11-06T10:37:02Z"
+"updated_at": "2026-02-04T09:38:49Z"
 },
 "5101": {
 "number": 5101,
@@ -1212,7 +1224,7 @@
 "type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-10-17T10:04:48Z"
+"updated_at": "2026-02-04T09:38:25Z"
 },
 "5075": {
 "number": 5075,
@@ -1258,7 +1270,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:12:02Z"
+"updated_at": "2026-02-04T10:29:03Z"
 },
 "5070": {
 "number": 5070,
@@ -1282,7 +1294,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:15:09Z"
+"updated_at": "2026-02-04T10:29:02Z"
 },
 "5068": {
 "number": 5068,
@@ -1314,10 +1326,9 @@
 "state": "closed",
 "comments": 3,
 "labels": [
-"type: bug",
 "verdict: invalid"
 ],
-"updated_at": "2025-10-16T00:35:31Z"
+"updated_at": "2026-02-04T09:37:51Z"
 },
 "5065": {
 "number": 5065,
@@ -1349,9 +1360,10 @@
 "comments": 3,
 "labels": [
 "env: paper",
-"type: bug"
+"outdated: server",
+"verdict: invalid"
 ],
-"updated_at": "2025-10-10T19:13:39Z"
+"updated_at": "2026-02-04T09:37:41Z"
 },
 "5062": {
 "number": 5062,
@@ -1399,7 +1411,7 @@
 "scope: api",
 "type: feature request"
 ],
-"updated_at": "2025-11-07T17:20:48Z"
+"updated_at": "2026-02-04T10:29:02Z"
 },
 "5058": {
 "number": 5058,
@@ -1554,7 +1566,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:44Z"
+"updated_at": "2026-02-04T10:29:01Z"
 },
 "5045": {
 "number": 5045,
@@ -1565,7 +1577,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:17:58Z"
+"updated_at": "2026-02-04T09:37:23Z"
 },
 "5044": {
 "number": 5044,
@@ -1576,7 +1588,7 @@
 "labels": [
 "verdict: invalid"
 ],
-"updated_at": "2025-11-14T13:49:47Z"
+"updated_at": "2026-02-04T09:39:23Z"
 },
 "5043": {
 "number": 5043,
@@ -1611,7 +1623,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:50:11Z"
+"updated_at": "2026-02-04T10:29:00Z"
 },
 "5040": {
 "number": 5040,
@@ -1631,9 +1643,10 @@
 "state": "closed",
 "comments": 3,
 "labels": [
-"type: bug"
+"status: inactive",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-05T00:53:32Z"
+"updated_at": "2026-02-04T09:38:38Z"
 },
 "5038": {
 "number": 5038,
@@ -1645,7 +1658,7 @@
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2026-01-24T03:43:54Z"
+"updated_at": "2026-02-04T10:29:00Z"
 },
 "5037": {
 "number": 5037,
@@ -1680,7 +1693,7 @@
 "scope: api",
 "type: bug"
 ],
-"updated_at": "2025-11-14T13:51:37Z"
+"updated_at": "2026-02-04T10:28:59Z"
 },
 "5034": {
 "number": 5034,
@@ -1689,9 +1702,10 @@
 "state": "closed",
 "comments": 3,
 "labels": [
-"type: bug"
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2025-09-30T14:08:12Z"
+"updated_at": "2026-02-04T09:37:07Z"
 },
 "5033": {
 "number": 5033,
@@ -1702,7 +1716,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T15:24:34Z"
+"updated_at": "2026-02-04T10:28:58Z"
 },
 "5032": {
 "number": 5032,
@@ -1802,7 +1816,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:43Z"
+"updated_at": "2026-02-04T10:03:06Z"
 },
 "5023": {
 "number": 5023,
@@ -1813,7 +1827,7 @@
 "labels": [
 "type: enhancement"
 ],
-"updated_at": "2025-11-04T14:31:07Z"
+"updated_at": "2026-02-04T10:03:06Z"
 },
 "5022": {
 "number": 5022,
@@ -2035,7 +2049,7 @@
 "type: bug",
 "type: enhancement"
 ],
-"updated_at": "2025-11-07T17:22:43Z"
+"updated_at": "2026-02-04T10:28:57Z"
 },
 "5003": {
 "number": 5003,
@@ -2132,7 +2146,7 @@
 "verdict: invalid",
 "verdict: misconfigured"
 ],
-"updated_at": "2025-10-16T11:43:47Z"
+"updated_at": "2026-02-04T09:38:15Z"
 },
 "4995": {
 "number": 4995,
@@ -2155,7 +2169,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:35Z"
+"updated_at": "2026-02-04T10:03:05Z"
 },
 "4993": {
 "number": 4993,
@@ -2389,7 +2403,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:54Z"
+"updated_at": "2026-02-04T10:03:05Z"
 },
 "4973": {
 "number": 4973,
@@ -2400,7 +2414,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:35Z"
+"updated_at": "2026-02-04T10:03:04Z"
 },
 "4972": {
 "number": 4972,
@@ -2453,7 +2467,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:11:42Z"
+"updated_at": "2026-02-04T10:03:03Z"
 },
 "4968": {
 "number": 4968,
@@ -2536,7 +2550,7 @@
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:43Z"
+"updated_at": "2026-02-04T10:29:03Z"
 },
 "4961": {
 "number": 4961,
@@ -2572,7 +2586,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:34Z"
+"updated_at": "2026-02-04T10:03:03Z"
 },
 "4958": {
 "number": 4958,
@@ -2617,7 +2631,7 @@
 "type: feature request",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2025-11-05T18:46:48Z"
+"updated_at": "2026-02-04T10:03:02Z"
 },
 "4954": {
 "number": 4954,
@@ -2843,7 +2857,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T16:16:39Z"
+"updated_at": "2026-02-04T10:29:03Z"
 },
 "4935": {
 "number": 4935,
@@ -2854,7 +2868,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:47Z"
+"updated_at": "2026-02-04T10:03:02Z"
 },
 "4934": {
 "number": 4934,
@@ -3050,7 +3064,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:54Z"
+"updated_at": "2026-02-04T10:03:01Z"
 },
 "4916": {
 "number": 4916,
@@ -3564,7 +3578,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:11:57Z"
+"updated_at": "2026-02-04T10:03:01Z"
 },
 "4872": {
 "number": 4872,
@@ -3701,7 +3715,7 @@
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:41Z"
+"updated_at": "2026-02-04T10:29:02Z"
 },
 "4860": {
 "number": 4860,
@@ -3996,7 +4010,7 @@
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2025-11-04T14:31:09Z"
+"updated_at": "2026-02-04T10:03:00Z"
 },
 "4835": {
 "number": 4835,
@@ -4007,7 +4021,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:47Z"
+"updated_at": "2026-02-04T10:02:59Z"
 },
 "4834": {
 "number": 4834,
@@ -4136,7 +4150,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:32Z"
+"updated_at": "2026-02-04T10:02:59Z"
 },
 "4823": {
 "number": 4823,
@@ -4192,7 +4206,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:11:19Z"
+"updated_at": "2026-02-04T10:02:58Z"
 },
 "4818": {
 "number": 4818,
@@ -4203,7 +4217,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:11:25Z"
+"updated_at": "2026-02-04T10:02:58Z"
 },
 "4817": {
 "number": 4817,
@@ -4300,7 +4314,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:40Z"
+"updated_at": "2026-02-04T10:29:02Z"
 },
 "4809": {
 "number": 4809,
@@ -4432,7 +4446,7 @@
 "labels": [
 "type: enhancement"
 ],
-"updated_at": "2025-09-11T15:12:14Z"
+"updated_at": "2026-02-04T10:02:57Z"
 },
 "4797": {
 "number": 4797,
@@ -4572,7 +4586,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:39Z"
+"updated_at": "2026-02-04T10:29:01Z"
 },
 "4785": {
 "number": 4785,
@@ -4708,7 +4722,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:46Z"
+"updated_at": "2026-02-04T10:02:57Z"
 },
 "4773": {
 "number": 4773,
@@ -4963,7 +4977,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:46Z"
+"updated_at": "2026-02-04T10:02:56Z"
 },
 "4750": {
 "number": 4750,
@@ -5043,7 +5057,7 @@
 "compat: plugin",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:46Z"
+"updated_at": "2026-02-04T10:02:56Z"
 },
 "4742": {
 "number": 4742,
@@ -5261,7 +5275,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:12:20Z"
+"updated_at": "2026-02-04T10:02:55Z"
 },
 "4723": {
 "number": 4723,
@@ -5284,7 +5298,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:45Z"
+"updated_at": "2026-02-04T10:02:54Z"
 },
 "4721": {
 "number": 4721,
@@ -5365,7 +5379,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:37Z"
+"updated_at": "2026-02-04T10:29:00Z"
 },
 "4714": {
 "number": 4714,
@@ -5486,7 +5500,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:24Z"
+"updated_at": "2026-02-04T10:02:54Z"
 },
 "4703": {
 "number": 4703,
@@ -5570,7 +5584,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:36Z"
+"updated_at": "2026-02-04T10:29:00Z"
 },
 "4694": {
 "number": 4694,
@@ -5652,7 +5666,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:23Z"
+"updated_at": "2026-02-04T10:02:53Z"
 },
 "4685": {
 "number": 4685,
@@ -5811,7 +5825,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:23Z"
+"updated_at": "2026-02-04T10:02:53Z"
 },
 "4672": {
 "number": 4672,
@@ -6009,7 +6023,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:45Z"
+"updated_at": "2026-02-04T10:02:52Z"
 },
 "4655": {
 "number": 4655,
@@ -6118,7 +6132,7 @@
 "compat: new minecraft update",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:22Z"
+"updated_at": "2026-02-04T10:02:52Z"
 },
 "4646": {
 "number": 4646,
@@ -6452,7 +6466,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:44Z"
+"updated_at": "2026-02-04T10:02:51Z"
 },
 "4615": {
 "number": 4615,
@@ -6752,7 +6766,7 @@
 "status: inactive",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:22Z"
+"updated_at": "2026-02-04T10:02:50Z"
 },
 "4588": {
 "number": 4588,
@@ -7041,7 +7055,7 @@
 "scope: api",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:44Z"
+"updated_at": "2026-02-04T10:02:50Z"
 },
 "4563": {
 "number": 4563,
@@ -7102,7 +7116,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-14T16:03:04Z"
+"updated_at": "2026-02-04T10:02:49Z"
 },
 "4558": {
 "number": 4558,
@@ -7339,7 +7353,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:12:28Z"
+"updated_at": "2026-02-04T10:02:49Z"
 },
 "4538": {
 "number": 4538,
@@ -7433,7 +7447,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:43Z"
+"updated_at": "2026-02-04T10:02:48Z"
 },
 "4530": {
 "number": 4530,
@@ -7564,7 +7578,7 @@
 "scope: api",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:43Z"
+"updated_at": "2026-02-04T10:02:48Z"
 },
 "4519": {
 "number": 4519,
@@ -9297,7 +9311,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:43Z"
+"updated_at": "2026-02-04T10:02:47Z"
 },
 "4369": {
 "number": 4369,
@@ -10194,7 +10208,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:42Z"
+"updated_at": "2026-02-04T10:02:46Z"
 },
 "4294": {
 "number": 4294,
@@ -10360,7 +10374,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:21Z"
+"updated_at": "2026-02-04T10:02:46Z"
 },
 "4280": {
 "number": 4280,
@@ -12507,7 +12521,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:42Z"
+"updated_at": "2026-02-04T10:02:45Z"
 },
 "4086": {
 "number": 4086,
@@ -13271,7 +13285,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-17T10:30:54Z"
+"updated_at": "2026-02-04T10:02:44Z"
 },
 "4018": {
 "number": 4018,
@@ -17957,7 +17971,7 @@
 "type: feature request",
 "type: performance"
 ],
-"updated_at": "2025-11-05T18:46:15Z"
+"updated_at": "2026-02-04T10:02:42Z"
 },
 "3618": {
 "number": 3618,
@@ -18055,7 +18069,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:36Z"
+"updated_at": "2026-02-04T10:28:59Z"
 },
 "3609": {
 "number": 3609,
@@ -18273,7 +18287,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:35Z"
+"updated_at": "2026-02-04T10:28:54Z"
 },
 "3591": {
 "number": 3591,
@@ -18453,7 +18467,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-05T18:46:20Z"
+"updated_at": "2026-02-04T10:02:41Z"
 },
 "3574": {
 "number": 3574,
@@ -19338,7 +19352,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-05T18:46:13Z"
+"updated_at": "2026-02-04T10:02:41Z"
 },
 "3500": {
 "number": 3500,
@@ -20003,7 +20017,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:34Z"
+"updated_at": "2026-02-04T10:28:59Z"
 },
 "3445": {
 "number": 3445,
@@ -23096,7 +23110,7 @@
 "env: purpur",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:34Z"
+"updated_at": "2026-02-04T10:28:58Z"
 },
 "3187": {
 "number": 3187,
@@ -25340,7 +25354,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:18Z"
+"updated_at": "2026-02-04T10:02:40Z"
 },
 "2990": {
 "number": 2990,
@@ -26870,7 +26884,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T15:46:47Z"
+"updated_at": "2026-02-04T10:02:40Z"
 },
 "2860": {
 "number": 2860,
@@ -30500,7 +30514,7 @@
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-14T15:41:41Z"
+"updated_at": "2026-02-04T10:28:58Z"
 },
 "2555": {
 "number": 2555,
@@ -30563,7 +30577,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:39Z"
+"updated_at": "2026-02-04T10:02:39Z"
 },
 "2550": {
 "number": 2550,
@@ -30730,7 +30744,7 @@
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:33Z"
+"updated_at": "2026-02-04T10:28:57Z"
 },
 "2536": {
 "number": 2536,
@@ -38527,7 +38541,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-09-11T15:13:04Z"
+"updated_at": "2026-02-04T10:02:38Z"
 },
 "1869": {
 "number": 1869,
@@ -39704,7 +39718,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:16Z"
+"updated_at": "2026-02-04T10:02:38Z"
 },
 "1763": {
 "number": 1763,
@@ -39716,7 +39730,7 @@
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:33Z"
+"updated_at": "2026-02-04T10:28:56Z"
 },
 "1762": {
 "number": 1762,
@@ -40828,7 +40842,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:17Z"
+"updated_at": "2026-02-04T10:02:37Z"
 },
 "1668": {
 "number": 1668,
@@ -41475,7 +41489,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-14T13:34:46Z"
+"updated_at": "2026-02-04T10:02:36Z"
 },
 "1611": {
 "number": 1611,
@@ -42304,7 +42318,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-14T15:42:29Z"
+"updated_at": "2026-02-04T10:28:56Z"
 },
 "1541": {
 "number": 1541,
@@ -45467,7 +45481,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-05T18:46:53Z"
+"updated_at": "2026-02-04T10:02:36Z"
 },
 "1279": {
 "number": 1279,
@@ -45886,7 +45900,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-14T16:04:10Z"
+"updated_at": "2026-02-04T10:28:57Z"
 },
 "1244": {
 "number": 1244,
