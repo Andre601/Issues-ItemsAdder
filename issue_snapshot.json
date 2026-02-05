@@ -1,4 +1,26 @@
 {
+"5186": {
+"number": 5186,
+"author": "itwxb",
+"title": "Can't find file ModelEngine The plugin cannot be used\uff1aPlugin ItemsAdder v4.0.15 generated an exception while executing task 980",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-04T17:08:14Z"
+},
+"5185": {
+"number": 5185,
+"author": "bobhenl",
+"title": "ia_overlay_1_20_5_plus mentioned in pack.mcmeta even when it's not included in the pack generated folder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-04T15:27:27Z"
+},
 "5184": {
 "number": 5184,
 "author": "Marcoral",
@@ -59,11 +81,11 @@
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
 "state": "open",
-"comments": 2,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-31T20:17:15Z"
+"updated_at": "2026-02-04T17:38:22Z"
 },
 "5178": {
 "number": 5178,
@@ -192,11 +214,12 @@
 "author": "Ultim4t",
 "title": "ItemsAdder Purpur RIP",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2025-12-27T14:14:07Z"
+"updated_at": "2026-02-04T13:29:02Z"
 },
 "5166": {
 "number": 5166,
@@ -207,7 +230,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-22T23:50:53Z"
+"updated_at": "2026-02-04T13:25:07Z"
 },
 "5165": {
 "number": 5165,
@@ -251,7 +274,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-25T12:39:51Z"
+"updated_at": "2026-02-04T13:24:29Z"
 },
 "5161": {
 "number": 5161,
