@@ -1,4 +1,15 @@
 {
+"5187": {
+"number": 5187,
+"author": "bruhhhwarrior",
+"title": "[Beta] Custom entities textures not working",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-05T14:54:56Z"
+},
 "5186": {
 "number": 5186,
 "author": "itwxb",
@@ -48,11 +59,11 @@
 "author": "Zibsa03",
 "title": "[ itemsadder ] Skipping 1.21.4+ compatibility file creation.",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-03T07:30:21Z"
+"updated_at": "2026-02-06T09:42:24Z"
 },
 "5181": {
 "number": 5181,
@@ -81,11 +92,11 @@
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
 "state": "open",
-"comments": 4,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-04T17:38:22Z"
+"updated_at": "2026-02-05T15:51:48Z"
 },
 "5178": {
 "number": 5178,
