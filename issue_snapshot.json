@@ -1,4 +1,26 @@
 {
+"5189": {
+"number": 5189,
+"author": "PuppyTransGirl",
+"title": "Gun behaviour doesn't allow Minecraft items as Ammo",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-07T11:10:02Z"
+},
+"5188": {
+"number": 5188,
+"author": "DeathRyder35",
+"title": "Itemsadder 4.0.15 paper server 1.21.10",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-06T19:21:47Z"
+},
 "5187": {
 "number": 5187,
 "author": "bruhhhwarrior",
@@ -42,17 +64,6 @@
 "type: bug"
 ],
 "updated_at": "2026-02-03T20:46:54Z"
-},
-"5183": {
-"number": 5183,
-"author": "piterx4",
-"title": "[10:51:27 WARN]: java.lang.EnumConstantNotPresentException",
-"state": "open",
-"comments": 1,
-"labels": [
-"type: bug"
-],
-"updated_at": "2026-02-03T12:29:41Z"
 },
 "5182": {
 "number": 5182,
@@ -103,11 +114,11 @@
 "author": "Alugor",
 "title": "Add command to clean orphaned/unknown block entries from pregion database",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-01-29T19:44:53Z"
+"updated_at": "2026-02-06T18:08:44Z"
 },
 "5177": {
 "number": 5177,
@@ -118,7 +129,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-24T15:43:30Z"
+"updated_at": "2026-02-06T15:56:52Z"
 },
 "5176": {
 "number": 5176,
@@ -137,11 +148,14 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
-"type: bug"
+"compat: plugin",
+"type: bug",
+"verdict: can't reproduce",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-01-23T20:57:34Z"
+"updated_at": "2026-02-06T14:54:18Z"
 },
 "5174": {
 "number": 5174,
@@ -170,22 +184,22 @@
 "author": "aldigunawan-dev",
 "title": "NMS problem with 1.21.10",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-11T23:45:29Z"
+"updated_at": "2026-02-07T03:14:49Z"
 },
 "5171": {
 "number": 5171,
 "author": "PuppyTransGirl",
 "title": "Make a button to give all items from a category from the `/ia` menu",
 "state": "open",
-"comments": 1,
+"comments": 4,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-01-08T12:35:34Z"
+"updated_at": "2026-02-06T22:27:33Z"
 },
 "5170": {
 "number": 5170,
@@ -424,11 +438,12 @@
 "author": "crotcly",
 "title": "invisible player models",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-01-16T09:23:41Z"
+"updated_at": "2026-02-06T14:52:42Z"
 },
 "5148": {
 "number": 5148,
@@ -445,12 +460,12 @@
 "number": 5147,
 "author": "Maftyss",
 "title": "I CANNOT SEE ANY FONT ICONS/EMOJIS/IMAGES",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-12-04T17:40:14Z"
+"updated_at": "2026-02-06T14:45:21Z"
 },
 "5146": {
 "number": 5146,
@@ -468,9 +483,10 @@
 "state": "open",
 "comments": 0,
 "labels": [
+"outdated: server",
 "type: bug"
 ],
-"updated_at": "2025-12-03T14:24:01Z"
+"updated_at": "2026-02-06T14:45:51Z"
 },
 "5144": {
 "number": 5144,
@@ -531,23 +547,23 @@
 "number": 5139,
 "author": "Sahur01-arch",
 "title": "Help...",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2025-11-29T14:32:08Z"
+"updated_at": "2026-02-06T14:44:14Z"
 },
 "5138": {
 "number": 5138,
 "author": "BattleBornPMC",
 "title": "Recourse Pack links from Dropbox, Google drive and similair websites do not work anymore.",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-29T16:19:39Z"
+"updated_at": "2026-02-06T14:47:30Z"
 },
 "5137": {
 "number": 5137,
@@ -602,13 +618,15 @@
 "number": 5133,
 "author": "JoshuaPHYT",
 "title": "Items adder is not working in some launchers on mobile",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
+"compat: client mod",
 "env: unofficial spigot fork",
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-26T21:45:32Z"
+"updated_at": "2026-02-06T14:40:11Z"
 },
 "5132": {
 "number": 5132,
@@ -661,7 +679,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-22T11:54:02Z"
+"updated_at": "2026-02-06T14:43:50Z"
 },
 "5127": {
 "number": 5127,
@@ -712,11 +730,11 @@
 "author": "PuppyTransGirl",
 "title": "Remove old config fields not used anymore",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-20T09:34:12Z"
+"updated_at": "2026-02-06T22:23:51Z"
 },
 "5122": {
 "number": 5122,
@@ -784,29 +802,29 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-18T11:29:32Z"
+"updated_at": "2026-02-06T14:37:48Z"
 },
 "5116": {
 "number": 5116,
 "author": "bruhhhwarrior",
 "title": "REAL_NOTE doesnt remove on explosion",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-16T04:24:13Z"
+"updated_at": "2026-02-06T16:15:04Z"
 },
 "5115": {
 "number": 5115,
 "author": "bruhhhwarrior",
 "title": "interact actions dont get executed when block is primed",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-16T19:09:56Z"
+"updated_at": "2026-02-06T14:36:15Z"
 },
 "5114": {
 "number": 5114,
@@ -823,13 +841,13 @@
 "number": 5113,
 "author": "ghost",
 "title": "ItemsAdder (ver.4.0.9-4.0.15) no work in 1.21",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug",
-"verdict: working as intended"
+"outdated: server",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-16T00:24:45Z"
+"updated_at": "2026-02-06T14:35:04Z"
 },
 "5112": {
 "number": 5112,
@@ -840,7 +858,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T18:36:35Z"
+"updated_at": "2026-02-06T14:41:56Z"
 },
 "5111": {
 "number": 5111,
@@ -964,12 +982,15 @@
 "number": 5101,
 "author": "Litning11",
 "title": "Resource Pack Turns Blue",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"impact: graphical issue",
+"status: inactive",
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2025-11-16T16:19:45Z"
+"updated_at": "2026-02-06T14:37:28Z"
 },
 "5100": {
 "number": 5100,
@@ -1053,12 +1074,13 @@
 "number": 5093,
 "author": "jasulkowski",
 "title": "Cant enable resourcepack for MAC OS",
-"state": "open",
+"state": "closed",
 "comments": 3,
 "labels": [
-"type: bug"
+"type: other plugin bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-12-06T00:47:39Z"
+"updated_at": "2026-02-06T14:48:00Z"
 },
 "5092": {
 "number": 5092,
@@ -1334,13 +1356,12 @@
 "number": 5068,
 "author": "Yassounou",
 "title": "Block loosing thier textures",
-"state": "open",
-"comments": 12,
+"state": "closed",
+"comments": 13,
 "labels": [
-"type: bug",
-"verdict: can't reproduce"
+"type: duplicate"
 ],
-"updated_at": "2025-11-14T14:07:49Z"
+"updated_at": "2026-02-06T14:43:08Z"
 },
 "5067": {
 "number": 5067,
@@ -1490,7 +1511,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-27T03:51:02Z"
+"updated_at": "2026-02-06T14:41:18Z"
 },
 "5054": {
 "number": 5054,
@@ -8805,12 +8826,12 @@
 "author": "dafsdfasde",
 "title": "The issue where sitting on furniture cannot be canceled.",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "scope: api",
 "type: bug"
 ],
-"updated_at": "2026-01-02T17:56:17Z"
+"updated_at": "2026-02-06T12:50:49Z"
 },
 "4414": {
 "number": 4414,
