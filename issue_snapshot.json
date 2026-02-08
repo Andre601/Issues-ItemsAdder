@@ -1,4 +1,37 @@
 {
+"5192": {
+"number": 5192,
+"author": "Tramskovi",
+"title": "Libreforge send_title effect doesn't work with itemsadder installed",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-07T22:45:30Z"
+},
+"5191": {
+"number": 5191,
+"author": "vitya0717",
+"title": "1.21.11 compatible issue",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-07T20:57:05Z"
+},
+"5190": {
+"number": 5190,
+"author": "bruhhhwarrior",
+"title": "Smithing recipes do not work anymore",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-07T19:38:04Z"
+},
 "5189": {
 "number": 5189,
 "author": "PuppyTransGirl",
@@ -15,11 +48,11 @@
 "author": "DeathRyder35",
 "title": "Itemsadder 4.0.15 paper server 1.21.10",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-06T19:21:47Z"
+"updated_at": "2026-02-07T21:07:24Z"
 },
 "5187": {
 "number": 5187,
@@ -148,14 +181,14 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 6,
+"comments": 10,
 "labels": [
 "compat: plugin",
 "type: bug",
 "verdict: can't reproduce",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-02-06T14:54:18Z"
+"updated_at": "2026-02-07T23:35:10Z"
 },
 "5174": {
 "number": 5174,
