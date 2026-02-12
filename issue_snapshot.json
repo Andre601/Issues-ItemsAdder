@@ -1,4 +1,15 @@
 {
+"5194": {
+"number": 5194,
+"author": "bobhenl",
+"title": "PackSquash support",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-11T16:44:08Z"
+},
 "5193": {
 "number": 5193,
 "author": "JrouleEnGolf5",
@@ -20811,7 +20822,7 @@
 },
 "3388": {
 "number": 3388,
-"author": "KajusLion",
+"author": "kajusauz",
 "title": "Characters being replaced by others when zipped",
 "state": "closed",
 "comments": 8,
