@@ -91,12 +91,12 @@
 "number": 5186,
 "author": "itwxb",
 "title": "Can't find file ModelEngine The plugin cannot be used\uff1aPlugin ItemsAdder v4.0.15 generated an exception while executing task 980",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-04T17:08:14Z"
+"updated_at": "2026-02-13T00:52:14Z"
 },
 "5185": {
 "number": 5185,
@@ -203,14 +203,14 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 10,
+"comments": 11,
 "labels": [
 "compat: plugin",
 "type: bug",
 "verdict: can't reproduce",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-02-07T23:35:10Z"
+"updated_at": "2026-02-13T08:23:03Z"
 },
 "5174": {
 "number": 5174,
@@ -238,12 +238,14 @@
 "number": 5172,
 "author": "aldigunawan-dev",
 "title": "NMS problem with 1.21.10",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce",
+"verdict: invalid"
 ],
-"updated_at": "2026-02-07T03:14:49Z"
+"updated_at": "2026-02-13T10:32:24Z"
 },
 "5171": {
 "number": 5171,
@@ -306,11 +308,11 @@
 "author": "ItzStanleex",
 "title": "Outdated shadowed Adventure API breaks other plugins on Paper 1.21.10",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-04T13:25:07Z"
+"updated_at": "2026-02-13T10:44:15Z"
 },
 "5165": {
 "number": 5165,
@@ -728,13 +730,13 @@
 "5128": {
 "number": 5128,
 "author": "fglitz1993-droid",
-"title": "Plugin ItemsAdder v4.0.15 generated an exception while executing task 20563",
+"title": "Cannot invoke \"String.endsWith(String)\" because the return value of \"itemsadder.m.aqx.mF()\" is null",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-06T14:43:50Z"
+"updated_at": "2026-02-13T10:38:53Z"
 },
 "5127": {
 "number": 5127,
@@ -42083,7 +42085,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-14T15:53:33Z"
+"updated_at": "2026-02-13T10:39:30Z"
 },
 "1571": {
 "number": 1571,
