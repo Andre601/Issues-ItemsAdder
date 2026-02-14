@@ -1,4 +1,16 @@
 {
+"5195": {
+"number": 5195,
+"author": "WarnDa",
+"title": "Model overlapping in GUI",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-13T17:36:34Z"
+},
 "5194": {
 "number": 5194,
 "author": "bobhenl",
