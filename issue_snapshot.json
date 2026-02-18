@@ -1,4 +1,49 @@
 {
+"5201": {
+"number": 5201,
+"author": "bruhhhwarrior",
+"title": "enchantment glint not visible in third person",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-18T01:42:51Z"
+},
+"5200": {
+"number": 5200,
+"author": "6mil1",
+"title": "Scrambling text",
+"state": "closed",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-18T01:55:39Z"
+},
+"5199": {
+"number": 5199,
+"author": "bruhhhwarrior",
+"title": "Item creation event",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-17T21:07:33Z"
+},
+"5198": {
+"number": 5198,
+"author": "Joao-Victor-Liporini",
+"title": "[Suggestion] Add an option to disable pack sending on reload",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-17T17:23:52Z"
+},
 "5197": {
 "number": 5197,
 "author": "bruhhhwarrior",
