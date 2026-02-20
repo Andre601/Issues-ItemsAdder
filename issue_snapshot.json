@@ -1,4 +1,102 @@
 {
+"5213": {
+"number": 5213,
+"author": "rudde0",
+"title": "1.21.8 server - 1.21.11 client resource pack loading failed",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-20T10:59:23Z"
+},
+"5212": {
+"number": 5212,
+"author": "LoneDev6",
+"title": "Crafting duplication bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-20T10:29:43Z"
+},
+"5211": {
+"number": 5211,
+"author": "LoneDev6",
+"title": "Implement `opposite_direction` for `complex_furniture`",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-20T09:45:44Z"
+},
+"5210": {
+"number": 5210,
+"author": "LoneDev6",
+"title": "Failed invoking download tasks for Minecraft assets version 1.21.8 `ConcurrentModificationException`",
+"state": "open",
+"comments": 0,
+"labels": [
+"impact: breaks loading",
+"type: bug"
+],
+"updated_at": "2026-02-20T09:25:07Z"
+},
+"5209": {
+"number": 5209,
+"author": "maniacupons-beep",
+"title": "Armor dont load with shaders (1.21.1)",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-20T11:25:18Z"
+},
+"5208": {
+"number": 5208,
+"author": "bruhhhwarrior",
+"title": "sit_all_solid_blocks does not work anymore",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-19T20:32:11Z"
+},
+"5207": {
+"number": 5207,
+"author": "konfix",
+"title": "Better pack obfuscation",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-19T17:43:57Z"
+},
+"5206": {
+"number": 5206,
+"author": "LoneDev6",
+"title": "Folia support",
+"state": "open",
+"comments": 0,
+"labels": [],
+"updated_at": "2026-02-19T17:21:12Z"
+},
+"5205": {
+"number": 5205,
+"author": "CCjun6",
+"title": "Some textures are not being applied correctly.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-19T13:32:47Z"
+},
 "5204": {
 "number": 5204,
 "author": "Produktecheck",
@@ -27,11 +125,11 @@
 "author": "iambibi",
 "title": "Tooltip on armor bugged",
 "state": "open",
-"comments": 0,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-18T13:46:19Z"
+"updated_at": "2026-02-19T13:47:51Z"
 },
 "5201": {
 "number": 5201,
@@ -107,12 +205,12 @@
 "author": "WarnDa",
 "title": "Model overlapping in GUI",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-13T17:36:34Z"
+"updated_at": "2026-02-19T13:19:49Z"
 },
 "5194": {
 "number": 5194,
@@ -274,12 +372,12 @@
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
 "state": "open",
-"comments": 7,
+"comments": 10,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-19T10:36:57Z"
+"updated_at": "2026-02-20T11:17:45Z"
 },
 "5178": {
 "number": 5178,
