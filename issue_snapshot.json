@@ -1,14 +1,36 @@
 {
-"5213": {
-"number": 5213,
-"author": "rudde0",
-"title": "1.21.8 server - 1.21.11 client resource pack loading failed",
+"5215": {
+"number": 5215,
+"author": "bruhhhwarrior",
+"title": "triggers dont seem to work for thirst bar",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-20T10:59:23Z"
+"updated_at": "2026-02-21T01:18:56Z"
+},
+"5214": {
+"number": 5214,
+"author": "HerozOfficial",
+"title": "Setting a mount position in the model with ItemsAdder plugin causes a crash and stops you from exporting",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-20T22:03:56Z"
+},
+"5213": {
+"number": 5213,
+"author": "rudde0",
+"title": "1.21.8 server - 1.21.11 client resource pack loading failed",
+"state": "open",
+"comments": 3,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-20T20:16:17Z"
 },
 "5212": {
 "number": 5212,
@@ -49,11 +71,11 @@
 "author": "maniacupons-beep",
 "title": "Armor dont load with shaders (1.21.1)",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-20T11:25:18Z"
+"updated_at": "2026-02-20T12:20:39Z"
 },
 "5208": {
 "number": 5208,
@@ -71,11 +93,11 @@
 "author": "konfix",
 "title": "Better pack obfuscation",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-19T17:43:57Z"
+"updated_at": "2026-02-20T15:51:26Z"
 },
 "5206": {
 "number": 5206,
@@ -91,11 +113,11 @@
 "author": "CCjun6",
 "title": "Some textures are not being applied correctly.",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-19T13:32:47Z"
+"updated_at": "2026-02-20T12:27:54Z"
 },
 "5204": {
 "number": 5204,
@@ -299,7 +321,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-14T21:14:51Z"
+"updated_at": "2026-02-20T15:14:05Z"
 },
 "5186": {
 "number": 5186,
@@ -372,12 +394,12 @@
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
 "state": "open",
-"comments": 10,
+"comments": 11,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-20T11:17:45Z"
+"updated_at": "2026-02-20T17:10:45Z"
 },
 "5178": {
 "number": 5178,
