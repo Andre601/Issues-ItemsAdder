@@ -3,23 +3,25 @@
 "number": 5215,
 "author": "bruhhhwarrior",
 "title": "triggers dont seem to work for thirst bar",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2026-02-21T01:18:56Z"
+"updated_at": "2026-02-21T13:23:48Z"
 },
 "5214": {
 "number": 5214,
 "author": "HerozOfficial",
 "title": "Setting a mount position in the model with ItemsAdder plugin causes a crash and stops you from exporting",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"env: blockbench",
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2026-02-20T22:03:56Z"
+"updated_at": "2026-02-21T13:26:37Z"
 },
 "5213": {
 "number": 5213,
@@ -249,12 +251,17 @@
 "number": 5193,
 "author": "JrouleEnGolf5",
 "title": "[Bug] Texture issue with noteblock and observer",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"impact: graphical issue",
+"scope: resourcepack",
+"type: bug",
+"type: clientside bug",
+"type: vanilla bug",
+"verdict: minecraft limitation"
 ],
-"updated_at": "2026-02-09T12:29:00Z"
+"updated_at": "2026-02-21T19:17:57Z"
 },
 "5192": {
 "number": 5192,
