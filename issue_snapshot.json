@@ -1,4 +1,26 @@
 {
+"5217": {
+"number": 5217,
+"author": "PuppyTransGirl",
+"title": "Merge ItemsAdder & ItemsAdderBlocksInjector",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-22T15:20:59Z"
+},
+"5216": {
+"number": 5216,
+"author": "JohnsenMC",
+"title": "Cant Acces the libary classes or failed downloaded libarys?",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-22T22:06:19Z"
+},
 "5215": {
 "number": 5215,
 "author": "bruhhhwarrior",
@@ -252,7 +274,7 @@
 "author": "JrouleEnGolf5",
 "title": "[Bug] Texture issue with noteblock and observer",
 "state": "closed",
-"comments": 3,
+"comments": 2,
 "labels": [
 "impact: graphical issue",
 "scope: resourcepack",
@@ -261,7 +283,7 @@
 "type: vanilla bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2026-02-21T19:17:57Z"
+"updated_at": "2026-02-22T14:17:54Z"
 },
 "5192": {
 "number": 5192,
