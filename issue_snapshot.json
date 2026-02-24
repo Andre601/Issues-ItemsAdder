@@ -1,4 +1,36 @@
 {
+"5220": {
+"number": 5220,
+"author": "FallPlayer26",
+"title": "Armor layer bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-23T22:16:32Z"
+},
+"5219": {
+"number": 5219,
+"author": "LoneDev6",
+"title": "[Beta] Shields, fishing rods and similar status models not loading textures on 1.21.11",
+"state": "open",
+"comments": 1,
+"labels": [],
+"updated_at": "2026-02-23T23:12:46Z"
+},
+"5218": {
+"number": 5218,
+"author": "PuppyTransGirl",
+"title": "[BETA] Add a warning when old betas expires",
+"state": "open",
+"comments": 1,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-23T23:06:40Z"
+},
 "5217": {
 "number": 5217,
 "author": "PuppyTransGirl",
@@ -110,7 +142,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-19T20:32:11Z"
+"updated_at": "2026-02-23T16:28:29Z"
 },
 "5207": {
 "number": 5207,
@@ -187,7 +219,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-18T01:42:51Z"
+"updated_at": "2026-02-23T16:27:50Z"
 },
 "5200": {
 "number": 5200,
@@ -249,14 +281,14 @@
 "5195": {
 "number": 5195,
 "author": "WarnDa",
-"title": "Model overlapping in GUI",
+"title": "[Beta] Model overlapping in GUI",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-19T13:19:49Z"
+"updated_at": "2026-02-23T21:38:03Z"
 },
 "5194": {
 "number": 5194,
@@ -316,7 +348,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-07T19:38:04Z"
+"updated_at": "2026-02-23T16:28:01Z"
 },
 "5189": {
 "number": 5189,
@@ -439,7 +471,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-06T18:08:44Z"
+"updated_at": "2026-02-23T19:38:25Z"
 },
 "5177": {
 "number": 5177,
@@ -533,7 +565,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-08T12:34:38Z"
+"updated_at": "2026-02-23T16:28:12Z"
 },
 "5169": {
 "number": 5169,
