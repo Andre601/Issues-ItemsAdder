@@ -1,14 +1,25 @@
 {
-"5220": {
-"number": 5220,
-"author": "FallPlayer26",
-"title": "Armor layer bug",
+"5221": {
+"number": 5221,
+"author": "souofrancisco",
+"title": "FurnitureBreakEvent prevents manual furniture removal when cancelled",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-23T22:16:32Z"
+"updated_at": "2026-02-24T19:27:30Z"
+},
+"5220": {
+"number": 5220,
+"author": "FallPlayer26",
+"title": "Armor layer bug",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-24T12:29:47Z"
 },
 "5219": {
 "number": 5219,
@@ -17,7 +28,7 @@
 "state": "open",
 "comments": 1,
 "labels": [],
-"updated_at": "2026-02-23T23:12:46Z"
+"updated_at": "2026-02-24T12:27:51Z"
 },
 "5218": {
 "number": 5218,
@@ -411,11 +422,11 @@
 "author": "Marcoral",
 "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-03T20:46:54Z"
+"updated_at": "2026-02-24T16:05:06Z"
 },
 "5182": {
 "number": 5182,
