@@ -1,4 +1,74 @@
 {
+"5227": {
+"number": 5227,
+"author": "bruhhhwarrior",
+"title": "implement placeable_on for complex-furniture",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-02-25T18:25:17Z"
+},
+"5226": {
+"number": 5226,
+"author": "bruhhhwarrior",
+"title": "complex-furniture solid: true doesnt work",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-25T18:22:22Z"
+},
+"5225": {
+"number": 5225,
+"author": "bruhhhwarrior",
+"title": "complex-furniture doesnt place correctly from certain angles on walls",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-25T19:51:49Z"
+},
+"5224": {
+"number": 5224,
+"author": "LoneDev6",
+"title": "`graphics` with no `parent` specified always fallback to `item/generated`",
+"state": "open",
+"comments": 0,
+"labels": [
+"impact: graphical issue",
+"type: bug"
+],
+"updated_at": "2026-02-25T15:15:46Z"
+},
+"5223": {
+"number": 5223,
+"author": "LoneDev6",
+"title": "Blocks populators/decorators memory leak on plugin reload",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug",
+"type: performance"
+],
+"updated_at": "2026-02-25T13:46:33Z"
+},
+"5222": {
+"number": 5222,
+"author": "LitcherHUN",
+"title": "Noteblock broken",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-25T13:41:41Z"
+},
 "5221": {
 "number": 5221,
 "author": "souofrancisco",
@@ -225,12 +295,12 @@
 "author": "bruhhhwarrior",
 "title": "enchantment glint not visible in third person",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-23T16:27:50Z"
+"updated_at": "2026-02-25T15:41:38Z"
 },
 "5200": {
 "number": 5200,
@@ -294,12 +364,12 @@
 "author": "WarnDa",
 "title": "[Beta] Model overlapping in GUI",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-23T21:38:03Z"
+"updated_at": "2026-02-25T17:09:27Z"
 },
 "5194": {
 "number": 5194,
@@ -1292,11 +1362,11 @@
 "author": "dan28000",
 "title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T11:57:26Z"
+"updated_at": "2026-02-25T14:42:58Z"
 },
 "5105": {
 "number": 5105,
@@ -5864,7 +5934,7 @@
 "scope: api",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:37Z"
+"updated_at": "2026-02-25T15:15:37Z"
 },
 "4709": {
 "number": 4709,
@@ -7410,7 +7480,7 @@
 },
 "4570": {
 "number": 4570,
-"author": "Aisthesis29",
+"author": "alessandroquerze",
 "title": "add option to disable break handler entirely",
 "state": "closed",
 "comments": 1,
@@ -37486,7 +37556,7 @@
 },
 "1999": {
 "number": 1999,
-"author": "CitizenPrayer",
+"author": "0xCyberFortress",
 "title": "Add Built In Geyser Support [Read, Don't Ignore]",
 "state": "closed",
 "comments": 2,
