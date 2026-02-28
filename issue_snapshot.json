@@ -1,4 +1,15 @@
 {
+"5229": {
+"number": 5229,
+"author": "LoneDev6",
+"title": "`complex_furniture` rotate a little bit on spawn",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-02-27T16:33:32Z"
+},
 "5228": {
 "number": 5228,
 "author": "IceeeLG",
@@ -25,25 +36,25 @@
 "number": 5226,
 "author": "bruhhhwarrior",
 "title": "complex-furniture solid: true doesnt work",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"env: BETA",
-"type: bug"
+"type: bug",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-02-27T09:48:25Z"
+"updated_at": "2026-02-27T16:31:55Z"
 },
 "5225": {
 "number": 5225,
 "author": "bruhhhwarrior",
 "title": "complex-furniture doesnt place correctly from certain angles on walls",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-27T09:48:19Z"
+"updated_at": "2026-02-27T16:33:44Z"
 },
 "5224": {
 "number": 5224,
@@ -309,9 +320,12 @@
 "comments": 1,
 "labels": [
 "env: BETA",
-"type: bug"
+"type: bug",
+"verdict: complex to implement",
+"verdict: minecraft limitation",
+"verdict: no solution"
 ],
-"updated_at": "2026-02-25T15:41:38Z"
+"updated_at": "2026-02-27T17:08:04Z"
 },
 "5200": {
 "number": 5200,
