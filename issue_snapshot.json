@@ -1,4 +1,28 @@
 {
+"5231": {
+"number": 5231,
+"author": "zloydada1dev-ctrl",
+"title": "The Trident exploit with the Loyalty enchantment",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-01T07:30:02Z"
+},
+"5230": {
+"number": 5230,
+"author": "Sam1qkk",
+"title": "NullPointerException when using spear attack (ServerboundPlayerActionPacket / PlayerDigType is null)",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-02-28T15:16:23Z"
+},
 "5229": {
 "number": 5229,
 "author": "LoneDev6",
