@@ -1,15 +1,59 @@
 {
+"5235": {
+"number": 5235,
+"author": "simon-rgb",
+"title": "Instantly dismount npc",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-02T10:40:31Z"
+},
+"5234": {
+"number": 5234,
+"author": "PapaFeuerElla",
+"title": "Feature request - add crafting possibility in recipe view",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-01T21:02:22Z"
+},
+"5233": {
+"number": 5233,
+"author": "Doonplex",
+"title": "Bows and Crossbows won't shoot",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-01T20:30:13Z"
+},
+"5232": {
+"number": 5232,
+"author": "hoanhthien-folder",
+"title": "1.20.6 Paperspigot IAEntity is crashing everything. Using the latest SpigotMC version of ItemsAdder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-01T16:54:17Z"
+},
 "5231": {
 "number": 5231,
 "author": "zloydada1dev-ctrl",
 "title": "The Trident exploit with the Loyalty enchantment",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-01T07:30:02Z"
+"updated_at": "2026-03-01T12:56:26Z"
 },
 "5230": {
 "number": 5230,
