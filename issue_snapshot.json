@@ -1,14 +1,72 @@
 {
-"5236": {
-"number": 5236,
-"author": "4ak4akEvrey",
-"title": "ModelEngine Resource Pack Eror",
+"5241": {
+"number": 5241,
+"author": "ArkMikey",
+"title": "Durability damage behaviour on custom projectiles or pierce effect for just shields",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-03T23:20:01Z"
+},
+"5240": {
+"number": 5240,
+"author": "Smokey263",
+"title": "Add 1.21.10/11 support for ScreenEffects addon",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-03T17:45:33Z"
+},
+"5239": {
+"number": 5239,
+"author": "KodiMiralW",
+"title": "Resource Pack Loading Error",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-03T19:08:12Z"
+},
+"5238": {
+"number": 5238,
+"author": "LoneDev6",
+"title": "`complex_furniture` implement `fixed_position` setting",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement",
+"type: feature request"
+],
+"updated_at": "2026-03-03T15:00:12Z"
+},
+"5237": {
+"number": 5237,
+"author": "LoneDev6",
+"title": "1.21.11 not loading textures",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-03T11:03:15Z"
+"updated_at": "2026-03-03T14:42:50Z"
+},
+"5236": {
+"number": 5236,
+"author": "4ak4akEvrey",
+"title": "ModelEngine Resource Pack Eror",
+"state": "closed",
+"comments": 0,
+"labels": [
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2026-03-03T12:18:47Z"
 },
 "5235": {
 "number": 5235,
@@ -83,11 +141,13 @@
 "author": "LoneDev6",
 "title": "`complex_furniture` rotate a little bit on spawn",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: no solution",
+"verdict: workaround implemented"
 ],
-"updated_at": "2026-02-27T16:33:32Z"
+"updated_at": "2026-03-03T15:32:40Z"
 },
 "5228": {
 "number": 5228,
@@ -468,12 +528,12 @@
 "author": "WarnDa",
 "title": "[Beta] Model overlapping in GUI",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-25T17:09:27Z"
+"updated_at": "2026-03-03T15:32:11Z"
 },
 "5194": {
 "number": 5194,
@@ -25649,7 +25709,7 @@
 },
 "3017": {
 "number": 3017,
-"author": "imh3ro",
+"author": "hiro105",
 "title": "Error on startup \"ia.m.G.a().a\" is null",
 "state": "closed",
 "comments": 1,
@@ -25733,7 +25793,7 @@
 },
 "3008": {
 "number": 3008,
-"author": "imh3ro",
+"author": "hiro105",
 "title": "java.lang.VerifyError: Bad type on operand stack - loots configuration NBT rule",
 "state": "closed",
 "comments": 8,
@@ -25860,7 +25920,7 @@
 },
 "2998": {
 "number": 2998,
-"author": "imh3ro",
+"author": "hiro105",
 "title": "Disabling ItemsAdder recipe system",
 "state": "closed",
 "comments": 5,
@@ -27424,7 +27484,7 @@
 },
 "2866": {
 "number": 2866,
-"author": "imh3ro",
+"author": "hiro105",
 "title": "ItemsAdder items in MythicMobs mechanics",
 "state": "closed",
 "comments": 9,
@@ -30185,7 +30245,7 @@
 },
 "2635": {
 "number": 2635,
-"author": "imh3ro",
+"author": "hiro105",
 "title": "Mob fails to load with a NullPointerException",
 "state": "closed",
 "comments": 3,
