@@ -1,4 +1,50 @@
 {
+"5245": {
+"number": 5245,
+"author": "Martinou2x",
+"title": "NETHERITE_SWORD no longer supported / Failed to generate vanilla model",
+"state": "open",
+"comments": 2,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-06T11:53:59Z"
+},
+"5244": {
+"number": 5244,
+"author": "LoneDev6",
+"title": "Tridents duplication bug",
+"state": "open",
+"comments": 0,
+"labels": [
+"impact: breaks gameplay (critical)",
+"type: bug"
+],
+"updated_at": "2026-03-05T15:54:22Z"
+},
+"5243": {
+"number": 5243,
+"author": "PuppyTransGirl",
+"title": "Add `item_model` option to the `replace_properties` action",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-04T18:47:56Z"
+},
+"5242": {
+"number": 5242,
+"author": "gary81013",
+"title": "The texture of item_frame is corrupted.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-04T18:29:11Z"
+},
 "5241": {
 "number": 5241,
 "author": "ArkMikey",
@@ -14,24 +60,25 @@
 "number": 5240,
 "author": "Smokey263",
 "title": "Add 1.21.10/11 support for ScreenEffects addon",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: feature request"
+"type: feature request",
+"verdict: invalid"
 ],
-"updated_at": "2026-03-03T17:45:33Z"
+"updated_at": "2026-03-04T12:21:34Z"
 },
 "5239": {
 "number": 5239,
 "author": "KodiMiralW",
 "title": "Resource Pack Loading Error",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-03T19:08:12Z"
+"updated_at": "2026-03-06T05:11:23Z"
 },
 "5238": {
 "number": 5238,
@@ -105,12 +152,14 @@
 "number": 5232,
 "author": "hoanhthien-folder",
 "title": "1.20.6 Paperspigot IAEntity is crashing everything. Using the latest SpigotMC version of ItemsAdder",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-03-01T16:54:17Z"
+"updated_at": "2026-03-05T15:06:37Z"
 },
 "5231": {
 "number": 5231,
@@ -528,12 +577,12 @@
 "author": "WarnDa",
 "title": "[Beta] Model overlapping in GUI",
 "state": "open",
-"comments": 4,
+"comments": 7,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-03T15:32:11Z"
+"updated_at": "2026-03-05T15:03:36Z"
 },
 "5194": {
 "number": 5194,
