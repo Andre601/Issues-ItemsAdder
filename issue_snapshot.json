@@ -1,4 +1,49 @@
 {
+"5249": {
+"number": 5249,
+"author": "daniel-skopek",
+"title": "Custom Enchantments don't apply on ItemsAdder's items",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-07T00:51:55Z"
+},
+"5248": {
+"number": 5248,
+"author": "VRXDev2",
+"title": "API - method for launching custom tridents",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-06T17:49:55Z"
+},
+"5247": {
+"number": 5247,
+"author": "Delllus",
+"title": "[CHAT BREAKING BUG] _iainternal folder allows people to spam unwanted GUIs in chats on public servers.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-07T06:59:04Z"
+},
+"5246": {
+"number": 5246,
+"author": "lizheyo77",
+"title": "Resourcepack generation fails: No vanilla model file for material NETHERITE_SPEAR",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-06T15:10:47Z"
+},
 "5245": {
 "number": 5245,
 "author": "Martinou2x",
@@ -39,11 +84,12 @@
 "author": "gary81013",
 "title": "The texture of item_frame is corrupted.",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
+"env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-04T18:29:11Z"
+"updated_at": "2026-03-06T13:59:23Z"
 },
 "5241": {
 "number": 5241,
@@ -73,12 +119,13 @@
 "author": "KodiMiralW",
 "title": "Resource Pack Loading Error",
 "state": "open",
-"comments": 2,
+"comments": 5,
 "labels": [
 "env: BETA",
-"type: bug"
+"type: bug",
+"verdict: minecraft limitation"
 ],
-"updated_at": "2026-03-06T05:11:23Z"
+"updated_at": "2026-03-07T03:14:11Z"
 },
 "5238": {
 "number": 5238,
