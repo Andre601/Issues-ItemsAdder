@@ -1,14 +1,25 @@
 {
+"5250": {
+"number": 5250,
+"author": "ReddoMC",
+"title": "java.lang.IllegalArgumentException: Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-07T23:45:37Z"
+},
 "5249": {
 "number": 5249,
 "author": "daniel-skopek",
 "title": "Custom Enchantments don't apply on ItemsAdder's items",
 "state": "open",
-"comments": 0,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-07T00:51:55Z"
+"updated_at": "2026-03-08T07:15:46Z"
 },
 "5248": {
 "number": 5248,
@@ -24,25 +35,25 @@
 "5247": {
 "number": 5247,
 "author": "Delllus",
-"title": "[CHAT BREAKING BUG] _iainternal folder allows people to spam unwanted GUIs in chats on public servers.",
+"title": "People can send GUIs in chat by using unicode associated with it.",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-07T06:59:04Z"
+"updated_at": "2026-03-07T23:43:48Z"
 },
 "5246": {
 "number": 5246,
 "author": "lizheyo77",
 "title": "Resourcepack generation fails: No vanilla model file for material NETHERITE_SPEAR",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-06T15:10:47Z"
+"updated_at": "2026-03-07T23:40:36Z"
 },
 "5245": {
 "number": 5245,
@@ -119,13 +130,13 @@
 "author": "KodiMiralW",
 "title": "Resource Pack Loading Error",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "env: BETA",
 "type: bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2026-03-07T03:14:11Z"
+"updated_at": "2026-03-07T19:52:32Z"
 },
 "5238": {
 "number": 5238,
@@ -842,14 +853,14 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 11,
+"comments": 12,
 "labels": [
 "compat: plugin",
 "type: bug",
 "verdict: can't reproduce",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-02-13T08:23:03Z"
+"updated_at": "2026-03-08T03:12:25Z"
 },
 "5174": {
 "number": 5174,
