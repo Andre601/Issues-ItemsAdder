@@ -15,11 +15,11 @@
 "author": "daniel-skopek",
 "title": "Custom Enchantments don't apply on ItemsAdder's items",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-08T07:15:46Z"
+"updated_at": "2026-03-08T22:54:53Z"
 },
 "5248": {
 "number": 5248,
