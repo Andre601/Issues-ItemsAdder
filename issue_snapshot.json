@@ -16,22 +16,22 @@
 "author": "ArkMikey",
 "title": "Plugin thinks there's a lowercase b in my crafting recipes, while there's not.",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-09T15:49:54Z"
+"updated_at": "2026-03-10T12:54:53Z"
 },
 "5250": {
 "number": 5250,
 "author": "ReddoMC",
 "title": "java.lang.IllegalArgumentException: Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-09T17:46:13Z"
+"updated_at": "2026-03-10T15:42:10Z"
 },
 "5249": {
 "number": 5249,
