@@ -1,4 +1,26 @@
 {
+"5254": {
+"number": 5254,
+"author": "awaplay",
+"title": "Failed loading \"CustomDrops\"",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-12T05:06:41Z"
+},
+"5253": {
+"number": 5253,
+"author": "Real6dq",
+"title": "Drop Support for 1.21.3",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-11T17:52:03Z"
+},
 "5252": {
 "number": 5252,
 "author": "patcotts",
@@ -153,13 +175,13 @@
 "author": "KodiMiralW",
 "title": "Resource Pack Loading Error",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "env: BETA",
 "type: bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2026-03-07T19:52:32Z"
+"updated_at": "2026-03-11T14:34:26Z"
 },
 "5238": {
 "number": 5238,
@@ -16596,7 +16618,7 @@
 },
 "3806": {
 "number": 3806,
-"author": "Istvan474",
+"author": "just-epic",
 "title": "Textures not working",
 "state": "closed",
 "comments": 18,
