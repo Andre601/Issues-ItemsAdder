@@ -3,12 +3,13 @@
 "number": 5254,
 "author": "awaplay",
 "title": "Failed loading \"CustomDrops\"",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2026-03-12T05:06:41Z"
+"updated_at": "2026-03-12T12:25:54Z"
 },
 "5253": {
 "number": 5253,
@@ -71,11 +72,11 @@
 "author": "VRXDev2",
 "title": "API - method for launching custom tridents",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-06T17:49:55Z"
+"updated_at": "2026-03-13T07:10:45Z"
 },
 "5247": {
 "number": 5247,
