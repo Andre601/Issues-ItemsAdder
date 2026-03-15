@@ -1,4 +1,37 @@
 {
+"5260": {
+"number": 5260,
+"author": "PuppyTransGirl",
+"title": "`ItemsAdder.Advanced.injectItemModifier` not working",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-15T00:28:26Z"
+},
+"5259": {
+"number": 5259,
+"author": "bruhhhwarrior",
+"title": "decrement_amout doesnt work in replace_block",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-15T00:10:48Z"
+},
+"5258": {
+"number": 5258,
+"author": "PuppyTransGirl",
+"title": "PlayerInteractEvent issues with complex furnitures",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-14T17:07:24Z"
+},
 "5257": {
 "number": 5257,
 "author": "PuppyTransGirl",
