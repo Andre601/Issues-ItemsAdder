@@ -4,33 +4,36 @@
 "author": "PuppyTransGirl",
 "title": "`ItemsAdder.Advanced.injectItemModifier` not working",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
+"env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-15T00:28:26Z"
+"updated_at": "2026-03-16T11:37:24Z"
 },
 "5259": {
 "number": 5259,
 "author": "bruhhhwarrior",
 "title": "decrement_amout doesnt work in replace_block",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-15T00:10:48Z"
+"updated_at": "2026-03-15T16:29:28Z"
 },
 "5258": {
 "number": 5258,
 "author": "PuppyTransGirl",
 "title": "PlayerInteractEvent issues with complex furnitures",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-14T17:07:24Z"
+"updated_at": "2026-03-15T14:14:34Z"
 },
 "5257": {
 "number": 5257,
@@ -883,11 +886,11 @@
 "author": "Marcoral",
 "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-24T16:05:06Z"
+"updated_at": "2026-03-16T09:27:27Z"
 },
 "5182": {
 "number": 5182,
@@ -7213,7 +7216,7 @@
 },
 "4629": {
 "number": 4629,
-"author": "clienthook",
+"author": "kyneosh",
 "title": "Trouble with invisible item",
 "state": "closed",
 "comments": 5,
@@ -8042,7 +8045,7 @@
 },
 "4555": {
 "number": 4555,
-"author": "clienthook",
+"author": "kyneosh",
 "title": "When you connect to the server, you get a huge error.",
 "state": "closed",
 "comments": 5,
