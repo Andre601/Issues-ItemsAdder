@@ -1,4 +1,50 @@
 {
+"5266": {
+"number": 5266,
+"author": "CCjun6",
+"title": "Mushroom Config Affects Unbreakable Durability and Disables Silk Touch on Mushroom Blocks",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-18T08:52:47Z"
+},
+"5265": {
+"number": 5265,
+"author": "LoneDev6",
+"title": "Warn about invalid parent in models",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update",
+"type: enhancement"
+],
+"updated_at": "2026-03-17T19:28:51Z"
+},
+"5264": {
+"number": 5264,
+"author": "LoneDev6",
+"title": "Models referenced without namespace do not work in 1.21.11",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update",
+"type: bug"
+],
+"updated_at": "2026-03-17T19:22:20Z"
+},
+"5263": {
+"number": 5263,
+"author": "LoneDev6",
+"title": "Symbol does not appear in the shape",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement"
+],
+"updated_at": "2026-03-17T19:29:02Z"
+},
 "5262": {
 "number": 5262,
 "author": "topkide",
@@ -28,10 +74,9 @@
 "state": "open",
 "comments": 2,
 "labels": [
-"env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-16T17:57:52Z"
+"updated_at": "2026-03-17T17:31:52Z"
 },
 "5259": {
 "number": 5259,
@@ -156,9 +201,10 @@
 "state": "open",
 "comments": 6,
 "labels": [
+"compat: plugin",
 "type: bug"
 ],
-"updated_at": "2026-03-08T22:54:53Z"
+"updated_at": "2026-03-17T16:11:21Z"
 },
 "5248": {
 "number": 5248,
@@ -573,12 +619,12 @@
 "author": "rudde0",
 "title": "1.21.8 server - 1.21.11 client resource pack loading failed",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-14T10:51:02Z"
+"updated_at": "2026-03-17T19:23:15Z"
 },
 "5212": {
 "number": 5212,
@@ -2568,7 +2614,7 @@
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2026-02-04T10:29:00Z"
+"updated_at": "2026-03-17T16:13:51Z"
 },
 "5037": {
 "number": 5037,
