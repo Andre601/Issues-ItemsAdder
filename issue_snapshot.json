@@ -4,12 +4,12 @@
 "author": "00Hrtz",
 "title": "Font Image issue in Lore",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-20T15:30:03Z"
+"updated_at": "2026-03-21T14:12:46Z"
 },
 "5269": {
 "number": 5269,
@@ -2142,13 +2142,13 @@
 "author": "siberanka",
 "title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "compat: plugin",
 "type: bug",
 "type: other plugin bug"
 ],
-"updated_at": "2025-12-16T13:19:38Z"
+"updated_at": "2026-03-21T13:52:59Z"
 },
 "5082": {
 "number": 5082,
