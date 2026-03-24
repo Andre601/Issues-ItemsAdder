@@ -1,4 +1,110 @@
 {
+"5279": {
+"number": 5279,
+"author": "LoneDev6",
+"title": "Warn about duplicate PNG files",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement",
+"type: feature request"
+],
+"updated_at": "2026-03-23T18:01:49Z"
+},
+"5278": {
+"number": 5278,
+"author": "PuppyTransGirl",
+"title": "Hitboxes showing range aren't accurate and doesn't respect `block_interaction_range` attribute",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T16:51:56Z"
+},
+"5277": {
+"number": 5277,
+"author": "bruhhhwarrior",
+"title": "make hitbox a little thinner on crops",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-23T16:38:06Z"
+},
+"5276": {
+"number": 5276,
+"author": "PuppyTransGirl",
+"title": "Crops packet spam",
+"state": "open",
+"comments": 1,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T16:33:56Z"
+},
+"5275": {
+"number": 5275,
+"author": "bruhhhwarrior",
+"title": "allow several bottom blocks (list) for crops",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-23T16:30:43Z"
+},
+"5274": {
+"number": 5274,
+"author": "bruhhhwarrior",
+"title": "top part of tall hitboxes dont trigger hitbox",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T16:24:25Z"
+},
+"5273": {
+"number": 5273,
+"author": "bruhhhwarrior",
+"title": "blocks break crops when placed",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T16:19:07Z"
+},
+"5272": {
+"number": 5272,
+"author": "bruhhhwarrior",
+"title": "Crops can be broken and interacted with through blocks",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T16:13:36Z"
+},
+"5271": {
+"number": 5271,
+"author": "ICEZAFT",
+"title": "Customize Table not transfer the enchantments",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-03-23T12:50:13Z"
+},
 "5270": {
 "number": 5270,
 "author": "00Hrtz",
@@ -20,7 +126,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-20T15:19:26Z"
+"updated_at": "2026-03-23T17:56:17Z"
 },
 "5268": {
 "number": 5268,
@@ -363,13 +469,13 @@
 "author": "KodiMiralW",
 "title": "CompletionException: z: Stitching",
 "state": "open",
-"comments": 11,
+"comments": 15,
 "labels": [
 "env: BETA",
 "type: bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2026-03-22T17:45:06Z"
+"updated_at": "2026-03-24T12:11:17Z"
 },
 "5238": {
 "number": 5238,
@@ -474,7 +580,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-28T15:16:23Z"
+"updated_at": "2026-03-23T17:00:02Z"
 },
 "5229": {
 "number": 5229,
@@ -922,12 +1028,12 @@
 "number": 5191,
 "author": "vitya0717",
 "title": "1.21.11 compatible issue",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2026-02-08T12:23:18Z"
+"updated_at": "2026-03-24T11:13:33Z"
 },
 "5190": {
 "number": 5190,
@@ -1004,11 +1110,11 @@
 "author": "Marcoral",
 "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-16T09:27:27Z"
+"updated_at": "2026-03-23T15:04:53Z"
 },
 "5182": {
 "number": 5182,
@@ -1210,11 +1316,11 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-04T10:28:51Z"
+"updated_at": "2026-03-23T16:46:18Z"
 },
 "5164": {
 "number": 5164,
