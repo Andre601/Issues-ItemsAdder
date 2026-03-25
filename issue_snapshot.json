@@ -1,15 +1,49 @@
 {
+"5282": {
+"number": 5282,
+"author": "ClayCoffee",
+"title": "Vehicle textures missing when merging MTVehicles's resourcepack",
+"state": "open",
+"comments": 3,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-24T22:47:51Z"
+},
+"5281": {
+"number": 5281,
+"author": "RSChao",
+"title": "[API] Registering CustomStacks via code",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-24T19:12:39Z"
+},
+"5280": {
+"number": 5280,
+"author": "LoneDev6",
+"title": "Failed to create instance for class: null in 1.21.4 and lower",
+"state": "closed",
+"comments": 0,
+"labels": [
+"impact: breaks loading",
+"type: bug"
+],
+"updated_at": "2026-03-24T15:51:08Z"
+},
 "5279": {
 "number": 5279,
 "author": "LoneDev6",
 "title": "Warn about duplicate PNG files",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2026-03-23T18:01:49Z"
+"updated_at": "2026-03-24T15:51:07Z"
 },
 "5278": {
 "number": 5278,
@@ -132,24 +166,24 @@
 "number": 5268,
 "author": "LoneDev6",
 "title": "Trident duplication 2",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2026-03-20T14:12:52Z"
+"updated_at": "2026-03-24T15:51:07Z"
 },
 "5267": {
 "number": 5267,
 "author": "LoneDev6",
 "title": "Cannot measure distance between world and world_nether",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-20T14:00:36Z"
+"updated_at": "2026-03-24T15:51:06Z"
 },
 "5266": {
 "number": 5266,
@@ -166,36 +200,36 @@
 "number": 5265,
 "author": "LoneDev6",
 "title": "Warn about invalid parent in models",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "compat: new minecraft update",
 "type: enhancement"
 ],
-"updated_at": "2026-03-17T19:28:51Z"
+"updated_at": "2026-03-24T15:51:06Z"
 },
 "5264": {
 "number": 5264,
 "author": "LoneDev6",
 "title": "Models referenced without namespace do not work in 1.21.11",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "compat: new minecraft update",
 "type: bug"
 ],
-"updated_at": "2026-03-17T19:22:20Z"
+"updated_at": "2026-03-24T15:51:05Z"
 },
 "5263": {
 "number": 5263,
 "author": "LoneDev6",
 "title": "Symbol does not appear in the shape",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: enhancement"
 ],
-"updated_at": "2026-03-17T19:29:02Z"
+"updated_at": "2026-03-24T15:51:04Z"
 },
 "5262": {
 "number": 5262,
@@ -224,11 +258,11 @@
 "author": "PuppyTransGirl",
 "title": "`ItemsAdder.Advanced.injectItemModifier` not working",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-17T17:31:52Z"
+"updated_at": "2026-03-24T13:26:00Z"
 },
 "5259": {
 "number": 5259,
@@ -272,13 +306,13 @@
 "number": 5256,
 "author": "LoneDev6",
 "title": "thrown tridents also break after /iareload or /iazip",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2026-03-13T16:27:51Z"
+"updated_at": "2026-03-24T15:51:04Z"
 },
 "5255": {
 "number": 5255,
@@ -324,7 +358,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-10T03:08:36Z"
+"updated_at": "2026-03-24T14:29:01Z"
 },
 "5251": {
 "number": 5251,
@@ -410,13 +444,13 @@
 "number": 5244,
 "author": "LoneDev6",
 "title": "Tridents duplication bug",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2026-03-05T15:54:22Z"
+"updated_at": "2026-03-24T15:51:03Z"
 },
 "5243": {
 "number": 5243,
@@ -468,37 +502,37 @@
 "number": 5239,
 "author": "KodiMiralW",
 "title": "CompletionException: z: Stitching",
-"state": "open",
-"comments": 15,
+"state": "closed",
+"comments": 13,
 "labels": [
 "env: BETA",
 "type: bug",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2026-03-24T12:11:17Z"
+"updated_at": "2026-03-24T15:51:03Z"
 },
 "5238": {
 "number": 5238,
 "author": "LoneDev6",
 "title": "`complex_furniture` implement `fixed_position` setting",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2026-03-03T15:00:12Z"
+"updated_at": "2026-03-24T15:51:02Z"
 },
 "5237": {
 "number": 5237,
 "author": "LoneDev6",
 "title": "1.21.11 not loading textures",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-03T14:42:50Z"
+"updated_at": "2026-03-24T15:51:02Z"
 },
 "5236": {
 "number": 5236,
@@ -557,18 +591,6 @@
 "verdict: misconfigured"
 ],
 "updated_at": "2026-03-05T15:06:37Z"
-},
-"5231": {
-"number": 5231,
-"author": "zloydada1dev-ctrl",
-"title": "The Trident exploit with the Loyalty enchantment",
-"state": "closed",
-"comments": 2,
-"labels": [
-"env: BETA",
-"type: bug"
-],
-"updated_at": "2026-03-01T12:56:26Z"
 },
 "5230": {
 "number": 5230,
@@ -633,37 +655,37 @@
 "number": 5225,
 "author": "bruhhhwarrior",
 "title": "complex-furniture doesnt place correctly from certain angles on walls",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-27T16:33:44Z"
+"updated_at": "2026-03-24T15:51:01Z"
 },
 "5224": {
 "number": 5224,
 "author": "LoneDev6",
 "title": "`graphics` with no `parent` specified always fallback to `item/generated`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-02-25T15:15:46Z"
+"updated_at": "2026-03-24T15:51:00Z"
 },
 "5223": {
 "number": 5223,
 "author": "LoneDev6",
 "title": "Blocks populators/decorators memory leak on plugin reload",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug",
 "type: performance"
 ],
-"updated_at": "2026-02-25T13:46:33Z"
+"updated_at": "2026-03-24T15:51:00Z"
 },
 "5222": {
 "number": 5222,
@@ -702,10 +724,10 @@
 "number": 5219,
 "author": "LoneDev6",
 "title": "[Beta] Shields, fishing rods and similar status models not loading textures on 1.21.11",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [],
-"updated_at": "2026-02-24T12:27:51Z"
+"updated_at": "2026-03-24T15:50:59Z"
 },
 "5218": {
 "number": 5218,
@@ -785,35 +807,35 @@
 "number": 5212,
 "author": "LoneDev6",
 "title": "Crafting duplication bug",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-20T10:29:43Z"
+"updated_at": "2026-03-24T15:50:59Z"
 },
 "5211": {
 "number": 5211,
 "author": "LoneDev6",
 "title": "Implement `opposite_direction` for `complex_furniture`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-20T09:45:44Z"
+"updated_at": "2026-03-24T15:50:58Z"
 },
 "5210": {
 "number": 5210,
 "author": "LoneDev6",
 "title": "Failed invoking download tasks for Minecraft assets version 1.21.8 `ConcurrentModificationException`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: breaks loading",
 "type: bug"
 ],
-"updated_at": "2026-02-20T09:25:07Z"
+"updated_at": "2026-03-24T15:50:58Z"
 },
 "5209": {
 "number": 5209,
@@ -841,12 +863,12 @@
 "number": 5207,
 "author": "konfix",
 "title": "Better pack obfuscation",
-"state": "open",
+"state": "closed",
 "comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-13T17:40:45Z"
+"updated_at": "2026-03-24T15:50:57Z"
 },
 "5206": {
 "number": 5206,
@@ -861,12 +883,14 @@
 "number": 5205,
 "author": "CCjun6",
 "title": "Some textures are not being applied correctly.",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
+"compat: new minecraft update",
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-02-20T12:27:54Z"
+"updated_at": "2026-03-24T14:53:59Z"
 },
 "5204": {
 "number": 5204,
@@ -966,13 +990,13 @@
 "number": 5196,
 "author": "Delllus",
 "title": "4.0.16 BETA 4: Message order for other plugins are not being respected. [Server Breaking]",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-15T06:29:53Z"
+"updated_at": "2026-03-24T15:50:57Z"
 },
 "5195": {
 "number": 5195,
@@ -1061,24 +1085,25 @@
 "number": 5188,
 "author": "DeathRyder35",
 "title": "Itemsadder 4.0.15 paper server 1.21.10",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"type: other plugin bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-02-07T21:07:24Z"
+"updated_at": "2026-03-24T15:50:35Z"
 },
 "5187": {
 "number": 5187,
 "author": "bruhhhwarrior",
 "title": "[Beta] Custom entities textures not working",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-20T15:14:05Z"
+"updated_at": "2026-03-24T15:50:56Z"
 },
 "5186": {
 "number": 5186,
@@ -1097,13 +1122,13 @@
 "number": 5185,
 "author": "bobhenl",
 "title": "ia_overlay_1_20_5_plus mentioned in pack.mcmeta even when it's not included in the pack generated folder",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "compat: plugin",
 "type: bug"
 ],
-"updated_at": "2026-03-20T12:55:50Z"
+"updated_at": "2026-03-24T15:50:56Z"
 },
 "5184": {
 "number": 5184,
@@ -1153,35 +1178,35 @@
 "number": 5179,
 "author": "bobhenl",
 "title": "[Beta] OutOfMemoryError when adding more ItemsAdder config files",
-"state": "open",
+"state": "closed",
 "comments": 11,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-02-20T17:10:45Z"
+"updated_at": "2026-03-24T15:50:55Z"
 },
 "5178": {
 "number": 5178,
 "author": "Alugor",
-"title": "Add command to clean orphaned/unknown block entries from pregion database",
-"state": "open",
+"title": "Setting to disable `mined unknown block` message",
+"state": "closed",
 "comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-23T19:38:25Z"
+"updated_at": "2026-03-24T15:50:54Z"
 },
 "5177": {
 "number": 5177,
 "author": "bruhhhwarrior",
 "title": "surface_populators dont work in the nether",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-06T15:56:52Z"
+"updated_at": "2026-03-24T15:50:54Z"
 },
 "5176": {
 "number": 5176,
@@ -1348,12 +1373,12 @@
 "number": 5162,
 "author": "TabZz147",
 "title": "ItemsAdder executes getNearbyPlayers asynchronously in Entities-Tick on Paper 1.21.x",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-04T13:24:29Z"
+"updated_at": "2026-03-24T15:50:53Z"
 },
 "5161": {
 "number": 5161,
@@ -1687,54 +1712,54 @@
 "number": 5132,
 "author": "LoneDev6",
 "title": "Crops not exploding with TNT",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T13:09:33Z"
+"updated_at": "2026-03-24T15:50:53Z"
 },
 "5131": {
 "number": 5131,
 "author": "LoneDev6",
 "title": "World rules ignore all the negative rules if `*` is specified",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [],
-"updated_at": "2025-11-24T13:08:36Z"
+"updated_at": "2026-03-24T15:50:52Z"
 },
 "5130": {
 "number": 5130,
 "author": "LoneDev6",
 "title": "Custom TNT not removing old block before exploding",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T12:32:42Z"
+"updated_at": "2026-03-24T15:50:52Z"
 },
 "5129": {
 "number": 5129,
 "author": "LoneDev6",
 "title": "Custom TNT primed sound not playing",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T12:32:49Z"
+"updated_at": "2026-03-24T15:50:51Z"
 },
 "5128": {
 "number": 5128,
 "author": "fglitz1993-droid",
 "title": "Cannot invoke \"String.endsWith(String)\" because the return value of \"itemsadder.m.aqx.mF()\" is null",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-13T10:38:53Z"
+"updated_at": "2026-03-24T15:50:50Z"
 },
 "5127": {
 "number": 5127,
@@ -1751,34 +1776,34 @@
 "number": 5126,
 "author": "LoneDev6",
 "title": "Crops bonemeal duplication bug",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-21T14:57:11Z"
+"updated_at": "2026-03-24T15:50:50Z"
 },
 "5125": {
 "number": 5125,
 "author": "LoneDev6",
 "title": "`show_in_ia_gui` not working on template items",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-21T14:47:44Z"
+"updated_at": "2026-03-24T15:50:49Z"
 },
 "5124": {
 "number": 5124,
 "author": "LoneDev6",
 "title": "Some configuration (like `replace_furniture`) won't work if key has no namespace specified",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-21T14:40:53Z"
+"updated_at": "2026-03-24T15:50:49Z"
 },
 "5123": {
 "number": 5123,
@@ -1807,35 +1832,35 @@
 "number": 5121,
 "author": "LoneDev6",
 "title": "fixed vanilla models not used when generating model via graphics",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-19T16:46:03Z"
+"updated_at": "2026-03-24T15:50:48Z"
 },
 "5120": {
 "number": 5120,
 "author": "LoneDev6",
 "title": "Crops block outline not refreshing when using bonemeal",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-19T16:45:08Z"
+"updated_at": "2026-03-24T15:50:48Z"
 },
 "5119": {
 "number": 5119,
 "author": "LoneDev6",
 "title": "Implement `furniture_consumable` behaviour",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-19T16:42:27Z"
+"updated_at": "2026-03-24T15:50:47Z"
 },
 "5118": {
 "number": 5118,
@@ -1852,12 +1877,12 @@
 "number": 5117,
 "author": "AlphaBlock4k",
 "title": "`complex_furniture` `fixed_rotation`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-19T11:05:32Z"
+"updated_at": "2026-03-24T15:50:46Z"
 },
 "5116": {
 "number": 5116,
@@ -1919,12 +1944,12 @@
 "number": 5111,
 "author": "LoneDev6",
 "title": "Remove old `effects` settings from `config.yml`",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T12:26:47Z"
+"updated_at": "2026-03-24T15:50:46Z"
 },
 "5110": {
 "number": 5110,
@@ -1968,23 +1993,23 @@
 "number": 5107,
 "author": "Yertled",
 "title": "`shoot_particle` - IllegalStateException: Asynchronous getNearbyEntities",
-"state": "open",
+"state": "closed",
 "comments": 13,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-23T18:44:41Z"
+"updated_at": "2026-03-24T15:50:45Z"
 },
 "5106": {
 "number": 5106,
 "author": "dan28000",
 "title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-25T14:42:58Z"
+"updated_at": "2026-03-24T15:50:45Z"
 },
 "5105": {
 "number": 5105,
@@ -2107,12 +2132,12 @@
 "number": 5095,
 "author": "LunarsWorldLLC",
 "title": "Emoji parsing in chat causing lag",
-"state": "open",
+"state": "closed",
 "comments": 7,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T15:55:34Z"
+"updated_at": "2026-03-24T15:50:44Z"
 },
 "5094": {
 "number": 5094,
@@ -2354,13 +2379,13 @@
 "number": 5074,
 "author": "LoneDev6",
 "title": "Implement third person view for emotes",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2025-11-24T14:04:20Z"
+"updated_at": "2026-03-24T15:50:44Z"
 },
 "5073": {
 "number": 5073,
@@ -2505,13 +2530,13 @@
 "number": 5060,
 "author": "GrafGurka",
 "title": "Citizens 2.0.40 - `NullPointerException: Cannot invoke \"java.lang.reflect.Method`",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "compat: plugin",
 "type: bug"
 ],
-"updated_at": "2025-11-14T15:13:27Z"
+"updated_at": "2026-03-24T15:50:43Z"
 },
 "5059": {
 "number": 5059,
@@ -2764,13 +2789,13 @@
 "number": 5038,
 "author": "NoHere32",
 "title": "`merge_other_plugins_resourcepacks_folders` duplication `assets` folder",
-"state": "open",
+"state": "closed",
 "comments": 7,
 "labels": [
 "env: unofficial spigot fork",
 "type: bug"
 ],
-"updated_at": "2026-03-17T16:13:51Z"
+"updated_at": "2026-03-24T15:50:42Z"
 },
 "5037": {
 "number": 5037,
@@ -2834,12 +2859,12 @@
 "number": 5032,
 "author": "PSYCHEER",
 "title": "Custom entities error `java.lang.IllegalArgumentException: attribute`",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T14:10:05Z"
+"updated_at": "2026-03-24T15:50:42Z"
 },
 "5031": {
 "number": 5031,
@@ -4905,12 +4930,12 @@
 "number": 4854,
 "author": "bruhhhwarrior",
 "title": "Blocks can only be placed fast vertically",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-14T16:11:52Z"
+"updated_at": "2026-03-24T15:50:41Z"
 },
 "4853": {
 "number": 4853,
@@ -5115,14 +5140,14 @@
 "number": 4836,
 "author": "GreatGoal0",
 "title": "Overlay of other packs are not merged",
-"state": "open",
+"state": "closed",
 "comments": 13,
 "labels": [
 "compat: plugin",
 "env: paper",
 "type: bug"
 ],
-"updated_at": "2026-03-20T12:54:53Z"
+"updated_at": "2026-03-24T15:50:41Z"
 },
 "4835": {
 "number": 4835,
@@ -5600,12 +5625,12 @@
 "number": 4794,
 "author": "EspartaProJunior",
 "title": "place_furniture does not work",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-24T13:20:08Z"
+"updated_at": "2026-03-24T15:50:40Z"
 },
 "4793": {
 "number": 4793,
@@ -5738,13 +5763,13 @@
 "number": 4782,
 "author": "Halogly",
 "title": "In Creative mode, when pick block, it appears to \"flash\"",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
 "impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2025-11-07T17:22:38Z"
+"updated_at": "2026-03-24T15:50:39Z"
 },
 "4781": {
 "number": 4781,
@@ -23842,12 +23867,12 @@
 "number": 3218,
 "author": "minecraft-dripdrop",
 "title": "Implement `replace_furniture` and `remove_furniture` actions",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-19T16:42:08Z"
+"updated_at": "2026-03-24T15:50:39Z"
 },
 "3217": {
 "number": 3217,
