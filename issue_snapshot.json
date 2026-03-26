@@ -1,4 +1,37 @@
 {
+"5285": {
+"number": 5285,
+"author": "CCjun6",
+"title": "A large number of repeated warning/error messages are appearing, mostly originating from ModelEngine.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-25T22:08:03Z"
+},
+"5284": {
+"number": 5284,
+"author": "SamGamerYT",
+"title": "[Broken Texture] Issue on tha ltest version of ItemsAdder.",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-25T18:15:07Z"
+},
+"5283": {
+"number": 5283,
+"author": "iambibi",
+"title": "[API] Loading a namespace from a URI",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-03-25T13:12:39Z"
+},
 "5282": {
 "number": 5282,
 "author": "ClayCoffee",
