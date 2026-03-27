@@ -1,14 +1,36 @@
 {
-"5285": {
-"number": 5285,
-"author": "CCjun6",
-"title": "A large number of repeated warning/error messages are appearing, mostly originating from ModelEngine.",
+"5287": {
+"number": 5287,
+"author": "NoHere32",
+"title": "[Duplicated PNG File] Adding operation",
+"state": "closed",
+"comments": 2,
+"labels": [
+"type: duplicate"
+],
+"updated_at": "2026-03-27T09:04:55Z"
+},
+"5286": {
+"number": 5286,
+"author": "al1sonsz",
+"title": "Texture pack loading failed",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-25T22:08:03Z"
+"updated_at": "2026-03-27T09:21:16Z"
+},
+"5285": {
+"number": 5285,
+"author": "CCjun6",
+"title": "Add a setting to disable duplicate images warnings",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: enhancement"
+],
+"updated_at": "2026-03-27T10:19:22Z"
 },
 "5284": {
 "number": 5284,
@@ -17,42 +39,44 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"status: inactive",
+"verdict: invalid"
 ],
-"updated_at": "2026-03-25T18:15:07Z"
+"updated_at": "2026-03-27T08:42:54Z"
 },
 "5283": {
 "number": 5283,
 "author": "iambibi",
 "title": "[API] Loading a namespace from a URI",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-25T13:12:39Z"
+"updated_at": "2026-03-27T09:27:20Z"
 },
 "5282": {
 "number": 5282,
 "author": "ClayCoffee",
 "title": "Vehicle textures missing when merging MTVehicles's resourcepack",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
-"type: bug"
+"type: other plugin bug",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-03-24T22:47:51Z"
+"updated_at": "2026-03-27T10:20:47Z"
 },
 "5281": {
 "number": 5281,
 "author": "RSChao",
 "title": "[API] Registering CustomStacks via code",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-24T19:12:39Z"
+"updated_at": "2026-03-27T09:33:52Z"
 },
 "5280": {
 "number": 5280,
@@ -71,12 +95,12 @@
 "author": "LoneDev6",
 "title": "Warn about duplicate PNG files",
 "state": "closed",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2026-03-24T15:51:07Z"
+"updated_at": "2026-03-27T08:41:35Z"
 },
 "5278": {
 "number": 5278,
@@ -95,23 +119,23 @@
 "author": "bruhhhwarrior",
 "title": "make hitbox a little thinner on crops",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-23T16:38:06Z"
+"updated_at": "2026-03-27T09:23:31Z"
 },
 "5276": {
 "number": 5276,
 "author": "PuppyTransGirl",
 "title": "Crops packet spam",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:33:56Z"
+"updated_at": "2026-03-27T08:47:51Z"
 },
 "5275": {
 "number": 5275,
@@ -122,7 +146,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-23T16:30:43Z"
+"updated_at": "2026-03-27T08:59:59Z"
 },
 "5274": {
 "number": 5274,
@@ -134,7 +158,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:24:25Z"
+"updated_at": "2026-03-27T11:11:35Z"
 },
 "5273": {
 "number": 5273,
@@ -146,7 +170,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:19:07Z"
+"updated_at": "2026-03-27T09:36:38Z"
 },
 "5272": {
 "number": 5272,
@@ -158,7 +182,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:13:36Z"
+"updated_at": "2026-03-27T09:38:10Z"
 },
 "5271": {
 "number": 5271,
@@ -182,7 +206,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-21T14:12:46Z"
+"updated_at": "2026-03-27T10:18:59Z"
 },
 "5269": {
 "number": 5269,
@@ -227,7 +251,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-18T08:52:47Z"
+"updated_at": "2026-03-27T10:18:16Z"
 },
 "5265": {
 "number": 5265,
@@ -269,22 +293,22 @@
 "author": "topkide",
 "title": "Crops-Stream-Tick ArrayIndexOutOfBoundsException causes Server thread infinite loop in Long2ObjectOpenHashMap.get() \u2192 Watchdog crash",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-17T03:41:30Z"
+"updated_at": "2026-03-27T10:26:35Z"
 },
 "5261": {
 "number": 5261,
 "author": "CCjun6",
-"title": "Items of copper type are not supported by ItemsAdder",
+"title": "Error reading vanilla model for material COPPER_SWORD",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-16T17:43:23Z"
+"updated_at": "2026-03-27T08:57:55Z"
 },
 "5260": {
 "number": 5260,
@@ -307,7 +331,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-15T16:29:28Z"
+"updated_at": "2026-03-27T10:17:50Z"
 },
 "5258": {
 "number": 5258,
@@ -319,7 +343,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-15T14:14:34Z"
+"updated_at": "2026-03-27T09:43:36Z"
 },
 "5257": {
 "number": 5257,
@@ -374,12 +398,12 @@
 "number": 5253,
 "author": "Real6dq",
 "title": "Drop Support for 1.21.3",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
-"type: feature request"
+"verdict: invalid"
 ],
-"updated_at": "2026-03-11T17:52:03Z"
+"updated_at": "2026-03-27T08:58:37Z"
 },
 "5252": {
 "number": 5252,
@@ -407,13 +431,13 @@
 "5250": {
 "number": 5250,
 "author": "ReddoMC",
-"title": "java.lang.IllegalArgumentException: Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
+"title": "Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
-"type: feature request"
+"type: bug"
 ],
-"updated_at": "2026-03-10T15:42:10Z"
+"updated_at": "2026-03-27T09:02:27Z"
 },
 "5249": {
 "number": 5249,
@@ -432,22 +456,22 @@
 "author": "VRXDev2",
 "title": "API - method for launching custom tridents",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-13T07:10:45Z"
+"updated_at": "2026-03-27T09:42:35Z"
 },
 "5247": {
 "number": 5247,
 "author": "Delllus",
 "title": "People can send GUIs in chat by using unicode associated with it.",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-07T23:43:48Z"
+"updated_at": "2026-03-27T10:45:36Z"
 },
 "5246": {
 "number": 5246,
@@ -456,10 +480,11 @@
 "state": "open",
 "comments": 1,
 "labels": [
+"compat: new minecraft update",
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-07T23:40:36Z"
+"updated_at": "2026-03-27T11:35:22Z"
 },
 "5245": {
 "number": 5245,
@@ -471,7 +496,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-06T11:53:59Z"
+"updated_at": "2026-03-27T10:22:11Z"
 },
 "5244": {
 "number": 5244,
@@ -494,19 +519,19 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-04T18:47:56Z"
+"updated_at": "2026-03-27T10:22:24Z"
 },
 "5242": {
 "number": 5242,
 "author": "gary81013",
 "title": "The texture of item_frame is corrupted.",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-06T13:59:23Z"
+"updated_at": "2026-03-27T10:21:38Z"
 },
 "5241": {
 "number": 5241,
@@ -606,11 +631,11 @@
 "author": "Doonplex",
 "title": "Bows and Crossbows won't shoot",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-01T20:30:13Z"
+"updated_at": "2026-03-27T10:24:08Z"
 },
 "5232": {
 "number": 5232,
@@ -659,7 +684,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-26T22:02:40Z"
+"updated_at": "2026-03-27T11:08:10Z"
 },
 "5227": {
 "number": 5227,
@@ -729,7 +754,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-26T13:27:46Z"
+"updated_at": "2026-03-27T10:39:50Z"
 },
 "5221": {
 "number": 5221,
@@ -738,20 +763,22 @@
 "state": "open",
 "comments": 0,
 "labels": [
+"scope: api",
 "type: bug"
 ],
-"updated_at": "2026-02-24T19:27:30Z"
+"updated_at": "2026-03-27T11:08:51Z"
 },
 "5220": {
 "number": 5220,
 "author": "FallPlayer26",
 "title": "Armor layer bug",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
+"compat: optifine",
 "type: bug"
 ],
-"updated_at": "2026-02-24T12:29:47Z"
+"updated_at": "2026-03-27T11:09:49Z"
 },
 "5219": {
 "number": 5219,
@@ -793,11 +820,12 @@
 "author": "JohnsenMC",
 "title": "Cant Acces the libary classes or failed downloaded libarys?",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"scope: api",
 "type: bug"
 ],
-"updated_at": "2026-02-22T22:06:19Z"
+"updated_at": "2026-03-27T11:52:06Z"
 },
 "5215": {
 "number": 5215,
@@ -875,11 +903,15 @@
 "author": "maniacupons-beep",
 "title": "Armor dont load with shaders (1.21.1)",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
+"impact: graphical issue",
+"outdated: client",
+"outdated: plugin",
+"outdated: server",
 "type: bug"
 ],
-"updated_at": "2026-02-20T12:20:39Z"
+"updated_at": "2026-03-27T11:01:25Z"
 },
 "5208": {
 "number": 5208,
@@ -934,7 +966,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-02-18T20:46:11Z"
+"updated_at": "2026-03-27T11:01:51Z"
 },
 "5203": {
 "number": 5203,
@@ -953,11 +985,11 @@
 "author": "iambibi",
 "title": "Tooltip on armor bugged",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-18T20:30:12Z"
+"updated_at": "2026-03-27T09:41:34Z"
 },
 "5201": {
 "number": 5201,
@@ -1005,7 +1037,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-17T17:23:52Z"
+"updated_at": "2026-03-27T10:47:33Z"
 },
 "5197": {
 "number": 5197,
@@ -1036,23 +1068,23 @@
 "author": "WarnDa",
 "title": "[Beta] Model overlapping in GUI",
 "state": "open",
-"comments": 9,
+"comments": 13,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-20T10:38:00Z"
+"updated_at": "2026-03-27T11:04:48Z"
 },
 "5194": {
 "number": 5194,
 "author": "bobhenl",
 "title": "PackSquash support",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-11T16:44:08Z"
+"updated_at": "2026-03-27T10:50:03Z"
 },
 "5193": {
 "number": 5193,
@@ -1178,12 +1210,13 @@
 "number": 5182,
 "author": "Zibsa03",
 "title": "[ itemsadder ] Skipping 1.21.4+ compatibility file creation.",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-02-06T09:42:24Z"
+"updated_at": "2026-03-27T10:28:35Z"
 },
 "5181": {
 "number": 5181,
@@ -1192,9 +1225,10 @@
 "state": "open",
 "comments": 2,
 "labels": [
+"impact: breaks gameplay (critical)",
 "type: bug"
 ],
-"updated_at": "2026-02-02T12:51:31Z"
+"updated_at": "2026-03-27T10:29:09Z"
 },
 "5180": {
 "number": 5180,
@@ -1258,36 +1292,38 @@
 "author": "Askarionn",
 "title": "Can't find file ModelEngine",
 "state": "open",
-"comments": 12,
+"comments": 14,
 "labels": [
 "compat: plugin",
 "type: bug",
 "verdict: can't reproduce",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-03-08T03:12:25Z"
+"updated_at": "2026-03-27T10:19:45Z"
 },
 "5174": {
 "number": 5174,
 "author": "k1netix",
 "title": "Incendium shields render wrong in-hand with ItemsAdder",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-01-23T18:49:51Z"
+"updated_at": "2026-03-27T11:05:58Z"
 },
 "5173": {
 "number": 5173,
 "author": "dorori123",
 "title": "custom hud stopped working",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"impact: breaks gameplay (minor)",
 "type: bug"
 ],
-"updated_at": "2026-01-14T15:49:11Z"
+"updated_at": "2026-03-27T11:03:41Z"
 },
 "5172": {
 "number": 5172,
@@ -1311,7 +1347,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-06T22:27:33Z"
+"updated_at": "2026-03-27T11:00:06Z"
 },
 "5170": {
 "number": 5170,
@@ -1340,11 +1376,12 @@
 "author": "Ihsannoob",
 "title": "Bug text GUI",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
+"impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-01-06T04:45:21Z"
+"updated_at": "2026-03-27T11:12:45Z"
 },
 "5167": {
 "number": 5167,
@@ -1374,11 +1411,11 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:46:18Z"
+"updated_at": "2026-03-27T11:15:47Z"
 },
 "5164": {
 "number": 5164,
@@ -1444,29 +1481,29 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-14T12:15:16Z"
+"updated_at": "2026-03-27T10:36:46Z"
 },
 "5158": {
 "number": 5158,
 "author": "Bimmalord",
 "title": "Can't Red Image files",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-12T11:11:14Z"
+"updated_at": "2026-03-27T10:34:59Z"
 },
 "5157": {
 "number": 5157,
 "author": "Uaizi",
 "title": "onPacketSending(PacketEvent) Failed to convert data component value of type class com.github.retrooper.packetevents.util.adventure.NbtTagHolder to type class io.papermc.paper.adventure.PaperAdventure$DataComponentValueImpl",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"type: other plugin bug"
 ],
-"updated_at": "2025-12-12T18:17:17Z"
+"updated_at": "2026-03-27T10:31:33Z"
 },
 "5156": {
 "number": 5156,
@@ -1477,7 +1514,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-11T23:43:37Z"
+"updated_at": "2026-03-27T10:31:47Z"
 },
 "5155": {
 "number": 5155,
@@ -1486,9 +1523,10 @@
 "state": "open",
 "comments": 0,
 "labels": [
+"scope: api",
 "type: bug"
 ],
-"updated_at": "2025-12-11T19:00:58Z"
+"updated_at": "2026-03-27T10:35:38Z"
 },
 "5154": {
 "number": 5154,
@@ -1527,12 +1565,12 @@
 "number": 5151,
 "author": "RitsuElAnti",
 "title": "\"as_console: true\" does not execute",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-12-15T07:50:57Z"
+"updated_at": "2026-03-27T11:34:55Z"
 },
 "5150": {
 "number": 5150,
@@ -1562,12 +1600,12 @@
 "number": 5148,
 "author": "Czekin",
 "title": "summon OakBoat returns ERROR",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2025-12-07T12:25:31Z"
+"updated_at": "2026-03-27T10:36:09Z"
 },
 "5147": {
 "number": 5147,
@@ -1628,11 +1666,11 @@
 "author": "RVSkeLe",
 "title": "Performance issues with isCustomBlock in piston events",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-01-09T23:44:47Z"
+"updated_at": "2026-03-27T10:30:39Z"
 },
 "5141": {
 "number": 5141,
@@ -1710,11 +1748,11 @@
 "author": "HaydoPotato1310",
 "title": "Item models are not loading properly",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-07T14:03:47Z"
+"updated_at": "2026-03-27T10:32:25Z"
 },
 "5134": {
 "number": 5134,
@@ -1843,11 +1881,11 @@
 "author": "PuppyTransGirl",
 "title": "Remove old config fields not used anymore",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-06T22:23:51Z"
+"updated_at": "2026-03-27T11:00:39Z"
 },
 "5122": {
 "number": 5122,
