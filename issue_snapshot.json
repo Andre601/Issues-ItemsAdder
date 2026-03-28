@@ -1,4 +1,15 @@
 {
+"5288": {
+"number": 5288,
+"author": "TheGiv32",
+"title": "Glow near blocks not working correctly.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-27T22:26:12Z"
+},
 "5287": {
 "number": 5287,
 "author": "NoHere32",
@@ -15,11 +26,11 @@
 "author": "al1sonsz",
 "title": "Texture pack loading failed",
 "state": "open",
-"comments": 2,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T09:21:16Z"
+"updated_at": "2026-03-27T21:55:19Z"
 },
 "5285": {
 "number": 5285,
@@ -49,23 +60,23 @@
 "author": "iambibi",
 "title": "[API] Loading a namespace from a URI",
 "state": "open",
-"comments": 1,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T09:27:20Z"
+"updated_at": "2026-03-27T17:59:25Z"
 },
 "5282": {
 "number": 5282,
 "author": "ClayCoffee",
 "title": "Vehicle textures missing when merging MTVehicles's resourcepack",
 "state": "open",
-"comments": 4,
+"comments": 8,
 "labels": [
 "type: other plugin bug",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-03-27T10:20:47Z"
+"updated_at": "2026-03-27T16:26:28Z"
 },
 "5281": {
 "number": 5281,
@@ -119,23 +130,23 @@
 "author": "bruhhhwarrior",
 "title": "make hitbox a little thinner on crops",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T09:23:31Z"
+"updated_at": "2026-03-27T16:02:38Z"
 },
 "5276": {
 "number": 5276,
 "author": "PuppyTransGirl",
 "title": "Crops packet spam",
 "state": "open",
-"comments": 2,
+"comments": 4,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-27T08:47:51Z"
+"updated_at": "2026-03-27T13:48:27Z"
 },
 "5275": {
 "number": 5275,
@@ -422,11 +433,11 @@
 "author": "ArkMikey",
 "title": "Plugin thinks there's a lowercase b in my crafting recipes, while there's not.",
 "state": "open",
-"comments": 2,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-10T12:54:53Z"
+"updated_at": "2026-03-27T14:10:03Z"
 },
 "5250": {
 "number": 5250,
@@ -456,11 +467,11 @@
 "author": "VRXDev2",
 "title": "API - method for launching custom tridents",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T09:42:35Z"
+"updated_at": "2026-03-27T20:45:34Z"
 },
 "5247": {
 "number": 5247,
@@ -631,11 +642,11 @@
 "author": "Doonplex",
 "title": "Bows and Crossbows won't shoot",
 "state": "open",
-"comments": 1,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T10:24:08Z"
+"updated_at": "2026-03-27T13:49:28Z"
 },
 "5232": {
 "number": 5232,
@@ -1066,14 +1077,17 @@
 "5195": {
 "number": 5195,
 "author": "WarnDa",
-"title": "[Beta] Model overlapping in GUI",
+"title": "Vanilla bug - Model overlapping in GUI",
 "state": "open",
-"comments": 13,
+"comments": 14,
 "labels": [
 "env: BETA",
-"type: bug"
+"type: bug",
+"type: clientside bug",
+"type: vanilla bug",
+"verdict: no solution"
 ],
-"updated_at": "2026-03-27T11:04:48Z"
+"updated_at": "2026-03-27T13:50:02Z"
 },
 "5194": {
 "number": 5194,
@@ -1666,11 +1680,11 @@
 "author": "RVSkeLe",
 "title": "Performance issues with isCustomBlock in piston events",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T10:30:39Z"
+"updated_at": "2026-03-27T16:27:51Z"
 },
 "5141": {
 "number": 5141,
@@ -1881,11 +1895,11 @@
 "author": "PuppyTransGirl",
 "title": "Remove old config fields not used anymore",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T11:00:39Z"
+"updated_at": "2026-03-27T16:46:56Z"
 },
 "5122": {
 "number": 5122,
@@ -3727,14 +3741,15 @@
 "number": 4964,
 "author": "alexcrea",
 "title": "Compatibility with CustomAnvil",
-"state": "open",
+"state": "closed",
 "comments": 3,
 "labels": [
 "compat: plugin",
 "type: bug",
-"type: feature request"
+"type: feature request",
+"verdict: workaround implemented"
 ],
-"updated_at": "2025-11-19T15:48:14Z"
+"updated_at": "2026-03-27T13:53:17Z"
 },
 "4963": {
 "number": 4963,
