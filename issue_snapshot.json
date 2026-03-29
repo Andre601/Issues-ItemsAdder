@@ -1,4 +1,48 @@
 {
+"5292": {
+"number": 5292,
+"author": "iambibi",
+"title": "Cannot read field \"ag\" because the return value of \"itemsadder.m.a.d()\" is null",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-29T08:32:57Z"
+},
+"5291": {
+"number": 5291,
+"author": "iambibi",
+"title": "Reforge diamond_tool to their netherite versions",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-28T20:19:48Z"
+},
+"5290": {
+"number": 5290,
+"author": "0-DAyFF13R",
+"title": "Missing custom textures",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-28T19:42:32Z"
+},
+"5289": {
+"number": 5289,
+"author": "Leahcimkrob",
+"title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-28T14:42:23Z"
+},
 "5288": {
 "number": 5288,
 "author": "TheGiv32",
@@ -83,11 +127,11 @@
 "author": "RSChao",
 "title": "[API] Registering CustomStacks via code",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T09:33:52Z"
+"updated_at": "2026-03-28T17:43:34Z"
 },
 "5280": {
 "number": 5280,
@@ -996,11 +1040,11 @@
 "author": "iambibi",
 "title": "Tooltip on armor bugged",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T09:41:34Z"
+"updated_at": "2026-03-28T16:36:36Z"
 },
 "5201": {
 "number": 5201,
