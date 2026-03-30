@@ -1,4 +1,26 @@
 {
+"5294": {
+"number": 5294,
+"author": "Solshlo1234",
+"title": "duplicates on /iazip (Previous file: Duplicate found.)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-30T02:06:13Z"
+},
+"5293": {
+"number": 5293,
+"author": "forsakenliquid",
+"title": "Itemname gets a reset after enchanting",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-03-29T20:50:22Z"
+},
 "5292": {
 "number": 5292,
 "author": "iambibi",
@@ -1469,11 +1491,11 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 7,
+"comments": 8,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T11:15:47Z"
+"updated_at": "2026-03-30T09:10:46Z"
 },
 "5164": {
 "number": 5164,
