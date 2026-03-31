@@ -3,12 +3,12 @@
 "number": 5294,
 "author": "Solshlo1234",
 "title": "duplicates on /iazip (Previous file: Duplicate found.)",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2026-03-30T02:06:13Z"
+"updated_at": "2026-03-30T12:47:44Z"
 },
 "5293": {
 "number": 5293,
@@ -537,7 +537,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T20:45:34Z"
+"updated_at": "2026-03-30T12:46:07Z"
 },
 "5247": {
 "number": 5247,
