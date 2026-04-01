@@ -1,4 +1,39 @@
 {
+"5297": {
+"number": 5297,
+"author": "homerek111",
+"title": "itemsadder 4.0.16 randomly disables",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-01T11:57:41Z"
+},
+"5296": {
+"number": 5296,
+"author": "LoneDev6",
+"title": "Emotes - disable the legacy shader method by default and enable the modern method instead",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement"
+],
+"updated_at": "2026-04-01T10:07:43Z"
+},
+"5295": {
+"number": 5295,
+"author": "LoneDev6",
+"title": "Fix text effects shaders 21.6",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update",
+"impact: graphical issue",
+"type: bug"
+],
+"updated_at": "2026-03-31T16:56:12Z"
+},
 "5294": {
 "number": 5294,
 "author": "Solshlo1234",
@@ -1160,11 +1195,11 @@
 "author": "bobhenl",
 "title": "PackSquash support",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T10:50:03Z"
+"updated_at": "2026-03-31T19:13:32Z"
 },
 "5193": {
 "number": 5193,
