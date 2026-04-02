@@ -1,14 +1,25 @@
 {
+"5298": {
+"number": 5298,
+"author": "Real6dq",
+"title": "Option for more",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-02T11:20:00Z"
+},
 "5297": {
 "number": 5297,
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 0,
+"comments": 9,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-01T11:57:41Z"
+"updated_at": "2026-04-02T08:45:39Z"
 },
 "5296": {
 "number": 5296,
@@ -183,12 +194,12 @@
 "number": 5281,
 "author": "RSChao",
 "title": "[API] Registering CustomStacks via code",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-28T17:43:34Z"
+"updated_at": "2026-04-02T06:37:43Z"
 },
 "5280": {
 "number": 5280,
