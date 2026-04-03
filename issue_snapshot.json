@@ -1,4 +1,71 @@
 {
+"5304": {
+"number": 5304,
+"author": "Gu57-git",
+"title": "Possibility to ignite target with \"target_potion_effect\"",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-02T22:35:23Z"
+},
+"5303": {
+"number": 5303,
+"author": "Gu57-git",
+"title": "Action \"target_potion_effect\" can be used in \"damage_entity_in_sight\" action",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-02T22:24:43Z"
+},
+"5302": {
+"number": 5302,
+"author": "Gu57-git",
+"title": "Spawn start distance condition for populators / mobs",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-02T22:35:45Z"
+},
+"5301": {
+"number": 5301,
+"author": "MineTommy",
+"title": "Furniture Place / Break Itemsadder on Purpur 1.21.11 Latest (4.0.16)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-02T15:46:26Z"
+},
+"5300": {
+"number": 5300,
+"author": "LoneDev6",
+"title": "Trident duplication issue",
+"state": "open",
+"comments": 0,
+"labels": [
+"impact: breaks gameplay (critical)",
+"type: bug"
+],
+"updated_at": "2026-04-02T15:13:37Z"
+},
+"5299": {
+"number": 5299,
+"author": "LoneDev6",
+"title": "Some resourcepack folders ignored if multiple structures are used",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-02T14:51:22Z"
+},
 "5298": {
 "number": 5298,
 "author": "Real6dq",
@@ -15,11 +82,11 @@
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 9,
+"comments": 12,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-02T08:45:39Z"
+"updated_at": "2026-04-02T15:31:20Z"
 },
 "5296": {
 "number": 5296,
@@ -1405,13 +1472,14 @@
 "number": 5176,
 "author": "bruhhhwarrior",
 "title": "Emotes displaying floating heads",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
 "impact: graphical issue",
-"type: bug"
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-02-04T10:29:04Z"
+"updated_at": "2026-04-02T14:57:09Z"
 },
 "5175": {
 "number": 5175,
@@ -1502,12 +1570,12 @@
 "author": "Ihsannoob",
 "title": "Bug text GUI",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-03-27T11:12:45Z"
+"updated_at": "2026-04-03T07:09:15Z"
 },
 "5167": {
 "number": 5167,
@@ -1537,11 +1605,12 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 8,
+"comments": 10,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-03-30T09:10:46Z"
+"updated_at": "2026-04-02T19:36:40Z"
 },
 "5164": {
 "number": 5164,
