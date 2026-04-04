@@ -1,4 +1,37 @@
 {
+"5307": {
+"number": 5307,
+"author": "kellygh-dev",
+"title": "Itemsadder automatically disables itself",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-04T08:24:30Z"
+},
+"5306": {
+"number": 5306,
+"author": "Gu57-git",
+"title": "Event for item right/left click in inventory and actions inside inventory",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-03T15:09:10Z"
+},
+"5305": {
+"number": 5305,
+"author": "Gu57-git",
+"title": "\"generic_over_time\" for HUDs",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-03T12:57:46Z"
+},
 "5304": {
 "number": 5304,
 "author": "Gu57-git",
@@ -26,22 +59,22 @@
 "author": "Gu57-git",
 "title": "Spawn start distance condition for populators / mobs",
 "state": "open",
-"comments": 1,
+"comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-02T22:35:45Z"
+"updated_at": "2026-04-03T23:06:22Z"
 },
 "5301": {
 "number": 5301,
 "author": "MineTommy",
 "title": "Furniture Place / Break Itemsadder on Purpur 1.21.11 Latest (4.0.16)",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-02T15:46:26Z"
+"updated_at": "2026-04-03T13:51:40Z"
 },
 "5300": {
 "number": 5300,
@@ -82,11 +115,11 @@
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 12,
+"comments": 14,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-02T15:31:20Z"
+"updated_at": "2026-04-04T07:27:52Z"
 },
 "5296": {
 "number": 5296,
@@ -505,11 +538,11 @@
 "author": "PuppyTransGirl",
 "title": "`ItemsAdder.Advanced.injectItemModifier` not working",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-24T13:26:00Z"
+"updated_at": "2026-04-03T16:16:12Z"
 },
 "5259": {
 "number": 5259,
@@ -1943,11 +1976,11 @@
 "author": "HaydoPotato1310",
 "title": "Item models are not loading properly",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T10:32:25Z"
+"updated_at": "2026-04-04T04:22:05Z"
 },
 "5134": {
 "number": 5134,
@@ -5632,7 +5665,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-11-14T15:26:23Z"
+"updated_at": "2026-04-03T14:29:10Z"
 },
 "4816": {
 "number": 4816,
@@ -46243,11 +46276,11 @@
 "author": "The-Gust",
 "title": "Full-set armor bonuses",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2024-11-28T14:51:47Z"
+"updated_at": "2026-04-03T13:33:38Z"
 },
 "1332": {
 "number": 1332,
@@ -46325,11 +46358,11 @@
 "author": "The-Gust",
 "title": "XZ min and max options for world populators/trees populators/surface populators",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2024-11-28T13:32:45Z"
+"updated_at": "2026-04-03T14:27:04Z"
 },
 "1325": {
 "number": 1325,
