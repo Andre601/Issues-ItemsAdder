@@ -1,14 +1,58 @@
 {
-"5307": {
-"number": 5307,
-"author": "kellygh-dev",
-"title": "Itemsadder automatically disables itself",
+"5311": {
+"number": 5311,
+"author": "Gu57-git",
+"title": "Action \"replace_biome\" for items",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-04T21:11:00Z"
+},
+"5310": {
+"number": 5310,
+"author": "Gu57-git",
+"title": "\"surface_decorators\" minecraft:snow replacing option or possibility to use \"replaceable_blocks\" paremeter",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-04T18:47:30Z"
+},
+"5309": {
+"number": 5309,
+"author": "Gu57-git",
+"title": "\"bottom_blocks\" list for blocks properties",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-04T19:55:50Z"
+},
+"5308": {
+"number": 5308,
+"author": "ABC360gamer",
+"title": "ItemsAdder is Disabling in middle game ( when server is still online )",
 "state": "open",
 "comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-04T08:24:30Z"
+"updated_at": "2026-04-04T18:41:03Z"
+},
+"5307": {
+"number": 5307,
+"author": "kellygh-dev",
+"title": "Itemsadder automatically disables itself",
+"state": "closed",
+"comments": 3,
+"labels": [
+"type: duplicate"
+],
+"updated_at": "2026-04-04T13:17:31Z"
 },
 "5306": {
 "number": 5306,
@@ -57,13 +101,13 @@
 "5302": {
 "number": 5302,
 "author": "Gu57-git",
-"title": "Spawn start distance condition for populators / mobs",
+"title": "Spawn distance condition for populators / mobs / loots",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-03T23:06:22Z"
+"updated_at": "2026-04-05T07:08:40Z"
 },
 "5301": {
 "number": 5301,
@@ -115,11 +159,11 @@
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 14,
+"comments": 23,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-04T07:27:52Z"
+"updated_at": "2026-04-05T09:29:17Z"
 },
 "5296": {
 "number": 5296,
@@ -859,19 +903,6 @@
 "type: bug"
 ],
 "updated_at": "2026-03-27T13:49:28Z"
-},
-"5232": {
-"number": 5232,
-"author": "hoanhthien-folder",
-"title": "1.20.6 Paperspigot IAEntity is crashing everything. Using the latest SpigotMC version of ItemsAdder",
-"state": "closed",
-"comments": 1,
-"labels": [
-"type: bug",
-"verdict: invalid",
-"verdict: misconfigured"
-],
-"updated_at": "2026-03-05T15:06:37Z"
 },
 "5230": {
 "number": 5230,
