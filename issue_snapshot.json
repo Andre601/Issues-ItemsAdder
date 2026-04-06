@@ -1,4 +1,92 @@
 {
+"5319": {
+"number": 5319,
+"author": "CCjun6",
+"title": "How to Use Modern Armor in MMOItems",
+"state": "closed",
+"comments": 6,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-06T11:46:21Z"
+},
+"5318": {
+"number": 5318,
+"author": "JarvisReginald",
+"title": "Error Caused by \"rendertype_text\" Shader",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-05T23:02:58Z"
+},
+"5317": {
+"number": 5317,
+"author": "Gu57-git",
+"title": "Custom blocks support in vanilla structures methods (structore blocks and world configurations)",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-05T19:58:37Z"
+},
+"5316": {
+"number": 5316,
+"author": "Gu57-git",
+"title": "Custom crop \"light_level\"",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-05T18:59:46Z"
+},
+"5315": {
+"number": 5315,
+"author": "Gu57-git",
+"title": "Custom crops can be placed on water, when water is \"bottom_block\" like REAL_WIRE",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-05T18:51:11Z"
+},
+"5314": {
+"number": 5314,
+"author": "Gu57-git",
+"title": "Upper part of vanilla tall grass can grow over custom crops",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-05T17:56:09Z"
+},
+"5313": {
+"number": 5313,
+"author": "Gu57-git",
+"title": "Possibility to specify list of \"bottom_block\" for custom crops",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-05T19:04:14Z"
+},
+"5312": {
+"number": 5312,
+"author": "Gu57-git",
+"title": "Bottom block breaking supposed to drop seed/result of custom crops",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-05T14:31:13Z"
+},
 "5311": {
 "number": 5311,
 "author": "Gu57-git",
@@ -36,12 +124,12 @@
 "number": 5308,
 "author": "ABC360gamer",
 "title": "ItemsAdder is Disabling in middle game ( when server is still online )",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2026-04-04T18:41:03Z"
+"updated_at": "2026-04-05T12:18:41Z"
 },
 "5307": {
 "number": 5307,
@@ -90,13 +178,13 @@
 "5303": {
 "number": 5303,
 "author": "Gu57-git",
-"title": "Action \"target_potion_effect\" can be used in \"damage_entity_in_sight\" action",
+"title": "Action \"target_potion_effect\" can be used in/as \"damage_entity_in_sight\" action",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-02T22:24:43Z"
+"updated_at": "2026-04-05T19:08:39Z"
 },
 "5302": {
 "number": 5302,
@@ -159,11 +247,11 @@
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 23,
+"comments": 33,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-05T09:29:17Z"
+"updated_at": "2026-04-06T10:31:24Z"
 },
 "5296": {
 "number": 5296,
@@ -237,12 +325,12 @@
 "number": 5290,
 "author": "0-DAyFF13R",
 "title": "Missing custom textures",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-28T19:42:32Z"
+"updated_at": "2026-04-05T18:30:56Z"
 },
 "5289": {
 "number": 5289,
@@ -1669,12 +1757,12 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 10,
+"comments": 12,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-02T19:36:40Z"
+"updated_at": "2026-04-06T12:10:14Z"
 },
 "5164": {
 "number": 5164,
@@ -36617,7 +36705,7 @@
 },
 "2162": {
 "number": 2162,
-"author": "HighVirus",
+"author": "edoardomannino",
 "title": "Can not get furniture from FurniturePlaceEvent",
 "state": "closed",
 "comments": 3,
@@ -36676,7 +36764,7 @@
 },
 "2157": {
 "number": 2157,
-"author": "HighVirus",
+"author": "edoardomannino",
 "title": "Bug with FurniturePlaceSuccessEvent",
 "state": "closed",
 "comments": 3,
