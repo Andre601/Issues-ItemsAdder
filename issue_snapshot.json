@@ -8,7 +8,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-07T21:16:49Z"
+"updated_at": "2026-04-09T11:41:37Z"
 },
 "5320": {
 "number": 5320,
@@ -93,11 +93,11 @@
 "author": "Gu57-git",
 "title": "Possibility to specify list of \"bottom_block\" for custom crops",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-06T16:05:20Z"
+"updated_at": "2026-04-09T11:33:24Z"
 },
 "5312": {
 "number": 5312,
@@ -214,11 +214,11 @@
 "author": "Gu57-git",
 "title": "Spawn distance condition for populators / mobs / loots",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-05T07:08:40Z"
+"updated_at": "2026-04-09T11:32:39Z"
 },
 "5301": {
 "number": 5301,
@@ -270,11 +270,11 @@
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
 "state": "open",
-"comments": 33,
+"comments": 35,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-06T10:31:24Z"
+"updated_at": "2026-04-08T17:43:29Z"
 },
 "5296": {
 "number": 5296,
