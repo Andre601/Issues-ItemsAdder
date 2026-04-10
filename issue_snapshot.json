@@ -1,4 +1,51 @@
 {
+"5325": {
+"number": 5325,
+"author": "bruhhhwarrior",
+"title": "Mounts on iaentities are broken",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-09T22:17:39Z"
+},
+"5324": {
+"number": 5324,
+"author": "Gu57-git",
+"title": "Redstone blocks/furniture events",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-09T19:52:16Z"
+},
+"5323": {
+"number": 5323,
+"author": "Gu57-git",
+"title": "Lava fishing and loot table options for it",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-09T20:42:30Z"
+},
+"5322": {
+"number": 5322,
+"author": "LoneDev6",
+"title": "Glow not working on 26.1.1",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update",
+"type: bug",
+"type: other plugin bug"
+],
+"updated_at": "2026-04-09T15:58:11Z"
+},
 "5321": {
 "number": 5321,
 "author": "Gu57-git",
@@ -269,12 +316,13 @@
 "number": 5297,
 "author": "homerek111",
 "title": "itemsadder 4.0.16 randomly disables",
-"state": "open",
-"comments": 35,
+"state": "closed",
+"comments": 36,
 "labels": [
-"type: bug"
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-04-08T17:43:29Z"
+"updated_at": "2026-04-09T16:28:58Z"
 },
 "5296": {
 "number": 5296,
