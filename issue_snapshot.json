@@ -1,4 +1,72 @@
 {
+"5331": {
+"number": 5331,
+"author": "iambibi",
+"title": "Make it so that the blocks can be made up of 2 blocks",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-11T10:52:23Z"
+},
+"5330": {
+"number": 5330,
+"author": "SacraFlamma",
+"title": "item adder crashing",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-11T00:34:05Z"
+},
+"5329": {
+"number": 5329,
+"author": "Gu57-git",
+"title": "Vanilla block entity inventory preview bug",
+"state": "open",
+"comments": 1,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-11T07:05:07Z"
+},
+"5328": {
+"number": 5328,
+"author": "Andre601",
+"title": "Plugin softlocks when using lists in textures for graphics option",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-10T20:57:34Z"
+},
+"5327": {
+"number": 5327,
+"author": "bruhhhwarrior",
+"title": "iazip not working, Original model of material PAPER has errors",
+"state": "closed",
+"comments": 1,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-10T17:57:55Z"
+},
+"5326": {
+"number": 5326,
+"author": "LuluxClient",
+"title": "Display entities furniture placed using axiom changed it's rotation after updating itemsadder",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-10T13:12:24Z"
+},
 "5325": {
 "number": 5325,
 "author": "bruhhhwarrior",
@@ -129,11 +197,11 @@
 "author": "Gu57-git",
 "title": "Upper part of vanilla tall grass can grow over custom crops",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-05T17:56:09Z"
+"updated_at": "2026-04-10T20:30:58Z"
 },
 "5313": {
 "number": 5313,
@@ -615,12 +683,12 @@
 "author": "ICEZAFT",
 "title": "Customize Table not transfer the enchantments",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T12:50:13Z"
+"updated_at": "2026-04-10T21:51:31Z"
 },
 "5270": {
 "number": 5270,
@@ -1828,12 +1896,12 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 12,
+"comments": 13,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-06T12:29:31Z"
+"updated_at": "2026-04-10T15:31:28Z"
 },
 "5164": {
 "number": 5164,
@@ -3218,7 +3286,7 @@
 },
 "5043": {
 "number": 5043,
-"author": "andy3559167",
+"author": "ava852546",
 "title": "Can't combine vanilla items in anvil",
 "state": "closed",
 "comments": 0,
