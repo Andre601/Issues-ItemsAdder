@@ -1,4 +1,15 @@
 {
+"5332": {
+"number": 5332,
+"author": "Koora7334",
+"title": "Size & rotation not saved when restart / reload",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-11T20:01:38Z"
+},
 "5331": {
 "number": 5331,
 "author": "iambibi",
@@ -8,18 +19,18 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-11T10:52:23Z"
+"updated_at": "2026-04-11T13:10:49Z"
 },
 "5330": {
 "number": 5330,
 "author": "SacraFlamma",
 "title": "item adder crashing",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-11T00:34:05Z"
+"updated_at": "2026-04-11T13:18:08Z"
 },
 "5329": {
 "number": 5329,
@@ -61,11 +72,11 @@
 "author": "LuluxClient",
 "title": "Display entities furniture placed using axiom changed it's rotation after updating itemsadder",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-10T13:12:24Z"
+"updated_at": "2026-04-11T13:12:18Z"
 },
 "5325": {
 "number": 5325,
@@ -1896,12 +1907,12 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 13,
+"comments": 15,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-10T15:31:28Z"
+"updated_at": "2026-04-12T11:32:17Z"
 },
 "5164": {
 "number": 5164,
