@@ -1,14 +1,36 @@
 {
+"5334": {
+"number": 5334,
+"author": "Andre601",
+"title": "API to add custom behaviours",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-12T21:23:27Z"
+},
+"5333": {
+"number": 5333,
+"author": "00Hrtz",
+"title": "4.0.16 item_drops error",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-12T13:06:54Z"
+},
 "5332": {
 "number": 5332,
 "author": "Koora7334",
 "title": "Size & rotation not saved when restart / reload",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-11T20:01:38Z"
+"updated_at": "2026-04-12T14:24:13Z"
 },
 "5331": {
 "number": 5331,
@@ -1907,12 +1929,12 @@
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 15,
+"comments": 17,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-12T11:32:17Z"
+"updated_at": "2026-04-12T15:19:17Z"
 },
 "5164": {
 "number": 5164,
