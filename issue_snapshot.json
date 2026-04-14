@@ -1,4 +1,48 @@
 {
+"5338": {
+"number": 5338,
+"author": "Gu57-git",
+"title": "ItemsAdder entities particles issue",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-14T09:17:19Z"
+},
+"5337": {
+"number": 5337,
+"author": "Gu57-git",
+"title": "Own tree shapes",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-14T00:30:24Z"
+},
+"5336": {
+"number": 5336,
+"author": "gromilovdanil1-spec",
+"title": "ADD NEW EVENT - crossbow_shot",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-13T16:13:04Z"
+},
+"5335": {
+"number": 5335,
+"author": "Gu57-git",
+"title": "HUD increment/decrement by damage/killing",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-13T18:22:33Z"
+},
 "5334": {
 "number": 5334,
 "author": "Andre601",
@@ -26,11 +70,11 @@
 "author": "Koora7334",
 "title": "Size & rotation not saved when restart / reload",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-12T14:24:13Z"
+"updated_at": "2026-04-14T09:29:37Z"
 },
 "5331": {
 "number": 5331,
@@ -48,11 +92,11 @@
 "author": "SacraFlamma",
 "title": "item adder crashing",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-11T13:18:08Z"
+"updated_at": "2026-04-13T15:46:06Z"
 },
 "5329": {
 "number": 5329,
@@ -98,7 +142,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-11T13:12:18Z"
+"updated_at": "2026-04-14T09:29:27Z"
 },
 "5325": {
 "number": 5325,
@@ -195,13 +239,13 @@
 "5317": {
 "number": 5317,
 "author": "Gu57-git",
-"title": "Custom blocks support in vanilla structures methods (structore blocks and world configurations)",
+"title": "Custom blocks support in vanilla structures methods (structure blocks and world configurations)",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-05T19:58:37Z"
+"updated_at": "2026-04-14T00:31:05Z"
 },
 "5316": {
 "number": 5316,
@@ -234,7 +278,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-10T20:30:58Z"
+"updated_at": "2026-04-14T09:18:13Z"
 },
 "5313": {
 "number": 5313,
@@ -256,7 +300,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-05T14:31:13Z"
+"updated_at": "2026-04-14T09:17:49Z"
 },
 "5311": {
 "number": 5311,
@@ -333,7 +377,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-03T12:57:46Z"
+"updated_at": "2026-04-14T09:16:59Z"
 },
 "5304": {
 "number": 5304,
@@ -520,11 +564,11 @@
 "author": "TheGiv32",
 "title": "Glow near blocks not working correctly.",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T22:26:12Z"
+"updated_at": "2026-04-14T09:17:36Z"
 },
 "5287": {
 "number": 5287,
