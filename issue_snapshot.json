@@ -1,14 +1,37 @@
 {
+"5340": {
+"number": 5340,
+"author": "thocorregiari-max",
+"title": "Problem with custom armor",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-15T05:45:09Z"
+},
+"5339": {
+"number": 5339,
+"author": "Gu57-git",
+"title": "\"damage_entity_in_sight\" cause error in ValhallaMMO plugin",
+"state": "closed",
+"comments": 3,
+"labels": [
+"type: other plugin bug"
+],
+"updated_at": "2026-04-14T20:15:22Z"
+},
 "5338": {
 "number": 5338,
 "author": "Gu57-git",
 "title": "ItemsAdder entities particles issue",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-14T09:17:19Z"
+"updated_at": "2026-04-14T17:05:11Z"
 },
 "5337": {
 "number": 5337,
@@ -24,13 +47,13 @@
 "5336": {
 "number": 5336,
 "author": "gromilovdanil1-spec",
-"title": "ADD NEW EVENT - crossbow_shot",
+"title": "Add `crossbow_shoot` event",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-13T16:13:04Z"
+"updated_at": "2026-04-14T13:01:59Z"
 },
 "5335": {
 "number": 5335,
@@ -61,20 +84,22 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-04-12T13:06:54Z"
+"updated_at": "2026-04-14T16:41:19Z"
 },
 "5332": {
 "number": 5332,
 "author": "Koora7334",
 "title": "Size & rotation not saved when restart / reload",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-14T09:29:37Z"
+"updated_at": "2026-04-14T16:40:40Z"
 },
 "5331": {
 "number": 5331,
@@ -108,7 +133,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-11T07:05:07Z"
+"updated_at": "2026-04-14T16:29:31Z"
 },
 "5328": {
 "number": 5328,
@@ -119,7 +144,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-10T20:57:34Z"
+"updated_at": "2026-04-14T16:27:59Z"
 },
 "5327": {
 "number": 5327,
@@ -220,9 +245,10 @@
 "state": "closed",
 "comments": 6,
 "labels": [
-"type: feature request"
+"type: support request",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-06T11:46:21Z"
+"updated_at": "2026-04-14T16:43:04Z"
 },
 "5318": {
 "number": 5318,
@@ -232,20 +258,21 @@
 "comments": 5,
 "labels": [
 "type: bug",
-"verdict: can't reproduce"
+"verdict: can't reproduce",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-06T14:22:25Z"
+"updated_at": "2026-04-14T16:41:02Z"
 },
 "5317": {
 "number": 5317,
 "author": "Gu57-git",
 "title": "Custom blocks support in vanilla structures methods (structure blocks and world configurations)",
 "state": "open",
-"comments": 0,
+"comments": 6,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-14T00:31:05Z"
+"updated_at": "2026-04-14T22:05:08Z"
 },
 "5316": {
 "number": 5316,
@@ -285,11 +312,11 @@
 "author": "Gu57-git",
 "title": "Possibility to specify list of \"bottom_block\" for custom crops",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-09T11:33:24Z"
+"updated_at": "2026-04-14T23:00:45Z"
 },
 "5312": {
 "number": 5312,
@@ -449,13 +476,13 @@
 "5298": {
 "number": 5298,
 "author": "Real6dq",
-"title": "Option for more",
+"title": "Automatic external host (private host)",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-02T11:20:00Z"
+"updated_at": "2026-04-14T16:45:45Z"
 },
 "5297": {
 "number": 5297,
@@ -553,11 +580,12 @@
 "author": "Leahcimkrob",
 "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
+"compat: new minecraft update",
 "type: bug"
 ],
-"updated_at": "2026-03-28T14:42:23Z"
+"updated_at": "2026-04-14T18:26:35Z"
 },
 "5288": {
 "number": 5288,
@@ -585,12 +613,13 @@
 "number": 5286,
 "author": "al1sonsz",
 "title": "Texture pack loading failed",
-"state": "open",
-"comments": 4,
+"state": "closed",
+"comments": 5,
 "labels": [
-"type: bug"
+"verdict: invalid",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-03-27T21:55:19Z"
+"updated_at": "2026-04-14T16:40:33Z"
 },
 "5285": {
 "number": 5285,
@@ -645,9 +674,10 @@
 "state": "closed",
 "comments": 3,
 "labels": [
-"type: feature request"
+"type: feature request",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-02T06:37:43Z"
+"updated_at": "2026-04-14T16:35:48Z"
 },
 "5280": {
 "number": 5280,
@@ -1645,7 +1675,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-31T19:13:32Z"
+"updated_at": "2026-04-14T16:50:46Z"
 },
 "5193": {
 "number": 5193,
@@ -5339,7 +5369,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2025-10-29T17:41:37Z"
+"updated_at": "2026-04-14T16:55:58Z"
 },
 "4873": {
 "number": 4873,
