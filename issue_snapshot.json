@@ -1,4 +1,60 @@
 {
+"5345": {
+"number": 5345,
+"author": "LoneDev6",
+"title": "26.1.2 support",
+"state": "open",
+"comments": 0,
+"labels": [
+"compat: new minecraft update"
+],
+"updated_at": "2026-04-16T12:27:51Z"
+},
+"5344": {
+"number": 5344,
+"author": "WarnDa",
+"title": "Error in logs due to min_format",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-15T22:03:15Z"
+},
+"5343": {
+"number": 5343,
+"author": "Gu57-git",
+"title": "\"replace_near_blocks\" action shape option",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-15T20:19:08Z"
+},
+"5342": {
+"number": 5342,
+"author": "Gu57-git",
+"title": "Custom blocks / furniture beacon mechanic",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-15T20:01:34Z"
+},
+"5341": {
+"number": 5341,
+"author": "LoneDev6",
+"title": "Use the new text input method in the items search GUI",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement"
+],
+"updated_at": "2026-04-15T16:07:37Z"
+},
 "5340": {
 "number": 5340,
 "author": "thocorregiari-max",
@@ -9,7 +65,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-15T05:45:09Z"
+"updated_at": "2026-04-15T12:35:36Z"
 },
 "5339": {
 "number": 5339,
@@ -163,11 +219,11 @@
 "author": "LuluxClient",
 "title": "Display entities furniture placed using axiom changed it's rotation after updating itemsadder",
 "state": "open",
-"comments": 1,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-14T09:29:27Z"
+"updated_at": "2026-04-16T11:00:11Z"
 },
 "5325": {
 "number": 5325,
@@ -813,12 +869,14 @@
 "number": 5269,
 "author": "LoneDev6",
 "title": "Ping increase issue on block breaking (lot of players playing)",
-"state": "open",
+"state": "closed",
 "comments": 0,
 "labels": [
-"type: bug"
+"status: inactive",
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-03-23T17:56:17Z"
+"updated_at": "2026-04-15T16:10:12Z"
 },
 "5268": {
 "number": 5268,
@@ -1061,7 +1119,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-30T12:46:07Z"
+"updated_at": "2026-04-15T16:07:01Z"
 },
 "5247": {
 "number": 5247,
@@ -1991,24 +2049,27 @@
 "number": 5166,
 "author": "ItzStanleex",
 "title": "Outdated shadowed Adventure API breaks other plugins on Paper 1.21.10",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"status: inactive",
+"type: bug",
+"type: other plugin bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-02-19T10:55:50Z"
+"updated_at": "2026-04-15T16:09:50Z"
 },
 "5165": {
 "number": 5165,
 "author": "aaa8881",
 "title": "Server hang on itemsadder 4.0.15",
 "state": "open",
-"comments": 17,
+"comments": 19,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-12T15:19:17Z"
+"updated_at": "2026-04-16T10:50:44Z"
 },
 "5164": {
 "number": 5164,
@@ -5369,7 +5430,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-14T16:55:58Z"
+"updated_at": "2026-04-15T16:06:50Z"
 },
 "4873": {
 "number": 4873,
@@ -8180,12 +8241,12 @@
 "author": "00Hrtz",
 "title": "Weapon Reload feature",
 "state": "open",
-"comments": 5,
+"comments": 6,
 "labels": [
 "type: feature request",
 "verdict: minecraft limitation"
 ],
-"updated_at": "2025-10-01T11:58:15Z"
+"updated_at": "2026-04-15T18:58:14Z"
 },
 "4623": {
 "number": 4623,
