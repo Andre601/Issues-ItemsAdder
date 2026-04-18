@@ -1,4 +1,26 @@
 {
+"5348": {
+"number": 5348,
+"author": "johnfriedrich",
+"title": "1.21.1 Support - 1.21.1 is a very common LTS version for modded servers",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-18T12:02:27Z"
+},
+"5347": {
+"number": 5347,
+"author": "LoneDev6",
+"title": "Item display furniture have y+1 offset by default for no reason when placed on ceiling",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-17T14:30:53Z"
+},
 "5346": {
 "number": 5346,
 "author": "Andre601",
@@ -151,12 +173,12 @@
 "number": 5332,
 "author": "Koora7334",
 "title": "Size & rotation not saved when restart / reload",
-"state": "open",
-"comments": 4,
+"state": "closed",
+"comments": 5,
 "labels": [
-"type: bug"
+"type: duplicate"
 ],
-"updated_at": "2026-04-14T16:40:40Z"
+"updated_at": "2026-04-17T12:41:52Z"
 },
 "5331": {
 "number": 5331,
@@ -173,12 +195,14 @@
 "number": 5330,
 "author": "SacraFlamma",
 "title": "item adder crashing",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 3,
 "labels": [
-"type: bug"
+"outdated: dependency",
+"outdated: server",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-13T15:46:06Z"
+"updated_at": "2026-04-17T12:36:36Z"
 },
 "5329": {
 "number": 5329,
@@ -218,13 +242,13 @@
 "5326": {
 "number": 5326,
 "author": "LuluxClient",
-"title": "Display entities furniture placed using axiom changed it's rotation after updating itemsadder",
+"title": "Display entities furniture lose customized rotations",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-16T11:00:11Z"
+"updated_at": "2026-04-17T13:21:35Z"
 },
 "5325": {
 "number": 5325,
@@ -628,21 +652,24 @@
 "state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"type: other plugin bug",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-05T18:30:56Z"
+"updated_at": "2026-04-17T12:34:35Z"
 },
 "5289": {
 "number": 5289,
 "author": "Leahcimkrob",
 "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
-"state": "open",
-"comments": 2,
+"state": "closed",
+"comments": 5,
 "labels": [
 "compat: new minecraft update",
-"type: bug"
+"type: bug",
+"verdict: misconfigured"
 ],
-"updated_at": "2026-04-14T18:26:35Z"
+"updated_at": "2026-04-18T08:49:18Z"
 },
 "5288": {
 "number": 5288,
@@ -953,11 +980,11 @@
 "author": "topkide",
 "title": "Crops-Stream-Tick ArrayIndexOutOfBoundsException causes Server thread infinite loop in Long2ObjectOpenHashMap.get() \u2192 Watchdog crash",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T10:26:35Z"
+"updated_at": "2026-04-17T13:05:32Z"
 },
 "5261": {
 "number": 5261,
@@ -1589,7 +1616,7 @@
 "state": "open",
 "comments": 0,
 "labels": [],
-"updated_at": "2026-02-19T17:21:12Z"
+"updated_at": "2026-04-17T12:34:07Z"
 },
 "5205": {
 "number": 5205,
@@ -2366,13 +2393,13 @@
 "5138": {
 "number": 5138,
 "author": "BattleBornPMC",
-"title": "Recourse Pack links from Dropbox, Google drive and similair websites do not work anymore",
+"title": "Resourcepack links from Dropbox, Google drive and similar websites do not work anymore",
 "state": "open",
 "comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-16T16:24:54Z"
+"updated_at": "2026-04-17T12:54:37Z"
 },
 "5137": {
 "number": 5137,
