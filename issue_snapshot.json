@@ -1,4 +1,16 @@
 {
+"5353": {
+"number": 5353,
+"author": "pistonio",
+"title": "[ItemsAdder] Task for ItemsAdder v4.0.17-beta-8 generated an exception",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-20T15:03:51Z"
+},
 "5352": {
 "number": 5352,
 "author": "Gu57-git",
@@ -40206,7 +40218,7 @@
 },
 "1895": {
 "number": 1895,
-"author": "SlimifiedxD",
+"author": "ghost",
 "title": "ItemsAdder still loading",
 "state": "closed",
 "comments": 2,
