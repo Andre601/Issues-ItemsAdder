@@ -1,14 +1,27 @@
 {
-"5354": {
-"number": 5354,
-"author": "verychristmas",
-"title": "OtherPlugins.AdvancedSlimePaperWrapper",
+"5355": {
+"number": 5355,
+"author": "JrouleEnGolf5",
+"title": "Console spam: \u201cFailed to handle SPAWN_ENTITY packet for Trident: Unable to find MinecraftKey\u201d when players move (since 1.21.11)",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-21T19:26:51Z"
+"updated_at": "2026-04-23T09:09:43Z"
+},
+"5354": {
+"number": 5354,
+"author": "verychristmas",
+"title": "OtherPlugins.AdvancedSlimePaperWrapper",
+"state": "closed",
+"comments": 0,
+"labels": [
+"env: unofficial spigot fork",
+"type: bug",
+"verdict: invalid"
+],
+"updated_at": "2026-04-22T13:48:53Z"
 },
 "5353": {
 "number": 5353,
@@ -60,11 +73,11 @@
 "author": "dan28000",
 "title": "emojis not being parsed",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-20T01:55:47Z"
+"updated_at": "2026-04-22T23:37:00Z"
 },
 "5348": {
 "number": 5348,
@@ -276,12 +289,12 @@
 "author": "Gu57-git",
 "title": "Vanilla block entity inventory preview bug",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-14T16:29:31Z"
+"updated_at": "2026-04-23T10:45:48Z"
 },
 "5328": {
 "number": 5328,
@@ -327,7 +340,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-09T22:17:39Z"
+"updated_at": "2026-04-23T10:44:40Z"
 },
 "5324": {
 "number": 5324,
@@ -1945,11 +1958,11 @@
 "author": "Marcoral",
 "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
 "state": "open",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-23T15:04:53Z"
+"updated_at": "2026-04-23T08:26:28Z"
 },
 "5182": {
 "number": 5182,
