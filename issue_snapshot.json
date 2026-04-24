@@ -1,14 +1,39 @@
 {
+"5357": {
+"number": 5357,
+"author": "pistonio",
+"title": "A bug with custom textures on the armor stand",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-24T07:49:03Z"
+},
+"5356": {
+"number": 5356,
+"author": "pistonio",
+"title": "The records disappear after I put them in the turntable",
+"state": "open",
+"comments": 0,
+"labels": [
+"env: BETA",
+"type: bug"
+],
+"updated_at": "2026-04-24T07:37:43Z"
+},
 "5355": {
 "number": 5355,
 "author": "JrouleEnGolf5",
 "title": "Console spam: \u201cFailed to handle SPAWN_ENTITY packet for Trident: Unable to find MinecraftKey\u201d when players move (since 1.21.11)",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"outdated: dependency",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-23T09:09:43Z"
+"updated_at": "2026-04-23T15:10:06Z"
 },
 "5354": {
 "number": 5354,
@@ -26,14 +51,14 @@
 "5353": {
 "number": 5353,
 "author": "pistonio",
-"title": "[ItemsAdder] Task for ItemsAdder v4.0.17-beta-8 generated an exception",
+"title": "`NullPointerException: Cannot read field \"aoy\" because \"<parameter2>.xg\" is null` when breaking blocks",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-20T15:03:51Z"
+"updated_at": "2026-04-23T14:21:11Z"
 },
 "5352": {
 "number": 5352,
@@ -84,11 +109,11 @@
 "author": "johnfriedrich",
 "title": "1.21.1 Support - 1.21.1 is a very common LTS version for modded servers",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-18T13:50:00Z"
+"updated_at": "2026-04-23T15:13:12Z"
 },
 "5347": {
 "number": 5347,
@@ -1502,13 +1527,13 @@
 "5222": {
 "number": 5222,
 "author": "LitcherHUN",
-"title": "Noteblock broken",
+"title": "Noteblock issues",
 "state": "open",
 "comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-16T16:30:07Z"
+"updated_at": "2026-04-23T14:37:00Z"
 },
 "5221": {
 "number": 5221,
@@ -2175,12 +2200,12 @@
 "author": "aaa8881",
 "title": "Breaking custom blocks causes chunks to load and server hangs in some rare cases",
 "state": "open",
-"comments": 21,
+"comments": 23,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-20T08:44:24Z"
+"updated_at": "2026-04-23T15:11:43Z"
 },
 "5164": {
 "number": 5164,
