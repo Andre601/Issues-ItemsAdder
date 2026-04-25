@@ -1,4 +1,15 @@
 {
+"5358": {
+"number": 5358,
+"author": "Gu57-git",
+"title": "\"/iatrademachine <player> <furniture/block with trade_machine behaviour ID>\" command",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-24T21:56:26Z"
+},
 "5357": {
 "number": 5357,
 "author": "pistonio",
@@ -9,7 +20,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-24T07:49:03Z"
+"updated_at": "2026-04-24T19:27:49Z"
 },
 "5356": {
 "number": 5356,
@@ -166,11 +177,11 @@
 "author": "Gu57-git",
 "title": "\"replace_near_blocks\" action shape option",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-15T20:19:08Z"
+"updated_at": "2026-04-24T23:22:38Z"
 },
 "5342": {
 "number": 5342,
@@ -52576,18 +52587,6 @@
 ],
 "updated_at": "2024-11-07T12:37:17Z"
 },
-"840": {
-"number": 840,
-"author": "antibitcoin",
-"title": "Items adder 2.3.0 not working with 1.16.5 at all [BUG] ",
-"state": "closed",
-"comments": 1,
-"labels": [
-"status: inactive",
-"type: bug"
-],
-"updated_at": "2024-11-07T12:37:06Z"
-},
 "839": {
 "number": 839,
 "author": "100petr",
@@ -52680,18 +52679,6 @@
 "type: feature request"
 ],
 "updated_at": "2024-11-07T06:24:58Z"
-},
-"831": {
-"number": 831,
-"author": "antibitcoin",
-"title": "[BUG] Could not pass event EntityDeathEvent to ItemsAdder 2.3.0",
-"state": "closed",
-"comments": 1,
-"labels": [
-"type: bug",
-"type: duplicate"
-],
-"updated_at": "2024-11-07T12:37:16Z"
 },
 "830": {
 "number": 830,
@@ -57663,28 +57650,6 @@
 "comments": 3,
 "labels": [],
 "updated_at": "2024-11-07T22:16:50Z"
-},
-"381": {
-"number": 381,
-"author": "antibitcoin",
-"title": "[BUG] Invisible players after you TP or TPA to them",
-"state": "closed",
-"comments": 3,
-"labels": [
-"type: bug"
-],
-"updated_at": "2024-11-07T22:16:49Z"
-},
-"380": {
-"number": 380,
-"author": "antibitcoin",
-"title": "[BUG]  When I place a Vehicle, only a Bed appears.",
-"state": "closed",
-"comments": 1,
-"labels": [
-"verdict: invalid"
-],
-"updated_at": "2024-11-07T21:16:47Z"
 },
 "379": {
 "number": 379,
