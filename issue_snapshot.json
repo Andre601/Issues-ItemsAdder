@@ -1,14 +1,37 @@
 {
-"5359": {
-"number": 5359,
-"author": "kellygh-dev",
-"title": "Itemsadder 4.0.16 crashes randomly [Dont close this ticket]",
+"5361": {
+"number": 5361,
+"author": "EspartaProJunior",
+"title": "Atlas issue in latest version",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-26T20:45:21Z"
+"updated_at": "2026-04-27T21:32:44Z"
+},
+"5360": {
+"number": 5360,
+"author": "Andre601",
+"title": "Generated resource pack causes Client crashes when using REAL_TRANSPARENT",
+"state": "closed",
+"comments": 1,
+"labels": [
+"type: bug",
+"type: clientside bug"
+],
+"updated_at": "2026-04-27T15:12:48Z"
+},
+"5359": {
+"number": 5359,
+"author": "kellygh-dev",
+"title": "Itemsadder 4.0.16 crashes randomly [Dont close this ticket]",
+"state": "open",
+"comments": 3,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-27T21:41:34Z"
 },
 "5358": {
 "number": 5358,
@@ -255,11 +278,11 @@
 "author": "gromilovdanil1-spec",
 "title": "Add `crossbow_shoot` event",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-17T04:19:12Z"
+"updated_at": "2026-04-28T10:21:39Z"
 },
 "5335": {
 "number": 5335,
@@ -2888,11 +2911,11 @@
 "author": "dan28000",
 "title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
 "state": "closed",
-"comments": 2,
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-24T15:50:45Z"
+"updated_at": "2026-04-27T22:44:39Z"
 },
 "5105": {
 "number": 5105,
