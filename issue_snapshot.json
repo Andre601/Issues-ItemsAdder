@@ -1,14 +1,58 @@
 {
-"5361": {
-"number": 5361,
-"author": "EspartaProJunior",
-"title": "Atlas issue in latest version",
+"5366": {
+"number": 5366,
+"author": "Andre601",
+"title": "Better way of obtaining a CustomItem/Block/Furniture/... configuration.",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: feature request"
+],
+"updated_at": "2026-04-29T12:38:37Z"
+},
+"5364": {
+"number": 5364,
+"author": "LoneDev6",
+"title": "`BlockPlaceEvent#getItemInHand()` returns AIR when placing blocks on noteblocks",
 "state": "open",
 "comments": 0,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-27T21:32:44Z"
+"updated_at": "2026-04-29T06:41:29Z"
+},
+"5363": {
+"number": 5363,
+"author": "Dsngxddd",
+"title": "Optimization",
+"state": "open",
+"comments": 2,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-29T06:39:20Z"
+},
+"5362": {
+"number": 5362,
+"author": "Yellowingamer",
+"title": "Windcharge and windburst break my items",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-29T07:30:54Z"
+},
+"5361": {
+"number": 5361,
+"author": "EspartaProJunior",
+"title": "Atlas issue in latest version",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-29T06:46:57Z"
 },
 "5360": {
 "number": 5360,
@@ -26,12 +70,12 @@
 "number": 5359,
 "author": "kellygh-dev",
 "title": "Itemsadder 4.0.16 crashes randomly [Dont close this ticket]",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
-"type: bug"
+"verdict: invalid"
 ],
-"updated_at": "2026-04-27T21:41:34Z"
+"updated_at": "2026-04-29T07:14:10Z"
 },
 "5358": {
 "number": 5358,
@@ -42,7 +86,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-25T12:22:41Z"
+"updated_at": "2026-04-29T06:50:22Z"
 },
 "5357": {
 "number": 5357,
@@ -54,19 +98,19 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-24T19:27:49Z"
+"updated_at": "2026-04-29T08:51:13Z"
 },
 "5356": {
 "number": 5356,
 "author": "pistonio",
 "title": "The records disappear after I put them in the turntable",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-24T07:37:43Z"
+"updated_at": "2026-04-29T08:20:36Z"
 },
 "5355": {
 "number": 5355,
@@ -125,18 +169,19 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-19T13:28:28Z"
+"updated_at": "2026-04-29T06:42:53Z"
 },
 "5350": {
 "number": 5350,
 "author": "johnfriedrich",
 "title": "Could not pass event FurnaceSmeltEvent to ItemsAdder v4.0.16",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"compat: spigot",
 "type: bug"
 ],
-"updated_at": "2026-04-18T19:37:34Z"
+"updated_at": "2026-04-29T07:26:57Z"
 },
 "5349": {
 "number": 5349,
@@ -147,7 +192,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-22T23:37:00Z"
+"updated_at": "2026-04-29T07:25:50Z"
 },
 "5348": {
 "number": 5348,
@@ -198,13 +243,13 @@
 "author": "WarnDa",
 "title": "Error in logs due to min_format",
 "state": "open",
-"comments": 2,
+"comments": 3,
 "labels": [
 "env: BETA",
 "scope: resourcepack",
 "type: bug"
 ],
-"updated_at": "2026-04-16T13:57:31Z"
+"updated_at": "2026-04-29T07:19:11Z"
 },
 "5343": {
 "number": 5343,
@@ -233,12 +278,12 @@
 "author": "thocorregiari-max",
 "title": "Problem with custom armor",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-15T12:35:36Z"
+"updated_at": "2026-04-29T07:20:19Z"
 },
 "5339": {
 "number": 5339,
@@ -278,11 +323,11 @@
 "author": "gromilovdanil1-spec",
 "title": "Add `crossbow_shoot` event",
 "state": "open",
-"comments": 2,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-28T10:21:39Z"
+"updated_at": "2026-04-28T13:09:43Z"
 },
 "5335": {
 "number": 5335,
@@ -300,11 +345,11 @@
 "author": "Andre601",
 "title": "API to add custom behaviours",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-12T21:23:27Z"
+"updated_at": "2026-04-29T07:12:36Z"
 },
 "5333": {
 "number": 5333,
@@ -439,35 +484,35 @@
 "author": "LoneDev6",
 "title": "Glow not working on 26.1.1",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "compat: new minecraft update",
 "type: bug",
 "type: other plugin bug"
 ],
-"updated_at": "2026-04-09T15:58:11Z"
+"updated_at": "2026-04-29T09:54:37Z"
 },
 "5321": {
 "number": 5321,
 "author": "Gu57-git",
 "title": "Height condition for loots",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 2,
 "labels": [
-"type: feature request"
+"type: duplicate"
 ],
-"updated_at": "2026-04-09T11:41:37Z"
+"updated_at": "2026-04-29T09:16:08Z"
 },
 "5320": {
 "number": 5320,
 "author": "Alugor",
 "title": "Breaking Terracotta yields items with incorrect/mixed textures",
 "state": "open",
-"comments": 0,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-07T18:10:40Z"
+"updated_at": "2026-04-29T09:01:21Z"
 },
 "5319": {
 "number": 5319,
@@ -514,7 +559,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-05T18:59:46Z"
+"updated_at": "2026-04-29T09:14:19Z"
 },
 "5315": {
 "number": 5315,
@@ -541,13 +586,13 @@
 "5313": {
 "number": 5313,
 "author": "Gu57-git",
-"title": "Possibility to specify list of \"bottom_block\" for custom crops",
+"title": "Add multiples ``bottom_block`` and ``seeds`` on the same crop",
 "state": "open",
 "comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-14T23:00:45Z"
+"updated_at": "2026-04-29T07:27:39Z"
 },
 "5312": {
 "number": 5312,
@@ -569,7 +614,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-25T13:19:04Z"
+"updated_at": "2026-04-29T06:51:04Z"
 },
 "5310": {
 "number": 5310,
@@ -679,7 +724,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-03T13:51:40Z"
+"updated_at": "2026-04-29T10:28:05Z"
 },
 "5300": {
 "number": 5300,
@@ -771,7 +816,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-29T20:50:22Z"
+"updated_at": "2026-04-29T10:12:36Z"
 },
 "5292": {
 "number": 5292,
@@ -782,7 +827,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-29T08:32:57Z"
+"updated_at": "2026-04-29T10:29:01Z"
 },
 "5291": {
 "number": 5291,
@@ -813,13 +858,13 @@
 "author": "Leahcimkrob",
 "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
 "state": "closed",
-"comments": 5,
+"comments": 6,
 "labels": [
 "compat: new minecraft update",
 "type: bug",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-04-18T08:49:18Z"
+"updated_at": "2026-04-29T06:47:44Z"
 },
 "5288": {
 "number": 5288,
@@ -882,24 +927,25 @@
 "number": 5283,
 "author": "iambibi",
 "title": "[API] Loading a namespace from a URI",
-"state": "open",
-"comments": 3,
+"state": "closed",
+"comments": 4,
 "labels": [
-"type: feature request"
+"type: feature request",
+"verdict: already possible with external plugin"
 ],
-"updated_at": "2026-03-27T17:59:25Z"
+"updated_at": "2026-04-29T08:49:47Z"
 },
 "5282": {
 "number": 5282,
 "author": "ClayCoffee",
 "title": "Vehicle textures missing when merging MTVehicles's resourcepack",
 "state": "open",
-"comments": 8,
+"comments": 9,
 "labels": [
 "type: other plugin bug",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-03-27T16:26:28Z"
+"updated_at": "2026-04-29T10:30:49Z"
 },
 "5281": {
 "number": 5281,
@@ -958,7 +1004,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T16:02:38Z"
+"updated_at": "2026-04-29T08:44:46Z"
 },
 "5276": {
 "number": 5276,
@@ -1029,7 +1075,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-10T21:51:31Z"
+"updated_at": "2026-04-29T10:27:09Z"
 },
 "5270": {
 "number": 5270,
@@ -1245,14 +1291,14 @@
 "5252": {
 "number": 5252,
 "author": "patcotts",
-"title": "Working on my own plugin",
+"title": "RuntimeException: TileState is null",
 "state": "open",
 "comments": 0,
 "labels": [
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-24T14:29:01Z"
+"updated_at": "2026-04-29T07:38:03Z"
 },
 "5251": {
 "number": 5251,
@@ -1263,7 +1309,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-08T00:41:48Z"
+"updated_at": "2026-04-29T08:59:45Z"
 },
 "5250": {
 "number": 5250,
@@ -2207,12 +2253,12 @@
 "author": "Ihsannoob",
 "title": "Bug text GUI",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "impact: graphical issue",
 "type: bug"
 ],
-"updated_at": "2026-04-03T07:09:15Z"
+"updated_at": "2026-04-29T09:20:13Z"
 },
 "5167": {
 "number": 5167,
@@ -2245,12 +2291,12 @@
 "author": "aaa8881",
 "title": "Breaking custom blocks causes chunks to load and server hangs in some rare cases",
 "state": "open",
-"comments": 23,
+"comments": 24,
 "labels": [
 "type: bug",
 "verdict: can't reproduce"
 ],
-"updated_at": "2026-04-23T15:11:43Z"
+"updated_at": "2026-04-29T07:17:40Z"
 },
 "5164": {
 "number": 5164,
@@ -2261,7 +2307,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-18T12:17:14Z"
+"updated_at": "2026-04-29T10:17:52Z"
 },
 "5163": {
 "number": 5163,
@@ -2383,7 +2429,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-10T11:11:00Z"
+"updated_at": "2026-04-29T10:16:33Z"
 },
 "5152": {
 "number": 5152,
@@ -2505,7 +2551,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-27T16:27:51Z"
+"updated_at": "2026-04-29T10:15:36Z"
 },
 "5141": {
 "number": 5141,
@@ -2516,7 +2562,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-01T14:53:05Z"
+"updated_at": "2026-04-29T10:17:05Z"
 },
 "5140": {
 "number": 5140,
@@ -2587,7 +2633,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-04T04:22:05Z"
+"updated_at": "2026-04-29T09:17:13Z"
 },
 "5134": {
 "number": 5134,
@@ -2911,11 +2957,11 @@
 "author": "dan28000",
 "title": "BlockPlaceEvent being broken for placing block onto itemsadder custom block",
 "state": "closed",
-"comments": 3,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-27T22:44:39Z"
+"updated_at": "2026-04-29T06:42:00Z"
 },
 "5105": {
 "number": 5105,
@@ -41216,7 +41262,7 @@
 "env: unofficial spigot fork",
 "type: feature request"
 ],
-"updated_at": "2025-01-13T16:02:28Z"
+"updated_at": "2026-04-29T09:15:34Z"
 },
 "1810": {
 "number": 1810,
