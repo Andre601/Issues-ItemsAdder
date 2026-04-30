@@ -1,4 +1,27 @@
 {
+"5369": {
+"number": 5369,
+"author": "LoneDev6",
+"title": "Faster custom blocks placement",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement"
+],
+"updated_at": "2026-04-29T13:48:19Z"
+},
+"5368": {
+"number": 5368,
+"author": "LoneDev6",
+"title": "Self hosting overhaul",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: enhancement",
+"type: feature request"
+],
+"updated_at": "2026-04-29T13:45:02Z"
+},
 "5366": {
 "number": 5366,
 "author": "Andre601",
@@ -6,9 +29,10 @@
 "state": "open",
 "comments": 0,
 "labels": [
+"scope: api",
 "type: feature request"
 ],
-"updated_at": "2026-04-29T12:38:37Z"
+"updated_at": "2026-04-29T12:51:23Z"
 },
 "5364": {
 "number": 5364,
@@ -48,11 +72,11 @@
 "author": "EspartaProJunior",
 "title": "Atlas issue in latest version",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-29T06:46:57Z"
+"updated_at": "2026-04-29T13:48:30Z"
 },
 "5360": {
 "number": 5360,
@@ -71,11 +95,11 @@
 "author": "kellygh-dev",
 "title": "Itemsadder 4.0.16 crashes randomly [Dont close this ticket]",
 "state": "closed",
-"comments": 4,
+"comments": 5,
 "labels": [
 "verdict: invalid"
 ],
-"updated_at": "2026-04-29T07:14:10Z"
+"updated_at": "2026-04-30T06:30:12Z"
 },
 "5358": {
 "number": 5358,
@@ -110,7 +134,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-04-29T08:20:36Z"
+"updated_at": "2026-04-29T12:50:50Z"
 },
 "5355": {
 "number": 5355,
@@ -323,11 +347,11 @@
 "author": "gromilovdanil1-spec",
 "title": "Add `crossbow_shoot` event",
 "state": "open",
-"comments": 1,
+"comments": 5,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-28T13:09:43Z"
+"updated_at": "2026-04-29T14:00:40Z"
 },
 "5335": {
 "number": 5335,
@@ -508,11 +532,11 @@
 "author": "Alugor",
 "title": "Breaking Terracotta yields items with incorrect/mixed textures",
 "state": "open",
-"comments": 2,
+"comments": 4,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-29T09:01:21Z"
+"updated_at": "2026-04-29T16:41:54Z"
 },
 "5319": {
 "number": 5319,
@@ -636,7 +660,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-04-04T19:55:50Z"
+"updated_at": "2026-04-29T13:15:44Z"
 },
 "5308": {
 "number": 5308,
@@ -838,7 +862,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-28T20:19:48Z"
+"updated_at": "2026-04-29T13:16:36Z"
 },
 "5290": {
 "number": 5290,
@@ -858,13 +882,13 @@
 "author": "Leahcimkrob",
 "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
 "state": "closed",
-"comments": 6,
+"comments": 7,
 "labels": [
 "compat: new minecraft update",
 "type: bug",
 "verdict: misconfigured"
 ],
-"updated_at": "2026-04-29T06:47:44Z"
+"updated_at": "2026-04-29T17:32:22Z"
 },
 "5288": {
 "number": 5288,
@@ -993,7 +1017,7 @@
 "env: BETA",
 "type: bug"
 ],
-"updated_at": "2026-03-23T16:51:56Z"
+"updated_at": "2026-04-29T12:42:12Z"
 },
 "5277": {
 "number": 5277,
@@ -1503,22 +1527,24 @@
 "author": "PapaFeuerElla",
 "title": "Feature request - add crafting possibility in recipe view",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
+"type: enhancement",
 "type: feature request"
 ],
-"updated_at": "2026-03-01T21:02:22Z"
+"updated_at": "2026-04-29T13:21:35Z"
 },
 "5233": {
 "number": 5233,
 "author": "Doonplex",
 "title": "Bows and Crossbows won't shoot",
-"state": "open",
+"state": "closed",
 "comments": 4,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: can't reproduce"
 ],
-"updated_at": "2026-03-27T13:49:28Z"
+"updated_at": "2026-04-29T12:44:04Z"
 },
 "5230": {
 "number": 5230,
@@ -1859,7 +1885,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-03-28T16:36:36Z"
+"updated_at": "2026-04-29T12:50:27Z"
 },
 "5201": {
 "number": 5201,
@@ -1980,12 +2006,12 @@
 "number": 5192,
 "author": "Tramskovi",
 "title": "Libreforge send_title effect doesn't work with itemsadder installed",
-"state": "open",
-"comments": 0,
+"state": "closed",
+"comments": 1,
 "labels": [
-"type: bug"
+"verdict: misconfigured"
 ],
-"updated_at": "2026-02-07T22:45:30Z"
+"updated_at": "2026-04-29T13:50:09Z"
 },
 "5191": {
 "number": 5191,
@@ -2078,7 +2104,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-23T08:26:28Z"
+"updated_at": "2026-04-29T13:00:06Z"
 },
 "5182": {
 "number": 5182,
@@ -2318,7 +2344,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-17T17:11:02Z"
+"updated_at": "2026-04-29T12:40:56Z"
 },
 "5162": {
 "number": 5162,
@@ -2351,7 +2377,7 @@
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-12-14T12:15:21Z"
+"updated_at": "2026-04-29T12:43:26Z"
 },
 "5159": {
 "number": 5159,
@@ -2569,11 +2595,11 @@
 "author": "Iccrtlity",
 "title": "Proxy - resourcepack loading twice",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2025-11-29T12:46:58Z"
+"updated_at": "2026-04-29T13:54:46Z"
 },
 "5139": {
 "number": 5139,
@@ -2766,7 +2792,7 @@
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-03-27T16:46:56Z"
+"updated_at": "2026-04-29T12:42:33Z"
 },
 "5122": {
 "number": 5122,
@@ -3225,13 +3251,13 @@
 "author": "siberanka",
 "title": "advancedenchantments + grindstone - Mainhand state duplication",
 "state": "open",
-"comments": 6,
+"comments": 7,
 "labels": [
 "compat: plugin",
 "type: bug",
 "type: other plugin bug"
 ],
-"updated_at": "2026-03-21T13:52:59Z"
+"updated_at": "2026-04-29T12:54:14Z"
 },
 "5082": {
 "number": 5082,
@@ -33087,7 +33113,7 @@
 },
 "2512": {
 "number": 2512,
-"author": "Sjd6795",
+"author": "ChernarustRust",
 "title": "Apply resource pack - Black screen - only goes away on death",
 "state": "closed",
 "comments": 1,
