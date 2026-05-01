@@ -1,4 +1,26 @@
 {
+"5371": {
+"number": 5371,
+"author": "Hasnainzx1",
+"title": "Item Adder Stop Randomly Always, after some hours of starting the servers",
+"state": "open",
+"comments": 1,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-05-01T10:17:06Z"
+},
+"5370": {
+"number": 5370,
+"author": "misieur",
+"title": "NullPointerException: File.getAbsolutePath() because \"<local2>\" is null",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-04-30T13:55:54Z"
+},
 "5369": {
 "number": 5369,
 "author": "LoneDev6",
@@ -95,11 +117,11 @@
 "author": "kellygh-dev",
 "title": "Itemsadder 4.0.16 crashes randomly [Dont close this ticket]",
 "state": "closed",
-"comments": 5,
+"comments": 6,
 "labels": [
 "verdict: invalid"
 ],
-"updated_at": "2026-04-30T06:30:12Z"
+"updated_at": "2026-05-01T06:52:34Z"
 },
 "5358": {
 "number": 5358,
@@ -532,11 +554,11 @@
 "author": "Alugor",
 "title": "Breaking Terracotta yields items with incorrect/mixed textures",
 "state": "open",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-04-29T16:41:54Z"
+"updated_at": "2026-05-01T06:22:29Z"
 },
 "5319": {
 "number": 5319,
@@ -952,12 +974,12 @@
 "author": "iambibi",
 "title": "[API] Loading a namespace from a URI",
 "state": "closed",
-"comments": 4,
+"comments": 5,
 "labels": [
 "type: feature request",
 "verdict: already possible with external plugin"
 ],
-"updated_at": "2026-04-29T08:49:47Z"
+"updated_at": "2026-04-30T16:02:44Z"
 },
 "5282": {
 "number": 5282,
