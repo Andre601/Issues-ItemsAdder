@@ -1,14 +1,25 @@
 {
+"5372": {
+"number": 5372,
+"author": "HaydoPotato1310",
+"title": "Resource Reload Failed when joining a server with 4.0.16",
+"state": "open",
+"comments": 0,
+"labels": [
+"type: bug"
+],
+"updated_at": "2026-05-02T06:53:46Z"
+},
 "5371": {
 "number": 5371,
 "author": "Hasnainzx1",
 "title": "Item Adder Stop Randomly Always, after some hours of starting the servers",
-"state": "open",
-"comments": 1,
+"state": "closed",
+"comments": 3,
 "labels": [
 "type: bug"
 ],
-"updated_at": "2026-05-01T10:17:06Z"
+"updated_at": "2026-05-02T12:11:01Z"
 },
 "5370": {
 "number": 5370,
@@ -2300,13 +2311,14 @@
 "number": 5168,
 "author": "Ihsannoob",
 "title": "Bug text GUI",
-"state": "open",
+"state": "closed",
 "comments": 5,
 "labels": [
 "impact: graphical issue",
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2026-04-29T09:20:13Z"
+"updated_at": "2026-05-02T12:11:20Z"
 },
 "5167": {
 "number": 5167,
@@ -2687,12 +2699,13 @@
 "number": 5134,
 "author": "tomasalias",
 "title": "Items adder citizens error",
-"state": "open",
+"state": "closed",
 "comments": 1,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-27T10:22:12Z"
+"updated_at": "2026-05-02T12:11:37Z"
 },
 "5133": {
 "number": 5133,
@@ -2910,12 +2923,13 @@
 "number": 5114,
 "author": "homerek111",
 "title": "skin / citizens npc invisible glitch on 1.21.4 client",
-"state": "open",
+"state": "closed",
 "comments": 2,
 "labels": [
-"type: bug"
+"type: bug",
+"verdict: invalid"
 ],
-"updated_at": "2025-11-21T13:40:04Z"
+"updated_at": "2026-05-02T12:11:54Z"
 },
 "5113": {
 "number": 5113,
@@ -7959,11 +7973,11 @@
 "author": "Andre601",
 "title": "Option to configure effects/actions when standing on a custom block",
 "state": "open",
-"comments": 1,
+"comments": 2,
 "labels": [
 "type: feature request"
 ],
-"updated_at": "2026-02-04T10:02:53Z"
+"updated_at": "2026-05-02T12:21:32Z"
 },
 "4672": {
 "number": 4672,
@@ -9474,12 +9488,12 @@
 "author": "Andre601",
 "title": "Allow multiple items as a possible Ingredient in the grafting table",
 "state": "open",
-"comments": 0,
+"comments": 1,
 "labels": [
-"status: inactive",
-"type: feature request"
+"type: feature request",
+"verdict: already possible with external plugin"
 ],
-"updated_at": "2025-06-23T06:13:49Z"
+"updated_at": "2026-05-02T12:17:23Z"
 },
 "4539": {
 "number": 4539,
