@@ -8,7 +8,7 @@ REPO = os.environ["SOURCE_REPO"]
 TARGET_REPO = os.environ["TARGET_REPO"]
 TARGET_ISSUE = int(os.environ["TARGET_ISSUE"])
 
-SNAPSHOT_FILE = "issues_snapshot.json"
+SNAPSHOT_FILE = "issue_snapshot.json"
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
