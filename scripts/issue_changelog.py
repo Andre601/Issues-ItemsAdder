@@ -21,7 +21,7 @@ def fetch_issues():
     issues = []
     
     while url:
-        res = requests.get(url, headers=HEADERS, params=params}
+        res = requests.get(url, headers=HEADERS, params=params)
         res.raise_for_status()
         issues.extend(res.json())
 
