@@ -3,138 +3,135 @@ import json
 import requests
 from datetime import datetime
 
-GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
-SOURCE_REPO = os.environ['SOURCE_REPO']
-TARGET_REPO = os.environ['TARGET_REPO']
-TARGET_ISSUE = int(os.environ.get('TARGET_ISSUE', 1))
-SNAPSHOT_FILE = 'issue_snapshot.json'
+TOKEN = os.environ["GITHUB_TOKEN"]
+REPO = os.environ["SOURCE_REPO"]
+TARGET_REPO = os.environ["TARGET_REPO"]
+TARGET_ISSUE = int(os.environ["TARGET_ISSUE"])
+
+SNAPSHOT_FILE = "issues_snapshot.json"
 
 HEADERS = {
-    'Authorization': f'Bearer {GITHUB_TOKEN}',
-    'Accept': 'application/vnd.github+json',
+    "Authorization": f"Bearer {TOKEN}",
+    "Accept": "application/vnd.github+json",
 }
 
-def fetch_issues(state='all'):
+def fetch_issues():
+    url = f"https://api.github.com/repos/{REPO}/issues"
+    params = {"state": "open", "per_page": 100}
     issues = []
-    page = 1
-    while True:
-        url = f'https://api.github.com/repos/{SOURCE_REPO}/issues?state={state}&page={page}&per_page=100'
-        response = requests.get(url, headers=HEADERS)
-        response.raise_for_status()
-        data = response.json()
-        if not data:
-            break
-        issues.extend(data)
-        page += 1
-    # Exclude PRs from the list
-    return [
-        i for i in issues
-        if 'pull_request' not in i
-    ]
+    
+    while url:
+        res = requests.get(url, headers=HEADERS, params=params}
+        res.raise_for_status()
+        issues.extend(res.json())
 
-def get_issue_data(issue):
-    return {
-        'number': issue['number'],
-        'author': issue['user']['login'],
-        'title': issue['title'],
-        'state': issue['state'],
-        'comments': issue['comments'],
-        'labels': sorted([l['name'] for l in issue['labels']]),
-        'updated_at': issue['updated_at'],
-    }
+        url = res.links.get("next", {}).get("url")
 
-def fetch_target_issue():
-    resp = requests.get(f"https://api.github.com/repos/{TARGET_REPO}/issues/{TARGET_ISSUE}", headers=HEADERS)
-    return resp.json()
+    return [i for i in issues if "pull_request" not in i]
 
 def load_snapshot():
     if not os.path.exists(SNAPSHOT_FILE):
         return {}
-    with open(SNAPSHOT_FILE, 'r') as f:
+
+    with open(SNAPSHOT_FILE) as f:
         return json.load(f)
 
-def save_snapshot(snapshot):
-    with open(SNAPSHOT_FILE, 'w') as f:
-        json.dump(snapshot, f, indent=0)
+def save_snapshot(data):
+    with open(SNAPSHOT_FILE, "w") as f:
+        json.dump(data, f, indent=2)
 
-def compare_snapshots(old, new):
-    changes = {'new': [], 'closed': [], 'comments': [], 'labels': []}
-    old_keys = set(old)
-    new_keys = set(new)
-    
-    for key in new_keys - old_keys:
-        changes['new'].append(new[key])
-    
-    for key in old_keys - new_keys:
-        changes['closed'].append(old[key])
-    
-    for key in new_keys & old_keys:
-        if new[key]['comments'] > old[key]['comments']:
-            changes['comments'].append(new[key])
-        if new[key]['labels'] != old[key]['labels']:
-            changes['labels'].append(new[key])
-    
-    return changes
+def build_index(issues):
+    index = {}
+    for i in issues:
+        index[str(i["number"])] = {
+            "title": i["title"],
+            "updated_at": i["updated_at"],
+            "comments": i["comments"],
+            "labels": sorted([l["name"] for l in i["labels"]]),
+            "author": i["user"]["login"],
+        }
+    return index
 
-def format_changelog(changes):
-    if not any(changes.values()):
+def compare(old, new):
+    new_issues = []
+    closed_issues = []
+    updated_comments = []
+    label_changes = []
+
+    for num, data in new.items():
+        if num not in old:
+            new_issues.append((num, data))
+            continue
+
+        prev = old[num]
+
+        if data["comments"] > prev["comments"]:
+            updated_comments.append((num, data))
+
+        old_labels = set(prev["labels"])
+        new_labels = set(data["labels"])
+
+        added = new_labels - old_labels
+        removed = old_labels - new_labels
+
+        if added or removed:
+            label_changes.append((num, added, removed))
+
+    for num, prev_data in old.items():
+        if num not in new:
+            closed_issues.append((num, prev_data))
+
+    return new_issues, closed_issues, updated_comments, label_changes
+
+def format_changelog(new_issues, closed_issues, updated_comments, label_changes):
+    if not any([new_issues, closed_issues, updated_comments, label_changes]):
         return None
-    
-    lines = [f"### Issue Activity Summary","There have been Issue changes since the last Check has been performed! Below is a summary.\n"]
-    
-    if changes['new']:
-        lines.append("#### New Issues")
-        for issue in changes['new']:
-            lines.append(f"- #{issue['number']} by {issue['author']}")
-    
-    if changes['closed']:
-        lines.append("#### Closed Issues")
-        for issue in changes['closed']:
-            print("Added closed Issue")
-            lines.append(f"- #{issue['number']} by {issue['author']}")
-    
-    if changes['comments']:
-        lines.append("#### New Comments")
-        for issue in changes['comments']:
-            print("Added new Comment")
-            lines.append(f"- #{issue['number']} ({issue['comments']} comments)")
-    
-    if changes['labels']:
-        lines.append("#### Label Changes")
-        for issue in changes['labels']:
-            print("Added Label Change")
-            lines.append(f"- #{issue['number']} (Labels: {', '.join(issue['labels'])})")
 
-    print(lines)
+    lines = ["### Issues Activity Summary", "There have been changes in the Issue Tracker since the last check. Changes are listed below!"]
+
+    if new_issues:
+        lines.append("\n#### New Issues")
+        for num, d in new_issues:
+            lines.append(f"- #{num} by {d['author']}")
+
+    if closed_issues:
+        lines.append("\n#### Closed Issues")
+        for num, d in closed_issues:
+            lines.append(f"- #{num}")
+    
+    if updated_comments:
+        lines.append("\n#### Updated Comments")
+        for num, d in updated_comments:
+            lines.append(f"- #{num} ({d['comments']} Comments)")
+
+    if label_changes:
+        lines.append("\n#### Label Changes")
+        for num, added, removed in label_changes:
+            lines.append(f"- #{num}")
+            if added:
+                lines.append(f"    - Added `{'`, `'.join(added)}`")
+            if removed:
+                lines.append(f"    - Removed `{'`, `'.join(removed)}`")
+
     return "\n".join(lines)
 
-def post_comment(issue_number, body):
-    url = f'https://api.github.com/repos/{TARGET_REPO}/issues/{issue_number}/comments'
-    response = requests.post(url, headers=HEADERS, json={'body': body})
-    response.raise_for_status()
+def post_comment(body):
+    url = f"https://api.github.com/repos/{TARGET_REPO}/issues/{TARGET_ISSUE}/comments"
+    requests.post(url, headers=HEADERS, json={"body": body}).raise_for_status()
 
 def main():
-    current_issues_raw = fetch_issues()
-    current_issues = {str(i['number']): get_issue_data(i) for i in current_issues_raw}
-    
-    old_snapshot = load_snapshot()
-    
-    if not old_snapshot:
-        print("First run detected. Saving snapshot and skipping changelog.")
-        save_snapshot(current_issues)
-        return
-    
-    changes = compare_snapshots(old_snapshot, current_issues)
-    changelog = format_changelog(changes)
-    
-    if changelog:
-        issue = fetch_target_issue()
-        if issue.get("locked"):
-            print("Issue is locked. Skipping comment!")
-        else:
-            post_comment(TARGET_ISSUE, changelog)
-    
-    save_snapshot(current_issues)
+    issues = fetch_issues()
+    current = build_index(issues)
+    previous = load_snapshot()
 
-if __name__ == '__main__':
+    new_issues, closed_issues, updated_comments, label_changes = compare(previous, current)
+
+    changelog = format_changelog(new_issues, closed_issues, updated_comments, label_changes)
+
+    if changelog:
+        post_comment(changelog)
+
+    save_snapshot(current)
+
+if __name__ == "__main__":
     main()
