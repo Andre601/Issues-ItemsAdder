@@ -347,8 +347,8 @@
   },
   "5320": {
     "title": "Breaking Terracotta yields items with incorrect/mixed textures",
-    "updated_at": "2026-05-01T06:22:29Z",
-    "comments": 5,
+    "updated_at": "2026-05-04T10:50:02Z",
+    "comments": 6,
     "labels": [
       "type: bug"
     ],
@@ -419,7 +419,7 @@
   },
   "5310": {
     "title": "\"surface_decorators\" minecraft:snow replacing option or possibility to use \"replaceable_blocks\" paremeter",
-    "updated_at": "2026-04-04T18:47:30Z",
+    "updated_at": "2026-05-03T20:14:28Z",
     "comments": 0,
     "labels": [
       "type: feature request"
