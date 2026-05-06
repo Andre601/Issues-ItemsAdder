@@ -1,8 +1,18 @@
 {
+  "5376": {
+    "title": "custom sounds dont work",
+    "updated_at": "2026-05-06T02:04:55Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "bruhhhwarrior"
+  },
   "5375": {
     "title": "New methods & events API",
-    "updated_at": "2026-05-05T09:27:35Z",
-    "comments": 3,
+    "updated_at": "2026-05-05T15:47:44Z",
+    "comments": 7,
     "labels": [
       "type: feature request"
     ],
@@ -10,26 +20,17 @@
   },
   "5374": {
     "title": "[4.0.17-beta-9] Shield Bug",
-    "updated_at": "2026-05-04T22:19:21Z",
-    "comments": 3,
+    "updated_at": "2026-05-05T15:20:25Z",
+    "comments": 4,
     "labels": [
       "env: BETA",
       "type: bug"
     ],
     "author": "SamGamerYT"
   },
-  "5372": {
-    "title": "Resource Reload Failed when joining a server with 4.0.16",
-    "updated_at": "2026-05-02T06:53:46Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "HaydoPotato1310"
-  },
   "5370": {
     "title": "NullPointerException: File.getAbsolutePath() because \"<local2>\" is null",
-    "updated_at": "2026-04-30T13:55:54Z",
+    "updated_at": "2026-05-05T15:25:34Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -94,8 +95,8 @@
   },
   "5361": {
     "title": "Atlas issue in latest version",
-    "updated_at": "2026-04-29T13:48:30Z",
-    "comments": 2,
+    "updated_at": "2026-05-05T15:20:55Z",
+    "comments": 3,
     "labels": [
       "type: bug"
     ],
@@ -263,8 +264,8 @@
   },
   "5336": {
     "title": "Add `crossbow_shoot` event",
-    "updated_at": "2026-04-29T14:00:40Z",
-    "comments": 5,
+    "updated_at": "2026-05-05T15:21:19Z",
+    "comments": 6,
     "labels": [
       "type: feature request"
     ],
@@ -2216,7 +2217,7 @@
   },
   "4673": {
     "title": "Option to configure effects/actions when standing on a custom block",
-    "updated_at": "2026-05-02T12:21:32Z",
+    "updated_at": "2026-05-05T15:25:58Z",
     "comments": 2,
     "labels": [
       "type: feature request"
@@ -2358,7 +2359,7 @@
   },
   "4559": {
     "title": "Make trade machines their own thing not bound to blocks or furniture",
-    "updated_at": "2026-05-02T12:26:59Z",
+    "updated_at": "2026-05-05T15:26:17Z",
     "comments": 1,
     "labels": [
       "status: inactive",
@@ -2951,8 +2952,8 @@
   },
   "3611": {
     "title": "Held Offhand Event not Working Properly",
-    "updated_at": "2026-02-04T10:28:59Z",
-    "comments": 1,
+    "updated_at": "2026-05-05T14:53:54Z",
+    "comments": 0,
     "labels": [
       "type: bug"
     ],
