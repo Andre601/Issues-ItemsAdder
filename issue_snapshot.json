@@ -1,4 +1,14 @@
 {
+  "5377": {
+    "title": "API to obtain dictionary and language overwrites",
+    "updated_at": "2026-05-06T19:59:16Z",
+    "comments": 0,
+    "labels": [
+      "scope: api",
+      "type: feature request"
+    ],
+    "author": "Andre601"
+  },
   "5376": {
     "title": "custom sounds dont work",
     "updated_at": "2026-05-06T02:04:55Z",
@@ -11,7 +21,7 @@
   },
   "5375": {
     "title": "New methods & events API",
-    "updated_at": "2026-05-05T15:47:44Z",
+    "updated_at": "2026-05-07T12:29:05Z",
     "comments": 7,
     "labels": [
       "type: feature request"
