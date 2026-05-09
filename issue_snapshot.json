@@ -1,4 +1,23 @@
 {
+  "5379": {
+    "title": "The model doesn't work when using PAPER",
+    "updated_at": "2026-05-09T03:35:43Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "Nabi-dev01"
+  },
+  "5378": {
+    "title": "Replace custom_name component with item_name",
+    "updated_at": "2026-05-08T16:29:54Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "JeremyJenki"
+  },
   "5377": {
     "title": "API to obtain dictionary and language overwrites",
     "updated_at": "2026-05-06T19:59:16Z",
