@@ -1,4 +1,13 @@
 {
+  "5380": {
+    "title": "NullPointerException",
+    "updated_at": "2026-05-10T14:58:40Z",
+    "comments": 2,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "kloppie74"
+  },
   "5379": {
     "title": "The model doesn't work when using PAPER",
     "updated_at": "2026-05-09T03:35:43Z",
@@ -401,7 +410,7 @@
     "labels": [
       "type: bug"
     ],
-    "author": "Alugor"
+    "author": "fackelmeyer"
   },
   "5317": {
     "title": "Custom blocks support in vanilla structures methods (structure blocks and world configurations)",
@@ -1396,8 +1405,8 @@
   },
   "5118": {
     "title": "Add placeholder that returns resourcepack status",
-    "updated_at": "2025-11-19T02:59:23Z",
-    "comments": 0,
+    "updated_at": "2026-05-10T17:43:12Z",
+    "comments": 1,
     "labels": [
       "type: feature request"
     ],
