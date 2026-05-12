@@ -1,13 +1,4 @@
 {
-  "5380": {
-    "title": "NullPointerException",
-    "updated_at": "2026-05-10T14:58:40Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "kloppie74"
-  },
   "5379": {
     "title": "The model doesn't work when using PAPER",
     "updated_at": "2026-05-09T03:35:43Z",
@@ -49,7 +40,7 @@
   },
   "5375": {
     "title": "New methods & events API",
-    "updated_at": "2026-05-07T12:29:05Z",
+    "updated_at": "2026-05-12T09:14:34Z",
     "comments": 7,
     "labels": [
       "type: feature request"
@@ -112,15 +103,6 @@
       "type: bug"
     ],
     "author": "LoneDev6"
-  },
-  "5363": {
-    "title": "Optimization",
-    "updated_at": "2026-05-09T18:54:12Z",
-    "comments": 3,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Dsngxddd"
   },
   "5362": {
     "title": "Windcharge and windburst break my items",
@@ -621,6 +603,17 @@
       "type: bug"
     ],
     "author": "iambibi"
+  },
+  "5289": {
+    "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
+    "updated_at": "2026-05-12T09:30:51Z",
+    "comments": 9,
+    "labels": [
+      "compat: new minecraft update",
+      "type: bug",
+      "verdict: misconfigured"
+    ],
+    "author": "Leahcimkrob"
   },
   "5288": {
     "title": "Glow near blocks not working correctly.",
