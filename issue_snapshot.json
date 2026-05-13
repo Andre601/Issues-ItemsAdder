@@ -1,4 +1,40 @@
 {
+  "5384": {
+    "title": "Option to fix glitched vanilla mushrooms/chorus by changing it via auto-generated datapacks in worlds folders",
+    "updated_at": "2026-05-13T12:15:16Z",
+    "comments": 1,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5383": {
+    "title": "replace_near_blocks when interacting with a block",
+    "updated_at": "2026-05-12T16:45:26Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5382": {
+    "title": "Durability decreases when interacting with a block",
+    "updated_at": "2026-05-12T16:35:39Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5381": {
+    "title": "Chorus broken",
+    "updated_at": "2026-05-12T12:57:09Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "ReformedHooper"
+  },
   "5379": {
     "title": "The model doesn't work when using PAPER",
     "updated_at": "2026-05-09T03:35:43Z",
