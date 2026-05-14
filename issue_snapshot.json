@@ -1,7 +1,18 @@
 {
+  "5385": {
+    "title": "ERROR: Input of fragment shader 'lightMapColor' not written by vertex shader",
+    "updated_at": "2026-05-13T12:57:00Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5384": {
     "title": "Option to fix glitched vanilla mushrooms/chorus by changing it via auto-generated datapacks in worlds folders",
-    "updated_at": "2026-05-13T12:15:16Z",
+    "updated_at": "2026-05-13T15:19:16Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -28,9 +39,10 @@
   },
   "5381": {
     "title": "Chorus broken",
-    "updated_at": "2026-05-12T12:57:09Z",
-    "comments": 0,
+    "updated_at": "2026-05-13T15:52:00Z",
+    "comments": 3,
     "labels": [
+      "impact: graphical issue",
       "type: bug"
     ],
     "author": "ReformedHooper"
@@ -76,7 +88,7 @@
   },
   "5375": {
     "title": "New methods & events API",
-    "updated_at": "2026-05-12T09:14:34Z",
+    "updated_at": "2026-05-13T14:53:45Z",
     "comments": 7,
     "labels": [
       "type: feature request"
