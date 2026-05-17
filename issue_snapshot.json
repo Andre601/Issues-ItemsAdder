@@ -1,4 +1,22 @@
 {
+  "5387": {
+    "title": "entity / mob models always looking at one direction and not rotating",
+    "updated_at": "2026-05-16T19:51:13Z",
+    "comments": 2,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "UdalovKornelius"
+  },
+  "5386": {
+    "title": "entity doesn't turn and always looks at the same direction.",
+    "updated_at": "2026-05-16T17:55:28Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "UdalovKornelius"
+  },
   "5385": {
     "title": "ERROR: Input of fragment shader 'lightMapColor' not written by vertex shader",
     "updated_at": "2026-05-13T12:57:00Z",
@@ -654,8 +672,8 @@
   },
   "5289": {
     "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
-    "updated_at": "2026-05-12T09:30:51Z",
-    "comments": 9,
+    "updated_at": "2026-05-17T06:00:33Z",
+    "comments": 10,
     "labels": [
       "compat: new minecraft update",
       "type: bug",
