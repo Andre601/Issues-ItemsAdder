@@ -1,4 +1,49 @@
 {
+  "5393": {
+    "title": "Fix `break_particles_material` when using `behaviours` naming instead of legacy `specific_properties`",
+    "updated_at": "2026-05-19T12:53:22Z",
+    "comments": 0,
+    "labels": [],
+    "author": "LoneDev6"
+  },
+  "5392": {
+    "title": "Removed RealisticWorldGenerator the plugin is no longer maintained so there is no point into maintaining compatibility",
+    "updated_at": "2026-05-19T12:52:13Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5391": {
+    "title": "Plugin not working on 1.21.4 anymore",
+    "updated_at": "2026-05-19T12:51:06Z",
+    "comments": 0,
+    "labels": [
+      "compat: spigot",
+      "impact: breaks loading",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5390": {
+    "title": "`/iadebug get-item-with-custom-model-data`",
+    "updated_at": "2026-05-19T12:50:12Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5389": {
+    "title": "3D crops",
+    "updated_at": "2026-05-19T08:47:49Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "RemVan"
+  },
   "5387": {
     "title": "entity / mob models always looking at one direction and not rotating",
     "updated_at": "2026-05-18T06:21:59Z",
@@ -180,8 +225,8 @@
     "author": "Yellowingamer"
   },
   "5361": {
-    "title": "Atlas issue in latest version",
-    "updated_at": "2026-05-05T15:20:55Z",
+    "title": "Atlas merging",
+    "updated_at": "2026-05-19T12:42:51Z",
     "comments": 3,
     "labels": [
       "type: bug"
@@ -672,8 +717,8 @@
   },
   "5289": {
     "title": "Missing Item Textures in 1.21.11 (Final 4.0.16)",
-    "updated_at": "2026-05-17T06:00:33Z",
-    "comments": 10,
+    "updated_at": "2026-05-19T12:33:02Z",
+    "comments": 11,
     "labels": [
       "compat: new minecraft update",
       "type: bug",
