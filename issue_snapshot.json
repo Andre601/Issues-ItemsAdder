@@ -1,4 +1,32 @@
 {
+  "5396": {
+    "title": "Warn when multiple hosting methods selected",
+    "updated_at": "2026-05-20T07:37:23Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5395": {
+    "title": "block_dig creates deadlock on server and causes crash",
+    "updated_at": "2026-05-20T02:12:05Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "AltruFops"
+  },
+  "5394": {
+    "title": "Recipes loading optimization",
+    "updated_at": "2026-05-19T15:46:05Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement",
+      "type: performance"
+    ],
+    "author": "LoneDev6"
+  },
   "5393": {
     "title": "Fix `break_particles_material` when using `behaviours` naming instead of legacy `specific_properties`",
     "updated_at": "2026-05-19T12:53:22Z",
@@ -197,9 +225,9 @@
     "author": "LoneDev6"
   },
   "5366": {
-    "title": "Better way of obtaining a CustomItem/Block/Furniture/... configuration.",
-    "updated_at": "2026-04-29T12:51:23Z",
-    "comments": 0,
+    "title": "API method to obtain configuration section of an item",
+    "updated_at": "2026-05-20T08:37:31Z",
+    "comments": 1,
     "labels": [
       "scope: api",
       "type: feature request"
@@ -947,7 +975,7 @@
   },
   "5248": {
     "title": "API - method for launching custom tridents",
-    "updated_at": "2026-04-15T16:07:01Z",
+    "updated_at": "2026-05-19T13:15:59Z",
     "comments": 3,
     "labels": [
       "type: feature request"
