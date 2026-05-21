@@ -1,4 +1,13 @@
 {
+  "5397": {
+    "title": "Add configurable entity activation/tracking range for ItemsAdder entities",
+    "updated_at": "2026-05-20T15:36:08Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "iCrashMix"
+  },
   "5396": {
     "title": "Warn when multiple hosting methods selected",
     "updated_at": "2026-05-20T07:37:23Z",
