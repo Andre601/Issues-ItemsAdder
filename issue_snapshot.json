@@ -1,4 +1,23 @@
 {
+  "5399": {
+    "title": "Resourcepack not generated automatically on first install",
+    "updated_at": "2026-05-22T08:53:01Z",
+    "comments": 0,
+    "labels": [
+      "type: bug",
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5398": {
+    "title": "Add options to easily use the new model parts.",
+    "updated_at": "2026-05-21T17:31:46Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "BattleBornPMC"
+  },
   "5397": {
     "title": "Add configurable entity activation/tracking range for ItemsAdder entities",
     "updated_at": "2026-05-20T15:36:08Z",
@@ -291,8 +310,8 @@
   },
   "5356": {
     "title": "The records disappear after I put them in the turntable",
-    "updated_at": "2026-04-29T12:50:50Z",
-    "comments": 2,
+    "updated_at": "2026-05-22T10:04:13Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -330,7 +349,7 @@
   },
   "5349": {
     "title": "emojis not being parsed",
-    "updated_at": "2026-04-29T07:25:50Z",
+    "updated_at": "2026-05-22T10:03:30Z",
     "comments": 2,
     "labels": [
       "type: bug"
