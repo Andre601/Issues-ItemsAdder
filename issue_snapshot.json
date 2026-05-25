@@ -1,4 +1,13 @@
 {
+  "5403": {
+    "title": "[QUESTION] Unable to break furniture after restart",
+    "updated_at": "2026-05-24T17:37:19Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "ReformedHooper"
+  },
   "5402": {
     "title": "Failed to serialize custom items configs for block",
     "updated_at": "2026-05-22T19:50:05Z",
