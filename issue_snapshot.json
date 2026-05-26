@@ -1,8 +1,28 @@
 {
+  "5405": {
+    "title": "Custom music disc cannot be retrieved from jukebox after insertion",
+    "updated_at": "2026-05-26T06:25:19Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "pistonio"
+  },
+  "5404": {
+    "title": "Texture 'item/empty' not found for non-leather armor models after /iazip in beta-12",
+    "updated_at": "2026-05-26T06:23:03Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "pistonio"
+  },
   "5403": {
     "title": "[QUESTION] Unable to break furniture after restart",
-    "updated_at": "2026-05-24T17:37:19Z",
-    "comments": 0,
+    "updated_at": "2026-05-25T13:21:46Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -2424,7 +2444,7 @@
   },
   "4695": {
     "title": "no-host config option non-functional",
-    "updated_at": "2026-02-04T10:29:00Z",
+    "updated_at": "2026-05-26T09:24:10Z",
     "comments": 4,
     "labels": [
       "type: bug"
