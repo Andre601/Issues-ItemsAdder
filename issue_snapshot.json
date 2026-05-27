@@ -572,8 +572,8 @@
     "author": "LuluxClient"
   },
   "5325": {
-    "title": "Mounts on iaentities are broken",
-    "updated_at": "2026-04-23T10:44:40Z",
+    "title": "26.1+ Custom entities mount not working",
+    "updated_at": "2026-05-27T08:10:20Z",
     "comments": 0,
     "labels": [
       "env: BETA",
