@@ -1,4 +1,44 @@
 {
+  "5409": {
+    "title": "Events before & after a player opens a trade machine",
+    "updated_at": "2026-05-29T11:46:20Z",
+    "comments": 0,
+    "labels": [
+      "scope: api",
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
+  "5408": {
+    "title": "Events before & after a player sit on a furniture",
+    "updated_at": "2026-05-29T11:36:12Z",
+    "comments": 0,
+    "labels": [
+      "scope: api",
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
+  "5407": {
+    "title": "font image shadow setting does nothing",
+    "updated_at": "2026-05-29T08:53:16Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "bruhhhwarrior"
+  },
+  "5406": {
+    "title": "Shields position problem",
+    "updated_at": "2026-05-28T23:40:15Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "ZzPowerTech"
+  },
   "5405": {
     "title": "Custom music disc cannot be retrieved from jukebox after insertion",
     "updated_at": "2026-05-26T06:25:19Z",
@@ -189,7 +229,7 @@
   },
   "5384": {
     "title": "Option to fix glitched vanilla mushrooms/chorus by changing it via auto-generated datapacks in worlds folders",
-    "updated_at": "2026-05-13T15:19:16Z",
+    "updated_at": "2026-05-29T08:53:15Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -216,7 +256,7 @@
   },
   "5381": {
     "title": "Chorus broken",
-    "updated_at": "2026-05-13T15:52:00Z",
+    "updated_at": "2026-05-29T08:53:14Z",
     "comments": 3,
     "labels": [
       "impact: graphical issue",
@@ -255,7 +295,7 @@
   },
   "5376": {
     "title": "custom sounds dont work",
-    "updated_at": "2026-05-07T12:48:28Z",
+    "updated_at": "2026-05-29T08:53:12Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -265,16 +305,17 @@
   },
   "5375": {
     "title": "New methods & events API",
-    "updated_at": "2026-05-13T14:53:45Z",
+    "updated_at": "2026-05-29T11:48:37Z",
     "comments": 7,
     "labels": [
+      "scope: api",
       "type: feature request"
     ],
     "author": "PuppyTransGirl"
   },
   "5374": {
     "title": "[4.0.17-beta-9] Shield Bug",
-    "updated_at": "2026-05-05T15:20:25Z",
+    "updated_at": "2026-05-29T08:53:13Z",
     "comments": 4,
     "labels": [
       "env: BETA",
@@ -284,7 +325,7 @@
   },
   "5370": {
     "title": "NullPointerException: File.getAbsolutePath() because \"<local2>\" is null",
-    "updated_at": "2026-05-05T15:25:34Z",
+    "updated_at": "2026-05-29T08:53:12Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -293,7 +334,7 @@
   },
   "5369": {
     "title": "Faster custom blocks placement",
-    "updated_at": "2026-04-29T13:48:19Z",
+    "updated_at": "2026-05-29T08:53:12Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
@@ -322,7 +363,7 @@
   },
   "5364": {
     "title": "`BlockPlaceEvent#getItemInHand()` returns AIR when placing blocks on noteblocks",
-    "updated_at": "2026-04-29T06:41:29Z",
+    "updated_at": "2026-05-29T08:54:00Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -331,7 +372,7 @@
   },
   "5362": {
     "title": "Windcharge and windburst break my items",
-    "updated_at": "2026-04-29T07:30:54Z",
+    "updated_at": "2026-05-29T08:53:59Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -358,7 +399,7 @@
   },
   "5357": {
     "title": "A bug with custom textures on the armor stand",
-    "updated_at": "2026-04-29T08:51:13Z",
+    "updated_at": "2026-05-29T08:53:58Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -368,7 +409,7 @@
   },
   "5356": {
     "title": "The records disappear after I put them in the turntable",
-    "updated_at": "2026-05-22T10:04:13Z",
+    "updated_at": "2026-05-29T08:53:57Z",
     "comments": 3,
     "labels": [
       "env: BETA",
@@ -481,7 +522,7 @@
   },
   "5340": {
     "title": "Problem with custom armor",
-    "updated_at": "2026-04-29T07:20:19Z",
+    "updated_at": "2026-05-29T08:53:56Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -491,7 +532,7 @@
   },
   "5338": {
     "title": "ItemsAdder entities particles issue",
-    "updated_at": "2026-04-14T17:05:11Z",
+    "updated_at": "2026-05-29T08:53:56Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -509,7 +550,7 @@
   },
   "5336": {
     "title": "Add `crossbow_shoot` event",
-    "updated_at": "2026-05-05T15:21:19Z",
+    "updated_at": "2026-05-29T08:53:11Z",
     "comments": 6,
     "labels": [
       "type: feature request"
@@ -648,7 +689,7 @@
   },
   "5314": {
     "title": "Upper part of vanilla tall grass can grow over custom crops",
-    "updated_at": "2026-04-14T09:18:13Z",
+    "updated_at": "2026-05-29T08:53:55Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -666,7 +707,7 @@
   },
   "5312": {
     "title": "Bottom block breaking supposed to drop seed/result of custom crops",
-    "updated_at": "2026-04-14T09:17:49Z",
+    "updated_at": "2026-05-29T08:53:54Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -711,7 +752,7 @@
   },
   "5305": {
     "title": "\"generic_over_time\" for HUDs",
-    "updated_at": "2026-04-14T09:16:59Z",
+    "updated_at": "2026-05-29T08:53:54Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -747,7 +788,7 @@
   },
   "5301": {
     "title": "Furniture Place / Break Itemsadder on Purpur 1.21.11 Latest (4.0.16)",
-    "updated_at": "2026-04-29T10:28:05Z",
+    "updated_at": "2026-05-29T08:53:51Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -813,7 +854,7 @@
   },
   "5292": {
     "title": "Cannot read field \"ag\" because the return value of \"itemsadder.m.a.d()\" is null",
-    "updated_at": "2026-04-29T10:29:01Z",
+    "updated_at": "2026-05-29T08:53:58Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -842,7 +883,7 @@
   },
   "5288": {
     "title": "Glow near blocks not working correctly.",
-    "updated_at": "2026-04-18T19:24:39Z",
+    "updated_at": "2026-05-29T08:53:58Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -889,7 +930,7 @@
   },
   "5276": {
     "title": "Crops packet spam",
-    "updated_at": "2026-03-27T13:48:27Z",
+    "updated_at": "2026-05-29T08:53:10Z",
     "comments": 4,
     "labels": [
       "env: BETA",
@@ -899,7 +940,7 @@
   },
   "5275": {
     "title": "allow several bottom blocks (list) for crops",
-    "updated_at": "2026-03-27T08:59:59Z",
+    "updated_at": "2026-05-29T08:53:09Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -908,7 +949,7 @@
   },
   "5274": {
     "title": "top part of tall hitboxes dont trigger hitbox",
-    "updated_at": "2026-03-27T11:11:35Z",
+    "updated_at": "2026-05-29T08:53:57Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -918,7 +959,7 @@
   },
   "5273": {
     "title": "blocks break crops when placed",
-    "updated_at": "2026-03-27T09:36:38Z",
+    "updated_at": "2026-05-29T08:53:56Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -928,7 +969,7 @@
   },
   "5272": {
     "title": "Crops can be broken and interacted with through blocks",
-    "updated_at": "2026-03-27T09:38:10Z",
+    "updated_at": "2026-05-29T08:53:56Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -938,7 +979,7 @@
   },
   "5271": {
     "title": "Customize Table not transfer the enchantments",
-    "updated_at": "2026-04-29T10:27:09Z",
+    "updated_at": "2026-05-29T08:53:55Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -948,7 +989,7 @@
   },
   "5270": {
     "title": "Font Image issue in Lore",
-    "updated_at": "2026-03-27T10:18:59Z",
+    "updated_at": "2026-05-29T08:53:54Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -958,7 +999,7 @@
   },
   "5266": {
     "title": "Mushroom Config Affects Unbreakable Durability and Disables Silk Touch on Mushroom Blocks",
-    "updated_at": "2026-03-27T10:18:16Z",
+    "updated_at": "2026-05-29T08:53:53Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -976,7 +1017,7 @@
   },
   "5261": {
     "title": "Error reading vanilla model for material COPPER_SWORD",
-    "updated_at": "2026-03-27T08:57:55Z",
+    "updated_at": "2026-05-29T08:53:52Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -994,7 +1035,7 @@
   },
   "5259": {
     "title": "decrement_amout doesnt work in replace_block",
-    "updated_at": "2026-03-27T10:17:50Z",
+    "updated_at": "2026-05-29T08:53:52Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -1004,7 +1045,7 @@
   },
   "5258": {
     "title": "PlayerInteractEvent issues with complex furnitures",
-    "updated_at": "2026-03-27T09:43:36Z",
+    "updated_at": "2026-05-29T08:53:51Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -1023,7 +1064,7 @@
   },
   "5252": {
     "title": "RuntimeException: TileState is null",
-    "updated_at": "2026-04-29T07:38:03Z",
+    "updated_at": "2026-05-29T08:53:50Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -1042,7 +1083,7 @@
   },
   "5250": {
     "title": "Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
-    "updated_at": "2026-03-27T09:02:27Z",
+    "updated_at": "2026-05-29T08:53:49Z",
     "comments": 4,
     "labels": [
       "type: bug"
@@ -1070,7 +1111,7 @@
   },
   "5247": {
     "title": "People can send GUIs in chat by using unicode associated with it.",
-    "updated_at": "2026-03-27T10:45:36Z",
+    "updated_at": "2026-05-29T08:53:09Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -1100,7 +1141,7 @@
   },
   "5243": {
     "title": "Add `item_model` option to the `replace_properties` action",
-    "updated_at": "2026-03-27T10:22:24Z",
+    "updated_at": "2026-05-29T08:53:49Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1127,7 +1168,7 @@
   },
   "5234": {
     "title": "Feature request - add crafting possibility in recipe view",
-    "updated_at": "2026-04-29T13:21:35Z",
+    "updated_at": "2026-05-29T08:53:46Z",
     "comments": 1,
     "labels": [
       "type: enhancement",
@@ -1137,7 +1178,7 @@
   },
   "5230": {
     "title": "NullPointerException when using spear attack (ServerboundPlayerActionPacket / PlayerDigType is null)",
-    "updated_at": "2026-03-23T17:00:02Z",
+    "updated_at": "2026-05-29T08:53:50Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -1158,7 +1199,7 @@
   },
   "5228": {
     "title": "TNT destroying chest behind custom blocs",
-    "updated_at": "2026-03-27T11:08:10Z",
+    "updated_at": "2026-05-29T08:53:49Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1167,7 +1208,7 @@
   },
   "5227": {
     "title": "implement placeable_on for complex-furniture",
-    "updated_at": "2026-02-27T09:47:57Z",
+    "updated_at": "2026-05-29T08:53:48Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1185,7 +1226,7 @@
   },
   "5221": {
     "title": "FurnitureBreakEvent prevents manual furniture removal when cancelled",
-    "updated_at": "2026-03-27T11:08:51Z",
+    "updated_at": "2026-05-29T08:53:48Z",
     "comments": 0,
     "labels": [
       "scope: api",
@@ -1205,7 +1246,7 @@
   },
   "5216": {
     "title": "Cant Acces the libary classes or failed downloaded libarys?",
-    "updated_at": "2026-03-27T11:52:06Z",
+    "updated_at": "2026-05-29T08:53:47Z",
     "comments": 1,
     "labels": [
       "scope: api",
@@ -1228,7 +1269,7 @@
   },
   "5208": {
     "title": "sit_all_solid_blocks does not work anymore",
-    "updated_at": "2026-02-23T16:28:29Z",
+    "updated_at": "2026-05-29T08:53:46Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1244,7 +1285,7 @@
   },
   "5204": {
     "title": "Items Updater not correctly working with custom armors & trims",
-    "updated_at": "2026-03-27T11:01:51Z",
+    "updated_at": "2026-05-29T08:53:08Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1316,7 +1357,7 @@
   },
   "5190": {
     "title": "Smithing recipes do not work anymore",
-    "updated_at": "2026-02-23T16:28:01Z",
+    "updated_at": "2026-05-29T08:53:45Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1334,7 +1375,7 @@
   },
   "5184": {
     "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
-    "updated_at": "2026-04-29T13:00:06Z",
+    "updated_at": "2026-05-29T08:53:45Z",
     "comments": 4,
     "labels": [
       "type: bug"
@@ -1343,7 +1384,7 @@
   },
   "5181": {
     "title": "Items that normally cannot be broken can be broken with multiple_break.",
-    "updated_at": "2026-03-27T10:29:09Z",
+    "updated_at": "2026-05-29T08:53:20Z",
     "comments": 2,
     "labels": [
       "impact: breaks gameplay (critical)",
@@ -1441,7 +1482,7 @@
   },
   "5163": {
     "title": "Smithing Table (lore double)",
-    "updated_at": "2026-04-29T12:40:56Z",
+    "updated_at": "2026-05-29T08:53:44Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1468,7 +1509,7 @@
   },
   "5159": {
     "title": "attackReach attribute throwing an error despite working",
-    "updated_at": "2026-03-27T10:36:46Z",
+    "updated_at": "2026-05-29T08:53:43Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1495,7 +1536,7 @@
   },
   "5155": {
     "title": "ItemsAdder.playTotemAnimation API call doesn't display custom totem texture",
-    "updated_at": "2026-03-27T10:35:38Z",
+    "updated_at": "2026-05-29T08:53:43Z",
     "comments": 0,
     "labels": [
       "scope: api",
@@ -1505,7 +1546,7 @@
   },
   "5153": {
     "title": "ItemsAdder blocking Enchanting Custom Items with Anvil",
-    "updated_at": "2026-04-29T10:16:33Z",
+    "updated_at": "2026-05-29T08:53:40Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1543,7 +1584,7 @@
   },
   "5146": {
     "title": "Implement water-lava bottom block for crops",
-    "updated_at": "2026-02-04T10:29:04Z",
+    "updated_at": "2026-05-29T08:53:42Z",
     "comments": 0,
     "labels": [],
     "author": "LoneDev6"
@@ -1614,7 +1655,7 @@
   },
   "5123": {
     "title": "Remove old config fields not used anymore",
-    "updated_at": "2026-04-29T12:42:33Z",
+    "updated_at": "2026-05-29T08:53:05Z",
     "comments": 4,
     "labels": [
       "type: feature request"
@@ -1641,7 +1682,7 @@
   },
   "5112": {
     "title": "Tile blocks appear as spawners when placed",
-    "updated_at": "2026-02-06T14:41:56Z",
+    "updated_at": "2026-05-29T08:53:41Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1650,7 +1691,7 @@
   },
   "5103": {
     "title": "CRITICAL Cooldown limit and completely broken.",
-    "updated_at": "2026-02-04T10:29:03Z",
+    "updated_at": "2026-05-29T08:53:40Z",
     "comments": 6,
     "labels": [
       "type: bug"
@@ -1763,7 +1804,7 @@
   },
   "5069": {
     "title": "Item_Flag modifier in items only does one rule (IE. Hide Enchants OR Hide Attributes)",
-    "updated_at": "2026-02-04T10:29:02Z",
+    "updated_at": "2026-05-29T08:53:40Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1790,7 +1831,7 @@
   },
   "5059": {
     "title": "New crops system API",
-    "updated_at": "2026-02-04T10:29:02Z",
+    "updated_at": "2026-05-29T08:53:39Z",
     "comments": 0,
     "labels": [
       "scope: api",
@@ -1838,7 +1879,7 @@
   },
   "5046": {
     "title": "Error reading vanilla model for material PALE_OAK_LOG",
-    "updated_at": "2026-02-04T10:29:01Z",
+    "updated_at": "2026-05-29T08:53:39Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1847,7 +1888,7 @@
   },
   "5041": {
     "title": "Cave decorator not placing blocks correctly",
-    "updated_at": "2026-02-04T10:29:00Z",
+    "updated_at": "2026-05-29T08:53:38Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1863,19 +1904,9 @@
     ],
     "author": "Andre601"
   },
-  "5035": {
-    "title": "Can\u2019t place CustomFurniture by using api",
-    "updated_at": "2026-02-04T10:28:59Z",
-    "comments": 9,
-    "labels": [
-      "scope: api",
-      "type: bug"
-    ],
-    "author": "heartlion1"
-  },
   "5033": {
     "title": "Interact event getting cancelled when clicked block is typeof AIR",
-    "updated_at": "2026-02-04T10:28:58Z",
+    "updated_at": "2026-05-29T08:53:37Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1957,7 +1988,7 @@
   },
   "5004": {
     "title": "Item updater not working on other plugins virtual inventories",
-    "updated_at": "2026-02-04T10:28:57Z",
+    "updated_at": "2026-05-29T08:53:37Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -2044,7 +2075,7 @@
   },
   "4962": {
     "title": "[Jspp] cannot access net.kyori.adventure.bossbar.BossBarViewer class file",
-    "updated_at": "2026-02-04T10:29:03Z",
+    "updated_at": "2026-05-29T08:53:36Z",
     "comments": 1,
     "labels": [
       "compat: spigot",
@@ -2093,7 +2124,7 @@
   },
   "4936": {
     "title": "replace-block action does not update model on certain block types",
-    "updated_at": "2026-02-04T10:29:03Z",
+    "updated_at": "2026-05-29T08:53:33Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -2188,7 +2219,7 @@
   },
   "4861": {
     "title": "name doesn't change in smithing table",
-    "updated_at": "2026-02-04T10:29:02Z",
+    "updated_at": "2026-05-29T08:53:36Z",
     "comments": 0,
     "labels": [
       "env: paper",
@@ -2279,7 +2310,7 @@
   },
   "4810": {
     "title": "\"Hold on last frame\" entity animations is not holds on last frame",
-    "updated_at": "2026-02-04T10:29:02Z",
+    "updated_at": "2026-05-29T08:53:35Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -2334,7 +2365,7 @@
   },
   "4786": {
     "title": "`cancel: true` not working for `eat`",
-    "updated_at": "2026-02-04T10:29:01Z",
+    "updated_at": "2026-05-29T08:53:34Z",
     "comments": 6,
     "labels": [
       "type: bug"
@@ -2416,7 +2447,7 @@
   },
   "4715": {
     "title": "execute_commands doesn't work anymore for furnitures using barrier",
-    "updated_at": "2026-02-04T10:29:00Z",
+    "updated_at": "2026-05-29T08:53:34Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -2425,7 +2456,7 @@
   },
   "4710": {
     "title": "Unable to construct this menu by type (Custom GUI Texture)",
-    "updated_at": "2026-02-25T15:15:37Z",
+    "updated_at": "2026-05-29T08:53:33Z",
     "comments": 3,
     "labels": [
       "scope: api",
@@ -3237,15 +3268,6 @@
     ],
     "author": "chamo572"
   },
-  "3592": {
-    "title": "If a HUD config cannot find the required image, it will spam the console",
-    "updated_at": "2026-02-04T10:28:54Z",
-    "comments": 5,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "enesop"
-  },
   "3575": {
     "title": "Tree generator will not use custom blocks for certain tree types at all",
     "updated_at": "2026-02-04T10:02:41Z",
@@ -3330,7 +3352,7 @@
   },
   "3446": {
     "title": "`/iacleancache items` does not remove item with old material when changed material",
-    "updated_at": "2026-02-04T10:28:59Z",
+    "updated_at": "2026-05-29T08:53:32Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -3876,7 +3898,7 @@
   },
   "2556": {
     "title": "Campfire Cooking",
-    "updated_at": "2026-02-04T10:28:58Z",
+    "updated_at": "2026-05-29T08:53:32Z",
     "comments": 1,
     "labels": [
       "type: enhancement",
@@ -3905,7 +3927,7 @@
   },
   "2537": {
     "title": "CEILING cave decorators are spawning on wrong blocks.",
-    "updated_at": "2026-02-04T10:28:57Z",
+    "updated_at": "2026-05-29T08:53:31Z",
     "comments": 2,
     "labels": [
       "impact: breaks gameplay (critical)",
@@ -4074,7 +4096,7 @@
   },
   "1763": {
     "title": "Make multiple_break to only break blocks that the tool is made for",
-    "updated_at": "2026-02-04T10:28:56Z",
+    "updated_at": "2026-05-29T08:53:27Z",
     "comments": 0,
     "labels": [
       "impact: breaks gameplay (critical)",
@@ -4169,7 +4191,7 @@
   },
   "1542": {
     "title": "Add arrow velocity/speed to bows and crossbows",
-    "updated_at": "2026-02-04T10:28:56Z",
+    "updated_at": "2026-05-29T08:53:30Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -4250,7 +4272,7 @@
   },
   "1245": {
     "title": "Automatically generate broken elytra texture",
-    "updated_at": "2026-02-04T10:28:57Z",
+    "updated_at": "2026-05-29T08:53:30Z",
     "comments": 1,
     "labels": [
       "type: feature request"
