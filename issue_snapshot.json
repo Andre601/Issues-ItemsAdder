@@ -1,4 +1,13 @@
 {
+  "5411": {
+    "title": "ItemsAdder 4.0.17 not working on Minecraft 1.21.9",
+    "updated_at": "2026-05-31T13:41:39Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Amit6646"
+  },
   "5410": {
     "title": "Error reading vanilla model",
     "updated_at": "2026-05-30T11:06:14Z",
