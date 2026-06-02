@@ -1,8 +1,18 @@
 {
+  "5412": {
+    "title": "ItemsAdder 4.0.17 \u2013 Vanilla Assets Download Issue on Purpur 1.21.11",
+    "updated_at": "2026-06-01T15:15:31Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "FeiJi888"
+  },
   "5411": {
     "title": "ItemsAdder 4.0.17 not working on Minecraft 1.21.9",
-    "updated_at": "2026-05-31T13:41:39Z",
-    "comments": 0,
+    "updated_at": "2026-06-01T15:06:01Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
