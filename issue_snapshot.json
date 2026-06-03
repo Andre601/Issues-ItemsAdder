@@ -1,8 +1,17 @@
 {
+  "5413": {
+    "title": "Simple self host `Too many active downloads` in some cases",
+    "updated_at": "2026-06-03T09:59:05Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5412": {
     "title": "ItemsAdder 4.0.17 \u2013 Vanilla Assets Download Issue on Purpur 1.21.11",
-    "updated_at": "2026-06-01T15:15:31Z",
-    "comments": 0,
+    "updated_at": "2026-06-02T14:52:18Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
