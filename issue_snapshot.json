@@ -1,4 +1,32 @@
 {
+  "5416": {
+    "title": "crops bug (hitbox and decrease_age)",
+    "updated_at": "2026-06-04T05:08:48Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "MonEzxc"
+  },
+  "5415": {
+    "title": "Avoid generating useless `assets/items` duplicates for multiple versions",
+    "updated_at": "2026-06-03T13:49:30Z",
+    "comments": 0,
+    "labels": [
+      "type: bug",
+      "type: performance"
+    ],
+    "author": "LoneDev6"
+  },
+  "5414": {
+    "title": "Texture `item/empty` not found",
+    "updated_at": "2026-06-03T13:48:19Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5413": {
     "title": "Simple self host `Too many active downloads` in some cases",
     "updated_at": "2026-06-03T09:59:05Z",
@@ -831,8 +859,8 @@
   },
   "5249": {
     "title": "Custom Enchantments don't apply on ItemsAdder's items",
-    "updated_at": "2026-03-17T16:11:21Z",
-    "comments": 6,
+    "updated_at": "2026-06-04T10:47:22Z",
+    "comments": 8,
     "labels": [
       "compat: plugin",
       "type: bug"
