@@ -1,4 +1,22 @@
 {
+  "5418": {
+    "title": "IACrops can place crop but no grow",
+    "updated_at": "2026-06-05T17:51:23Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Tareyu"
+  },
+  "5417": {
+    "title": "`convert_paper_to_block_in_inventory` setting in `config.yml`",
+    "updated_at": "2026-06-05T14:26:58Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
   "5416": {
     "title": "crops bug (hitbox and decrease_age)",
     "updated_at": "2026-06-04T14:11:14Z",
@@ -293,7 +311,7 @@
   },
   "5369": {
     "title": "Faster custom blocks placement",
-    "updated_at": "2026-05-29T08:53:12Z",
+    "updated_at": "2026-06-05T14:28:06Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
