@@ -1,4 +1,43 @@
 {
+  "5422": {
+    "title": "Crops not working sometimes",
+    "updated_at": "2026-06-08T07:55:15Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5421": {
+    "title": "Plugin forces simple self hosting even if config already has a prior hosting set up",
+    "updated_at": "2026-06-08T07:53:03Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "impact: breaks loading",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5420": {
+    "title": "Custom REAL_NOTE block displays as Noteblock instead of custom model",
+    "updated_at": "2026-06-07T21:39:44Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "sorayasooon"
+  },
+  "5419": {
+    "title": "Pack isn't working on <= 1.20.1 anymore (broken items)",
+    "updated_at": "2026-06-07T13:49:24Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "bobhenl"
+  },
   "5418": {
     "title": "IACrops can place crop but no grow",
     "updated_at": "2026-06-05T17:51:23Z",
@@ -56,10 +95,12 @@
   },
   "5412": {
     "title": "ItemsAdder 4.0.17 \u2013 Vanilla Assets Download Issue on Purpur 1.21.11",
-    "updated_at": "2026-06-02T14:52:18Z",
-    "comments": 1,
+    "updated_at": "2026-06-08T08:47:15Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
+      "impact: breaks loading",
+      "scope: resourcepack",
       "type: bug"
     ],
     "author": "FeiJi888"
@@ -1110,21 +1151,13 @@
     ],
     "author": "bobhenl"
   },
-  "5190": {
-    "title": "Smithing recipes do not work anymore",
-    "updated_at": "2026-05-29T08:53:45Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
   "5189": {
     "title": "Gun behaviour doesn't allow Minecraft items as Ammo",
-    "updated_at": "2026-02-07T11:10:02Z",
+    "updated_at": "2026-06-08T08:02:08Z",
     "comments": 0,
     "labels": [
-      "type: bug"
+      "type: bug",
+      "type: enhancement"
     ],
     "author": "PuppyTransGirl"
   },
@@ -1158,8 +1191,8 @@
   },
   "5174": {
     "title": "Incendium shields render wrong in-hand with ItemsAdder",
-    "updated_at": "2026-05-29T18:35:07Z",
-    "comments": 3,
+    "updated_at": "2026-06-08T08:24:22Z",
+    "comments": 4,
     "labels": [
       "impact: graphical issue",
       "type: bug"
@@ -1168,8 +1201,8 @@
   },
   "5173": {
     "title": "custom hud stopped working",
-    "updated_at": "2026-03-27T11:03:41Z",
-    "comments": 1,
+    "updated_at": "2026-06-08T07:59:43Z",
+    "comments": 2,
     "labels": [
       "impact: breaks gameplay (minor)",
       "type: bug"
@@ -1387,8 +1420,8 @@
   },
   "5112": {
     "title": "Tile blocks appear as spawners when placed",
-    "updated_at": "2026-05-29T08:53:41Z",
-    "comments": 0,
+    "updated_at": "2026-06-08T12:05:08Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
