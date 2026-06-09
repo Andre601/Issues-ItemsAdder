@@ -1,28 +1,17 @@
 {
   "5422": {
     "title": "Crops not working sometimes",
-    "updated_at": "2026-06-08T07:55:15Z",
-    "comments": 0,
+    "updated_at": "2026-06-08T14:23:20Z",
+    "comments": 1,
     "labels": [
       "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5421": {
-    "title": "Plugin forces simple self hosting even if config already has a prior hosting set up",
-    "updated_at": "2026-06-08T07:53:03Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "impact: breaks loading",
       "type: bug"
     ],
     "author": "LoneDev6"
   },
   "5420": {
     "title": "Custom REAL_NOTE block displays as Noteblock instead of custom model",
-    "updated_at": "2026-06-07T21:39:44Z",
+    "updated_at": "2026-06-08T15:06:41Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -58,8 +47,8 @@
   },
   "5416": {
     "title": "crops bug (hitbox and decrease_age)",
-    "updated_at": "2026-06-04T14:11:14Z",
-    "comments": 1,
+    "updated_at": "2026-06-08T18:31:18Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -92,18 +81,6 @@
       "type: bug"
     ],
     "author": "LoneDev6"
-  },
-  "5412": {
-    "title": "ItemsAdder 4.0.17 \u2013 Vanilla Assets Download Issue on Purpur 1.21.11",
-    "updated_at": "2026-06-08T08:47:15Z",
-    "comments": 2,
-    "labels": [
-      "env: BETA",
-      "impact: breaks loading",
-      "scope: resourcepack",
-      "type: bug"
-    ],
-    "author": "FeiJi888"
   },
   "5411": {
     "title": "ItemsAdder 4.0.17 not working on Minecraft 1.21.9",
@@ -1201,8 +1178,8 @@
   },
   "5173": {
     "title": "custom hud stopped working",
-    "updated_at": "2026-06-08T07:59:43Z",
-    "comments": 2,
+    "updated_at": "2026-06-09T10:00:20Z",
+    "comments": 3,
     "labels": [
       "impact: breaks gameplay (minor)",
       "type: bug"
@@ -1671,7 +1648,7 @@
   },
   "5023": {
     "title": "Auto migrate from `resource` to `graphics`",
-    "updated_at": "2026-02-04T10:03:06Z",
+    "updated_at": "2026-06-09T07:29:26Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
