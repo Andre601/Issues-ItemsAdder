@@ -1,4 +1,26 @@
 {
+  "5424": {
+    "title": "`jukebox_disc` not registering if `enabled: true` is not specified explicitely",
+    "updated_at": "2026-06-09T13:21:11Z",
+    "comments": 0,
+    "labels": [
+      "type: bug",
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5423": {
+    "title": "Original model of material NOTE_BLOCK has errors",
+    "updated_at": "2026-06-09T13:10:35Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "impact: breaks loading",
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5422": {
     "title": "Crops not working sometimes",
     "updated_at": "2026-06-08T14:23:20Z",
@@ -329,7 +351,7 @@
   },
   "5369": {
     "title": "Faster custom blocks placement",
-    "updated_at": "2026-06-05T14:28:06Z",
+    "updated_at": "2026-06-10T11:57:34Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
@@ -845,16 +867,6 @@
     ],
     "author": "CCjun6"
   },
-  "5259": {
-    "title": "decrement_amout doesnt work in replace_block",
-    "updated_at": "2026-05-29T08:53:52Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
   "5258": {
     "title": "PlayerInteractEvent issues with complex furnitures",
     "updated_at": "2026-05-29T08:53:51Z",
@@ -1017,16 +1029,6 @@
     ],
     "author": "FallPlayer26"
   },
-  "5216": {
-    "title": "Cant Acces the libary classes or failed downloaded libarys?",
-    "updated_at": "2026-05-29T08:53:47Z",
-    "comments": 1,
-    "labels": [
-      "scope: api",
-      "type: bug"
-    ],
-    "author": "JohnsenMC"
-  },
   "5209": {
     "title": "Armor dont load with shaders (1.21.1)",
     "updated_at": "2026-03-27T11:01:25Z",
@@ -1168,11 +1170,12 @@
   },
   "5174": {
     "title": "Incendium shields render wrong in-hand with ItemsAdder",
-    "updated_at": "2026-06-08T08:24:22Z",
+    "updated_at": "2026-06-09T13:33:27Z",
     "comments": 4,
     "labels": [
       "impact: graphical issue",
-      "type: bug"
+      "type: bug",
+      "verdict: complex to implement"
     ],
     "author": "k1netix"
   },
