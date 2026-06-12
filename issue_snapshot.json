@@ -1,4 +1,13 @@
 {
+  "5425": {
+    "title": "Existing custom blocks are no longer detected after updating from 4.0.16 to 4.0.17",
+    "updated_at": "2026-06-12T13:11:17Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "St-Hades"
+  },
   "5424": {
     "title": "`jukebox_disc` not registering if `enabled: true` is not specified explicitely",
     "updated_at": "2026-06-09T13:21:11Z",
@@ -134,8 +143,8 @@
   },
   "5406": {
     "title": "Shields position problem",
-    "updated_at": "2026-05-28T23:40:15Z",
-    "comments": 0,
+    "updated_at": "2026-06-12T00:03:26Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
