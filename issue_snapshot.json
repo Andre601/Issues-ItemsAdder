@@ -1,8 +1,8 @@
 {
   "5425": {
     "title": "Existing custom blocks are no longer detected after updating from 4.0.16 to 4.0.17",
-    "updated_at": "2026-06-12T13:11:17Z",
-    "comments": 1,
+    "updated_at": "2026-06-12T14:22:49Z",
+    "comments": 5,
     "labels": [
       "type: bug"
     ],
@@ -37,6 +37,18 @@
     "labels": [
       "impact: breaks gameplay (critical)",
       "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5421": {
+    "title": "Plugin forces simple self hosting even if config already has a prior hosting set up",
+    "updated_at": "2026-06-12T17:00:55Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "impact: breaks loading",
+      "type: bug",
+      "verdict: can't reproduce"
     ],
     "author": "LoneDev6"
   },
