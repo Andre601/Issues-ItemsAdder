@@ -54,7 +54,7 @@
   },
   "5420": {
     "title": "Custom REAL_NOTE block displays as Noteblock instead of custom model",
-    "updated_at": "2026-06-08T15:06:41Z",
+    "updated_at": "2026-06-13T14:26:20Z",
     "comments": 0,
     "labels": [
       "type: bug"
