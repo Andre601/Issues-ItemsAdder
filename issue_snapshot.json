@@ -1,13 +1,22 @@
 {
-  "5426": {
-    "title": "pack.mcmeta from modelengine",
-    "updated_at": "2026-06-16T19:58:38Z",
+  "5428": {
+    "title": "Incorrect position of the held crossbow/bow/brush",
+    "updated_at": "2026-06-18T12:45:41Z",
     "comments": 0,
     "labels": [
-      "env: BETA",
       "type: bug"
     ],
-    "author": "IAmRiven"
+    "author": "JrRequeim"
+  },
+  "5427": {
+    "title": "Damage and attack speed lore not showing for COPPER tools and MACE",
+    "updated_at": "2026-06-17T15:37:41Z",
+    "comments": 0,
+    "labels": [
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
   },
   "5425": {
     "title": "Existing custom blocks are no longer detected after updating from 4.0.16 to 4.0.17",
@@ -153,8 +162,8 @@
   },
   "5406": {
     "title": "Shields position problem",
-    "updated_at": "2026-06-12T00:03:26Z",
-    "comments": 1,
+    "updated_at": "2026-06-18T11:34:45Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -936,8 +945,8 @@
   },
   "5247": {
     "title": "People can send GUIs in chat by using unicode associated with it.",
-    "updated_at": "2026-05-29T08:53:09Z",
-    "comments": 2,
+    "updated_at": "2026-06-17T16:24:37Z",
+    "comments": 4,
     "labels": [
       "type: bug"
     ],
@@ -979,16 +988,6 @@
       "type: feature request"
     ],
     "author": "PapaFeuerElla"
-  },
-  "5230": {
-    "title": "NullPointerException when using spear attack (ServerboundPlayerActionPacket / PlayerDigType is null)",
-    "updated_at": "2026-05-29T08:53:50Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "Sam1qkk"
   },
   "5229": {
     "title": "`complex_furniture` rotate a little bit on spawn",
@@ -1227,15 +1226,6 @@
     ],
     "author": "Ultim4t"
   },
-  "5164": {
-    "title": "player.block_break_speed attribute does not speed up breaking custom blocks",
-    "updated_at": "2026-04-29T10:17:52Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "yorik100"
-  },
   "5163": {
     "title": "Smithing Table (lore double)",
     "updated_at": "2026-05-29T08:53:44Z",
@@ -1257,15 +1247,6 @@
   "5160": {
     "title": "Reach does not show in tooltip with fix-show-attack-and-damage-as-lore",
     "updated_at": "2026-04-29T12:43:26Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "yorik100"
-  },
-  "5159": {
-    "title": "attackReach attribute throwing an error despite working",
-    "updated_at": "2026-05-29T08:53:43Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1331,9 +1312,12 @@
   },
   "5146": {
     "title": "Implement water-lava bottom block for crops",
-    "updated_at": "2026-05-29T08:53:42Z",
+    "updated_at": "2026-06-17T14:02:33Z",
     "comments": 0,
-    "labels": [],
+    "labels": [
+      "type: enhancement",
+      "type: feature request"
+    ],
     "author": "LoneDev6"
   },
   "5142": {
@@ -1926,16 +1910,6 @@
       "type: feature request"
     ],
     "author": "PRJKTLNKS"
-  },
-  "4861": {
-    "title": "name doesn't change in smithing table",
-    "updated_at": "2026-05-29T08:53:36Z",
-    "comments": 0,
-    "labels": [
-      "env: paper",
-      "type: bug"
-    ],
-    "author": "Florenthz"
   },
   "4856": {
     "title": "1.21.2 - Screen animations using pumpkin overlay",
