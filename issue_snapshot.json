@@ -1,4 +1,23 @@
 {
+  "5430": {
+    "title": "TRIPWIRE isn't an item",
+    "updated_at": "2026-06-18T16:20:08Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5429": {
+    "title": "26.2 support",
+    "updated_at": "2026-06-18T13:25:14Z",
+    "comments": 0,
+    "labels": [
+      "compat: new minecraft update"
+    ],
+    "author": "LoneDev6"
+  },
   "5428": {
     "title": "Incorrect position of the held crossbow/bow/brush",
     "updated_at": "2026-06-18T12:45:41Z",
