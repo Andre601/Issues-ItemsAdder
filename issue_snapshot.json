@@ -1,4 +1,22 @@
 {
+  "5432": {
+    "title": "idk",
+    "updated_at": "2026-06-21T10:48:49Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "arasszxd"
+  },
+  "5431": {
+    "title": "display itemsadder items in text by <sprite> minimessage",
+    "updated_at": "2026-06-20T18:42:44Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "minejango2"
+  },
   "5430": {
     "title": "TRIPWIRE isn't an item",
     "updated_at": "2026-06-18T16:20:08Z",
@@ -11,8 +29,8 @@
   },
   "5429": {
     "title": "26.2 support",
-    "updated_at": "2026-06-18T13:25:14Z",
-    "comments": 0,
+    "updated_at": "2026-06-21T07:23:03Z",
+    "comments": 1,
     "labels": [
       "compat: new minecraft update"
     ],
