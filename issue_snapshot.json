@@ -1,13 +1,4 @@
 {
-  "5432": {
-    "title": "idk",
-    "updated_at": "2026-06-21T10:48:49Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "arasszxd"
-  },
   "5431": {
     "title": "display itemsadder items in text by <sprite> minimessage",
     "updated_at": "2026-06-20T18:42:44Z",
