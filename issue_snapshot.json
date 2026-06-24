@@ -1,4 +1,22 @@
 {
+  "5435": {
+    "title": "Unable to bake item model: 'minecraft:paper'",
+    "updated_at": "2026-06-24T11:08:50Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Helyxst"
+  },
+  "5434": {
+    "title": "Chunk loading cause item display in ceiling mode rotation glitch",
+    "updated_at": "2026-06-24T08:09:30Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "JrouleEnGolf5"
+  },
   "5431": {
     "title": "display itemsadder items in text by <sprite> minimessage",
     "updated_at": "2026-06-20T18:42:44Z",
