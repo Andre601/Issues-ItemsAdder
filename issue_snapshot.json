@@ -1,8 +1,17 @@
 {
+  "5436": {
+    "title": "Event for mutating pack post pack generation, before dispatch",
+    "updated_at": "2026-06-25T09:49:50Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Combimagnetron"
+  },
   "5435": {
     "title": "Unable to bake item model: 'minecraft:paper'",
-    "updated_at": "2026-06-24T11:08:50Z",
-    "comments": 0,
+    "updated_at": "2026-06-24T15:53:27Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -10,8 +19,8 @@
   },
   "5434": {
     "title": "Chunk loading cause item display in ceiling mode rotation glitch",
-    "updated_at": "2026-06-24T08:09:30Z",
-    "comments": 1,
+    "updated_at": "2026-06-24T15:54:12Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -1544,8 +1553,8 @@
   },
   "5069": {
     "title": "Item_Flag modifier in items only does one rule (IE. Hide Enchants OR Hide Attributes)",
-    "updated_at": "2026-05-29T08:53:40Z",
-    "comments": 1,
+    "updated_at": "2026-06-25T10:55:45Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -1812,17 +1821,6 @@
       "type: feature request"
     ],
     "author": "bruhhhwarrior"
-  },
-  "4962": {
-    "title": "[Jspp] cannot access net.kyori.adventure.bossbar.BossBarViewer class file",
-    "updated_at": "2026-05-29T08:53:36Z",
-    "comments": 1,
-    "labels": [
-      "compat: spigot",
-      "env: paper",
-      "type: bug"
-    ],
-    "author": "Echoflare"
   },
   "4959": {
     "title": "render issue on optional resource-packs by \"minecraft:equippable\"",
