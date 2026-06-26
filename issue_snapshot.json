@@ -1,4 +1,13 @@
 {
+  "5437": {
+    "title": "Emotes should respect player scale",
+    "updated_at": "2026-06-25T17:51:54Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "VgamerV3"
+  },
   "5436": {
     "title": "Event for mutating pack post pack generation, before dispatch",
     "updated_at": "2026-06-25T09:49:50Z",
@@ -2157,8 +2166,8 @@
   },
   "4724": {
     "title": "match emote's scale with player's scale attribute",
-    "updated_at": "2026-06-17T07:37:52Z",
-    "comments": 1,
+    "updated_at": "2026-06-25T17:54:53Z",
+    "comments": 2,
     "labels": [
       "type: feature request"
     ],
