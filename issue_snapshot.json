@@ -1,4 +1,22 @@
 {
+  "5439": {
+    "title": "tooltip assign with custom model data",
+    "updated_at": "2026-06-28T00:12:02Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "The-kodi"
+  },
+  "5438": {
+    "title": "player head mislocated",
+    "updated_at": "2026-06-27T13:26:37Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "minejango2"
+  },
   "5437": {
     "title": "Emotes should respect player scale",
     "updated_at": "2026-06-25T17:51:54Z",
