@@ -1,8 +1,17 @@
 {
+  "5440": {
+    "title": "Script Compiler bug",
+    "updated_at": "2026-06-29T03:09:57Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "bobbyrutt697-web"
+  },
   "5439": {
     "title": "tooltip assign with custom model data",
-    "updated_at": "2026-06-28T00:12:02Z",
-    "comments": 0,
+    "updated_at": "2026-06-28T13:18:50Z",
+    "comments": 1,
     "labels": [
       "type: feature request"
     ],
