@@ -1,4 +1,25 @@
 {
+  "5442": {
+    "title": "Ia 4.0.17 Bugs Invisible player in inventory + chest, shield & fishing rod items broken 26.2",
+    "updated_at": "2026-07-01T00:49:32Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "BugJuiceTV"
+  },
+  "5441": {
+    "title": "Pack key supported_formats is deprecated starting from pack format 65. Remove supported_formats from your pack.mcmeta",
+    "updated_at": "2026-06-30T16:28:33Z",
+    "comments": 0,
+    "labels": [
+      "compat: new minecraft update",
+      "impact: graphical issue",
+      "scope: resourcepack",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5440": {
     "title": "Script Compiler bug",
     "updated_at": "2026-06-29T17:00:33Z",
@@ -10,8 +31,8 @@
   },
   "5439": {
     "title": "tooltip assign with custom model data",
-    "updated_at": "2026-06-28T13:18:50Z",
-    "comments": 1,
+    "updated_at": "2026-06-30T13:25:47Z",
+    "comments": 2,
     "labels": [
       "type: feature request"
     ],
@@ -37,7 +58,7 @@
   },
   "5436": {
     "title": "Event for mutating pack post pack generation, before dispatch",
-    "updated_at": "2026-06-25T09:49:50Z",
+    "updated_at": "2026-06-30T16:26:25Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -83,8 +104,8 @@
   },
   "5428": {
     "title": "Incorrect position of the held crossbow/bow/brush",
-    "updated_at": "2026-06-18T12:45:41Z",
-    "comments": 0,
+    "updated_at": "2026-07-01T05:04:15Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
