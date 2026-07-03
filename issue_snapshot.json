@@ -1,4 +1,14 @@
 {
+  "5443": {
+    "title": "Chunk Load -> Server Crash",
+    "updated_at": "2026-07-02T20:42:34Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yampoiuer-art"
+  },
   "5442": {
     "title": "Ia 4.0.17 Bugs Invisible player in inventory + chest, shield & fishing rod items broken 26.2",
     "updated_at": "2026-07-02T09:32:45Z",
