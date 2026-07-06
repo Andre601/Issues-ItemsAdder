@@ -1,4 +1,13 @@
 {
+  "5444": {
+    "title": "Dialogs Support for Font Images",
+    "updated_at": "2026-07-05T16:48:10Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Mathildeuh"
+  },
   "5443": {
     "title": "Chunk Load -> Server Crash",
     "updated_at": "2026-07-03T20:50:32Z",
@@ -133,8 +142,8 @@
   },
   "5425": {
     "title": "Existing custom blocks are no longer detected after updating from 4.0.16 to 4.0.17",
-    "updated_at": "2026-06-12T14:22:49Z",
-    "comments": 5,
+    "updated_at": "2026-07-06T09:42:12Z",
+    "comments": 6,
     "labels": [
       "type: bug"
     ],
