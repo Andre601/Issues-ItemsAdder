@@ -1,4 +1,13 @@
 {
+  "5445": {
+    "title": "Language key in the pack.mcmeta is auto merged to the \"pack\" key while it is a independent key.",
+    "updated_at": "2026-07-07T13:40:23Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "BN-2K9"
+  },
   "5444": {
     "title": "Dialogs Support for Font Images",
     "updated_at": "2026-07-05T16:48:10Z",
