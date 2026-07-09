@@ -1,7 +1,25 @@
 {
+  "5448": {
+    "title": "NoSuchMethodError on FurnaceSmeltEvent with latest CustomCrafting",
+    "updated_at": "2026-07-08T23:25:11Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "reitlerman-a11y"
+  },
+  "5447": {
+    "title": "2d Heads Addon",
+    "updated_at": "2026-07-08T18:17:06Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yampoiuer-art"
+  },
   "5446": {
     "title": "auto_convert_to_item_display: for furnitures should change the yml when DISABLED aswell.",
-    "updated_at": "2026-07-07T18:32:10Z",
+    "updated_at": "2026-07-08T14:42:36Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -379,7 +397,7 @@
   },
   "5397": {
     "title": "Add configurable entity activation/tracking range for ItemsAdder entities",
-    "updated_at": "2026-05-20T15:36:08Z",
+    "updated_at": "2026-07-09T14:00:52Z",
     "comments": 0,
     "labels": [
       "type: feature request"
