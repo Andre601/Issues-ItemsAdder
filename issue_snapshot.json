@@ -1,21 +1,12 @@
 {
   "5448": {
     "title": "NoSuchMethodError on FurnaceSmeltEvent with latest CustomCrafting",
-    "updated_at": "2026-07-08T23:25:11Z",
-    "comments": 0,
+    "updated_at": "2026-07-09T16:09:38Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
     "author": "reitlerman-a11y"
-  },
-  "5447": {
-    "title": "2d Heads Addon",
-    "updated_at": "2026-07-08T18:17:06Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "yampoiuer-art"
   },
   "5446": {
     "title": "auto_convert_to_item_display: for furnitures should change the yml when DISABLED aswell.",
@@ -2487,8 +2478,8 @@
     "author": "Andre601"
   },
   "4540": {
-    "title": "Allow multiple items as a possible Ingredient in the grafting table",
-    "updated_at": "2026-05-02T12:17:23Z",
+    "title": "Allow multiple items as a possible Ingredient in the crafting table",
+    "updated_at": "2026-07-10T13:30:45Z",
     "comments": 1,
     "labels": [
       "type: feature request",
