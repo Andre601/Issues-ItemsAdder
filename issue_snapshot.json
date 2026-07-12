@@ -1,4 +1,22 @@
 {
+  "5451": {
+    "title": "Music discs using the old music_disc behaviour cannot be ejected from jukeboxes after updating to 4.0.17",
+    "updated_at": "2026-07-11T22:38:57Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Hayasiyuuta"
+  },
+  "5450": {
+    "title": "ToolTip assign with custom model data",
+    "updated_at": "2026-07-11T14:11:38Z",
+    "comments": 1,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "The-kodi"
+  },
   "5449": {
     "title": "/iaemoji error",
     "updated_at": "2026-07-10T18:28:10Z",
@@ -46,8 +64,8 @@
   },
   "5443": {
     "title": "Chunk Load -> Server Crash",
-    "updated_at": "2026-07-03T20:50:32Z",
-    "comments": 0,
+    "updated_at": "2026-07-11T15:22:34Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -83,15 +101,6 @@
       "type: bug"
     ],
     "author": "bobbyrutt697-web"
-  },
-  "5439": {
-    "title": "tooltip assign with custom model data",
-    "updated_at": "2026-07-05T00:57:17Z",
-    "comments": 2,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "The-kodi"
   },
   "5438": {
     "title": "player head mislocated",
@@ -630,8 +639,8 @@
   },
   "5344": {
     "title": "Error in logs due to min_format",
-    "updated_at": "2026-04-29T07:19:11Z",
-    "comments": 3,
+    "updated_at": "2026-07-12T11:48:21Z",
+    "comments": 4,
     "labels": [
       "env: BETA",
       "scope: resourcepack",
