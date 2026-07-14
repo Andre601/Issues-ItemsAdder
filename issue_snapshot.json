@@ -1,12 +1,15 @@
 {
-  "5455": {
-    "title": "[12:44:59 INFO]: [ItemsAdder] Disabling ItemsAdder v4.0.17",
-    "updated_at": "2026-07-13T02:07:34Z",
+  "5456": {
+    "title": "Shader errors when using Vulkan",
+    "updated_at": "2026-07-13T16:28:25Z",
     "comments": 0,
     "labels": [
+      "compat: new minecraft update",
+      "impact: breaks loading",
+      "impact: graphical issue",
       "type: bug"
     ],
-    "author": "hed516"
+    "author": "LoneDev6"
   },
   "5453": {
     "title": "entity.vsh \"Sampler2\" undefined variable breaks energy_swirl/eyes/entity_translucent_emissive pipelines (beta-10 armors_emotes shaders)",
@@ -30,8 +33,8 @@
   },
   "5451": {
     "title": "Music discs using the old music_disc behaviour cannot be ejected from jukeboxes after updating to 4.0.17",
-    "updated_at": "2026-07-11T22:38:57Z",
-    "comments": 0,
+    "updated_at": "2026-07-14T10:36:29Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -1533,15 +1536,6 @@
       "type: bug"
     ],
     "author": "HYVERSMC"
-  },
-  "5140": {
-    "title": "Proxy - resourcepack loading twice",
-    "updated_at": "2026-05-04T15:04:50Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Iccrtlity"
   },
   "5127": {
     "title": "Script with Block Break event for Custom Blocks not work",
