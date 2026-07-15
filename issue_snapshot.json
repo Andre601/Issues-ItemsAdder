@@ -1,4 +1,22 @@
 {
+  "5458": {
+    "title": "NeverEnoughRecipes support",
+    "updated_at": "2026-07-14T19:21:27Z",
+    "comments": 1,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Andre601"
+  },
+  "5457": {
+    "title": "Hide vanilla hitbox when looking at crops",
+    "updated_at": "2026-07-14T16:37:39Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
   "5456": {
     "title": "Shader errors when using Vulkan",
     "updated_at": "2026-07-13T16:28:25Z",
@@ -23,8 +41,8 @@
   },
   "5452": {
     "title": "Resourcepack rejected by client (26.2): missing \"supported_formats\"/\"formats\" fields in generated pack.mcmeta on beta-10",
-    "updated_at": "2026-07-12T16:00:35Z",
-    "comments": 0,
+    "updated_at": "2026-07-14T19:03:55Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -2309,9 +2327,9 @@
     "author": "Gu57-git"
   },
   "4715": {
-    "title": "execute_commands doesn't work anymore for furnitures using barrier",
-    "updated_at": "2026-05-29T08:53:34Z",
-    "comments": 1,
+    "title": "Furniture lore/name is not refreshed when dropped",
+    "updated_at": "2026-07-14T17:16:11Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -3160,9 +3178,10 @@
   },
   "3501": {
     "title": "Item frame furniture can be stacked in one place",
-    "updated_at": "2026-02-04T10:02:41Z",
+    "updated_at": "2026-07-14T17:06:24Z",
     "comments": 4,
     "labels": [
+      "outdated: plugin",
       "type: bug"
     ],
     "author": "Dogg123"
