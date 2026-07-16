@@ -190,8 +190,8 @@
   },
   "5434": {
     "title": "Chunk loading cause item display in ceiling mode rotation glitch",
-    "updated_at": "2026-06-24T15:54:12Z",
-    "comments": 2,
+    "updated_at": "2026-07-16T03:28:08Z",
+    "comments": 7,
     "labels": [
       "type: bug"
     ],
@@ -1554,6 +1554,15 @@
       "type: bug"
     ],
     "author": "HYVERSMC"
+  },
+  "5140": {
+    "title": "Proxy - resourcepack loading twice",
+    "updated_at": "2026-05-04T15:04:50Z",
+    "comments": 2,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Iccrtlity"
   },
   "5127": {
     "title": "Script with Block Break event for Custom Blocks not work",
