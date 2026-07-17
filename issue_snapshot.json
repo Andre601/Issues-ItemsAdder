@@ -188,15 +188,6 @@
     ],
     "author": "Helyxst"
   },
-  "5434": {
-    "title": "Chunk loading cause item display in ceiling mode rotation glitch",
-    "updated_at": "2026-07-16T03:28:08Z",
-    "comments": 7,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "JrouleEnGolf5"
-  },
   "5430": {
     "title": "TRIPWIRE isn't an item",
     "updated_at": "2026-06-18T16:20:08Z",
