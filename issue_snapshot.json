@@ -1,4 +1,14 @@
 {
+  "5459": {
+    "title": "CustomNote impossible to place on short grass",
+    "updated_at": "2026-07-18T12:03:45Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5458": {
     "title": "NeverEnoughRecipes support",
     "updated_at": "2026-07-14T19:21:27Z",
@@ -419,8 +429,8 @@
   },
   "5401": {
     "title": "InventoryClickEvent error",
-    "updated_at": "2026-06-16T22:40:49Z",
-    "comments": 1,
+    "updated_at": "2026-07-18T07:18:47Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
