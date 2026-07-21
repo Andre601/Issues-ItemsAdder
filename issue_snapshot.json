@@ -1327,8 +1327,8 @@
   },
   "5197": {
     "title": "spear material support",
-    "updated_at": "2026-02-14T21:23:03Z",
-    "comments": 0,
+    "updated_at": "2026-07-21T09:51:20Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: feature request"
