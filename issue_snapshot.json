@@ -1,4 +1,34 @@
 {
+  "5462": {
+    "title": "Blocks losing custom id and texture in Java 25",
+    "updated_at": "2026-07-21T17:09:07Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5461": {
+    "title": "Java Heap space issue",
+    "updated_at": "2026-07-21T16:54:09Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks loading",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5460": {
+    "title": "Invalid UV model breaks all custom items sharing the same vanilla material",
+    "updated_at": "2026-07-21T16:56:30Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "SrMonsterYT"
+  },
   "5459": {
     "title": "CustomNote impossible to place on short grass",
     "updated_at": "2026-07-18T12:03:45Z",
@@ -41,8 +71,8 @@
   },
   "5453": {
     "title": "entity.vsh \"Sampler2\" undefined variable breaks energy_swirl/eyes/entity_translucent_emissive pipelines (beta-10 armors_emotes shaders)",
-    "updated_at": "2026-07-12T16:06:37Z",
-    "comments": 0,
+    "updated_at": "2026-07-21T16:57:41Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -51,8 +81,8 @@
   },
   "5452": {
     "title": "Resourcepack rejected by client (26.2): missing \"supported_formats\"/\"formats\" fields in generated pack.mcmeta on beta-10",
-    "updated_at": "2026-07-14T19:03:55Z",
-    "comments": 1,
+    "updated_at": "2026-07-21T16:55:36Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -106,8 +136,8 @@
   },
   "5445": {
     "title": "Language key in the pack.mcmeta is auto merged to the \"pack\" key while it is a independent key.",
-    "updated_at": "2026-07-07T15:16:59Z",
-    "comments": 3,
+    "updated_at": "2026-07-21T14:51:44Z",
+    "comments": 4,
     "labels": [
       "type: bug"
     ],
@@ -690,8 +720,8 @@
   },
   "5344": {
     "title": "Error in logs due to min_format",
-    "updated_at": "2026-07-12T11:48:21Z",
-    "comments": 4,
+    "updated_at": "2026-07-21T21:21:49Z",
+    "comments": 6,
     "labels": [
       "env: BETA",
       "scope: resourcepack",
