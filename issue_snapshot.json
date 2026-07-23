@@ -1,4 +1,14 @@
 {
+  "5463": {
+    "title": "Do not allow macStackSize > 99 or < 0",
+    "updated_at": "2026-07-23T11:51:50Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks loading",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5462": {
     "title": "Blocks losing custom id and texture in Java 25",
     "updated_at": "2026-07-21T17:09:07Z",
@@ -1476,8 +1486,8 @@
   },
   "5163": {
     "title": "Smithing Table (lore double)",
-    "updated_at": "2026-05-29T08:53:44Z",
-    "comments": 0,
+    "updated_at": "2026-07-22T17:08:43Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
