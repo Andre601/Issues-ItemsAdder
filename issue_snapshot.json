@@ -1,4 +1,32 @@
 {
+  "5466": {
+    "title": "Emote give player fly",
+    "updated_at": "2026-07-23T21:03:56Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Mathildeuh"
+  },
+  "5465": {
+    "title": "Tried to load invalid item: 'No key saturation",
+    "updated_at": "2026-07-23T17:06:08Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5464": {
+    "title": "Unknown particles and effects legacy naming",
+    "updated_at": "2026-07-23T16:10:18Z",
+    "comments": 0,
+    "labels": [
+      "compat: new minecraft update",
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
   "5463": {
     "title": "Do not allow macStackSize > 99 or < 0",
     "updated_at": "2026-07-23T11:51:50Z",
@@ -757,16 +785,6 @@
     ],
     "author": "Gu57-git"
   },
-  "5340": {
-    "title": "Problem with custom armor",
-    "updated_at": "2026-05-29T08:53:56Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "thocorregiari-max"
-  },
   "5338": {
     "title": "ItemsAdder entities particles issue",
     "updated_at": "2026-05-29T08:53:56Z",
@@ -1003,8 +1021,8 @@
   },
   "5292": {
     "title": "Cannot read field \"ag\" because the return value of \"itemsadder.m.a.d()\" is null",
-    "updated_at": "2026-05-29T08:53:58Z",
-    "comments": 0,
+    "updated_at": "2026-07-23T15:35:51Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -1259,8 +1277,8 @@
     "author": "LoneDev6"
   },
   "5228": {
-    "title": "TNT destroying chest behind custom blocs",
-    "updated_at": "2026-05-29T08:53:49Z",
+    "title": "TNT destroying chest behind custom blocks",
+    "updated_at": "2026-07-23T16:15:02Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1529,15 +1547,6 @@
       "type: bug"
     ],
     "author": "xRedCrystalx"
-  },
-  "5153": {
-    "title": "ItemsAdder blocking Enchanting Custom Items with Anvil",
-    "updated_at": "2026-05-29T08:53:40Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "notKolja"
   },
   "5152": {
     "title": "Custom armor will not take vanilla enchantments in an anvil unless name is removed.",
@@ -2250,7 +2259,7 @@
   },
   "4798": {
     "title": "Override the render distance of custom entities",
-    "updated_at": "2026-02-04T10:02:57Z",
+    "updated_at": "2026-07-24T13:40:33Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
