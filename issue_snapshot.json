@@ -1,4 +1,33 @@
 {
+  "5474": {
+    "title": "CUSTOM BLOCK BUGS ON JAVA 25 (CRITICAL)",
+    "updated_at": "2026-07-26T12:52:26Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "ayamian514"
+  },
+  "5473": {
+    "title": "Custom Blocks Not Loading After Migrating from 1.21.8 to 26.1.2",
+    "updated_at": "2026-07-26T08:40:23Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "ThaiHack271"
+  },
+  "5472": {
+    "title": "Custom item textures show as missing (purple/black) on pre-1.21.4 clients, but models load correctly",
+    "updated_at": "2026-07-25T13:51:45Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "tvPeterr"
+  },
   "5471": {
     "title": "mob models always looking at one direction and not rotating",
     "updated_at": "2026-07-25T13:18:39Z",
@@ -37,9 +66,10 @@
   },
   "5467": {
     "title": "Find possible better implementation to support block and item atlases textures",
-    "updated_at": "2026-07-24T16:29:59Z",
+    "updated_at": "2026-07-25T15:37:10Z",
     "comments": 0,
     "labels": [
+      "impact: graphical issue",
       "type: enhancement",
       "type: performance"
     ],
@@ -47,8 +77,8 @@
   },
   "5466": {
     "title": "Emote give player fly",
-    "updated_at": "2026-07-24T14:21:18Z",
-    "comments": 1,
+    "updated_at": "2026-07-25T19:51:37Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -153,16 +183,6 @@
       "type: bug"
     ],
     "author": "LoneDev6"
-  },
-  "5453": {
-    "title": "entity.vsh \"Sampler2\" undefined variable breaks energy_swirl/eyes/entity_translucent_emissive pipelines (beta-10 armors_emotes shaders)",
-    "updated_at": "2026-07-21T16:57:41Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "onurfly"
   },
   "5451": {
     "title": "Music discs using the old music_disc behaviour cannot be ejected from jukeboxes after updating to 4.0.17",
@@ -287,7 +307,7 @@
   },
   "5435": {
     "title": "Unable to bake item model: 'minecraft:paper'",
-    "updated_at": "2026-07-24T14:21:03Z",
+    "updated_at": "2026-07-25T15:37:13Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1335,10 +1355,11 @@
   },
   "5201": {
     "title": "enchantment glint not visible in third person",
-    "updated_at": "2026-07-24T16:48:12Z",
+    "updated_at": "2026-07-25T15:37:14Z",
     "comments": 1,
     "labels": [
       "env: BETA",
+      "impact: graphical issue",
       "type: bug",
       "verdict: complex to implement",
       "verdict: minecraft limitation",
