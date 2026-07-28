@@ -1,4 +1,60 @@
 {
+  "5483": {
+    "title": "Tridents misaligned on modern game versions",
+    "updated_at": "2026-07-28T07:59:42Z",
+    "comments": 0,
+    "labels": [
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5482": {
+    "title": "The ItemSadder plugin is giving an error \"to dig a block in an unloaded chunk\".",
+    "updated_at": "2026-07-27T18:03:05Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "moreoss"
+  },
+  "5481": {
+    "title": "Fix No permission to use emojis when when OP",
+    "updated_at": "2026-07-27T17:38:58Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5480": {
+    "title": "Text effects are not working on 26.2",
+    "updated_at": "2026-07-27T17:16:35Z",
+    "comments": 1,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "minejango2"
+  },
+  "5479": {
+    "title": "Textures marked as non-existing by mistake in some cases due to missing namespace",
+    "updated_at": "2026-07-27T15:09:36Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5478": {
+    "title": "streamLayer1 is null. Cannot calculate atlas image dimensions",
+    "updated_at": "2026-07-27T14:45:29Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5477": {
     "title": "Implement `protection_4`",
     "updated_at": "2026-07-27T13:52:59Z",
@@ -19,20 +75,10 @@
     ],
     "author": "LoneDev6"
   },
-  "5474": {
-    "title": "CUSTOM BLOCK BUGS ON JAVA 25 (CRITICAL)",
-    "updated_at": "2026-07-26T12:52:26Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "ayamian514"
-  },
   "5473": {
     "title": "Custom Blocks Not Loading After Migrating from 1.21.8 to 26.1.2",
-    "updated_at": "2026-07-26T08:40:23Z",
-    "comments": 0,
+    "updated_at": "2026-07-27T16:37:04Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -41,8 +87,8 @@
   },
   "5472": {
     "title": "Custom item textures show as missing (purple/black) on pre-1.21.4 clients, but models load correctly",
-    "updated_at": "2026-07-27T09:57:00Z",
-    "comments": 1,
+    "updated_at": "2026-07-28T13:59:47Z",
+    "comments": 3,
     "labels": [
       "type: bug"
     ],
@@ -97,7 +143,7 @@
   },
   "5466": {
     "title": "Emote give player fly",
-    "updated_at": "2026-07-25T19:51:37Z",
+    "updated_at": "2026-07-27T17:37:27Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -406,7 +452,7 @@
   },
   "5418": {
     "title": "IACrops can place crop but no grow",
-    "updated_at": "2026-07-24T15:30:20Z",
+    "updated_at": "2026-07-27T17:37:26Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -424,7 +470,7 @@
   },
   "5416": {
     "title": "crops bug (hitbox and decrease_age)",
-    "updated_at": "2026-07-24T15:30:27Z",
+    "updated_at": "2026-07-27T17:37:24Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -470,7 +516,7 @@
   },
   "5407": {
     "title": "font image shadow setting does nothing",
-    "updated_at": "2026-05-29T08:53:16Z",
+    "updated_at": "2026-07-27T17:37:06Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -687,7 +733,7 @@
   },
   "5364": {
     "title": "`BlockPlaceEvent#getItemInHand()` returns AIR when placing blocks on noteblocks",
-    "updated_at": "2026-05-29T08:54:00Z",
+    "updated_at": "2026-07-27T17:37:00Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -907,7 +953,7 @@
   },
   "5314": {
     "title": "Upper part of vanilla tall grass can grow over custom crops",
-    "updated_at": "2026-05-29T08:53:55Z",
+    "updated_at": "2026-07-27T17:37:39Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -970,7 +1016,7 @@
   },
   "5305": {
     "title": "\"generic_over_time\" for HUDs",
-    "updated_at": "2026-05-29T08:53:54Z",
+    "updated_at": "2026-07-27T17:36:58Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1042,7 +1088,7 @@
   },
   "5291": {
     "title": "Reforge diamond_tool to their netherite versions",
-    "updated_at": "2026-04-29T13:16:36Z",
+    "updated_at": "2026-07-27T17:37:39Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1148,7 +1194,7 @@
   },
   "5270": {
     "title": "Font Image issue in Lore",
-    "updated_at": "2026-05-29T08:53:54Z",
+    "updated_at": "2026-07-27T17:37:38Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -1205,9 +1251,10 @@
   },
   "5250": {
     "title": "Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
-    "updated_at": "2026-05-29T08:53:49Z",
+    "updated_at": "2026-07-28T07:20:49Z",
     "comments": 4,
     "labels": [
+      "scope: resourcepack",
       "type: bug"
     ],
     "author": "ReddoMC"
@@ -1341,7 +1388,7 @@
   },
   "5208": {
     "title": "sit_all_solid_blocks does not work anymore",
-    "updated_at": "2026-05-29T08:53:46Z",
+    "updated_at": "2026-07-27T17:37:38Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1952,7 +1999,7 @@
   },
   "5004": {
     "title": "Item updater not working on other plugins virtual inventories",
-    "updated_at": "2026-05-29T08:53:37Z",
+    "updated_at": "2026-07-27T17:37:37Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -2253,7 +2300,7 @@
   },
   "4810": {
     "title": "\"Hold on last frame\" entity animations is not holds on last frame",
-    "updated_at": "2026-05-29T08:53:35Z",
+    "updated_at": "2026-07-27T17:37:36Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -3698,7 +3745,7 @@
   },
   "2861": {
     "title": "MythicMobs integration - new mechanics",
-    "updated_at": "2026-02-04T10:02:40Z",
+    "updated_at": "2026-07-27T17:36:51Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -4197,7 +4244,7 @@
   },
   "1245": {
     "title": "Automatically generate broken elytra texture",
-    "updated_at": "2026-07-24T16:54:01Z",
+    "updated_at": "2026-07-27T17:37:41Z",
     "comments": 1,
     "labels": [
       "type: feature request"
