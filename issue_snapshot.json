@@ -1,4 +1,13 @@
 {
+  "5484": {
+    "title": "[API] Add API to apply an item\u2019s event cooldown",
+    "updated_at": "2026-07-28T16:03:08Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "PuppyTransGirl"
+  },
   "5483": {
     "title": "Tridents misaligned on modern game versions",
     "updated_at": "2026-07-28T07:59:42Z",
@@ -10,9 +19,9 @@
     "author": "LoneDev6"
   },
   "5482": {
-    "title": "The ItemSadder plugin is giving an error \"to dig a block in an unloaded chunk\".",
-    "updated_at": "2026-07-27T18:03:05Z",
-    "comments": 0,
+    "title": "The ItemsAdder plugin is giving an error \"to dig a block in an unloaded chunk\".",
+    "updated_at": "2026-07-29T14:01:57Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
