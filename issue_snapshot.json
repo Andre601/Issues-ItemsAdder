@@ -259,15 +259,6 @@
     ],
     "author": "LoneDev6"
   },
-  "5451": {
-    "title": "Music discs using the old music_disc behaviour cannot be ejected from jukeboxes after updating to 4.0.17",
-    "updated_at": "2026-07-24T14:21:13Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Hayasiyuuta"
-  },
   "5450": {
     "title": "ToolTip assign with custom model data",
     "updated_at": "2026-07-11T14:11:38Z",
@@ -2603,10 +2594,9 @@
   },
   "4589": {
     "title": "Implement new block type `ENTITY`",
-    "updated_at": "2026-06-17T07:45:32Z",
+    "updated_at": "2026-07-30T14:28:24Z",
     "comments": 0,
     "labels": [
-      "status: inactive",
       "type: feature request"
     ],
     "author": "LoneDev6"
