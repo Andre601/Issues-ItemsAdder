@@ -1,12 +1,44 @@
 {
-  "5486": {
-    "title": "Error while enabling the plugin.",
-    "updated_at": "2026-08-01T12:59:20Z",
-    "comments": 0,
+  "5490": {
+    "title": "Armor rendering broken on MC 26.2",
+    "updated_at": "2026-08-02T07:46:07Z",
+    "comments": 2,
     "labels": [
+      "env: BETA",
       "type: bug"
     ],
-    "author": "a7jon"
+    "author": "pistonio"
+  },
+  "5489": {
+    "title": "furniture gets broken in worldguard regions",
+    "updated_at": "2026-08-01T16:24:19Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "bruhhhwarrior"
+  },
+  "5488": {
+    "title": "Smithing and anvil recipes issues",
+    "updated_at": "2026-08-01T15:47:38Z",
+    "comments": 0,
+    "labels": [
+      "impact: breaks gameplay (critical)",
+      "type: bug",
+      "verdict: no solution"
+    ],
+    "author": "LoneDev6"
+  },
+  "5487": {
+    "title": "Add logging for non-standard model rotation angles in ModelValidator",
+    "updated_at": "2026-08-01T14:41:41Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement",
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
   },
   "5485": {
     "title": "TPS | \u00ab fix-glitched-blocks \u00bb",
@@ -2328,7 +2360,7 @@
   },
   "4798": {
     "title": "Override the render distance of custom entities",
-    "updated_at": "2026-07-24T13:40:33Z",
+    "updated_at": "2026-08-01T15:47:46Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
