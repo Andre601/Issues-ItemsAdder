@@ -1,7 +1,14 @@
 {
+  "5492": {
+    "title": "Optimize `fix-glitched-blocks`",
+    "updated_at": "2026-08-03T10:13:47Z",
+    "comments": 0,
+    "labels": [],
+    "author": "LoneDev6"
+  },
   "5490": {
     "title": "Armor rendering broken on MC 26.2",
-    "updated_at": "2026-08-02T07:46:07Z",
+    "updated_at": "2026-08-03T12:48:09Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -11,7 +18,7 @@
   },
   "5489": {
     "title": "furniture gets broken in worldguard regions",
-    "updated_at": "2026-08-01T16:24:19Z",
+    "updated_at": "2026-08-03T12:48:11Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -42,7 +49,7 @@
   },
   "5485": {
     "title": "TPS | \u00ab fix-glitched-blocks \u00bb",
-    "updated_at": "2026-07-31T18:14:51Z",
+    "updated_at": "2026-08-03T10:45:35Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -71,9 +78,10 @@
   },
   "5482": {
     "title": "The ItemsAdder plugin is giving an error \"to dig a block in an unloaded chunk\".",
-    "updated_at": "2026-07-29T14:01:57Z",
+    "updated_at": "2026-08-03T10:46:02Z",
     "comments": 1,
     "labels": [
+      "env: legacy plugin v3",
       "type: bug"
     ],
     "author": "moreoss"
@@ -89,10 +97,12 @@
   },
   "5480": {
     "title": "Text effects are not working on 26.2",
-    "updated_at": "2026-07-27T17:16:35Z",
+    "updated_at": "2026-08-03T12:48:14Z",
     "comments": 1,
     "labels": [
+      "compat: new minecraft update",
       "env: BETA",
+      "impact: graphical issue",
       "type: bug"
     ],
     "author": "minejango2"
@@ -137,7 +147,7 @@
   },
   "5473": {
     "title": "Custom Blocks Not Loading After Migrating from 1.21.8 to 26.1.2",
-    "updated_at": "2026-07-27T16:37:04Z",
+    "updated_at": "2026-08-03T12:48:13Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -147,8 +157,8 @@
   },
   "5472": {
     "title": "Custom item textures show as missing (purple/black) on pre-1.21.4 clients, but models load correctly",
-    "updated_at": "2026-07-28T13:59:47Z",
-    "comments": 3,
+    "updated_at": "2026-08-03T12:40:05Z",
+    "comments": 6,
     "labels": [
       "type: bug"
     ],
@@ -594,15 +604,6 @@
       "type: bug"
     ],
     "author": "pistonio"
-  },
-  "5403": {
-    "title": "[QUESTION] Unable to break furniture after restart",
-    "updated_at": "2026-05-25T13:21:46Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "ReformedHooper"
   },
   "5402": {
     "title": "Failed to serialize custom items configs for block",
@@ -1496,7 +1497,7 @@
   },
   "5197": {
     "title": "spear material support",
-    "updated_at": "2026-07-21T09:51:20Z",
+    "updated_at": "2026-08-03T10:14:26Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -3056,9 +3057,10 @@
   },
   "4078": {
     "title": "java.lang.UnsupportedOperationException: com.google.gson.JsonSyntaxException: Expected id to be a string, was an array ([-93...12])",
-    "updated_at": "2024-12-17T18:10:09Z",
+    "updated_at": "2026-08-03T12:24:33Z",
     "comments": 8,
     "labels": [
+      "env: legacy plugin v3",
       "env: purpur",
       "outdated: dependency",
       "outdated: server",
@@ -3413,17 +3415,6 @@
     ],
     "author": "CNDogc"
   },
-  "3411": {
-    "title": "1.16.5 - Java version support",
-    "updated_at": "2025-07-28T18:30:50Z",
-    "comments": 2,
-    "labels": [
-      "env: unofficial spigot fork",
-      "outdated: server",
-      "type: bug"
-    ],
-    "author": "fanzth"
-  },
   "3398": {
     "title": "minecraft:block.stone.step used in custom sound doesn't work",
     "updated_at": "2025-07-28T18:31:24Z",
@@ -3654,16 +3645,6 @@
     ],
     "author": "ryxan"
   },
-  "3109": {
-    "title": "FastDecoderException Error",
-    "updated_at": "2025-07-28T18:35:27Z",
-    "comments": 11,
-    "labels": [
-      "type: bug",
-      "verdict: invalid"
-    ],
-    "author": "Nokrato"
-  },
   "3102": {
     "title": "Specify the used block states in custom block properties",
     "updated_at": "2025-03-10T00:09:40Z",
@@ -3844,7 +3825,7 @@
   },
   "2755": {
     "title": "Detect invalid scale values in JSON models",
-    "updated_at": "2024-11-28T13:31:46Z",
+    "updated_at": "2026-08-03T12:22:03Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
