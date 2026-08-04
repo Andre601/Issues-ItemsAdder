@@ -1,4 +1,13 @@
 {
+  "5493": {
+    "title": "ItemsAdder disables itself after a certain period of time.",
+    "updated_at": "2026-08-04T03:51:44Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Kah1122"
+  },
   "5492": {
     "title": "Optimize `fix-glitched-blocks`",
     "updated_at": "2026-08-03T10:13:47Z",
@@ -97,7 +106,7 @@
   },
   "5480": {
     "title": "Text effects are not working on 26.2",
-    "updated_at": "2026-08-03T12:48:14Z",
+    "updated_at": "2026-08-03T16:31:42Z",
     "comments": 1,
     "labels": [
       "compat: new minecraft update",
@@ -407,8 +416,8 @@
   },
   "5438": {
     "title": "player head mislocated",
-    "updated_at": "2026-07-24T14:24:49Z",
-    "comments": 0,
+    "updated_at": "2026-08-04T04:52:19Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -587,8 +596,8 @@
   },
   "5406": {
     "title": "Shields position problem",
-    "updated_at": "2026-07-24T15:50:16Z",
-    "comments": 3,
+    "updated_at": "2026-08-04T04:58:33Z",
+    "comments": 4,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -2165,15 +2174,6 @@
     ],
     "author": "Alvarete666"
   },
-  "4950": {
-    "title": ".iaentity saves full file location in path",
-    "updated_at": "2025-08-26T12:15:43Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
   "4936": {
     "title": "replace-block action does not update model on certain block types",
     "updated_at": "2026-05-29T08:53:33Z",
@@ -2514,15 +2514,6 @@
       "type: feature request"
     ],
     "author": "NoHere32"
-  },
-  "4695": {
-    "title": "no-host config option non-functional",
-    "updated_at": "2026-05-26T09:24:10Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Projecki"
   },
   "4688": {
     "title": "`/iaerrorsdump` command",
@@ -3137,16 +3128,6 @@
     ],
     "author": "WMGameLive"
   },
-  "3917": {
-    "title": "Automatic third person view during emote",
-    "updated_at": "2025-09-10T16:54:54Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "CrebsTheCoder"
-  },
   "3894": {
     "title": "Hash issues in 1.21 and 1.20.6",
     "updated_at": "2025-07-28T18:25:17Z",
@@ -3238,7 +3219,7 @@
   },
   "3622": {
     "title": "New command `/iaitem`",
-    "updated_at": "2025-01-30T18:58:44Z",
+    "updated_at": "2026-08-03T16:29:12Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
