@@ -1,8 +1,17 @@
 {
+  "5494": {
+    "title": "Glitched chest with custom blocks",
+    "updated_at": "2026-08-04T23:09:29Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "IceeeLG"
+  },
   "5493": {
     "title": "ItemsAdder disables itself after a certain period of time.",
-    "updated_at": "2026-08-04T03:51:44Z",
-    "comments": 0,
+    "updated_at": "2026-08-04T14:14:26Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -135,8 +144,8 @@
     "author": "LoneDev6"
   },
   "5477": {
-    "title": "Implement `protection_4`",
-    "updated_at": "2026-07-27T13:52:59Z",
+    "title": "Remove `protection_4`",
+    "updated_at": "2026-08-05T10:09:45Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -166,8 +175,8 @@
   },
   "5472": {
     "title": "Custom item textures show as missing (purple/black) on pre-1.21.4 clients, but models load correctly",
-    "updated_at": "2026-08-03T12:40:05Z",
-    "comments": 6,
+    "updated_at": "2026-08-05T09:36:03Z",
+    "comments": 8,
     "labels": [
       "type: bug"
     ],
@@ -416,8 +425,8 @@
   },
   "5438": {
     "title": "player head mislocated",
-    "updated_at": "2026-08-04T04:52:19Z",
-    "comments": 1,
+    "updated_at": "2026-08-05T03:56:07Z",
+    "comments": 4,
     "labels": [
       "type: bug"
     ],
