@@ -1,12 +1,41 @@
 {
-  "5494": {
-    "title": "Glitched chest with custom blocks",
-    "updated_at": "2026-08-04T23:09:29Z",
+  "5498": {
+    "title": "other people cant see your armor after emote",
+    "updated_at": "2026-08-06T13:47:47Z",
     "comments": 0,
     "labels": [
+      "env: BETA",
       "type: bug"
     ],
-    "author": "IceeeLG"
+    "author": "bruhhhwarrior"
+  },
+  "5497": {
+    "title": "Trident events",
+    "updated_at": "2026-08-06T13:47:55Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "bruhhhwarrior"
+  },
+  "5496": {
+    "title": "`sounds.json` not imported and merged in some cases",
+    "updated_at": "2026-08-06T12:27:15Z",
+    "comments": 0,
+    "labels": [
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
+  "5495": {
+    "title": "Revamp custom entities",
+    "updated_at": "2026-08-06T09:22:45Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
   },
   "5493": {
     "title": "ItemsAdder disables itself after a certain period of time.",
