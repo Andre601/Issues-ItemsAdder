@@ -10,9 +10,12 @@
   },
   "5499": {
     "title": "[4.0.18-beta-21] Modern atlas validation (PLANNER_FATAL) aborts whole pack generation for vanilla 'stone' item hosting many custom blocks",
-    "updated_at": "2026-08-06T19:39:22Z",
-    "comments": 0,
-    "labels": [],
+    "updated_at": "2026-08-07T13:07:07Z",
+    "comments": 1,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
     "author": "nickynice1"
   },
   "5498": {
@@ -2982,7 +2985,7 @@
     "labels": [
       "type: feature request"
     ],
-    "author": "Vooogle"
+    "author": "pleasephil"
   },
   "4275": {
     "title": "Adding NBT data to custom entities",
