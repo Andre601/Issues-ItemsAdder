@@ -10,7 +10,7 @@
   },
   "5499": {
     "title": "[4.0.18-beta-21] Modern atlas validation (PLANNER_FATAL) aborts whole pack generation for vanilla 'stone' item hosting many custom blocks",
-    "updated_at": "2026-08-07T13:07:07Z",
+    "updated_at": "2026-08-09T09:01:53Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -348,7 +348,7 @@
   },
   "5459": {
     "title": "CustomNote impossible to place on short grass",
-    "updated_at": "2026-07-18T12:03:45Z",
+    "updated_at": "2026-08-09T09:01:42Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -673,7 +673,7 @@
   },
   "5402": {
     "title": "Failed to serialize custom items configs for block",
-    "updated_at": "2026-05-22T19:50:05Z",
+    "updated_at": "2026-08-09T09:03:06Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -794,7 +794,7 @@
   },
   "5379": {
     "title": "The model doesn't work when using PAPER",
-    "updated_at": "2026-05-09T03:35:43Z",
+    "updated_at": "2026-08-09T09:01:40Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -1573,7 +1573,7 @@
   },
   "5195": {
     "title": "Vanilla bug - Model overlapping in GUI",
-    "updated_at": "2026-03-27T13:50:02Z",
+    "updated_at": "2026-08-09T09:02:40Z",
     "comments": 14,
     "labels": [
       "env: BETA",
