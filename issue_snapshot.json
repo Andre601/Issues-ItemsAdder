@@ -1,4 +1,14 @@
 {
+  "5501": {
+    "title": "CustomCrops disappear after a RESPAWN packet is sent.",
+    "updated_at": "2026-08-10T19:50:08Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5500": {
     "title": "Shaders validation server-side",
     "updated_at": "2026-08-07T11:32:20Z",
