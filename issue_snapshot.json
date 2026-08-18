@@ -1642,16 +1642,6 @@
     ],
     "author": "Marcoral"
   },
-  "5181": {
-    "title": "Items that normally cannot be broken can be broken with multiple_break.",
-    "updated_at": "2026-05-29T08:53:20Z",
-    "comments": 2,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "siberanka"
-  },
   "5180": {
     "title": "New ia item action : mythicmob skills",
     "updated_at": "2026-02-01T11:09:57Z",
@@ -1911,17 +1901,6 @@
       "type: bug"
     ],
     "author": "EpicPlayerA10"
-  },
-  "5083": {
-    "title": "advancedenchantments + grindstone - Mainhand state duplication",
-    "updated_at": "2026-04-29T12:54:14Z",
-    "comments": 7,
-    "labels": [
-      "compat: plugin",
-      "type: bug",
-      "type: other plugin bug"
-    ],
-    "author": "siberanka"
   },
   "5079": {
     "title": "PlayerEditBookEvent interferance",
