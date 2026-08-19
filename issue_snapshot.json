@@ -1,7 +1,7 @@
 {
   "5503": {
     "title": "TranslationKey in /ia",
-    "updated_at": "2026-08-14T19:44:46Z",
+    "updated_at": "2026-08-19T10:42:17Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -21,7 +21,7 @@
   },
   "5501": {
     "title": "CustomCrops disappear after a RESPAWN packet is sent.",
-    "updated_at": "2026-08-10T19:50:08Z",
+    "updated_at": "2026-08-19T10:40:34Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -85,15 +85,6 @@
       "type: enhancement"
     ],
     "author": "LoneDev6"
-  },
-  "5493": {
-    "title": "ItemsAdder disables itself after a certain period of time.",
-    "updated_at": "2026-08-04T14:14:26Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Kah1122"
   },
   "5492": {
     "title": "Optimize `fix-glitched-blocks`",
@@ -262,7 +253,7 @@
   },
   "5471": {
     "title": "mob models always looking at one direction and not rotating",
-    "updated_at": "2026-07-25T13:18:39Z",
+    "updated_at": "2026-08-19T10:40:18Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -280,7 +271,7 @@
   },
   "5469": {
     "title": "Blast Furnace gives vanilla item instead of custom item (Furnace works fine)",
-    "updated_at": "2026-07-24T21:21:28Z",
+    "updated_at": "2026-08-19T10:43:15Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -494,7 +485,7 @@
   },
   "5440": {
     "title": "Script Compiler bug",
-    "updated_at": "2026-06-29T17:00:33Z",
+    "updated_at": "2026-08-19T12:24:33Z",
     "comments": 4,
     "labels": [
       "type: bug"
@@ -503,10 +494,11 @@
   },
   "5438": {
     "title": "player head mislocated",
-    "updated_at": "2026-08-05T03:56:07Z",
+    "updated_at": "2026-08-19T10:43:36Z",
     "comments": 4,
     "labels": [
-      "type: bug"
+      "type: bug",
+      "type: other plugin bug"
     ],
     "author": "minejango2"
   },
@@ -600,7 +592,7 @@
   },
   "5419": {
     "title": "Pack isn't working on <= 1.20.1 anymore (broken items)",
-    "updated_at": "2026-06-07T13:49:24Z",
+    "updated_at": "2026-08-19T12:17:33Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -759,7 +751,7 @@
   },
   "5389": {
     "title": "3D crops",
-    "updated_at": "2026-05-19T08:47:49Z",
+    "updated_at": "2026-08-19T12:18:02Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -768,7 +760,7 @@
   },
   "5387": {
     "title": "entity / mob models always looking at one direction and not rotating",
-    "updated_at": "2026-05-18T06:21:59Z",
+    "updated_at": "2026-08-19T12:18:20Z",
     "comments": 6,
     "labels": [
       "type: bug"
@@ -777,7 +769,7 @@
   },
   "5386": {
     "title": "entity doesn't turn and always looks at the same direction.",
-    "updated_at": "2026-05-17T13:19:26Z",
+    "updated_at": "2026-08-19T12:18:11Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -796,7 +788,7 @@
   },
   "5383": {
     "title": "replace_near_blocks when interacting with a block",
-    "updated_at": "2026-05-12T16:45:26Z",
+    "updated_at": "2026-08-19T12:18:36Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -805,7 +797,7 @@
   },
   "5382": {
     "title": "Durability decreases when interacting with a block",
-    "updated_at": "2026-05-12T16:35:39Z",
+    "updated_at": "2026-08-19T12:18:41Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -928,7 +920,7 @@
   },
   "5352": {
     "title": "\"replace_near_blocks\" option \"from_multiple\" works same as \"from\"",
-    "updated_at": "2026-04-19T06:59:53Z",
+    "updated_at": "2026-08-19T12:25:29Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1064,7 +1056,7 @@
   },
   "5320": {
     "title": "Breaking Terracotta yields items with incorrect/mixed textures",
-    "updated_at": "2026-07-24T15:41:03Z",
+    "updated_at": "2026-08-19T12:25:15Z",
     "comments": 6,
     "labels": [
       "impact: graphical issue",
@@ -1409,7 +1401,7 @@
   },
   "5249": {
     "title": "Custom Enchantments don't apply on ItemsAdder's items",
-    "updated_at": "2026-06-04T10:47:22Z",
+    "updated_at": "2026-08-19T12:25:01Z",
     "comments": 8,
     "labels": [
       "compat: plugin",
@@ -1520,19 +1512,6 @@
       "type: bug"
     ],
     "author": "FallPlayer26"
-  },
-  "5209": {
-    "title": "Armor dont load with shaders (1.21.1)",
-    "updated_at": "2026-03-27T11:01:25Z",
-    "comments": 3,
-    "labels": [
-      "impact: graphical issue",
-      "outdated: client",
-      "outdated: plugin",
-      "outdated: server",
-      "type: bug"
-    ],
-    "author": "maniacupons-beep"
   },
   "5208": {
     "title": "sit_all_solid_blocks does not work anymore",
@@ -1716,15 +1695,6 @@
       "type: bug"
     ],
     "author": "yorik100"
-  },
-  "5158": {
-    "title": "Can't Red Image files",
-    "updated_at": "2026-03-27T10:34:59Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Bimmalord"
   },
   "5155": {
     "title": "ItemsAdder.playTotemAnimation API call doesn't display custom totem texture",
@@ -2309,7 +2279,7 @@
   },
   "4875": {
     "title": "`DummyRegionFile.loadchunk() called`",
-    "updated_at": "2025-11-24T13:12:33Z",
+    "updated_at": "2026-08-19T12:20:14Z",
     "comments": 1,
     "labels": [
       "type: bug",
@@ -2683,7 +2653,7 @@
   },
   "4606": {
     "title": "Font images and text effects not replaced in `WRITTEN_BOOK` title",
-    "updated_at": "2025-07-29T06:14:52Z",
+    "updated_at": "2026-08-19T12:21:06Z",
     "comments": 0,
     "labels": [
       "impact: graphical issue",
@@ -2816,7 +2786,7 @@
   },
   "4507": {
     "title": "WorldEdit extension directly in ItemsAdder",
-    "updated_at": "2025-06-12T06:13:11Z",
+    "updated_at": "2026-08-19T12:23:14Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -3119,7 +3089,7 @@
   },
   "4065": {
     "title": "Calling .remove() on furniture entities does not work",
-    "updated_at": "2025-07-28T18:24:23Z",
+    "updated_at": "2026-08-19T12:21:12Z",
     "comments": 1,
     "labels": [
       "scope: api",
@@ -3129,7 +3099,7 @@
   },
   "4051": {
     "title": "itemsadder armors give 2x armor instead of they should give 1x",
-    "updated_at": "2025-07-28T18:24:32Z",
+    "updated_at": "2026-08-19T12:21:32Z",
     "comments": 1,
     "labels": [
       "env: unofficial spigot fork",
@@ -3186,7 +3156,7 @@
   },
   "3894": {
     "title": "Hash issues in 1.21 and 1.20.6",
-    "updated_at": "2025-07-28T18:25:17Z",
+    "updated_at": "2026-08-19T12:21:44Z",
     "comments": 6,
     "labels": [
       "env: purpur",
@@ -3454,7 +3424,7 @@
   },
   "3398": {
     "title": "minecraft:block.stone.step used in custom sound doesn't work",
-    "updated_at": "2025-07-28T18:31:24Z",
+    "updated_at": "2026-08-19T12:21:57Z",
     "comments": 3,
     "labels": [
       "env: purpur",
@@ -3464,7 +3434,7 @@
   },
   "3383": {
     "title": "Player emotes bug out for third part viewers when they are further away",
-    "updated_at": "2025-07-28T18:31:33Z",
+    "updated_at": "2026-08-19T12:22:18Z",
     "comments": 3,
     "labels": [
       "type: bug"
@@ -3510,7 +3480,7 @@
   },
   "3323": {
     "title": "Scattered blocks instead of veins in world populators",
-    "updated_at": "2025-11-07T17:21:52Z",
+    "updated_at": "2026-08-19T12:22:32Z",
     "comments": 6,
     "labels": [
       "type: bug"
@@ -3548,7 +3518,7 @@
   },
   "3298": {
     "title": "Creative scroll click on furniture itemframe without solid hitbox gives furniture without a custom name",
-    "updated_at": "2025-07-28T18:31:53Z",
+    "updated_at": "2026-08-19T12:22:42Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -3590,7 +3560,7 @@
   },
   "3220": {
     "title": "break item-frame furniture will bounce very far and that's so awful",
-    "updated_at": "2025-07-28T18:32:55Z",
+    "updated_at": "2026-08-19T12:23:48Z",
     "comments": 1,
     "labels": [
       "env: purpur",
@@ -3793,7 +3763,7 @@
   },
   "2906": {
     "title": "WorldEdit not working correctly",
-    "updated_at": "2025-07-28T18:37:07Z",
+    "updated_at": "2026-08-19T12:23:17Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
