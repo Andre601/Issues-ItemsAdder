@@ -40,7 +40,7 @@
   },
   "5499": {
     "title": "[4.0.18-beta-21] Modern atlas validation (PLANNER_FATAL) aborts whole pack generation for vanilla 'stone' item hosting many custom blocks",
-    "updated_at": "2026-08-15T13:59:07Z",
+    "updated_at": "2026-08-21T07:10:43Z",
     "comments": 2,
     "labels": [
       "env: BETA",
