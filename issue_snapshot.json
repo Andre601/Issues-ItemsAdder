@@ -1,13 +1,12 @@
 {
-  "5503": {
-    "title": "TranslationKey in /ia",
-    "updated_at": "2026-08-19T10:42:17Z",
+  "5505": {
+    "title": "Modern atlas validation",
+    "updated_at": "2026-08-22T08:25:11Z",
     "comments": 0,
     "labels": [
-      "env: BETA",
       "type: bug"
     ],
-    "author": "iambibi"
+    "author": "100petr"
   },
   "5502": {
     "title": "Armor pieces automatically add equip_on_interact and shearing_sound",
@@ -18,35 +17,6 @@
       "type: bug"
     ],
     "author": "SamGamerYT"
-  },
-  "5501": {
-    "title": "CustomCrops disappear after a RESPAWN packet is sent.",
-    "updated_at": "2026-08-19T10:40:34Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
-  "5500": {
-    "title": "Shaders validation server-side",
-    "updated_at": "2026-08-07T11:32:20Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
-  "5499": {
-    "title": "[4.0.18-beta-21] Modern atlas validation (PLANNER_FATAL) aborts whole pack generation for vanilla 'stone' item hosting many custom blocks",
-    "updated_at": "2026-08-21T07:10:43Z",
-    "comments": 2,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "nickynice1"
   },
   "5498": {
     "title": "other people cant see your armor after emote",
@@ -67,16 +37,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5496": {
-    "title": "`sounds.json` not imported and merged in some cases",
-    "updated_at": "2026-08-06T12:27:15Z",
-    "comments": 0,
-    "labels": [
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
   "5495": {
     "title": "Revamp custom entities",
     "updated_at": "2026-08-06T09:22:45Z",
@@ -84,13 +44,6 @@
     "labels": [
       "type: enhancement"
     ],
-    "author": "LoneDev6"
-  },
-  "5492": {
-    "title": "Optimize `fix-glitched-blocks`",
-    "updated_at": "2026-08-03T10:13:47Z",
-    "comments": 0,
-    "labels": [],
     "author": "LoneDev6"
   },
   "5490": {
@@ -113,37 +66,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5488": {
-    "title": "Smithing and anvil recipes issues",
-    "updated_at": "2026-08-01T15:47:38Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug",
-      "verdict: no solution"
-    ],
-    "author": "LoneDev6"
-  },
-  "5487": {
-    "title": "Add logging for non-standard model rotation angles in ModelValidator",
-    "updated_at": "2026-08-01T14:41:41Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
-  },
-  "5485": {
-    "title": "TPS | \u00ab fix-glitched-blocks \u00bb",
-    "updated_at": "2026-08-03T10:45:35Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "InSupp0rtabl3"
-  },
   "5484": {
     "title": "[API] Add API to apply an item\u2019s event cooldown",
     "updated_at": "2026-07-28T16:03:08Z",
@@ -152,16 +74,6 @@
       "type: feature request"
     ],
     "author": "PuppyTransGirl"
-  },
-  "5483": {
-    "title": "Tridents misaligned on modern game versions",
-    "updated_at": "2026-07-28T07:59:42Z",
-    "comments": 0,
-    "labels": [
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
   },
   "5482": {
     "title": "The ItemsAdder plugin is giving an error \"to dig a block in an unloaded chunk\".",
@@ -173,65 +85,6 @@
     ],
     "author": "moreoss"
   },
-  "5481": {
-    "title": "Fix No permission to use emojis when when OP",
-    "updated_at": "2026-07-27T17:38:58Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5480": {
-    "title": "Text effects are not working on 26.2",
-    "updated_at": "2026-08-03T16:31:42Z",
-    "comments": 1,
-    "labels": [
-      "compat: new minecraft update",
-      "env: BETA",
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "minejango2"
-  },
-  "5479": {
-    "title": "Textures marked as non-existing by mistake in some cases due to missing namespace",
-    "updated_at": "2026-07-27T15:09:36Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5478": {
-    "title": "streamLayer1 is null. Cannot calculate atlas image dimensions",
-    "updated_at": "2026-07-27T14:45:29Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5477": {
-    "title": "Remove `protection_4`",
-    "updated_at": "2026-08-05T10:09:45Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
-  },
-  "5476": {
-    "title": "Improve `protection_3`",
-    "updated_at": "2026-07-27T12:56:00Z",
-    "comments": 0,
-    "labels": [
-      "type: bug",
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
   "5473": {
     "title": "Custom Blocks Not Loading After Migrating from 1.21.8 to 26.1.2",
     "updated_at": "2026-08-03T12:48:13Z",
@@ -241,15 +94,6 @@
       "type: bug"
     ],
     "author": "ThaiHack271"
-  },
-  "5472": {
-    "title": "Custom item textures show as missing (purple/black) on pre-1.21.4 clients, but models load correctly",
-    "updated_at": "2026-08-05T09:36:03Z",
-    "comments": 8,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "tvPeterr"
   },
   "5471": {
     "title": "mob models always looking at one direction and not rotating",
@@ -287,17 +131,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5467": {
-    "title": "Find possible better implementation to support block and item atlases textures",
-    "updated_at": "2026-07-25T15:37:10Z",
-    "comments": 0,
-    "labels": [
-      "impact: graphical issue",
-      "type: enhancement",
-      "type: performance"
-    ],
-    "author": "LoneDev6"
-  },
   "5466": {
     "title": "Emote give player fly",
     "updated_at": "2026-07-27T17:37:27Z",
@@ -308,75 +141,6 @@
     ],
     "author": "Mathildeuh"
   },
-  "5465": {
-    "title": "Tried to load invalid item: 'No key saturation",
-    "updated_at": "2026-07-23T17:06:08Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5464": {
-    "title": "Unknown particles and effects legacy naming",
-    "updated_at": "2026-07-23T16:10:18Z",
-    "comments": 0,
-    "labels": [
-      "compat: new minecraft update",
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
-  "5463": {
-    "title": "Do not allow macStackSize > 99 or < 0",
-    "updated_at": "2026-07-23T11:51:50Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks loading",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5462": {
-    "title": "Blocks losing custom id and texture in Java 25",
-    "updated_at": "2026-07-21T17:09:07Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5461": {
-    "title": "Java Heap space issue",
-    "updated_at": "2026-07-21T16:54:09Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks loading",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5460": {
-    "title": "Invalid UV model breaks all custom items sharing the same vanilla material",
-    "updated_at": "2026-07-24T14:49:47Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "SrMonsterYT"
-  },
-  "5459": {
-    "title": "CustomNote impossible to place on short grass",
-    "updated_at": "2026-08-09T09:01:42Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
   "5458": {
     "title": "NeverEnoughRecipes support",
     "updated_at": "2026-08-09T23:17:09Z",
@@ -385,27 +149,6 @@
       "type: feature request"
     ],
     "author": "Andre601"
-  },
-  "5457": {
-    "title": "Hide vanilla hitbox when looking at crops",
-    "updated_at": "2026-07-14T16:37:39Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
-  "5456": {
-    "title": "Shader errors when using Vulkan",
-    "updated_at": "2026-07-13T16:28:25Z",
-    "comments": 0,
-    "labels": [
-      "compat: new minecraft update",
-      "impact: breaks loading",
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
   },
   "5450": {
     "title": "ToolTip assign with custom model data",
@@ -416,24 +159,6 @@
     ],
     "author": "The-kodi"
   },
-  "5449": {
-    "title": "/iaemoji error",
-    "updated_at": "2026-07-24T15:30:58Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Mathildeuh"
-  },
-  "5448": {
-    "title": "NoSuchMethodError on FurnaceSmeltEvent with latest CustomCrafting",
-    "updated_at": "2026-07-24T14:21:06Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "reitlerman-a11y"
-  },
   "5446": {
     "title": "auto_convert_to_item_display: for furnitures should change the yml when DISABLED aswell.",
     "updated_at": "2026-07-08T14:42:36Z",
@@ -442,15 +167,6 @@
       "type: feature request"
     ],
     "author": "WhopperMcBigMac12"
-  },
-  "5445": {
-    "title": "Language key in the pack.mcmeta is auto merged to the \"pack\" key while it is a independent key.",
-    "updated_at": "2026-07-24T15:31:20Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "BN-2K9"
   },
   "5444": {
     "title": "Dialogs Support for Font Images",
@@ -461,28 +177,6 @@
     ],
     "author": "Mathildeuh"
   },
-  "5443": {
-    "title": "Chunk Load -> Server Crash",
-    "updated_at": "2026-07-12T13:35:01Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "yampoiuer-art"
-  },
-  "5441": {
-    "title": "Pack key supported_formats is deprecated starting from pack format 65. Remove supported_formats from your pack.mcmeta",
-    "updated_at": "2026-06-30T16:28:33Z",
-    "comments": 0,
-    "labels": [
-      "compat: new minecraft update",
-      "impact: graphical issue",
-      "scope: resourcepack",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
   "5440": {
     "title": "Script Compiler bug",
     "updated_at": "2026-08-19T12:24:33Z",
@@ -491,16 +185,6 @@
       "type: bug"
     ],
     "author": "bobbyrutt697-web"
-  },
-  "5438": {
-    "title": "player head mislocated",
-    "updated_at": "2026-08-19T10:43:36Z",
-    "comments": 4,
-    "labels": [
-      "type: bug",
-      "type: other plugin bug"
-    ],
-    "author": "minejango2"
   },
   "5437": {
     "title": "Emotes should respect player scale",
@@ -511,94 +195,6 @@
     ],
     "author": "VgamerV3"
   },
-  "5436": {
-    "title": "Event for mutating pack post pack generation, before dispatch",
-    "updated_at": "2026-06-30T16:26:25Z",
-    "comments": 0,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "Combimagnetron"
-  },
-  "5435": {
-    "title": "Unable to bake item model: 'minecraft:paper'",
-    "updated_at": "2026-07-25T15:37:13Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Helyxst"
-  },
-  "5430": {
-    "title": "TRIPWIRE isn't an item",
-    "updated_at": "2026-07-24T14:20:55Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
-  "5429": {
-    "title": "26.2 support",
-    "updated_at": "2026-06-21T07:23:03Z",
-    "comments": 1,
-    "labels": [
-      "compat: new minecraft update"
-    ],
-    "author": "LoneDev6"
-  },
-  "5427": {
-    "title": "Damage and attack speed lore not showing for COPPER tools and MACE",
-    "updated_at": "2026-06-17T15:37:41Z",
-    "comments": 0,
-    "labels": [
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5424": {
-    "title": "`jukebox_disc` not registering if `enabled: true` is not specified explicitely",
-    "updated_at": "2026-06-09T13:21:11Z",
-    "comments": 0,
-    "labels": [
-      "type: bug",
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
-  "5423": {
-    "title": "Original model of material NOTE_BLOCK has errors",
-    "updated_at": "2026-06-09T13:10:35Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "impact: breaks loading",
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5422": {
-    "title": "Crops not working sometimes",
-    "updated_at": "2026-06-08T14:23:20Z",
-    "comments": 1,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5419": {
-    "title": "Pack isn't working on <= 1.20.1 anymore (broken items)",
-    "updated_at": "2026-08-19T12:17:33Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "bobhenl"
-  },
   "5418": {
     "title": "IACrops can place crop but no grow",
     "updated_at": "2026-07-27T17:37:26Z",
@@ -608,15 +204,6 @@
     ],
     "author": "Tareyu"
   },
-  "5417": {
-    "title": "`convert_paper_to_block_in_inventory` setting in `config.yml`",
-    "updated_at": "2026-06-05T14:26:58Z",
-    "comments": 0,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
-  },
   "5416": {
     "title": "crops bug (hitbox and decrease_age)",
     "updated_at": "2026-07-27T17:37:24Z",
@@ -625,43 +212,6 @@
       "type: bug"
     ],
     "author": "MonEzxc"
-  },
-  "5415": {
-    "title": "Avoid generating useless `assets/items` duplicates for multiple versions",
-    "updated_at": "2026-06-03T13:49:30Z",
-    "comments": 0,
-    "labels": [
-      "type: bug",
-      "type: performance"
-    ],
-    "author": "LoneDev6"
-  },
-  "5414": {
-    "title": "Texture `item/empty` not found",
-    "updated_at": "2026-06-03T13:48:19Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5413": {
-    "title": "Simple self host `Too many active downloads` in some cases",
-    "updated_at": "2026-06-03T09:59:05Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "5410": {
-    "title": "Error reading vanilla model",
-    "updated_at": "2026-07-24T14:18:50Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "JasperRuiz"
   },
   "5407": {
     "title": "font image shadow setting does nothing",
@@ -673,40 +223,10 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5406": {
-    "title": "Shields position problem",
-    "updated_at": "2026-08-04T04:58:33Z",
-    "comments": 4,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "ZzPowerTech"
-  },
-  "5404": {
-    "title": "Texture 'item/empty' not found for non-leather armor models after /iazip in beta-12",
-    "updated_at": "2026-07-24T14:26:13Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "pistonio"
-  },
   "5402": {
     "title": "Failed to serialize custom items configs for block",
     "updated_at": "2026-08-09T09:03:06Z",
     "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "bobhenl"
-  },
-  "5401": {
-    "title": "InventoryClickEvent error",
-    "updated_at": "2026-07-24T14:26:25Z",
-    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -740,15 +260,6 @@
     ],
     "author": "iCrashMix"
   },
-  "5395": {
-    "title": "block_dig creates deadlock on server and causes crash",
-    "updated_at": "2026-07-24T14:20:26Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "AltruFops"
-  },
   "5389": {
     "title": "3D crops",
     "updated_at": "2026-08-19T12:18:02Z",
@@ -776,16 +287,6 @@
     ],
     "author": "UdalovKornelius"
   },
-  "5384": {
-    "title": "Option to fix glitched vanilla mushrooms/chorus by changing it via auto-generated datapacks in worlds folders",
-    "updated_at": "2026-06-17T10:20:57Z",
-    "comments": 1,
-    "labels": [
-      "type: bug",
-      "type: feature request"
-    ],
-    "author": "Gu57-git"
-  },
   "5383": {
     "title": "replace_near_blocks when interacting with a block",
     "updated_at": "2026-08-19T12:18:36Z",
@@ -803,26 +304,6 @@
       "type: bug"
     ],
     "author": "iambibi"
-  },
-  "5381": {
-    "title": "Chorus broken",
-    "updated_at": "2026-05-29T08:53:14Z",
-    "comments": 3,
-    "labels": [
-      "impact: graphical issue",
-      "type: bug"
-    ],
-    "author": "ReformedHooper"
-  },
-  "5379": {
-    "title": "The model doesn't work when using PAPER",
-    "updated_at": "2026-08-09T09:01:40Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "Nabi-dev01"
   },
   "5378": {
     "title": "Replace custom_name component with item_name",
@@ -843,34 +324,6 @@
     ],
     "author": "Andre601"
   },
-  "5374": {
-    "title": "[4.0.17-beta-9] Shield Bug",
-    "updated_at": "2026-05-29T08:53:13Z",
-    "comments": 4,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "SamGamerYT"
-  },
-  "5370": {
-    "title": "NullPointerException: File.getAbsolutePath() because \"<local2>\" is null",
-    "updated_at": "2026-05-29T08:53:12Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "misieur"
-  },
-  "5369": {
-    "title": "Faster custom blocks placement",
-    "updated_at": "2026-06-10T11:57:34Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
-  },
   "5364": {
     "title": "`BlockPlaceEvent#getItemInHand()` returns AIR when placing blocks on noteblocks",
     "updated_at": "2026-07-27T17:37:00Z",
@@ -880,15 +333,6 @@
     ],
     "author": "LoneDev6"
   },
-  "5362": {
-    "title": "Windcharge and windburst break my items",
-    "updated_at": "2026-05-29T08:53:59Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Yellowingamer"
-  },
   "5358": {
     "title": "\"/iatrademachine <player> <furniture/block with trade_machine behaviour ID>\" command",
     "updated_at": "2026-04-29T06:50:22Z",
@@ -897,26 +341,6 @@
       "type: feature request"
     ],
     "author": "Gu57-git"
-  },
-  "5357": {
-    "title": "A bug with custom textures on the armor stand",
-    "updated_at": "2026-05-29T08:53:58Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "pistonio"
-  },
-  "5356": {
-    "title": "The records disappear after I put them in the turntable",
-    "updated_at": "2026-05-29T08:53:57Z",
-    "comments": 3,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "pistonio"
   },
   "5352": {
     "title": "\"replace_near_blocks\" option \"from_multiple\" works same as \"from\"",
@@ -936,15 +360,6 @@
       "type: bug"
     ],
     "author": "johnfriedrich"
-  },
-  "5349": {
-    "title": "emojis not being parsed",
-    "updated_at": "2026-05-22T10:03:30Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "dan28000"
   },
   "5348": {
     "title": "1.21.1 Support - 1.21.1 is a very common LTS version for modded servers",
@@ -979,15 +394,6 @@
     "comments": 1,
     "labels": [
       "type: feature request"
-    ],
-    "author": "Gu57-git"
-  },
-  "5338": {
-    "title": "ItemsAdder entities particles issue",
-    "updated_at": "2026-05-29T08:53:56Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
     ],
     "author": "Gu57-git"
   },
@@ -1109,15 +515,6 @@
     ],
     "author": "Gu57-git"
   },
-  "5312": {
-    "title": "Bottom block breaking supposed to drop seed/result of custom crops",
-    "updated_at": "2026-05-29T08:53:54Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Gu57-git"
-  },
   "5311": {
     "title": "Action \"replace_biome\" for items",
     "updated_at": "2026-04-29T06:51:04Z",
@@ -1190,15 +587,6 @@
     ],
     "author": "Gu57-git"
   },
-  "5301": {
-    "title": "Furniture Place / Break Itemsadder on Purpur 1.21.11 Latest (4.0.16)",
-    "updated_at": "2026-05-29T08:53:51Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "MineTommy"
-  },
   "5298": {
     "title": "Automatic external host (private host)",
     "updated_at": "2026-04-14T16:45:45Z",
@@ -1208,24 +596,6 @@
     ],
     "author": "Real6dq"
   },
-  "5293": {
-    "title": "Itemname gets a reset after enchanting",
-    "updated_at": "2026-04-29T10:12:36Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "forsakenliquid"
-  },
-  "5292": {
-    "title": "Cannot read field \"ag\" because the return value of \"itemsadder.m.a.d()\" is null",
-    "updated_at": "2026-07-23T15:35:51Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
   "5291": {
     "title": "Reforge diamond_tool to their netherite versions",
     "updated_at": "2026-07-27T17:37:39Z",
@@ -1234,15 +604,6 @@
       "type: bug"
     ],
     "author": "iambibi"
-  },
-  "5288": {
-    "title": "Glow near blocks not working correctly.",
-    "updated_at": "2026-05-29T08:53:58Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "TheGiv32"
   },
   "5282": {
     "title": "Vehicle textures missing when merging MTVehicles's resourcepack",
@@ -1254,16 +615,6 @@
     ],
     "author": "ClayCoffee"
   },
-  "5278": {
-    "title": "Hitboxes showing range aren't accurate and doesn't respect `block_interaction_range` attribute",
-    "updated_at": "2026-04-29T12:42:12Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "PuppyTransGirl"
-  },
   "5277": {
     "title": "make hitbox a little thinner on crops",
     "updated_at": "2026-06-17T07:38:21Z",
@@ -1273,16 +624,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5276": {
-    "title": "Crops packet spam",
-    "updated_at": "2026-05-29T08:53:10Z",
-    "comments": 4,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "PuppyTransGirl"
-  },
   "5275": {
     "title": "allow several bottom blocks (list) for crops",
     "updated_at": "2026-06-17T07:38:21Z",
@@ -1291,46 +632,6 @@
       "type: feature request"
     ],
     "author": "bruhhhwarrior"
-  },
-  "5274": {
-    "title": "top part of tall hitboxes dont trigger hitbox",
-    "updated_at": "2026-05-29T08:53:57Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
-  "5273": {
-    "title": "blocks break crops when placed",
-    "updated_at": "2026-05-29T08:53:56Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
-  "5272": {
-    "title": "Crops can be broken and interacted with through blocks",
-    "updated_at": "2026-05-29T08:53:56Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
-  "5271": {
-    "title": "Customize Table not transfer the enchantments",
-    "updated_at": "2026-05-29T08:53:55Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "ICEZAFT"
   },
   "5270": {
     "title": "Font Image issue in Lore",
@@ -1342,34 +643,6 @@
     ],
     "author": "00Hrtz"
   },
-  "5266": {
-    "title": "Mushroom Config Affects Unbreakable Durability and Disables Silk Touch on Mushroom Blocks",
-    "updated_at": "2026-05-29T08:53:53Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "CCjun6"
-  },
-  "5261": {
-    "title": "Error reading vanilla model for material COPPER_SWORD",
-    "updated_at": "2026-05-29T08:53:52Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "CCjun6"
-  },
-  "5258": {
-    "title": "PlayerInteractEvent issues with complex furnitures",
-    "updated_at": "2026-05-29T08:53:51Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "PuppyTransGirl"
-  },
   "5255": {
     "title": "Entity updates sometimes get stuck",
     "updated_at": "2026-07-24T16:28:41Z",
@@ -1378,26 +651,6 @@
       "type: bug"
     ],
     "author": "bruhhhwarrior"
-  },
-  "5252": {
-    "title": "RuntimeException: TileState is null",
-    "updated_at": "2026-05-29T08:53:50Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "patcotts"
-  },
-  "5250": {
-    "title": "Unsupported material BUNDLE for now. Use another one or suggest it on GitHub.",
-    "updated_at": "2026-07-28T07:20:49Z",
-    "comments": 4,
-    "labels": [
-      "scope: resourcepack",
-      "type: bug"
-    ],
-    "author": "ReddoMC"
   },
   "5249": {
     "title": "Custom Enchantments don't apply on ItemsAdder's items",
@@ -1417,15 +670,6 @@
       "type: feature request"
     ],
     "author": "VRXDev2"
-  },
-  "5247": {
-    "title": "People can send GUIs in chat by using unicode associated with it.",
-    "updated_at": "2026-06-17T16:24:37Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Delllus"
   },
   "5243": {
     "title": "Add `item_model` option to the `replace_properties` action",
@@ -1475,15 +719,6 @@
     ],
     "author": "LoneDev6"
   },
-  "5228": {
-    "title": "TNT destroying chest behind custom blocks",
-    "updated_at": "2026-07-23T16:15:02Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "IceeeLG"
-  },
   "5227": {
     "title": "implement placeable_on for complex-furniture",
     "updated_at": "2026-06-17T07:39:06Z",
@@ -1492,16 +727,6 @@
       "type: feature request"
     ],
     "author": "bruhhhwarrior"
-  },
-  "5221": {
-    "title": "FurnitureBreakEvent prevents manual furniture removal when cancelled",
-    "updated_at": "2026-05-29T08:53:48Z",
-    "comments": 0,
-    "labels": [
-      "scope: api",
-      "type: bug"
-    ],
-    "author": "souofrancisco"
   },
   "5220": {
     "title": "Armor layer bug",
@@ -1529,53 +754,11 @@
     "labels": [],
     "author": "LoneDev6"
   },
-  "5204": {
-    "title": "Items Updater not correctly working with custom armors & trims",
-    "updated_at": "2026-05-29T08:53:08Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Produktecheck"
-  },
-  "5202": {
-    "title": "Tooltip on armor bugged",
-    "updated_at": "2026-04-29T12:50:27Z",
-    "comments": 6,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
-  "5201": {
-    "title": "enchantment glint not visible in third person",
-    "updated_at": "2026-07-25T15:37:14Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
-      "impact: graphical issue",
-      "type: bug",
-      "verdict: complex to implement",
-      "verdict: minecraft limitation",
-      "verdict: no solution"
-    ],
-    "author": "bruhhhwarrior"
-  },
   "5199": {
     "title": "Item creation event",
     "updated_at": "2026-02-17T21:07:33Z",
     "comments": 0,
     "labels": [
-      "type: feature request"
-    ],
-    "author": "bruhhhwarrior"
-  },
-  "5197": {
-    "title": "spear material support",
-    "updated_at": "2026-08-03T10:14:26Z",
-    "comments": 1,
-    "labels": [
-      "env: BETA",
       "type: feature request"
     ],
     "author": "bruhhhwarrior"
@@ -1602,25 +785,6 @@
     ],
     "author": "bobhenl"
   },
-  "5189": {
-    "title": "Gun behaviour doesn't allow Minecraft items as Ammo",
-    "updated_at": "2026-06-08T08:02:08Z",
-    "comments": 0,
-    "labels": [
-      "type: bug",
-      "type: enhancement"
-    ],
-    "author": "PuppyTransGirl"
-  },
-  "5184": {
-    "title": "Drinking custom potion leaves an empty bottle if there is more than one potion in the stack",
-    "updated_at": "2026-05-29T08:53:45Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Marcoral"
-  },
   "5180": {
     "title": "New ia item action : mythicmob skills",
     "updated_at": "2026-02-01T11:09:57Z",
@@ -1641,16 +805,6 @@
     ],
     "author": "k1netix"
   },
-  "5173": {
-    "title": "custom hud stopped working",
-    "updated_at": "2026-06-09T10:00:20Z",
-    "comments": 3,
-    "labels": [
-      "impact: breaks gameplay (minor)",
-      "type: bug"
-    ],
-    "author": "dorori123"
-  },
   "5171": {
     "title": "Make a button to give all items from a category from the `/ia` menu",
     "updated_at": "2026-03-27T11:00:06Z",
@@ -1669,15 +823,6 @@
     ],
     "author": "HouYanShen"
   },
-  "5163": {
-    "title": "Smithing Table (lore double)",
-    "updated_at": "2026-07-22T17:08:43Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "jasulkowski"
-  },
   "5161": {
     "title": "Interacting with an entity does not work for any plugin using MythicMobs model",
     "updated_at": "2025-12-14T19:11:05Z",
@@ -1686,25 +831,6 @@
       "type: bug"
     ],
     "author": "KodeKrakenDev"
-  },
-  "5160": {
-    "title": "Reach does not show in tooltip with fix-show-attack-and-damage-as-lore",
-    "updated_at": "2026-04-29T12:43:26Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "yorik100"
-  },
-  "5155": {
-    "title": "ItemsAdder.playTotemAnimation API call doesn't display custom totem texture",
-    "updated_at": "2026-05-29T08:53:43Z",
-    "comments": 0,
-    "labels": [
-      "scope: api",
-      "type: bug"
-    ],
-    "author": "xRedCrystalx"
   },
   "5152": {
     "title": "Custom armor will not take vanilla enchantments in an anvil unless name is removed.",
@@ -1744,24 +870,6 @@
       "type: feature request"
     ],
     "author": "LoneDev6"
-  },
-  "5142": {
-    "title": "Performance issues with isCustomBlock in piston events",
-    "updated_at": "2026-04-29T10:15:36Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "RVSkeLe"
-  },
-  "5141": {
-    "title": "Custom Hardness - Diamond Axe",
-    "updated_at": "2026-04-29T10:17:05Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "HYVERSMC"
   },
   "5140": {
     "title": "Proxy - resourcepack loading twice",
@@ -1808,24 +916,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5112": {
-    "title": "Tile blocks appear as spawners when placed",
-    "updated_at": "2026-06-08T12:05:08Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "KamikotoTkach"
-  },
-  "5103": {
-    "title": "CRITICAL Cooldown limit and completely broken.",
-    "updated_at": "2026-05-29T08:53:40Z",
-    "comments": 6,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "00Hrtz"
-  },
   "5100": {
     "title": "[Language Bug] minecraft_lang_overwrite not supporting child changes.",
     "updated_at": "2025-11-05T01:18:45Z",
@@ -1862,15 +952,6 @@
       "type: feature request"
     ],
     "author": "Gorderok"
-  },
-  "5086": {
-    "title": "Improve creative scroll-click with furnitures",
-    "updated_at": "2026-07-24T15:20:49Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "EpicPlayerA10"
   },
   "5079": {
     "title": "PlayerEditBookEvent interferance",
@@ -1909,15 +990,6 @@
       "type: feature request"
     ],
     "author": "LoneDev6"
-  },
-  "5069": {
-    "title": "Item_Flag modifier in items only does one rule (IE. Hide Enchants OR Hide Attributes)",
-    "updated_at": "2026-06-25T10:55:45Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Connor-03"
   },
   "5067": {
     "title": "Allow players to enable or disable parts of the generated resource pack",
@@ -1985,24 +1057,6 @@
     ],
     "author": "Pizza1150"
   },
-  "5046": {
-    "title": "Error reading vanilla model for material PALE_OAK_LOG",
-    "updated_at": "2026-05-29T08:53:39Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "iambibi"
-  },
-  "5041": {
-    "title": "Cave decorator not placing blocks correctly",
-    "updated_at": "2026-05-29T08:53:38Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "konfix"
-  },
   "5040": {
     "title": "Use new Object Text Component for emojis in chat",
     "updated_at": "2025-09-24T13:16:08Z",
@@ -2011,15 +1065,6 @@
       "type: feature request"
     ],
     "author": "Andre601"
-  },
-  "5033": {
-    "title": "Interact event getting cancelled when clicked block is typeof AIR",
-    "updated_at": "2026-05-29T08:53:37Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "PSYCHEER"
   },
   "5026": {
     "title": "Custom Naturally Spawned Ores Missing textures After v4.0.13",
@@ -2047,15 +1092,6 @@
       "type: feature request"
     ],
     "author": "PSYCHEER"
-  },
-  "5023": {
-    "title": "Auto migrate from `resource` to `graphics`",
-    "updated_at": "2026-06-09T07:29:26Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement"
-    ],
-    "author": "LoneDev6"
   },
   "5020": {
     "title": "Allow for custom HUD's to keep FontImageWrapper's color and offset data",
@@ -2133,16 +1169,6 @@
     ],
     "author": "svdermant"
   },
-  "4976": {
-    "title": "Libraries loaded via Libby are not isolated and cause issues",
-    "updated_at": "2026-08-06T18:05:14Z",
-    "comments": 11,
-    "labels": [
-      "compat: plugin",
-      "type: bug"
-    ],
-    "author": "SkytAsul"
-  },
   "4975": {
     "title": "com.comphenix.protocol.reflect.FieldAccessException: Field index 2 is out of bounds for length 1",
     "updated_at": "2025-08-26T13:01:49Z",
@@ -2210,15 +1236,6 @@
     ],
     "author": "Alvarete666"
   },
-  "4936": {
-    "title": "replace-block action does not update model on certain block types",
-    "updated_at": "2026-05-29T08:53:33Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "bruhhhwarrior"
-  },
   "4935": {
     "title": "add replace-furniture action like replace-block",
     "updated_at": "2026-06-17T07:37:57Z",
@@ -2244,15 +1261,6 @@
     "comments": 0,
     "labels": [
       "type: feature request"
-    ],
-    "author": "LoneDev6"
-  },
-  "4904": {
-    "title": "Mixing various resourcepack sub-folders structures causes stuff to fail to be found",
-    "updated_at": "2026-07-24T14:27:57Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
     ],
     "author": "LoneDev6"
   },
@@ -2441,15 +1449,6 @@
     ],
     "author": "Horylinn"
   },
-  "4786": {
-    "title": "`cancel: true` not working for `eat`",
-    "updated_at": "2026-05-29T08:53:34Z",
-    "comments": 6,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "ZzPowerTech"
-  },
   "4777": {
     "title": "Option to define multiple names for a font image",
     "updated_at": "2025-06-11T15:16:41Z",
@@ -2523,34 +1522,6 @@
     ],
     "author": "Gu57-git"
   },
-  "4715": {
-    "title": "Furniture lore/name is not refreshed when dropped",
-    "updated_at": "2026-07-14T17:16:11Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "TheLaoming"
-  },
-  "4710": {
-    "title": "Unable to construct this menu by type (Custom GUI Texture)",
-    "updated_at": "2026-05-29T08:53:33Z",
-    "comments": 3,
-    "labels": [
-      "scope: api",
-      "type: bug"
-    ],
-    "author": "IMrMDX"
-  },
-  "4704": {
-    "title": "Add wildcard support to `hide_items` in the `ia_gui.yml` file",
-    "updated_at": "2026-02-04T10:02:54Z",
-    "comments": 2,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "NoHere32"
-  },
   "4688": {
     "title": "`/iaerrorsdump` command",
     "updated_at": "2025-08-18T06:14:29Z",
@@ -2586,16 +1557,6 @@
     "comments": 2,
     "labels": [
       "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
-  },
-  "4647": {
-    "title": "1.21.2 - Custom elytra",
-    "updated_at": "2026-07-24T16:53:54Z",
-    "comments": 0,
-    "labels": [
-      "compat: new minecraft update",
       "type: feature request"
     ],
     "author": "LoneDev6"
@@ -2670,15 +1631,6 @@
       "type: feature request"
     ],
     "author": "Andre601"
-  },
-  "4589": {
-    "title": "Implement new block type `ENTITY`",
-    "updated_at": "2026-07-30T14:28:24Z",
-    "comments": 0,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
   },
   "4580": {
     "title": "Add a required plugin versions field to config files",
@@ -2876,16 +1828,6 @@
       "type: bug"
     ],
     "author": "sciqni"
-  },
-  "4359": {
-    "title": "Revamp the logging",
-    "updated_at": "2026-08-06T16:04:14Z",
-    "comments": 3,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
   },
   "4341": {
     "title": "The ia model is applied in Mythimobs, and the mob display name is not displayed",
@@ -3308,15 +2250,6 @@
     ],
     "author": "chamo572"
   },
-  "3575": {
-    "title": "Tree generator will not use custom blocks for certain tree types at all",
-    "updated_at": "2026-06-17T12:16:59Z",
-    "comments": 9,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "ofunny"
-  },
   "3572": {
     "title": "Placing Denizen furnitures/block using a command.",
     "updated_at": "2024-04-26T15:18:35Z",
@@ -3390,15 +2323,6 @@
       "type: feature request"
     ],
     "author": "SrMonsterYT"
-  },
-  "3446": {
-    "title": "`/iacleancache items` does not remove item with old material when changed material",
-    "updated_at": "2026-05-29T08:53:32Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "EpicPlayerA10"
   },
   "3420": {
     "title": "1.16.5 - Flooding of Noteplay Event Errors in Console",
@@ -3935,16 +2859,6 @@
     ],
     "author": "Replaycchi"
   },
-  "2537": {
-    "title": "CEILING cave decorators are spawning on wrong blocks.",
-    "updated_at": "2026-05-29T08:53:31Z",
-    "comments": 2,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "Millionary"
-  },
   "2536": {
     "title": "\"*_stick\" ---> \"wooden_stick\", \"stone_stick\"",
     "updated_at": "2023-04-13T18:42:57Z",
@@ -4101,16 +3015,6 @@
     "comments": 6,
     "labels": [
       "type: feature request"
-    ],
-    "author": "ItzASecretBoi"
-  },
-  "1763": {
-    "title": "Make multiple_break to only break blocks that the tool is made for",
-    "updated_at": "2026-05-29T08:53:27Z",
-    "comments": 0,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
     ],
     "author": "ItzASecretBoi"
   },
@@ -4279,15 +3183,6 @@
       "type: feature request"
     ],
     "author": "The-Gust"
-  },
-  "1245": {
-    "title": "Automatically generate broken elytra texture",
-    "updated_at": "2026-07-27T17:37:41Z",
-    "comments": 1,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "ArtifactyNight"
   },
   "1214": {
     "title": "water vehicles",
