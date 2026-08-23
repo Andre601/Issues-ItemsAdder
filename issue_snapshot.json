@@ -20,8 +20,8 @@
   },
   "5498": {
     "title": "other people cant see your armor after emote",
-    "updated_at": "2026-08-06T13:47:47Z",
-    "comments": 0,
+    "updated_at": "2026-08-23T09:35:55Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
