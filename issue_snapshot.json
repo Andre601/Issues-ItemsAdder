@@ -1,4 +1,13 @@
 {
+  "5506": {
+    "title": "Make `/iazip --uncompressed` use the unchanged texture/model paths",
+    "updated_at": "2026-08-23T20:01:34Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Andre601"
+  },
   "5505": {
     "title": "Modern atlas validation",
     "updated_at": "2026-08-22T08:25:11Z",
