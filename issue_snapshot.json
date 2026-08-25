@@ -1,4 +1,13 @@
 {
+  "5507": {
+    "title": "/iazip does not complete with many items on ItemsAdder 4.0.18",
+    "updated_at": "2026-08-24T17:40:59Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "SrMonsterYT"
+  },
   "5506": {
     "title": "Make `/iazip --uncompressed` use the unchanged texture/model paths",
     "updated_at": "2026-08-23T20:01:34Z",
