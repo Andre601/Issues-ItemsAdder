@@ -1,8 +1,8 @@
 {
   "5507": {
     "title": "/iazip does not complete with many items on ItemsAdder 4.0.18",
-    "updated_at": "2026-08-24T17:40:59Z",
-    "comments": 0,
+    "updated_at": "2026-08-25T18:35:53Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -215,8 +215,8 @@
   },
   "5418": {
     "title": "IACrops can place crop but no grow",
-    "updated_at": "2026-07-27T17:37:26Z",
-    "comments": 0,
+    "updated_at": "2026-08-25T15:14:01Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -2644,8 +2644,8 @@
   },
   "3021": {
     "title": "AdvancedEnchantment Plugin Ability is not compatible with IA items",
-    "updated_at": "2025-07-28T18:35:46Z",
-    "comments": 4,
+    "updated_at": "2026-08-26T05:44:07Z",
+    "comments": 5,
     "labels": [
       "compat: plugin",
       "type: bug"
