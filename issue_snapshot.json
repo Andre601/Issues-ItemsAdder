@@ -1,4 +1,31 @@
 {
+  "5510": {
+    "title": "Chorus Plants Broken With Default ItemsAdder Config",
+    "updated_at": "2026-08-30T11:39:39Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "CCjun6"
+  },
+  "5509": {
+    "title": "Texture 'item/empty' not found for automatically generated armor models from DefaultPack",
+    "updated_at": "2026-08-30T08:10:54Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "100petr"
+  },
+  "5508": {
+    "title": "loots mob name not showing",
+    "updated_at": "2026-08-30T07:44:59Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "100petr"
+  },
   "5507": {
     "title": "/iazip does not complete with many items on ItemsAdder 4.0.18",
     "updated_at": "2026-08-25T18:35:53Z",
@@ -1267,8 +1294,8 @@
   },
   "4955": {
     "title": "Add the ability to use the autocrafter only with compatible recipes",
-    "updated_at": "2026-06-17T07:37:58Z",
-    "comments": 1,
+    "updated_at": "2026-08-30T15:08:55Z",
+    "comments": 2,
     "labels": [
       "type: feature request",
       "verdict: minecraft limitation"
