@@ -1,17 +1,17 @@
 {
-  "5510": {
-    "title": "Chorus Plants Broken With Default ItemsAdder Config",
-    "updated_at": "2026-08-30T11:39:39Z",
+  "5511": {
+    "title": "\"repairable\" NBT component and ItemsAdderAdditions repairable components both not working",
+    "updated_at": "2026-08-31T17:39:45Z",
     "comments": 0,
     "labels": [
       "type: bug"
     ],
-    "author": "CCjun6"
+    "author": "ItsNicow"
   },
   "5509": {
     "title": "Texture 'item/empty' not found for automatically generated armor models from DefaultPack",
-    "updated_at": "2026-08-30T08:10:54Z",
-    "comments": 0,
+    "updated_at": "2026-08-30T16:49:56Z",
+    "comments": 3,
     "labels": [
       "type: bug"
     ],
@@ -19,8 +19,8 @@
   },
   "5508": {
     "title": "loots mob name not showing",
-    "updated_at": "2026-08-30T07:44:59Z",
-    "comments": 0,
+    "updated_at": "2026-08-30T16:48:38Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
