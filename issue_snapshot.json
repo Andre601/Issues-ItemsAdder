@@ -1,4 +1,13 @@
 {
+  "5512": {
+    "title": "Issues when updating from 4.0.16 to 4.0.18",
+    "updated_at": "2026-09-02T21:12:04Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Khytlu"
+  },
   "5511": {
     "title": "\"repairable\" NBT component and ItemsAdderAdditions repairable components both not working",
     "updated_at": "2026-08-31T21:24:08Z",
