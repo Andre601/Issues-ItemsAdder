@@ -1,4 +1,13 @@
 {
+  "5514": {
+    "title": "Error initializing plugin 'ItemsAdder_4.0.18.jar' in folder 'plugins\\.paper-remapped'",
+    "updated_at": "2026-09-06T04:38:24Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "taeo1"
+  },
   "5512": {
     "title": "Issues when updating from 4.0.16 to 4.0.18",
     "updated_at": "2026-09-03T16:57:43Z",
