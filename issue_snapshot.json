@@ -1,4 +1,13 @@
 {
+  "5515": {
+    "title": "ItemsAdder 4.0.18 throws NullPointerException when handling ProjectileHitEvent",
+    "updated_at": "2026-09-07T15:32:51Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "krispydreams"
+  },
   "5514": {
     "title": "Error initializing plugin 'ItemsAdder_4.0.18.jar' in folder 'plugins\\.paper-remapped'",
     "updated_at": "2026-09-06T04:38:24Z",
