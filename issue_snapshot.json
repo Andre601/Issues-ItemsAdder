@@ -1,8 +1,35 @@
 {
+  "5518": {
+    "title": "IA crops play place/break sound when interacting with them or nearby blocks",
+    "updated_at": "2026-09-08T15:18:00Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Andre601"
+  },
+  "5517": {
+    "title": "Updating server version to 26.2 (From 26.1.2) makes custom blocks change position",
+    "updated_at": "2026-09-08T15:13:50Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Andre601"
+  },
+  "5516": {
+    "title": "Item Category title is white in /ia gui title",
+    "updated_at": "2026-09-08T14:23:36Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Andre601"
+  },
   "5515": {
     "title": "ItemsAdder 4.0.18 throws NullPointerException when handling ProjectileHitEvent",
-    "updated_at": "2026-09-07T15:32:51Z",
-    "comments": 0,
+    "updated_at": "2026-09-07T18:07:38Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
