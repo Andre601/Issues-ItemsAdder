@@ -1,4 +1,14 @@
 {
+  "5520": {
+    "title": "Port features from ItemsAdderAdditions",
+    "updated_at": "2026-09-10T10:48:20Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement",
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
   "5519": {
     "title": "Optimize pack loading",
     "updated_at": "2026-09-09T10:18:26Z",
