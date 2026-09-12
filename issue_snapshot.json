@@ -1,4 +1,13 @@
 {
+  "5521": {
+    "title": "Allow overriding ItemsAdder's internal Unicode characters.",
+    "updated_at": "2026-09-12T13:13:58Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "iambibi"
+  },
   "5520": {
     "title": "Port features from ItemsAdderAdditions",
     "updated_at": "2026-09-10T10:48:20Z",
@@ -11,7 +20,7 @@
   },
   "5519": {
     "title": "Optimize pack loading",
-    "updated_at": "2026-09-09T10:18:26Z",
+    "updated_at": "2026-09-11T16:26:33Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -252,7 +261,7 @@
   },
   "5466": {
     "title": "Emote give player fly",
-    "updated_at": "2026-07-27T17:37:27Z",
+    "updated_at": "2026-09-11T16:33:14Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -463,7 +472,7 @@
   },
   "5352": {
     "title": "\"replace_near_blocks\" option \"from_multiple\" works same as \"from\"",
-    "updated_at": "2026-08-19T12:25:29Z",
+    "updated_at": "2026-09-11T16:33:11Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -527,7 +536,7 @@
   },
   "5336": {
     "title": "Add `crossbow_shoot` event",
-    "updated_at": "2026-06-17T07:38:23Z",
+    "updated_at": "2026-09-11T16:33:09Z",
     "comments": 7,
     "labels": [
       "type: feature request"
@@ -545,7 +554,7 @@
   },
   "5334": {
     "title": "API to add custom behaviours",
-    "updated_at": "2026-06-17T07:38:23Z",
+    "updated_at": "2026-09-11T16:33:08Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -600,7 +609,7 @@
   },
   "5316": {
     "title": "Custom crop \"light_level\"",
-    "updated_at": "2026-06-17T07:38:22Z",
+    "updated_at": "2026-09-11T16:33:06Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -627,7 +636,7 @@
   },
   "5313": {
     "title": "Add multiples ``bottom_block`` and ``seeds`` on the same crop",
-    "updated_at": "2026-06-17T07:39:08Z",
+    "updated_at": "2026-09-11T16:33:04Z",
     "comments": 2,
     "labels": [
       "type: feature request"
@@ -654,7 +663,7 @@
   },
   "5309": {
     "title": "\"bottom_blocks\" list for blocks properties",
-    "updated_at": "2026-06-17T07:39:07Z",
+    "updated_at": "2026-09-11T16:33:03Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -672,7 +681,7 @@
   },
   "5305": {
     "title": "\"generic_over_time\" for HUDs",
-    "updated_at": "2026-07-27T17:36:58Z",
+    "updated_at": "2026-09-11T16:33:02Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -717,7 +726,7 @@
   },
   "5291": {
     "title": "Reforge diamond_tool to their netherite versions",
-    "updated_at": "2026-07-27T17:37:39Z",
+    "updated_at": "2026-09-11T16:33:01Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -745,7 +754,7 @@
   },
   "5275": {
     "title": "allow several bottom blocks (list) for crops",
-    "updated_at": "2026-06-17T07:38:21Z",
+    "updated_at": "2026-09-11T16:32:54Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -819,7 +828,7 @@
   },
   "5234": {
     "title": "Feature request - add crafting possibility in recipe view",
-    "updated_at": "2026-06-17T07:39:06Z",
+    "updated_at": "2026-09-11T16:32:47Z",
     "comments": 1,
     "labels": [
       "type: enhancement",
@@ -840,7 +849,7 @@
   },
   "5227": {
     "title": "implement placeable_on for complex-furniture",
-    "updated_at": "2026-06-17T07:39:06Z",
+    "updated_at": "2026-09-11T16:32:41Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -884,7 +893,7 @@
   },
   "5195": {
     "title": "Vanilla bug - Model overlapping in GUI",
-    "updated_at": "2026-08-09T09:02:40Z",
+    "updated_at": "2026-09-11T16:29:22Z",
     "comments": 14,
     "labels": [
       "env: BETA",
@@ -992,7 +1001,7 @@
   },
   "5146": {
     "title": "Implement water-lava bottom block for crops",
-    "updated_at": "2026-06-17T14:02:33Z",
+    "updated_at": "2026-09-11T16:32:40Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -1151,7 +1160,7 @@
   },
   "5059": {
     "title": "New crops system API",
-    "updated_at": "2026-06-17T07:39:05Z",
+    "updated_at": "2026-09-11T16:32:30Z",
     "comments": 0,
     "labels": [
       "scope: api",
@@ -1226,7 +1235,7 @@
   },
   "5024": {
     "title": "Attribute Modifiers Hands field instead of mainhand|offhand",
-    "updated_at": "2026-06-17T07:38:20Z",
+    "updated_at": "2026-09-11T16:32:29Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1272,7 +1281,7 @@
   },
   "5004": {
     "title": "Item updater not working on other plugins virtual inventories",
-    "updated_at": "2026-07-27T17:37:37Z",
+    "updated_at": "2026-09-11T16:32:22Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -1283,7 +1292,7 @@
   },
   "4994": {
     "title": "[Cooldown] Don't do cooldown if any action failed",
-    "updated_at": "2026-06-17T07:38:19Z",
+    "updated_at": "2026-09-11T16:32:19Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1321,7 +1330,7 @@
   },
   "4974": {
     "title": "Scripting engine - New utility methods suggestions",
-    "updated_at": "2026-06-17T07:38:18Z",
+    "updated_at": "2026-09-11T16:32:10Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1330,7 +1339,7 @@
   },
   "4973": {
     "title": "Scripting engine - Improvements to playParticle and playSound",
-    "updated_at": "2026-06-17T07:38:18Z",
+    "updated_at": "2026-09-11T16:32:10Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1368,7 +1377,7 @@
   },
   "4955": {
     "title": "Add the ability to use the autocrafter only with compatible recipes",
-    "updated_at": "2026-08-30T15:08:55Z",
+    "updated_at": "2026-09-11T16:31:59Z",
     "comments": 2,
     "labels": [
       "type: feature request",
@@ -1397,7 +1406,7 @@
   },
   "4917": {
     "title": "Implement simple yaml scripting for custom entities",
-    "updated_at": "2026-06-17T07:37:57Z",
+    "updated_at": "2026-09-11T16:31:53Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1473,7 +1482,7 @@
   },
   "4835": {
     "title": "Custom blocks - Bottom block whitelisit/blacklist",
-    "updated_at": "2026-06-17T07:37:56Z",
+    "updated_at": "2026-09-11T16:31:47Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1518,7 +1527,7 @@
   },
   "4818": {
     "title": "Custom structure to spawn custom entities (like vanilla `WITHER`)",
-    "updated_at": "2026-06-17T07:37:55Z",
+    "updated_at": "2026-09-11T16:31:32Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -1744,7 +1753,7 @@
   },
   "4616": {
     "title": "Block filter options for block_break event and multiple_break action",
-    "updated_at": "2026-06-17T07:36:23Z",
+    "updated_at": "2026-09-11T16:30:57Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -1754,7 +1763,7 @@
   },
   "4606": {
     "title": "Font images and text effects not replaced in `WRITTEN_BOOK` title",
-    "updated_at": "2026-08-19T12:21:06Z",
+    "updated_at": "2026-09-11T16:28:34Z",
     "comments": 0,
     "labels": [
       "impact: graphical issue",
@@ -1858,7 +1867,7 @@
   },
   "4520": {
     "title": "API to register custom items actions to be called via events",
-    "updated_at": "2026-06-17T07:36:21Z",
+    "updated_at": "2026-09-11T16:30:41Z",
     "comments": 0,
     "labels": [
       "scope: api",
@@ -2022,7 +2031,7 @@
   },
   "4295": {
     "title": "Change HUD values based on external PAPI Placeholders and not ItemAdder custom player stats",
-    "updated_at": "2026-06-17T07:36:19Z",
+    "updated_at": "2026-09-11T16:30:38Z",
     "comments": 2,
     "labels": [
       "type: feature request"
@@ -2041,7 +2050,7 @@
   },
   "4281": {
     "title": "Loots system expansion",
-    "updated_at": "2026-06-17T07:36:19Z",
+    "updated_at": "2026-09-11T16:30:36Z",
     "comments": 2,
     "labels": [
       "type: feature request"
@@ -2147,7 +2156,7 @@
   },
   "4087": {
     "title": "iagive command to a specific slot in your inventory (in particular for armors)",
-    "updated_at": "2026-06-17T07:36:18Z",
+    "updated_at": "2026-09-11T16:30:35Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -2211,7 +2220,7 @@
   },
   "4019": {
     "title": "Custom Doors",
-    "updated_at": "2026-06-17T07:36:18Z",
+    "updated_at": "2026-09-11T16:30:31Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -2582,7 +2591,7 @@
   },
   "3298": {
     "title": "Creative scroll click on furniture itemframe without solid hitbox gives furniture without a custom name",
-    "updated_at": "2026-08-19T12:22:42Z",
+    "updated_at": "2026-09-11T16:28:37Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -2624,7 +2633,7 @@
   },
   "3220": {
     "title": "break item-frame furniture will bounce very far and that's so awful",
-    "updated_at": "2026-08-19T12:23:48Z",
+    "updated_at": "2026-09-11T16:28:24Z",
     "comments": 1,
     "labels": [
       "env: purpur",
@@ -2797,7 +2806,7 @@
   },
   "2991": {
     "title": "Allow setting alternative materials for the same recipe",
-    "updated_at": "2026-06-17T07:36:17Z",
+    "updated_at": "2026-09-11T16:30:29Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -2827,7 +2836,7 @@
   },
   "2906": {
     "title": "WorldEdit not working correctly",
-    "updated_at": "2026-08-19T12:23:17Z",
+    "updated_at": "2026-09-11T16:28:37Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -2847,7 +2856,7 @@
   },
   "2861": {
     "title": "MythicMobs integration - new mechanics",
-    "updated_at": "2026-07-27T17:36:51Z",
+    "updated_at": "2026-09-11T16:30:22Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -2972,7 +2981,7 @@
   },
   "2556": {
     "title": "Campfire Cooking",
-    "updated_at": "2026-06-17T07:39:04Z",
+    "updated_at": "2026-09-11T16:30:20Z",
     "comments": 1,
     "labels": [
       "type: enhancement",
@@ -2992,7 +3001,7 @@
   },
   "2551": {
     "title": "World populator option to generate ores only when there's no air exposure like vanilla",
-    "updated_at": "2026-06-17T07:36:16Z",
+    "updated_at": "2026-09-11T16:30:17Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -3209,7 +3218,7 @@
   },
   "1669": {
     "title": "Make GUI items customizable",
-    "updated_at": "2026-06-17T07:36:14Z",
+    "updated_at": "2026-09-11T16:30:08Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -3308,7 +3317,7 @@
   },
   "1280": {
     "title": "New shapes for the ore veins",
-    "updated_at": "2026-06-17T07:36:13Z",
+    "updated_at": "2026-09-11T16:30:13Z",
     "comments": 0,
     "labels": [
       "type: feature request"
