@@ -1,8 +1,17 @@
 {
+  "5522": {
+    "title": "Plugin soft-crash when generating directional custom block",
+    "updated_at": "2026-09-13T00:40:22Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "MrCreepyCraft32"
+  },
   "5521": {
     "title": "Allow overriding ItemsAdder's internal Unicode characters.",
-    "updated_at": "2026-09-12T13:13:58Z",
-    "comments": 0,
+    "updated_at": "2026-09-13T08:55:18Z",
+    "comments": 4,
     "labels": [
       "type: feature request"
     ],
@@ -48,8 +57,8 @@
   },
   "5516": {
     "title": "Item Category title is white in /ia gui title",
-    "updated_at": "2026-09-08T14:23:36Z",
-    "comments": 0,
+    "updated_at": "2026-09-12T17:43:29Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
