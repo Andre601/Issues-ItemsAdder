@@ -1,7 +1,7 @@
 {
   "5524": {
     "title": "Optimize simple_self_hosting",
-    "updated_at": "2026-09-14T17:02:39Z",
+    "updated_at": "2026-09-15T12:04:47Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -196,7 +196,7 @@
   },
   "5495": {
     "title": "Revamp custom entities",
-    "updated_at": "2026-08-06T09:22:45Z",
+    "updated_at": "2026-09-15T12:05:37Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
