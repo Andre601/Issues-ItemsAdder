@@ -1,7 +1,35 @@
 {
+  "5527": {
+    "title": "26.3 support",
+    "updated_at": "2026-09-16T14:06:19Z",
+    "comments": 0,
+    "labels": [
+      "compat: new minecraft update"
+    ],
+    "author": "LoneDev6"
+  },
+  "5526": {
+    "title": "Separate sounds into separate resourcepack",
+    "updated_at": "2026-09-16T13:19:15Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
+  "5525": {
+    "title": "Check if all possible IDs for custom blocks are actually implemented or not in the plugin",
+    "updated_at": "2026-09-16T09:27:11Z",
+    "comments": 0,
+    "labels": [
+      "type: bug",
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
   "5524": {
-    "title": "Optimize simple_self_hosting",
-    "updated_at": "2026-09-15T12:04:47Z",
+    "title": "Optimize `simple_self_host` and `self_host`",
+    "updated_at": "2026-09-16T10:05:27Z",
     "comments": 0,
     "labels": [
       "type: enhancement",
@@ -1474,11 +1502,12 @@
     "author": "ChuengLafonte"
   },
   "4874": {
-    "title": "Add PacketEvents support as alternative to ProtocolLib for better performance",
-    "updated_at": "2026-04-15T16:06:50Z",
-    "comments": 5,
+    "title": "Get rid of ProtocolLib",
+    "updated_at": "2026-09-16T13:49:34Z",
+    "comments": 6,
     "labels": [
-      "type: feature request"
+      "type: feature request",
+      "type: performance"
     ],
     "author": "WhiteProject1"
   },
@@ -1728,16 +1757,6 @@
       "type: feature request"
     ],
     "author": "Andre601"
-  },
-  "4656": {
-    "title": "Allow applying multiple resourcepacks in alternative to merging",
-    "updated_at": "2026-06-17T07:36:24Z",
-    "comments": 2,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "LoneDev6"
   },
   "4640": {
     "title": "ItemsAdder '/e' command and DiscordSRV",
