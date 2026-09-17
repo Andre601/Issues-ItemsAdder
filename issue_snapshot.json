@@ -1,4 +1,59 @@
 {
+  "5533": {
+    "title": "Restructure the custom entities behaviours to be more clear and add examples",
+    "updated_at": "2026-09-17T14:08:15Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5532": {
+    "title": "Implement equipment preview on emotes",
+    "updated_at": "2026-09-17T11:00:40Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
+  "5531": {
+    "title": "hader validation fails on Minecraft 26.3 because gl_VertexIndex is validated as OpenGL GLSL",
+    "updated_at": "2026-09-16T22:56:09Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5530": {
+    "title": "Infinite mining yet again 2",
+    "updated_at": "2026-09-16T21:05:44Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5529": {
+    "title": "Mining efficiency is completely ignored by ItemsAdder",
+    "updated_at": "2026-09-16T18:02:22Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5528": {
+    "title": "Infinite break yet again",
+    "updated_at": "2026-09-16T21:04:42Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5527": {
     "title": "26.3 support",
     "updated_at": "2026-09-16T14:06:19Z",
@@ -19,8 +74,8 @@
   },
   "5525": {
     "title": "Check if all possible IDs for custom blocks are actually implemented or not in the plugin",
-    "updated_at": "2026-09-16T09:27:11Z",
-    "comments": 0,
+    "updated_at": "2026-09-16T18:49:39Z",
+    "comments": 2,
     "labels": [
       "type: bug",
       "type: enhancement"
@@ -224,7 +279,7 @@
   },
   "5495": {
     "title": "Revamp custom entities",
-    "updated_at": "2026-09-15T12:05:37Z",
+    "updated_at": "2026-09-16T17:59:09Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
