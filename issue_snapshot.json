@@ -1,20 +1,32 @@
 {
+  "5536": {
+    "title": "Block break speed not slowed down by player being airborne",
+    "updated_at": "2026-09-19T01:58:53Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5535": {
     "title": "Error in console due to config issue",
-    "updated_at": "2026-09-18T07:39:02Z",
+    "updated_at": "2026-09-18T16:04:15Z",
     "comments": 1,
     "labels": [
       "env: BETA",
+      "env: unofficial spigot fork",
       "type: bug"
     ],
     "author": "WarnDa"
   },
   "5534": {
     "title": "AbstractMethodError in custom mob AI: MoveToBlockGoal.isValidTarget()",
-    "updated_at": "2026-09-17T17:33:00Z",
-    "comments": 0,
+    "updated_at": "2026-09-18T20:44:04Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
+      "env: purpur",
       "type: bug"
     ],
     "author": "yorik100"
@@ -49,27 +61,20 @@
   },
   "5530": {
     "title": "Infinite mining yet again 2",
-    "updated_at": "2026-09-18T15:10:56Z",
+    "updated_at": "2026-09-18T16:04:31Z",
     "comments": 1,
     "labels": [
+      "env: purpur",
       "type: bug"
     ],
     "author": "yorik100"
   },
   "5529": {
-    "title": "Mining efficiency is completely ignored by ItemsAdder",
-    "updated_at": "2026-09-16T18:02:22Z",
+    "title": "Mining efficiency, Block break speed and Submerged mining speed attributes are completely ignored by ItemsAdder",
+    "updated_at": "2026-09-19T02:36:16Z",
     "comments": 0,
     "labels": [
-      "type: bug"
-    ],
-    "author": "yorik100"
-  },
-  "5528": {
-    "title": "Infinite break yet again",
-    "updated_at": "2026-09-16T21:04:42Z",
-    "comments": 1,
-    "labels": [
+      "env: purpur",
       "type: bug"
     ],
     "author": "yorik100"
@@ -1593,7 +1598,7 @@
     "labels": [
       "type: feature request"
     ],
-    "author": "PRJKTLNKS"
+    "author": "LNKSU"
   },
   "4856": {
     "title": "1.21.2 - Screen animations using pumpkin overlay",
