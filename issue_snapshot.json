@@ -1,4 +1,13 @@
 {
+  "5537": {
+    "title": "Severe TPS drop when opening and closing chests containing filled Shulker Boxes",
+    "updated_at": "2026-09-19T22:07:02Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "SrMonsterYT"
+  },
   "5536": {
     "title": "Block break speed not slowed down by player being airborne",
     "updated_at": "2026-09-19T01:58:53Z",
