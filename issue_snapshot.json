@@ -1,4 +1,13 @@
 {
+  "5538": {
+    "title": "Ensure the sprite items have an ID consistent with the item itself.",
+    "updated_at": "2026-09-21T11:38:46Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "iambibi"
+  },
   "5537": {
     "title": "Severe TPS drop when opening and closing chests containing filled Shulker Boxes",
     "updated_at": "2026-09-19T22:07:02Z",
