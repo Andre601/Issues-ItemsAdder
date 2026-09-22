@@ -1,8 +1,18 @@
 {
+  "5539": {
+    "title": "Cant reload resources on 1.21.1 (purpur)",
+    "updated_at": "2026-09-21T23:12:37Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "Azimkin"
+  },
   "5538": {
     "title": "Ensure the sprite items have an ID consistent with the item itself.",
-    "updated_at": "2026-09-21T11:38:46Z",
-    "comments": 0,
+    "updated_at": "2026-09-21T21:34:00Z",
+    "comments": 1,
     "labels": [
       "type: feature request"
     ],
