@@ -1,4 +1,41 @@
 {
+  "5543": {
+    "title": "Cooldown bar stops updating after swapping to offhand",
+    "updated_at": "2026-09-23T13:09:40Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5542": {
+    "title": "Cooldown bar stops updating after throwing held item",
+    "updated_at": "2026-09-23T12:55:47Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5541": {
+    "title": "API for item drop event",
+    "updated_at": "2026-09-22T23:39:51Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "yorik100"
+  },
+  "5540": {
+    "title": "Weird bug with shaders",
+    "updated_at": "2026-09-22T20:19:48Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5539": {
     "title": "Cant reload resources on 1.21.1 (purpur)",
     "updated_at": "2026-09-21T23:12:37Z",
@@ -11,8 +48,8 @@
   },
   "5538": {
     "title": "Ensure the sprite items have an ID consistent with the item itself.",
-    "updated_at": "2026-09-21T21:34:00Z",
-    "comments": 1,
+    "updated_at": "2026-09-22T16:39:29Z",
+    "comments": 2,
     "labels": [
       "type: feature request"
     ],
@@ -29,8 +66,8 @@
   },
   "5536": {
     "title": "Block break speed not slowed down by player being airborne",
-    "updated_at": "2026-09-19T01:58:53Z",
-    "comments": 0,
+    "updated_at": "2026-09-23T12:47:52Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
