@@ -1,8 +1,8 @@
 {
   "5543": {
     "title": "Cooldown bar stops updating after swapping to offhand",
-    "updated_at": "2026-09-23T13:09:40Z",
-    "comments": 0,
+    "updated_at": "2026-09-23T17:10:15Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -10,8 +10,8 @@
   },
   "5542": {
     "title": "Cooldown bar stops updating after throwing held item",
-    "updated_at": "2026-09-23T12:55:47Z",
-    "comments": 0,
+    "updated_at": "2026-09-23T17:28:06Z",
+    "comments": 3,
     "labels": [
       "type: bug"
     ],
