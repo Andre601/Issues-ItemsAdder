@@ -1,4 +1,51 @@
 {
+  "5548": {
+    "title": "Gravity option for blocks",
+    "updated_at": "2026-09-25T16:24:17Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5547": {
+    "title": "REAL_NOTE slots update",
+    "updated_at": "2026-09-25T16:18:24Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5546": {
+    "title": "Display entity blocks type",
+    "updated_at": "2026-09-25T13:27:13Z",
+    "comments": 1,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5545": {
+    "title": "High ping when mining vanilla blocks very fast",
+    "updated_at": "2026-09-25T02:29:56Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5544": {
+    "title": "Blocks that get instamined get destroyed twice",
+    "updated_at": "2026-09-24T22:38:41Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5543": {
     "title": "Cooldown bar stops updating after swapping to offhand",
     "updated_at": "2026-09-23T17:10:15Z",
@@ -45,15 +92,6 @@
       "type: bug"
     ],
     "author": "Azimkin"
-  },
-  "5538": {
-    "title": "Ensure the sprite items have an ID consistent with the item itself.",
-    "updated_at": "2026-09-22T16:39:29Z",
-    "comments": 2,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "iambibi"
   },
   "5537": {
     "title": "Severe TPS drop when opening and closing chests containing filled Shulker Boxes",
