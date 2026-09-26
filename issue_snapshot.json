@@ -1,4 +1,13 @@
 {
+  "5549": {
+    "title": "Smithing table recipes should show template item",
+    "updated_at": "2026-09-26T11:48:55Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
   "5548": {
     "title": "Gravity option for blocks",
     "updated_at": "2026-09-25T16:24:17Z",
@@ -28,7 +37,7 @@
   },
   "5545": {
     "title": "High ping when mining vanilla blocks very fast",
-    "updated_at": "2026-09-25T02:29:56Z",
+    "updated_at": "2026-09-26T10:31:29Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -38,7 +47,7 @@
   },
   "5544": {
     "title": "Blocks that get instamined get destroyed twice",
-    "updated_at": "2026-09-24T22:38:41Z",
+    "updated_at": "2026-09-26T10:31:35Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -75,7 +84,7 @@
   },
   "5540": {
     "title": "Weird bug with shaders",
-    "updated_at": "2026-09-22T20:19:48Z",
+    "updated_at": "2026-09-26T10:33:59Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -85,7 +94,7 @@
   },
   "5539": {
     "title": "Cant reload resources on 1.21.1 (purpur)",
-    "updated_at": "2026-09-21T23:12:37Z",
+    "updated_at": "2026-09-26T10:34:02Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -95,7 +104,7 @@
   },
   "5537": {
     "title": "Severe TPS drop when opening and closing chests containing filled Shulker Boxes",
-    "updated_at": "2026-09-19T22:07:02Z",
+    "updated_at": "2026-09-26T10:32:10Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -114,7 +123,7 @@
   },
   "5535": {
     "title": "Error in console due to config issue",
-    "updated_at": "2026-09-18T16:04:15Z",
+    "updated_at": "2026-09-26T10:31:49Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -125,7 +134,7 @@
   },
   "5534": {
     "title": "AbstractMethodError in custom mob AI: MoveToBlockGoal.isValidTarget()",
-    "updated_at": "2026-09-18T20:44:04Z",
+    "updated_at": "2026-09-26T10:31:57Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -151,16 +160,6 @@
       "type: enhancement"
     ],
     "author": "LoneDev6"
-  },
-  "5531": {
-    "title": "hader validation fails on Minecraft 26.3 because gl_VertexIndex is validated as OpenGL GLSL",
-    "updated_at": "2026-09-16T22:56:09Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "yorik100"
   },
   "5530": {
     "title": "Infinite mining yet again 2",
@@ -231,7 +230,7 @@
   },
   "5522": {
     "title": "Plugin soft-crash when generating directional custom block",
-    "updated_at": "2026-09-13T16:08:48Z",
+    "updated_at": "2026-09-26T10:32:20Z",
     "comments": 1,
     "labels": [
       "impact: breaks loading",
@@ -297,7 +296,7 @@
   },
   "5515": {
     "title": "ItemsAdder 4.0.18 throws NullPointerException when handling ProjectileHitEvent",
-    "updated_at": "2026-09-07T18:07:38Z",
+    "updated_at": "2026-09-26T10:33:40Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -306,7 +305,7 @@
   },
   "5514": {
     "title": "Error initializing plugin 'ItemsAdder_4.0.18.jar' in folder 'plugins\\.paper-remapped'",
-    "updated_at": "2026-09-06T04:38:24Z",
+    "updated_at": "2026-09-26T10:33:38Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -315,7 +314,7 @@
   },
   "5512": {
     "title": "Issues when updating from 4.0.16 to 4.0.18",
-    "updated_at": "2026-09-03T16:57:43Z",
+    "updated_at": "2026-09-26T10:34:23Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -333,7 +332,7 @@
   },
   "5509": {
     "title": "Texture 'item/empty' not found for automatically generated armor models from DefaultPack",
-    "updated_at": "2026-08-30T16:49:56Z",
+    "updated_at": "2026-09-26T10:33:14Z",
     "comments": 3,
     "labels": [
       "type: bug"
@@ -351,7 +350,7 @@
   },
   "5507": {
     "title": "/iazip does not complete with many items on ItemsAdder 4.0.18",
-    "updated_at": "2026-08-25T18:35:53Z",
+    "updated_at": "2026-09-26T10:33:02Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -369,7 +368,7 @@
   },
   "5505": {
     "title": "Modern atlas validation",
-    "updated_at": "2026-08-22T08:25:11Z",
+    "updated_at": "2026-09-26T10:32:45Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1133,8 +1132,8 @@
   },
   "5195": {
     "title": "Vanilla bug - Model overlapping in GUI",
-    "updated_at": "2026-09-11T16:29:22Z",
-    "comments": 14,
+    "updated_at": "2026-09-25T21:07:20Z",
+    "comments": 15,
     "labels": [
       "env: BETA",
       "type: bug",
@@ -3548,8 +3547,8 @@
   },
   "1280": {
     "title": "New shapes for the ore veins",
-    "updated_at": "2026-09-11T16:30:13Z",
-    "comments": 0,
+    "updated_at": "2026-09-25T17:46:36Z",
+    "comments": 1,
     "labels": [
       "type: feature request"
     ],
