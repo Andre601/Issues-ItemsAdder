@@ -1,7 +1,16 @@
 {
+  "5550": {
+    "title": "Vanilla chests loot table changing",
+    "updated_at": "2026-09-28T13:26:20Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
   "5549": {
     "title": "Smithing table recipes should show template item",
-    "updated_at": "2026-09-26T11:48:55Z",
+    "updated_at": "2026-09-28T13:22:07Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -10,17 +19,8 @@
   },
   "5548": {
     "title": "Gravity option for blocks",
-    "updated_at": "2026-09-25T16:24:17Z",
+    "updated_at": "2026-09-28T13:22:38Z",
     "comments": 0,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "Gu57-git"
-  },
-  "5547": {
-    "title": "REAL_NOTE slots update",
-    "updated_at": "2026-09-26T16:09:32Z",
-    "comments": 1,
     "labels": [
       "type: feature request"
     ],
@@ -28,8 +28,8 @@
   },
   "5546": {
     "title": "Display entity blocks type",
-    "updated_at": "2026-09-27T08:21:38Z",
-    "comments": 3,
+    "updated_at": "2026-09-28T13:21:11Z",
+    "comments": 4,
     "labels": [
       "type: feature request"
     ],
@@ -77,7 +77,7 @@
   },
   "5541": {
     "title": "API for item drop event",
-    "updated_at": "2026-09-22T23:39:51Z",
+    "updated_at": "2026-09-27T21:22:15Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -713,8 +713,8 @@
   },
   "5352": {
     "title": "\"replace_near_blocks\" option \"from_multiple\" works same as \"from\"",
-    "updated_at": "2026-09-11T16:33:11Z",
-    "comments": 0,
+    "updated_at": "2026-09-28T13:21:36Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -750,7 +750,7 @@
   },
   "5343": {
     "title": "\"replace_near_blocks\" action shape option",
-    "updated_at": "2026-04-24T23:22:38Z",
+    "updated_at": "2026-09-28T13:24:17Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -759,7 +759,7 @@
   },
   "5342": {
     "title": "Custom blocks / furniture beacon mechanic",
-    "updated_at": "2026-04-15T20:01:34Z",
+    "updated_at": "2026-09-28T13:26:05Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -768,7 +768,7 @@
   },
   "5337": {
     "title": "Own tree shapes",
-    "updated_at": "2026-04-14T00:30:24Z",
+    "updated_at": "2026-09-28T13:27:10Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -786,7 +786,7 @@
   },
   "5335": {
     "title": "HUD increment/decrement by damage/killing",
-    "updated_at": "2026-04-13T18:22:33Z",
+    "updated_at": "2026-09-28T13:25:14Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -822,7 +822,7 @@
   },
   "5323": {
     "title": "Lava fishing and loot table options for it",
-    "updated_at": "2026-04-09T20:42:30Z",
+    "updated_at": "2026-09-28T13:27:24Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -859,7 +859,7 @@
   },
   "5315": {
     "title": "Custom crops can be placed on water, when water is \"bottom_block\" like REAL_WIRE",
-    "updated_at": "2026-04-05T18:51:11Z",
+    "updated_at": "2026-09-28T13:23:43Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -895,7 +895,7 @@
   },
   "5310": {
     "title": "\"surface_decorators\" minecraft:snow replacing option or possibility to use \"replaceable_blocks\" paremeter",
-    "updated_at": "2026-05-03T20:14:28Z",
+    "updated_at": "2026-09-28T13:22:16Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -913,7 +913,7 @@
   },
   "5306": {
     "title": "Event for item right/left click in inventory and actions inside inventory",
-    "updated_at": "2026-04-03T15:09:10Z",
+    "updated_at": "2026-09-28T13:25:08Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -940,7 +940,7 @@
   },
   "5303": {
     "title": "Action \"target_potion_effect\" can be used in/as \"damage_entity_in_sight\" action",
-    "updated_at": "2026-04-05T19:08:39Z",
+    "updated_at": "2026-09-28T13:23:58Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -949,7 +949,7 @@
   },
   "5302": {
     "title": "Spawn distance condition for populators / mobs / loots",
-    "updated_at": "2026-04-09T11:32:39Z",
+    "updated_at": "2026-09-28T13:24:31Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -1778,7 +1778,7 @@
   },
   "4817": {
     "title": "Additional loots conditions",
-    "updated_at": "2026-04-03T14:29:10Z",
+    "updated_at": "2026-09-28T13:25:33Z",
     "comments": 3,
     "labels": [
       "type: feature request"
@@ -3531,7 +3531,7 @@
   },
   "1333": {
     "title": "Full-set armor bonuses",
-    "updated_at": "2026-04-03T13:33:38Z",
+    "updated_at": "2026-09-28T13:25:22Z",
     "comments": 6,
     "labels": [
       "type: feature request"
@@ -3540,7 +3540,7 @@
   },
   "1326": {
     "title": "XZ min and max options for world populators/trees populators/surface populators",
-    "updated_at": "2026-04-03T14:27:04Z",
+    "updated_at": "2026-09-28T13:24:39Z",
     "comments": 2,
     "labels": [
       "type: feature request"
@@ -3586,8 +3586,8 @@
   },
   "954": {
     "title": "Brewing Stand recipes",
-    "updated_at": "2024-06-10T12:26:49Z",
-    "comments": 2,
+    "updated_at": "2026-09-28T13:22:28Z",
+    "comments": 3,
     "labels": [
       "type: enhancement",
       "type: feature request"
