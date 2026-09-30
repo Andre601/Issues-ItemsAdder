@@ -1,4 +1,14 @@
 {
+  "5554": {
+    "title": "Emotes not spawned instantly, player model disappears for a brief moment",
+    "updated_at": "2026-09-30T11:28:08Z",
+    "comments": 0,
+    "labels": [
+      "impact: graphical issue",
+      "type: bug"
+    ],
+    "author": "LoneDev6"
+  },
   "5553": {
     "title": "Custom particles",
     "updated_at": "2026-09-29T15:29:28Z",
@@ -10,20 +20,10 @@
   },
   "5552": {
     "title": "Use item_display to create custom fire",
-    "updated_at": "2026-09-29T10:07:27Z",
+    "updated_at": "2026-09-30T13:10:16Z",
     "comments": 0,
     "labels": [],
     "author": "LoneDev6"
-  },
-  "5551": {
-    "title": "Massive issue with block breaking (see video)",
-    "updated_at": "2026-09-29T02:08:54Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "yorik100"
   },
   "5550": {
     "title": "Vanilla chests loot table changing",
@@ -85,7 +85,7 @@
   },
   "5543": {
     "title": "Cooldown bar stops updating after swapping to offhand",
-    "updated_at": "2026-09-23T17:10:15Z",
+    "updated_at": "2026-09-29T18:06:58Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -94,7 +94,7 @@
   },
   "5542": {
     "title": "Cooldown bar stops updating after throwing held item",
-    "updated_at": "2026-09-23T17:28:06Z",
+    "updated_at": "2026-09-29T18:07:01Z",
     "comments": 3,
     "labels": [
       "type: bug"
@@ -141,7 +141,7 @@
   },
   "5536": {
     "title": "Block break speed not slowed down by player being airborne",
-    "updated_at": "2026-09-23T12:47:52Z",
+    "updated_at": "2026-09-29T18:07:33Z",
     "comments": 1,
     "labels": [
       "env: BETA",
@@ -191,7 +191,7 @@
   },
   "5530": {
     "title": "Infinite mining yet again 2",
-    "updated_at": "2026-09-18T16:04:31Z",
+    "updated_at": "2026-09-29T18:07:28Z",
     "comments": 1,
     "labels": [
       "env: purpur",
@@ -201,7 +201,7 @@
   },
   "5529": {
     "title": "Mining efficiency, Block break speed and Submerged mining speed attributes are completely ignored by ItemsAdder",
-    "updated_at": "2026-09-19T02:36:16Z",
+    "updated_at": "2026-09-29T18:07:31Z",
     "comments": 0,
     "labels": [
       "env: purpur",
@@ -297,7 +297,7 @@
   },
   "5518": {
     "title": "IA crops play place/break sound when interacting with them or nearby blocks",
-    "updated_at": "2026-09-08T15:18:00Z",
+    "updated_at": "2026-09-29T18:08:17Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -306,8 +306,8 @@
   },
   "5517": {
     "title": "Updating server version to 26.2 (From 26.1.2) makes custom blocks change position",
-    "updated_at": "2026-09-08T15:13:50Z",
-    "comments": 0,
+    "updated_at": "2026-09-30T10:27:21Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -315,7 +315,7 @@
   },
   "5516": {
     "title": "Item Category title is white in /ia gui title",
-    "updated_at": "2026-09-12T17:43:29Z",
+    "updated_at": "2026-09-29T18:08:20Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -351,7 +351,7 @@
   },
   "5511": {
     "title": "\"repairable\" NBT component and ItemsAdderAdditions repairable components both not working",
-    "updated_at": "2026-08-31T21:24:08Z",
+    "updated_at": "2026-09-29T18:08:24Z",
     "comments": 4,
     "labels": [
       "type: bug"
@@ -369,7 +369,7 @@
   },
   "5508": {
     "title": "loots mob name not showing",
-    "updated_at": "2026-08-30T16:48:38Z",
+    "updated_at": "2026-09-29T18:08:27Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -387,7 +387,7 @@
   },
   "5506": {
     "title": "Make `/iazip --uncompressed` use the unchanged texture/model paths",
-    "updated_at": "2026-08-23T20:01:34Z",
+    "updated_at": "2026-09-29T18:08:30Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -406,11 +406,12 @@
   },
   "5502": {
     "title": "Armor pieces automatically add equip_on_interact and shearing_sound",
-    "updated_at": "2026-08-13T13:19:37Z",
-    "comments": 1,
+    "updated_at": "2026-09-30T09:58:25Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
-      "type: bug"
+      "type: bug",
+      "verdict: can't reproduce"
     ],
     "author": "SamGamerYT"
   },
@@ -442,16 +443,6 @@
     ],
     "author": "LoneDev6"
   },
-  "5490": {
-    "title": "Armor rendering broken on MC 26.2",
-    "updated_at": "2026-08-03T12:48:09Z",
-    "comments": 2,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "pistonio"
-  },
   "5489": {
     "title": "furniture gets broken in worldguard regions",
     "updated_at": "2026-08-03T12:48:11Z",
@@ -473,7 +464,7 @@
   },
   "5482": {
     "title": "The ItemsAdder plugin is giving an error \"to dig a block in an unloaded chunk\".",
-    "updated_at": "2026-08-03T10:46:02Z",
+    "updated_at": "2026-09-30T08:55:36Z",
     "comments": 1,
     "labels": [
       "env: legacy plugin v3",
@@ -554,33 +545,6 @@
     ],
     "author": "Mathildeuh"
   },
-  "5440": {
-    "title": "Script Compiler bug",
-    "updated_at": "2026-08-19T12:24:33Z",
-    "comments": 4,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "bobbyrutt697-web"
-  },
-  "5437": {
-    "title": "Emotes should respect player scale",
-    "updated_at": "2026-06-25T17:51:54Z",
-    "comments": 0,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "VgamerV3"
-  },
-  "5418": {
-    "title": "IACrops can place crop but no grow",
-    "updated_at": "2026-08-25T15:14:01Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Tareyu"
-  },
   "5416": {
     "title": "crops bug (hitbox and decrease_age)",
     "updated_at": "2026-07-27T17:37:24Z",
@@ -639,8 +603,8 @@
   },
   "5389": {
     "title": "3D crops",
-    "updated_at": "2026-08-19T12:18:02Z",
-    "comments": 0,
+    "updated_at": "2026-09-30T12:32:36Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -721,7 +685,7 @@
   },
   "5352": {
     "title": "\"replace_near_blocks\" option \"from_multiple\" works same as \"from\"",
-    "updated_at": "2026-09-28T13:21:36Z",
+    "updated_at": "2026-09-30T07:54:19Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -730,7 +694,7 @@
   },
   "5350": {
     "title": "Could not pass event FurnaceSmeltEvent to ItemsAdder v4.0.16",
-    "updated_at": "2026-04-29T07:26:57Z",
+    "updated_at": "2026-09-29T18:10:46Z",
     "comments": 1,
     "labels": [
       "compat: spigot",
@@ -1058,7 +1022,7 @@
   },
   "5235": {
     "title": "Instantly dismount npc",
-    "updated_at": "2026-03-02T10:40:31Z",
+    "updated_at": "2026-09-29T18:10:41Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1077,12 +1041,11 @@
   },
   "5229": {
     "title": "`complex_furniture` rotate a little bit on spawn",
-    "updated_at": "2026-03-03T15:32:40Z",
+    "updated_at": "2026-09-30T10:11:35Z",
     "comments": 1,
     "labels": [
-      "type: bug",
-      "verdict: no solution",
-      "verdict: workaround implemented"
+      "impact: graphical issue",
+      "type: bug"
     ],
     "author": "LoneDev6"
   },
@@ -1094,16 +1057,6 @@
       "type: feature request"
     ],
     "author": "bruhhhwarrior"
-  },
-  "5220": {
-    "title": "Armor layer bug",
-    "updated_at": "2026-03-27T11:09:49Z",
-    "comments": 2,
-    "labels": [
-      "compat: optifine",
-      "type: bug"
-    ],
-    "author": "FallPlayer26"
   },
   "5208": {
     "title": "sit_all_solid_blocks does not work anymore",
@@ -1152,16 +1105,6 @@
     ],
     "author": "bobhenl"
   },
-  "5181": {
-    "title": "Items that normally cannot be broken can be broken with multiple_break.",
-    "updated_at": "2026-05-29T08:53:20Z",
-    "comments": 2,
-    "labels": [
-      "impact: breaks gameplay (critical)",
-      "type: bug"
-    ],
-    "author": "siberanka"
-  },
   "5180": {
     "title": "New ia item action : mythicmob skills",
     "updated_at": "2026-02-01T11:09:57Z",
@@ -1173,9 +1116,10 @@
   },
   "5174": {
     "title": "Incendium shields render wrong in-hand with ItemsAdder",
-    "updated_at": "2026-06-09T13:33:27Z",
+    "updated_at": "2026-09-30T08:00:57Z",
     "comments": 4,
     "labels": [
+      "compat: plugin",
       "impact: graphical issue",
       "type: bug",
       "verdict: complex to implement"
@@ -1191,32 +1135,14 @@
     ],
     "author": "PuppyTransGirl"
   },
-  "5169": {
-    "title": "Failed to save Citizens NPCs.",
-    "updated_at": "2026-01-06T13:05:19Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "HouYanShen"
-  },
   "5161": {
     "title": "Interacting with an entity does not work for any plugin using MythicMobs model",
-    "updated_at": "2025-12-14T19:11:05Z",
+    "updated_at": "2026-09-30T08:01:25Z",
     "comments": 0,
     "labels": [
       "type: bug"
     ],
     "author": "KodeKrakenDev"
-  },
-  "5152": {
-    "title": "Custom armor will not take vanilla enchantments in an anvil unless name is removed.",
-    "updated_at": "2025-12-10T21:30:43Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Devoz-a"
   },
   "5150": {
     "title": "Lock placing to shift click",
@@ -1226,17 +1152,6 @@
       "type: feature request"
     ],
     "author": "ZenkoKasai"
-  },
-  "5149": {
-    "title": "invisible player models",
-    "updated_at": "2026-02-19T10:39:06Z",
-    "comments": 2,
-    "labels": [
-      "impact: graphical issue",
-      "type: bug",
-      "verdict: can't reproduce"
-    ],
-    "author": "crotcly"
   },
   "5146": {
     "title": "Implement water-lava bottom block for crops",
@@ -1250,7 +1165,7 @@
   },
   "5140": {
     "title": "Proxy - resourcepack loading twice",
-    "updated_at": "2026-05-04T15:04:50Z",
+    "updated_at": "2026-09-29T18:11:22Z",
     "comments": 2,
     "labels": [
       "type: bug"
@@ -1259,7 +1174,7 @@
   },
   "5127": {
     "title": "Script with Block Break event for Custom Blocks not work",
-    "updated_at": "2025-11-21T16:45:02Z",
+    "updated_at": "2026-09-30T08:02:26Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1286,7 +1201,7 @@
   },
   "5115": {
     "title": "interact actions dont get executed when block is primed",
-    "updated_at": "2026-02-06T14:36:15Z",
+    "updated_at": "2026-09-30T08:02:43Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -1295,7 +1210,7 @@
   },
   "5100": {
     "title": "[Language Bug] minecraft_lang_overwrite not supporting child changes.",
-    "updated_at": "2025-11-05T01:18:45Z",
+    "updated_at": "2026-09-29T18:11:29Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1343,7 +1258,7 @@
   },
   "5079": {
     "title": "PlayerEditBookEvent interferance",
-    "updated_at": "2025-10-19T15:02:31Z",
+    "updated_at": "2026-09-29T18:11:31Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -1352,7 +1267,7 @@
   },
   "5078": {
     "title": "pStats wrong path with world-container",
-    "updated_at": "2025-11-14T11:50:39Z",
+    "updated_at": "2026-09-29T18:11:34Z",
     "comments": 0,
     "labels": [
       "type: bug",
@@ -1435,16 +1350,6 @@
     ],
     "author": "kosroy"
   },
-  "5053": {
-    "title": "IA automatically overrides files in minecraft/items",
-    "updated_at": "2025-11-14T13:30:16Z",
-    "comments": 4,
-    "labels": [
-      "type: bug",
-      "verdict: invalid"
-    ],
-    "author": "Pizza1150"
-  },
   "5040": {
     "title": "Use new Object Text Component for emojis in chat",
     "updated_at": "2025-09-24T13:16:08Z",
@@ -1501,7 +1406,7 @@
   },
   "5007": {
     "title": "Player heads not working",
-    "updated_at": "2026-09-14T05:01:53Z",
+    "updated_at": "2026-09-29T18:11:45Z",
     "comments": 5,
     "labels": [
       "type: bug",
@@ -1520,7 +1425,7 @@
   },
   "5004": {
     "title": "Item updater not working on other plugins virtual inventories",
-    "updated_at": "2026-09-11T16:32:22Z",
+    "updated_at": "2026-09-30T10:32:53Z",
     "comments": 0,
     "labels": [
       "compat: plugin",
@@ -1556,16 +1461,6 @@
       "type: feature request"
     ],
     "author": "svdermant"
-  },
-  "4975": {
-    "title": "com.comphenix.protocol.reflect.FieldAccessException: Field index 2 is out of bounds for length 1",
-    "updated_at": "2025-08-26T13:01:49Z",
-    "comments": 2,
-    "labels": [
-      "env: legacy plugin v3",
-      "type: bug"
-    ],
-    "author": "Fin12n"
   },
   "4974": {
     "title": "Scripting engine - New utility methods suggestions",
@@ -1651,15 +1546,6 @@
       "type: feature request"
     ],
     "author": "LoneDev6"
-  },
-  "4888": {
-    "title": "My Player is invisible | Texture problem of player.",
-    "updated_at": "2025-08-01T07:26:52Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "CubixorDev"
   },
   "4881": {
     "title": "1.21.5+ - remove highlight on custom textures GUIs",
@@ -1821,8 +1707,8 @@
   },
   "4792": {
     "title": "`cache_font_images_and_effects_replacements` is slow",
-    "updated_at": "2025-07-28T18:09:22Z",
-    "comments": 0,
+    "updated_at": "2026-09-30T11:26:38Z",
+    "comments": 1,
     "labels": [
       "type: bug",
       "type: performance"
@@ -1993,7 +1879,7 @@
   },
   "4606": {
     "title": "Font images and text effects not replaced in `WRITTEN_BOOK` title",
-    "updated_at": "2026-09-11T16:28:34Z",
+    "updated_at": "2026-09-30T07:53:43Z",
     "comments": 0,
     "labels": [
       "impact: graphical issue",
@@ -2395,7 +2281,7 @@
   },
   "4078": {
     "title": "java.lang.UnsupportedOperationException: com.google.gson.JsonSyntaxException: Expected id to be a string, was an array ([-93...12])",
-    "updated_at": "2026-08-03T12:24:33Z",
+    "updated_at": "2026-09-29T18:12:26Z",
     "comments": 8,
     "labels": [
       "env: legacy plugin v3",
@@ -2417,16 +2303,6 @@
       "type: bug"
     ],
     "author": "bobcat4848"
-  },
-  "4051": {
-    "title": "itemsadder armors give 2x armor instead of they should give 1x",
-    "updated_at": "2026-08-19T12:21:32Z",
-    "comments": 1,
-    "labels": [
-      "env: unofficial spigot fork",
-      "type: bug"
-    ],
-    "author": "umutardafiliz"
   },
   "4040": {
     "title": "Item Substitution In recipes ",
@@ -2512,8 +2388,8 @@
   },
   "3821": {
     "title": "Switching from \"item_frame\" to \"item_display\" breaks furniture's Y position",
-    "updated_at": "2025-07-28T18:25:50Z",
-    "comments": 0,
+    "updated_at": "2026-09-30T14:30:11Z",
+    "comments": 1,
     "labels": [
       "impact: graphical issue",
       "status: inactive",
@@ -2521,18 +2397,9 @@
     ],
     "author": "Verdux"
   },
-  "3793": {
-    "title": " Permission option for replace properties (custom model data) is not working",
-    "updated_at": "2025-07-28T18:25:59Z",
-    "comments": 0,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Hellgato"
-  },
   "3790": {
     "title": "v3 legacy - [ItemsAdder] Task #78885736 for ItemsAdder v3.6.4-release-3 generated an exception",
-    "updated_at": "2025-07-28T18:26:24Z",
+    "updated_at": "2026-09-29T18:13:06Z",
     "comments": 0,
     "labels": [
       "outdated: plugin",
@@ -2576,7 +2443,7 @@
   },
   "3620": {
     "title": "Save custom blocks data into the world NBT instead of using custom region files",
-    "updated_at": "2025-07-28T18:27:31Z",
+    "updated_at": "2026-09-29T18:13:28Z",
     "comments": 3,
     "labels": [
       "type: bug",
@@ -2597,8 +2464,8 @@
     "author": "LoneDev6"
   },
   "3617": {
-    "title": "Separate resourcepack into sub-packs",
-    "updated_at": "2025-06-25T09:10:10Z",
+    "title": "Separate sounds into sub-packs",
+    "updated_at": "2026-09-30T11:29:23Z",
     "comments": 0,
     "labels": [
       "scope: resourcepack",
@@ -2621,7 +2488,7 @@
   },
   "3594": {
     "title": "Could not pass event PlayerJoinEvent to ItemsAdder v3.6.3-beta-14",
-    "updated_at": "2025-07-28T18:28:07Z",
+    "updated_at": "2026-09-29T18:14:10Z",
     "comments": 6,
     "labels": [
       "type: bug",
@@ -2665,15 +2532,6 @@
       "type: bug"
     ],
     "author": "Dogg123"
-  },
-  "3481": {
-    "title": "emote in custom item lore bug for shopkeeper",
-    "updated_at": "2025-07-28T18:29:16Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "CirrusPreeminent"
   },
   "3477": {
     "title": "Persistent or Tick Events",
@@ -2765,7 +2623,7 @@
   },
   "3373": {
     "title": "Worldguard flags to prevent players using ia items on certain regions",
-    "updated_at": "2024-02-05T14:17:31Z",
+    "updated_at": "2026-09-29T20:19:55Z",
     "comments": 5,
     "labels": [
       "type: feature request"
@@ -2821,7 +2679,7 @@
   },
   "3298": {
     "title": "Creative scroll click on furniture itemframe without solid hitbox gives furniture without a custom name",
-    "updated_at": "2026-09-11T16:28:37Z",
+    "updated_at": "2026-09-30T07:53:51Z",
     "comments": 1,
     "labels": [
       "type: bug"
@@ -2848,18 +2706,6 @@
       "type: feature request"
     ],
     "author": "IncludivicS"
-  },
-  "3247": {
-    "title": "I change model material but it doesn't show up it disappers",
-    "updated_at": "2025-07-28T18:32:48Z",
-    "comments": 3,
-    "labels": [
-      "env: purpur",
-      "type: bug",
-      "verdict: can't reproduce",
-      "verdict: misconfigured"
-    ],
-    "author": "Mal1koRe1ss"
   },
   "3220": {
     "title": "break item-frame furniture will bounce very far and that's so awful",
@@ -3003,16 +2849,6 @@
     ],
     "author": "LoneDev6"
   },
-  "3021": {
-    "title": "AdvancedEnchantment Plugin Ability is not compatible with IA items",
-    "updated_at": "2026-08-26T05:44:07Z",
-    "comments": 5,
-    "labels": [
-      "compat: plugin",
-      "type: bug"
-    ],
-    "author": "MoGGaming"
-  },
   "3012": {
     "title": "Placeable_on for normal blocks",
     "updated_at": "2024-04-10T10:34:37Z",
@@ -3076,7 +2912,7 @@
   },
   "2885": {
     "title": "ResourcePack not syncing on Bungee Configuration.",
-    "updated_at": "2025-07-28T18:37:16Z",
+    "updated_at": "2026-09-29T18:16:40Z",
     "comments": 16,
     "labels": [
       "type: bug",
@@ -3202,7 +3038,7 @@
   },
   "2587": {
     "title": "Custom Horse Armor Model",
-    "updated_at": "2023-05-02T12:29:44Z",
+    "updated_at": "2026-09-29T18:17:00Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -3221,7 +3057,7 @@
   },
   "2554": {
     "title": "Use item_display entities to display emotes instead of armorstands",
-    "updated_at": "2025-03-27T18:18:49Z",
+    "updated_at": "2026-09-29T18:17:10Z",
     "comments": 1,
     "labels": [
       "type: enhancement",
@@ -3268,14 +3104,12 @@
   },
   "2502": {
     "title": "Emotes have wrong offset of some off-hand accessories ",
-    "updated_at": "2025-09-10T14:54:49Z",
+    "updated_at": "2026-09-29T18:17:32Z",
     "comments": 2,
     "labels": [
       "env: purpur",
       "impact: graphical issue",
-      "type: bug",
-      "verdict: complex to implement",
-      "verdict: wont fix"
+      "type: bug"
     ],
     "author": "glutaminus"
   },
@@ -3291,8 +3125,8 @@
   },
   "2328": {
     "title": "Expansions for /iadurability",
-    "updated_at": "2024-10-16T11:24:13Z",
-    "comments": 0,
+    "updated_at": "2026-09-30T08:38:23Z",
+    "comments": 1,
     "labels": [
       "type: feature request"
     ],
@@ -3332,7 +3166,7 @@
   },
   "2096": {
     "title": "ItemsAdder Mythic Mobs onInteract trigger non functioning",
-    "updated_at": "2025-07-28T18:39:54Z",
+    "updated_at": "2026-09-30T08:04:21Z",
     "comments": 3,
     "labels": [
       "compat: plugin",
@@ -3390,23 +3224,12 @@
   },
   "1764": {
     "title": "Allow us to make custom informational items/buttons to display in the /ia menu",
-    "updated_at": "2026-06-17T07:36:15Z",
+    "updated_at": "2026-09-30T13:09:33Z",
     "comments": 6,
     "labels": [
       "type: feature request"
     ],
     "author": "ItzASecretBoi"
-  },
-  "1712": {
-    "title": "Populator blocks replaced by vanilla structures and deepslate blocks",
-    "updated_at": "2025-07-28T18:40:13Z",
-    "comments": 0,
-    "labels": [
-      "type: bug",
-      "type: spigot bug",
-      "verdict: no solution"
-    ],
-    "author": "LoneDev6"
   },
   "1711": {
     "title": "Create \"graphical\" recipes in /ia menu to showcase recipes made with other plugins compatible with ItemsAdder",
@@ -3454,15 +3277,6 @@
       "type: feature request"
     ],
     "author": "srnyx"
-  },
-  "1620": {
-    "title": "New Permission for Viewing Emotes",
-    "updated_at": "2024-11-28T13:32:46Z",
-    "comments": 1,
-    "labels": [
-      "type: feature request"
-    ],
-    "author": "tyepavitt"
   },
   "1613": {
     "title": "Name tag for custom entities",
@@ -3565,7 +3379,7 @@
   },
   "1214": {
     "title": "water vehicles",
-    "updated_at": "2024-11-28T13:32:43Z",
+    "updated_at": "2026-09-29T18:18:48Z",
     "comments": 10,
     "labels": [
       "type: feature request"
@@ -3662,7 +3476,7 @@
   },
   "98": {
     "title": "Add custom items into vanilla generated chests loot-tables (example: mineshafts chests and minecarts)",
-    "updated_at": "2025-07-28T18:41:04Z",
+    "updated_at": "2026-09-29T18:19:58Z",
     "comments": 7,
     "labels": [
       "type: feature request"
