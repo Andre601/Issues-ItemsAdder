@@ -1,10 +1,27 @@
 {
+  "5557": {
+    "title": "Vanilla chorus flowers never generate in the End: chorus_plant feature is replaced unconditionally (blocks.custom.chorus: false has no effect)",
+    "updated_at": "2026-10-02T11:06:20Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Dofault"
+  },
+  "5556": {
+    "title": "Bungeecord/Waterfall - better resourcepack compatibility",
+    "updated_at": "2026-10-02T09:46:52Z",
+    "comments": 0,
+    "labels": [],
+    "author": "LoneDev6"
+  },
   "5555": {
     "title": "Packets being choked and causing artificial ping due to item drop packet spam",
-    "updated_at": "2026-09-30T21:44:27Z",
+    "updated_at": "2026-10-01T18:19:49Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "env: purpur",
       "type: bug"
     ],
     "author": "yorik100"
@@ -1173,15 +1190,6 @@
     ],
     "author": "LoneDev6"
   },
-  "5140": {
-    "title": "Proxy - resourcepack loading twice",
-    "updated_at": "2026-09-29T18:11:22Z",
-    "comments": 2,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "Iccrtlity"
-  },
   "5127": {
     "title": "Script with Block Break event for Custom Blocks not work",
     "updated_at": "2026-09-30T08:02:26Z",
@@ -1489,16 +1497,6 @@
       "type: feature request"
     ],
     "author": "AlCraft-Network"
-  },
-  "4969": {
-    "title": "Let entities float while ridding (custom boats, etc.)",
-    "updated_at": "2026-06-17T07:38:15Z",
-    "comments": 0,
-    "labels": [
-      "type: enhancement",
-      "type: feature request"
-    ],
-    "author": "bruhhhwarrior"
   },
   "4959": {
     "title": "render issue on optional resource-packs by \"minecraft:equippable\"",
@@ -2910,26 +2908,6 @@
     ],
     "author": "ItzASecretBoi"
   },
-  "2906": {
-    "title": "WorldEdit not working correctly",
-    "updated_at": "2026-09-11T16:28:37Z",
-    "comments": 0,
-    "labels": [
-      "compat: plugin",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
-  "2885": {
-    "title": "ResourcePack not syncing on Bungee Configuration.",
-    "updated_at": "2026-09-29T18:16:40Z",
-    "comments": 16,
-    "labels": [
-      "type: bug",
-      "type: other plugin bug"
-    ],
-    "author": "ShiftyRP"
-  },
   "2861": {
     "title": "MythicMobs integration - new mechanics",
     "updated_at": "2026-09-11T16:30:22Z",
@@ -3388,8 +3366,8 @@
     "author": "The-Gust"
   },
   "1214": {
-    "title": "water vehicles",
-    "updated_at": "2026-09-29T18:18:48Z",
+    "title": "Water vehicles",
+    "updated_at": "2026-10-02T09:56:22Z",
     "comments": 10,
     "labels": [
       "type: feature request"
