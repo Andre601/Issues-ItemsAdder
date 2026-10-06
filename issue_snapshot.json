@@ -1,4 +1,14 @@
 {
+  "5559": {
+    "title": "Attack speed not accounted for spears",
+    "updated_at": "2026-10-05T21:24:07Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5557": {
     "title": "Vanilla chorus flowers never generate in the End: chorus_plant feature is replaced unconditionally (blocks.custom.chorus: false has no effect)",
     "updated_at": "2026-10-02T11:06:20Z",
