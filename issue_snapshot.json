@@ -1,4 +1,22 @@
 {
+  "5561": {
+    "title": "Problem with individual ItemsAdder Item Packs",
+    "updated_at": "2026-10-07T17:43:37Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Leahcimkrob"
+  },
+  "5560": {
+    "title": "Encountered exception remapping plugins",
+    "updated_at": "2026-10-07T08:21:28Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "UdalovKornelius"
+  },
   "5559": {
     "title": "Attack speed not accounted for spears",
     "updated_at": "2026-10-05T21:24:07Z",
