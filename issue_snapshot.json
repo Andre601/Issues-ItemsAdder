@@ -1,7 +1,16 @@
 {
+  "5562": {
+    "title": "Emote will stop hiding player's equipment if player drop/pickup item",
+    "updated_at": "2026-10-08T16:06:19Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "glutaminus"
+  },
   "5561": {
     "title": "Problem with individual ItemsAdder Item Packs",
-    "updated_at": "2026-10-07T17:43:37Z",
+    "updated_at": "2026-10-08T07:43:02Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -10,7 +19,7 @@
   },
   "5560": {
     "title": "Encountered exception remapping plugins",
-    "updated_at": "2026-10-07T08:21:28Z",
+    "updated_at": "2026-10-08T16:06:13Z",
     "comments": 0,
     "labels": [
       "type: bug"
@@ -19,7 +28,7 @@
   },
   "5559": {
     "title": "Attack speed not accounted for spears",
-    "updated_at": "2026-10-05T21:24:07Z",
+    "updated_at": "2026-10-08T16:06:06Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -45,7 +54,7 @@
   },
   "5555": {
     "title": "Packets being choked and causing artificial ping due to item drop packet spam",
-    "updated_at": "2026-10-01T18:19:49Z",
+    "updated_at": "2026-10-08T16:06:28Z",
     "comments": 0,
     "labels": [
       "env: BETA",
