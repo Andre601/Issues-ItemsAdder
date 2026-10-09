@@ -1,18 +1,30 @@
 {
-  "5562": {
-    "title": "Emote will stop hiding player's equipment if player drop/pickup item",
-    "updated_at": "2026-10-08T16:06:19Z",
+  "5563": {
+    "title": "Options \"required_namespace\" and \"required_item\" for addons",
+    "updated_at": "2026-10-09T11:26:35Z",
     "comments": 0,
     "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5562": {
+    "title": "Emote will stop hiding player's equipment if player drop/pickup item",
+    "updated_at": "2026-10-08T19:03:59Z",
+    "comments": 1,
+    "labels": [
+      "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "glutaminus"
   },
   "5561": {
     "title": "Problem with individual ItemsAdder Item Packs",
-    "updated_at": "2026-10-08T07:43:02Z",
+    "updated_at": "2026-10-08T19:03:15Z",
     "comments": 0,
     "labels": [
+      "env: paper",
       "type: bug"
     ],
     "author": "Leahcimkrob"
