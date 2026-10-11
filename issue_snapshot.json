@@ -1,4 +1,14 @@
 {
+  "5564": {
+    "title": "NoSuchMethodError in PlayerEditBookEvent: BookMeta.toBuilder() on Purpur 26.3",
+    "updated_at": "2026-10-11T17:13:43Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5563": {
     "title": "Options \"required_namespace\" and \"required_item\" for addons",
     "updated_at": "2026-10-09T11:26:35Z",
@@ -10,8 +20,8 @@
   },
   "5562": {
     "title": "Emote will stop hiding player's equipment if player drop/pickup item",
-    "updated_at": "2026-10-08T19:03:59Z",
-    "comments": 1,
+    "updated_at": "2026-10-11T04:58:43Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "env: paper",
@@ -50,8 +60,8 @@
   },
   "5557": {
     "title": "Vanilla chorus flowers never generate in the End: chorus_plant feature is replaced unconditionally (blocks.custom.chorus: false has no effect)",
-    "updated_at": "2026-10-02T11:06:20Z",
-    "comments": 0,
+    "updated_at": "2026-10-10T18:31:29Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
