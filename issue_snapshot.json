@@ -1,7 +1,26 @@
 {
+  "5566": {
+    "title": "Crafting grid result button in ItemsAdder",
+    "updated_at": "2026-10-12T18:19:44Z",
+    "comments": 0,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "Gu57-git"
+  },
+  "5565": {
+    "title": "ItemsAdder throws an exception on PlayerJoinEvent with NativePackets and Geyser",
+    "updated_at": "2026-10-12T15:47:09Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
   "5564": {
     "title": "NoSuchMethodError in PlayerEditBookEvent: BookMeta.toBuilder() on Purpur 26.3",
-    "updated_at": "2026-10-11T17:13:43Z",
+    "updated_at": "2026-10-12T15:47:07Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -60,7 +79,7 @@
   },
   "5557": {
     "title": "Vanilla chorus flowers never generate in the End: chorus_plant feature is replaced unconditionally (blocks.custom.chorus: false has no effect)",
-    "updated_at": "2026-10-10T18:31:29Z",
+    "updated_at": "2026-10-12T15:47:17Z",
     "comments": 1,
     "labels": [
       "type: bug"
