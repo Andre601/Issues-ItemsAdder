@@ -316,8 +316,8 @@
   },
   "5527": {
     "title": "26.3 support",
-    "updated_at": "2026-09-16T14:06:19Z",
-    "comments": 0,
+    "updated_at": "2026-10-14T01:01:22Z",
+    "comments": 1,
     "labels": [
       "compat: new minecraft update"
     ],
@@ -3445,8 +3445,8 @@
   },
   "1214": {
     "title": "Water vehicles",
-    "updated_at": "2026-10-02T09:56:22Z",
-    "comments": 10,
+    "updated_at": "2026-10-14T14:07:10Z",
+    "comments": 11,
     "labels": [
       "type: feature request"
     ],
