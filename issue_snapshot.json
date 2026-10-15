@@ -1,4 +1,13 @@
 {
+  "5567": {
+    "title": "Emotes Blending / Default States (Walk, Jump Etc.)",
+    "updated_at": "2026-10-15T14:12:59Z",
+    "comments": 1,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "glutaminus"
+  },
   "5566": {
     "title": "Crafting grid result button in ItemsAdder",
     "updated_at": "2026-10-12T18:19:44Z",
@@ -483,8 +492,8 @@
   },
   "5507": {
     "title": "/iazip does not complete with many items on ItemsAdder 4.0.18",
-    "updated_at": "2026-09-26T10:33:02Z",
-    "comments": 2,
+    "updated_at": "2026-10-15T15:43:05Z",
+    "comments": 4,
     "labels": [
       "type: bug"
     ],
@@ -511,7 +520,7 @@
   },
   "5502": {
     "title": "Armor pieces automatically add equip_on_interact and shearing_sound",
-    "updated_at": "2026-09-30T09:58:25Z",
+    "updated_at": "2026-10-15T12:26:13Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -540,8 +549,8 @@
     "author": "bruhhhwarrior"
   },
   "5495": {
-    "title": "Revamp custom entities",
-    "updated_at": "2026-09-29T15:49:26Z",
+    "title": "Custom Entities v2",
+    "updated_at": "2026-10-14T18:05:45Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
@@ -2602,7 +2611,7 @@
   },
   "3552": {
     "title": "Stonecutter recipes",
-    "updated_at": "2024-11-22T15:09:18Z",
+    "updated_at": "2026-10-14T18:01:14Z",
     "comments": 1,
     "labels": [
       "type: feature request"
@@ -3355,7 +3364,7 @@
   },
   "1572": {
     "title": "Custom Sapling growth stage",
-    "updated_at": "2026-02-13T10:39:30Z",
+    "updated_at": "2026-10-15T12:25:59Z",
     "comments": 4,
     "labels": [
       "type: feature request"
