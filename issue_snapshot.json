@@ -1,4 +1,14 @@
 {
+  "5570": {
+    "title": "Errors",
+    "updated_at": "2026-10-17T01:16:18Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "NotEklavya"
+  },
   "5569": {
     "title": "\"1337\" text in resourcepack prompt message",
     "updated_at": "2026-10-16T14:11:59Z",
