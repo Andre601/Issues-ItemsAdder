@@ -1,4 +1,28 @@
 {
+  "5573": {
+    "title": "[5.0.0-beta-2] Spear Lunge enchantment never triggers: custom block PLAYER_ACTION listener defers STAB via sync()",
+    "updated_at": "2026-10-17T23:32:38Z",
+    "comments": 0,
+    "labels": [],
+    "author": "rudde0"
+  },
+  "5572": {
+    "title": "CustomStack.isInRegistry throws NPE when called from another plugin's onEnable (5.0.0-beta-2)",
+    "updated_at": "2026-10-17T19:17:01Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "Vedlyk"
+  },
+  "5571": {
+    "title": "[BETA] NativePackets deadlocks the server thread on PlayerJoinEvent (mutateAndWait blocks on Netty event loop without timeout)",
+    "updated_at": "2026-10-17T15:30:46Z",
+    "comments": 0,
+    "labels": [],
+    "author": "rudde0"
+  },
   "5570": {
     "title": "Errors",
     "updated_at": "2026-10-17T01:16:18Z",
@@ -1107,16 +1131,6 @@
     ],
     "author": "bruhhhwarrior"
   },
-  "5270": {
-    "title": "Font Image issue in Lore",
-    "updated_at": "2026-09-29T17:07:52Z",
-    "comments": 2,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "00Hrtz"
-  },
   "5255": {
     "title": "Entity updates sometimes get stuck",
     "updated_at": "2026-07-24T16:28:41Z",
@@ -1381,8 +1395,8 @@
   },
   "5083": {
     "title": "advancedenchantments + grindstone - Mainhand state duplication",
-    "updated_at": "2026-04-29T12:54:14Z",
-    "comments": 7,
+    "updated_at": "2026-10-17T18:10:40Z",
+    "comments": 8,
     "labels": [
       "compat: plugin",
       "type: bug",
