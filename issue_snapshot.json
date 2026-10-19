@@ -1,14 +1,18 @@
 {
   "5573": {
-    "title": "[5.0.0-beta-2] Spear Lunge enchantment never triggers: custom block PLAYER_ACTION listener defers STAB via sync()",
-    "updated_at": "2026-10-17T23:32:38Z",
+    "title": "Spear Lunge enchantment never triggers: custom block PLAYER_ACTION listener defers STAB via sync()",
+    "updated_at": "2026-10-19T08:57:40Z",
     "comments": 0,
-    "labels": [],
+    "labels": [
+      "env: BETA",
+      "env: unofficial spigot fork",
+      "type: bug"
+    ],
     "author": "rudde0"
   },
   "5572": {
     "title": "CustomStack.isInRegistry throws NPE when called from another plugin's onEnable (5.0.0-beta-2)",
-    "updated_at": "2026-10-17T19:17:01Z",
+    "updated_at": "2026-10-19T08:39:46Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -17,15 +21,19 @@
     "author": "Vedlyk"
   },
   "5571": {
-    "title": "[BETA] NativePackets deadlocks the server thread on PlayerJoinEvent (mutateAndWait blocks on Netty event loop without timeout)",
-    "updated_at": "2026-10-17T15:30:46Z",
+    "title": "NativePackets deadlocks the server thread on PlayerJoinEvent (mutateAndWait blocks on Netty event loop without timeout)",
+    "updated_at": "2026-10-19T08:57:16Z",
     "comments": 0,
-    "labels": [],
+    "labels": [
+      "env: BETA",
+      "env: unofficial spigot fork",
+      "type: bug"
+    ],
     "author": "rudde0"
   },
   "5570": {
-    "title": "Errors",
-    "updated_at": "2026-10-17T01:16:18Z",
+    "title": "NullPointerException: Cannot invoke \"itemsadder.m.d.f(String)\"",
+    "updated_at": "2026-10-19T08:57:05Z",
     "comments": 0,
     "labels": [
       "env: BETA",
