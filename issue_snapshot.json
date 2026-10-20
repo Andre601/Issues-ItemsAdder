@@ -1,4 +1,21 @@
 {
+  "5575": {
+    "title": "Weird placement file in pack fast compressed",
+    "updated_at": "2026-10-20T16:15:50Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5574": {
+    "title": "Ingame recipes editor/creator",
+    "updated_at": "2026-10-20T13:36:55Z",
+    "comments": 0,
+    "labels": [],
+    "author": "LoneDev6"
+  },
   "5573": {
     "title": "Spear Lunge enchantment never triggers: custom block PLAYER_ACTION listener defers STAB via sync()",
     "updated_at": "2026-10-19T08:57:40Z",
@@ -80,8 +97,8 @@
   },
   "5565": {
     "title": "ItemsAdder throws an exception on PlayerJoinEvent with NativePackets and Geyser",
-    "updated_at": "2026-10-12T15:47:09Z",
-    "comments": 0,
+    "updated_at": "2026-10-19T20:47:07Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -1515,15 +1532,6 @@
     ],
     "author": "Andre601"
   },
-  "5026": {
-    "title": "Custom Naturally Spawned Ores Missing textures After v4.0.13",
-    "updated_at": "2025-11-14T15:03:58Z",
-    "comments": 1,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "WOSK24"
-  },
   "5025": {
     "title": "New Events and Actions",
     "updated_at": "2025-09-18T10:05:45Z",
@@ -2351,17 +2359,6 @@
     ],
     "author": "Angelosso1"
   },
-  "4211": {
-    "title": "Stop v3 to notify about updates if it's a v4 update",
-    "updated_at": "2025-07-28T18:23:22Z",
-    "comments": 0,
-    "labels": [
-      "env: legacy plugin v3",
-      "status: inactive",
-      "type: bug"
-    ],
-    "author": "LoneDev6"
-  },
   "4206": {
     "title": "v3 legacy -  generate 1.20.5+ resourcepacks",
     "updated_at": "2025-07-07T15:14:35Z",
@@ -2487,15 +2484,6 @@
       "type: bug"
     ],
     "author": "PSYCHEER"
-  },
-  "3927": {
-    "title": "The furniture placement direction is reversed after converting to display item.",
-    "updated_at": "2025-09-09T13:28:38Z",
-    "comments": 6,
-    "labels": [
-      "type: bug"
-    ],
-    "author": "WMGameLive"
   },
   "3894": {
     "title": "Hash issues in 1.21 and 1.20.6",
@@ -2632,16 +2620,6 @@
     ],
     "author": "Verdux"
   },
-  "3594": {
-    "title": "Could not pass event PlayerJoinEvent to ItemsAdder v3.6.3-beta-14",
-    "updated_at": "2026-09-29T18:14:10Z",
-    "comments": 6,
-    "labels": [
-      "type: bug",
-      "verdict: can't reproduce"
-    ],
-    "author": "chamo572"
-  },
   "3572": {
     "title": "Placing Denizen furnitures/block using a command.",
     "updated_at": "2024-04-26T15:18:35Z",
@@ -2706,16 +2684,6 @@
       "type: feature request"
     ],
     "author": "SrMonsterYT"
-  },
-  "3420": {
-    "title": "1.16.5 - Flooding of Noteplay Event Errors in Console",
-    "updated_at": "2025-07-28T18:30:33Z",
-    "comments": 2,
-    "labels": [
-      "env: unofficial spigot fork",
-      "type: bug"
-    ],
-    "author": "WinteryFlames"
   },
   "3416": {
     "title": "Geyser's Bedrock Edition players will not be able to use the anvil_repair Anvil Repair recipe written by ItemsAdder",
