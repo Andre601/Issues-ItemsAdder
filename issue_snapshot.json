@@ -1,11 +1,10 @@
 {
-  "5575": {
-    "title": "Weird placement file in pack fast compressed",
-    "updated_at": "2026-10-20T16:15:50Z",
+  "5576": {
+    "title": "Ensure that the offset_x values \u200b\u200bfor font images are included in the configuration.",
+    "updated_at": "2026-10-21T16:35:33Z",
     "comments": 0,
     "labels": [
-      "env: BETA",
-      "type: bug"
+      "type: feature request"
     ],
     "author": "iambibi"
   },
