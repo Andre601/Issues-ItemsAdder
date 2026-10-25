@@ -1,30 +1,25 @@
 {
   "5579": {
     "title": "Unable to repair vanilla assets",
-    "updated_at": "2026-10-24T14:54:57Z",
+    "updated_at": "2026-10-24T15:37:22Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "100petr"
   },
   "5578": {
     "title": "Blocks briefly reappear when mining downwards",
-    "updated_at": "2026-10-24T06:47:29Z",
-    "comments": 0,
+    "updated_at": "2026-10-25T12:15:42Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "Z3r0xh"
-  },
-  "5577": {
-    "title": "Corrupted level_chunk_with_light packets with NativePackets 0.1.6 (client disconnect after teleport)",
-    "updated_at": "2026-10-23T21:31:08Z",
-    "comments": 1,
-    "labels": [],
-    "author": "AxDevv"
   },
   "5576": {
     "title": "Ensure that the offset_x values \u200b\u200bfor font images are included in the configuration.",
