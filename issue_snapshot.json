@@ -1,7 +1,7 @@
 {
   "5579": {
     "title": "Unable to repair vanilla assets",
-    "updated_at": "2026-10-24T15:37:22Z",
+    "updated_at": "2026-10-26T09:56:30Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -12,7 +12,7 @@
   },
   "5578": {
     "title": "Blocks briefly reappear when mining downwards",
-    "updated_at": "2026-10-25T12:15:42Z",
+    "updated_at": "2026-10-26T09:56:02Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -109,7 +109,7 @@
   },
   "5566": {
     "title": "Crafting grid result button in ItemsAdder",
-    "updated_at": "2026-10-12T18:19:44Z",
+    "updated_at": "2026-10-26T08:55:39Z",
     "comments": 0,
     "labels": [
       "type: feature request"
@@ -3529,6 +3529,15 @@
       "type: feature request"
     ],
     "author": "xiaobailoves"
+  },
+  "837": {
+    "title": "[Suggestion] Big category have small categories",
+    "updated_at": "2026-10-25T18:11:59Z",
+    "comments": 6,
+    "labels": [
+      "type: feature request"
+    ],
+    "author": "minecraft-dripdrop"
   },
   "777": {
     "title": "Adding inventories to furniture/custom blocks",
