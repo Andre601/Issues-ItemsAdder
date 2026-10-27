@@ -1,4 +1,33 @@
 {
+  "5582": {
+    "title": "Custom block breaks don't update water/lava",
+    "updated_at": "2026-10-27T12:31:15Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "yorik100"
+  },
+  "5581": {
+    "title": "Player turn invisible while rendering Custom block",
+    "updated_at": "2026-10-27T03:00:20Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "wawagmid-maker"
+  },
+  "5580": {
+    "title": "Placeholder not resolved in TAB",
+    "updated_at": "2026-10-26T21:21:14Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5579": {
     "title": "Unable to repair vanilla assets",
     "updated_at": "2026-10-26T09:56:30Z",
