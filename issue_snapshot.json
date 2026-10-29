@@ -1,7 +1,17 @@
 {
+  "5583": {
+    "title": "Task #23 for ItemsAdder v5.0.0-beta-2 generated an exception java.lang.NullPointerException: Cannot invoke \"itemsadder.m.d.f(String)\" because the return value of \"itemsadder.m.d.k()\" is null",
+    "updated_at": "2026-10-29T11:44:04Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5582": {
-    "title": "Custom block breaks don't update water/lava",
-    "updated_at": "2026-10-28T11:54:19Z",
+    "title": "Custom block breaks don't update FLOWING water/lava",
+    "updated_at": "2026-10-29T17:53:38Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -41,8 +51,8 @@
   },
   "5578": {
     "title": "Blocks briefly reappear when mining downwards",
-    "updated_at": "2026-10-26T09:56:02Z",
-    "comments": 2,
+    "updated_at": "2026-10-29T00:27:42Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "env: paper",
