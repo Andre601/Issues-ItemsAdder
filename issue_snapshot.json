@@ -1,4 +1,14 @@
 {
+  "5584": {
+    "title": "Revamp of the /ia menu",
+    "updated_at": "2026-10-30T17:28:02Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement",
+      "type: feature request"
+    ],
+    "author": "LoneDev6"
+  },
   "5583": {
     "title": "Task #23 for ItemsAdder v5.0.0-beta-2 generated an exception java.lang.NullPointerException: Cannot invoke \"itemsadder.m.d.f(String)\" because the return value of \"itemsadder.m.d.k()\" is null",
     "updated_at": "2026-10-29T11:44:04Z",
@@ -3248,8 +3258,8 @@
   },
   "2507": {
     "title": "API to register custom recipes",
-    "updated_at": "2025-08-06T14:03:08Z",
-    "comments": 1,
+    "updated_at": "2026-10-30T16:12:39Z",
+    "comments": 2,
     "labels": [
       "scope: api",
       "type: feature request"
@@ -3571,8 +3581,8 @@
   },
   "837": {
     "title": "[Suggestion] Big category have small categories",
-    "updated_at": "2026-10-25T18:11:59Z",
-    "comments": 6,
+    "updated_at": "2026-10-30T14:05:45Z",
+    "comments": 7,
     "labels": [
       "type: feature request"
     ],
