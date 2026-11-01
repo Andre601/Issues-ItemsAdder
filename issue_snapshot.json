@@ -1,10 +1,21 @@
 {
-  "5585": {
-    "title": "[5.0.0-beta-4] Server crash when breaking block (Paper 26.3): AbstractMethodError isAcceptingMessages()",
-    "updated_at": "2026-10-30T19:13:00Z",
+  "5586": {
+    "title": "Bedrock compatibility for ItemsAdder \u2013 possible collaboration?",
+    "updated_at": "2026-11-01T09:19:21Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "type: bug"
+    ],
+    "author": "fa4-dev"
+  },
+  "5585": {
+    "title": "[5.0.0-beta-4] Server crash when breaking block (Paper 26.3): AbstractMethodError isAcceptingMessages()",
+    "updated_at": "2026-11-01T15:31:08Z",
+    "comments": 2,
+    "labels": [
+      "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "Koora7334"
@@ -41,8 +52,8 @@
   },
   "5581": {
     "title": "Player turn invisible while rendering Custom block",
-    "updated_at": "2026-10-27T03:00:20Z",
-    "comments": 0,
+    "updated_at": "2026-11-01T04:15:09Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -71,8 +82,8 @@
   },
   "5578": {
     "title": "Blocks briefly reappear when mining downwards",
-    "updated_at": "2026-10-29T00:27:42Z",
-    "comments": 3,
+    "updated_at": "2026-11-01T15:33:51Z",
+    "comments": 4,
     "labels": [
       "env: BETA",
       "env: paper",
@@ -751,7 +762,7 @@
     "labels": [
       "type: feature request"
     ],
-    "author": "sdawd2q3e"
+    "author": "fa4-dev"
   },
   "5469": {
     "title": "Blast Furnace gives vanilla item instead of custom item (Furnace works fine)",
