@@ -1,4 +1,14 @@
 {
+  "5587": {
+    "title": "Failed to connect to the server, Itemsadder is still loading server content. Please try again shortly.",
+    "updated_at": "2026-11-02T15:46:04Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "Louitic"
+  },
   "5586": {
     "title": "Bedrock compatibility for ItemsAdder \u2013 possible collaboration?",
     "updated_at": "2026-11-01T09:19:21Z",
@@ -474,8 +484,8 @@
   },
   "5530": {
     "title": "Infinite mining yet again 2",
-    "updated_at": "2026-09-29T18:07:28Z",
-    "comments": 1,
+    "updated_at": "2026-11-01T18:46:06Z",
+    "comments": 2,
     "labels": [
       "env: purpur",
       "type: bug"
