@@ -1,10 +1,21 @@
 {
-  "5587": {
-    "title": "Failed to connect to the server, Itemsadder is still loading server content. Please try again shortly.",
-    "updated_at": "2026-11-02T15:46:04Z",
+  "5588": {
+    "title": "resourcepack generation fail",
+    "updated_at": "2026-11-03T18:11:22Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "type: bug"
+    ],
+    "author": "NotEklavya"
+  },
+  "5587": {
+    "title": "Failed to connect to the server, Itemsadder is still loading server content. Please try again shortly.",
+    "updated_at": "2026-11-02T21:40:59Z",
+    "comments": 2,
+    "labels": [
+      "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "Louitic"
