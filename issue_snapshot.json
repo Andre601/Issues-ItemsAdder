@@ -1,7 +1,27 @@
 {
+  "5590": {
+    "title": "Client crash with pack generated on Vulkan/OpenGL",
+    "updated_at": "2026-11-05T19:22:17Z",
+    "comments": 2,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5589": {
+    "title": "Emerald item can be traded",
+    "updated_at": "2026-11-05T14:17:22Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5588": {
     "title": "resourcepack generation fail",
-    "updated_at": "2026-11-03T19:23:51Z",
+    "updated_at": "2026-11-05T14:15:16Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -12,7 +32,7 @@
   },
   "5587": {
     "title": "Failed to connect to the server, Itemsadder is still loading server content. Please try again shortly.",
-    "updated_at": "2026-11-02T21:40:59Z",
+    "updated_at": "2026-11-05T14:15:21Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -33,7 +53,7 @@
   },
   "5585": {
     "title": "[5.0.0-beta-4] Server crash when breaking block (Paper 26.3): AbstractMethodError isAcceptingMessages()",
-    "updated_at": "2026-11-01T15:31:08Z",
+    "updated_at": "2026-11-05T14:18:18Z",
     "comments": 2,
     "labels": [
       "env: BETA",
@@ -54,7 +74,7 @@
   },
   "5583": {
     "title": "Task #23 for ItemsAdder v5.0.0-beta-2 generated an exception java.lang.NullPointerException: Cannot invoke \"itemsadder.m.d.f(String)\" because the return value of \"itemsadder.m.d.k()\" is null",
-    "updated_at": "2026-10-29T11:44:04Z",
+    "updated_at": "2026-11-05T14:14:26Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -80,16 +100,6 @@
       "type: bug"
     ],
     "author": "wawagmid-maker"
-  },
-  "5580": {
-    "title": "Placeholder not resolved in TAB",
-    "updated_at": "2026-10-26T21:21:14Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "iambibi"
   },
   "5579": {
     "title": "Unable to repair vanilla assets",
@@ -173,8 +183,8 @@
   },
   "5569": {
     "title": "\"1337\" text in resourcepack prompt message",
-    "updated_at": "2026-10-16T14:11:59Z",
-    "comments": 0,
+    "updated_at": "2026-11-05T02:58:23Z",
+    "comments": 1,
     "labels": [
       "type: bug"
     ],
@@ -220,8 +230,8 @@
   },
   "5564": {
     "title": "NoSuchMethodError in PlayerEditBookEvent: BookMeta.toBuilder() on Purpur 26.3",
-    "updated_at": "2026-10-12T15:47:07Z",
-    "comments": 0,
+    "updated_at": "2026-11-05T03:42:41Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "type: bug"
