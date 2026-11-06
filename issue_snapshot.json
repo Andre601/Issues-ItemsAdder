@@ -1,20 +1,24 @@
 {
   "5590": {
     "title": "Client crash with pack generated on Vulkan/OpenGL",
-    "updated_at": "2026-11-05T19:22:17Z",
+    "updated_at": "2026-11-05T22:47:26Z",
     "comments": 2,
     "labels": [
       "env: BETA",
+      "env: paper",
+      "impact: breaks gameplay (critical)",
+      "scope: resourcepack",
       "type: bug"
     ],
     "author": "iambibi"
   },
   "5589": {
     "title": "Emerald item can be traded",
-    "updated_at": "2026-11-05T14:17:22Z",
-    "comments": 0,
+    "updated_at": "2026-11-05T22:42:43Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "iambibi"
