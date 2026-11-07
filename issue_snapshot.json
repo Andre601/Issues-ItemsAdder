@@ -688,8 +688,8 @@
   },
   "5508": {
     "title": "loots mob name not showing",
-    "updated_at": "2026-09-29T18:08:27Z",
-    "comments": 2,
+    "updated_at": "2026-11-07T16:46:33Z",
+    "comments": 3,
     "labels": [
       "type: bug"
     ],
@@ -715,8 +715,8 @@
   },
   "5505": {
     "title": "Slimefun compatibility - Modern atlas validation",
-    "updated_at": "2026-09-29T10:35:47Z",
-    "comments": 0,
+    "updated_at": "2026-11-07T07:53:13Z",
+    "comments": 1,
     "labels": [
       "compat: plugin",
       "type: bug"
