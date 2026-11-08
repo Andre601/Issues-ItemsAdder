@@ -1,4 +1,44 @@
 {
+  "5594": {
+    "title": "Translation key wont apply if lore have remaining uses",
+    "updated_at": "2026-11-08T17:30:32Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5593": {
+    "title": "Material recipes - PrepareItemCraftEvent error",
+    "updated_at": "2026-11-08T15:36:27Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "100petr"
+  },
+  "5592": {
+    "title": "API very very buggy",
+    "updated_at": "2026-11-08T17:33:01Z",
+    "comments": 1,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
+  "5591": {
+    "title": "Weird Performance on itemsadder.m.oi.a()",
+    "updated_at": "2026-11-07T19:53:55Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5590": {
     "title": "Client crash with pack generated on Vulkan/OpenGL",
     "updated_at": "2026-11-05T22:47:26Z",
