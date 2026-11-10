@@ -1,7 +1,7 @@
 {
   "5594": {
     "title": "Translation key wont apply if lore have remaining uses",
-    "updated_at": "2026-11-08T17:30:32Z",
+    "updated_at": "2026-11-10T13:18:48Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -11,7 +11,7 @@
   },
   "5593": {
     "title": "Material recipes - PrepareItemCraftEvent error",
-    "updated_at": "2026-11-08T15:36:27Z",
+    "updated_at": "2026-11-10T13:18:28Z",
     "comments": 0,
     "labels": [
       "env: BETA",
@@ -21,8 +21,8 @@
   },
   "5592": {
     "title": "API very very buggy",
-    "updated_at": "2026-11-08T17:33:01Z",
-    "comments": 1,
+    "updated_at": "2026-11-10T15:11:00Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -31,8 +31,8 @@
   },
   "5591": {
     "title": "Weird Performance on itemsadder.m.oi.a()",
-    "updated_at": "2026-11-07T19:53:55Z",
-    "comments": 0,
+    "updated_at": "2026-11-10T17:53:43Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -41,8 +41,8 @@
   },
   "5590": {
     "title": "Client crash with pack generated on Vulkan/OpenGL",
-    "updated_at": "2026-11-05T22:47:26Z",
-    "comments": 2,
+    "updated_at": "2026-11-10T13:11:36Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "env: paper",
@@ -138,8 +138,8 @@
   },
   "5581": {
     "title": "Player turn invisible while rendering Custom block",
-    "updated_at": "2026-11-01T04:15:09Z",
-    "comments": 1,
+    "updated_at": "2026-11-10T15:07:59Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
