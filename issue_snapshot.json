@@ -1,4 +1,14 @@
 {
+  "5595": {
+    "title": "getLoots api method",
+    "updated_at": "2026-11-11T12:45:07Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5594": {
     "title": "Translation key wont apply if lore have remaining uses",
     "updated_at": "2026-11-10T13:18:48Z",
@@ -21,8 +31,8 @@
   },
   "5592": {
     "title": "API very very buggy",
-    "updated_at": "2026-11-10T15:11:00Z",
-    "comments": 2,
+    "updated_at": "2026-11-11T15:17:34Z",
+    "comments": 7,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -41,8 +51,8 @@
   },
   "5590": {
     "title": "Client crash with pack generated on Vulkan/OpenGL",
-    "updated_at": "2026-11-10T13:11:36Z",
-    "comments": 3,
+    "updated_at": "2026-11-11T13:13:27Z",
+    "comments": 5,
     "labels": [
       "env: BETA",
       "env: paper",
@@ -795,7 +805,7 @@
   },
   "5495": {
     "title": "Custom Entities v2",
-    "updated_at": "2026-10-14T18:05:45Z",
+    "updated_at": "2026-11-11T07:10:56Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
