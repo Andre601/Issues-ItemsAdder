@@ -1,4 +1,13 @@
 {
+  "5597": {
+    "title": "CD {value} placeholder in action bar",
+    "updated_at": "2026-11-12T17:46:57Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5595": {
     "title": "getLoots api method",
     "updated_at": "2026-11-11T12:45:07Z",
@@ -31,8 +40,8 @@
   },
   "5592": {
     "title": "API very very buggy",
-    "updated_at": "2026-11-11T15:17:34Z",
-    "comments": 7,
+    "updated_at": "2026-11-12T07:59:30Z",
+    "comments": 8,
     "labels": [
       "env: BETA",
       "type: bug"
