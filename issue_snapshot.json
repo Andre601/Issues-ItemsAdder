@@ -1,4 +1,13 @@
 {
+  "5598": {
+    "title": "Inject custom blocks without ItemsAdderBlocksInjector",
+    "updated_at": "2026-11-13T12:01:44Z",
+    "comments": 0,
+    "labels": [
+      "type: enhancement"
+    ],
+    "author": "LoneDev6"
+  },
   "5597": {
     "title": "CD {value} placeholder in action bar",
     "updated_at": "2026-11-12T17:46:57Z",
