@@ -234,8 +234,8 @@
   },
   "5571": {
     "title": "NativePackets deadlocks the server thread on PlayerJoinEvent (mutateAndWait blocks on Netty event loop without timeout)",
-    "updated_at": "2026-10-23T21:18:42Z",
-    "comments": 1,
+    "updated_at": "2026-11-14T00:59:06Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "env: unofficial spigot fork",
