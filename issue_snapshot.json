@@ -1,4 +1,24 @@
 {
+  "5600": {
+    "title": "Custom Armor Textures Display as Diamond Armor in ItemsAdder 5.0.0 Beta 7/8 (Minecraft 26.2)",
+    "updated_at": "2026-11-16T19:43:39Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "al1sonsz"
+  },
+  "5599": {
+    "title": "New items made during beta doesn't work as drop in mythicmobs",
+    "updated_at": "2026-11-16T13:39:09Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "Apiz05"
+  },
   "5598": {
     "title": "Inject custom blocks without ItemsAdderBlocksInjector",
     "updated_at": "2026-11-13T12:01:44Z",
@@ -19,8 +39,8 @@
   },
   "5595": {
     "title": "getLoots api method",
-    "updated_at": "2026-11-15T18:23:48Z",
-    "comments": 0,
+    "updated_at": "2026-11-16T09:04:27Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -2873,7 +2893,7 @@
   },
   "3459": {
     "title": "skip loading the texture if it has already been downloaded on another server",
-    "updated_at": "2024-03-12T13:36:13Z",
+    "updated_at": "2026-11-16T21:31:23Z",
     "comments": 3,
     "labels": [
       "type: feature request"
