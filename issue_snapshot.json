@@ -1,20 +1,22 @@
 {
   "5600": {
     "title": "Custom Armor Textures Display as Diamond Armor in ItemsAdder 5.0.0 Beta 7/8 (Minecraft 26.2)",
-    "updated_at": "2026-11-16T19:43:39Z",
-    "comments": 0,
+    "updated_at": "2026-11-17T17:46:59Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
+      "env: unofficial spigot fork",
       "type: bug"
     ],
     "author": "al1sonsz"
   },
   "5599": {
     "title": "New items made during beta doesn't work as drop in mythicmobs",
-    "updated_at": "2026-11-16T13:39:09Z",
+    "updated_at": "2026-11-17T07:48:45Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "Apiz05"
@@ -66,16 +68,6 @@
       "type: bug"
     ],
     "author": "100petr"
-  },
-  "5592": {
-    "title": "API very very buggy",
-    "updated_at": "2026-11-15T18:26:19Z",
-    "comments": 9,
-    "labels": [
-      "env: BETA",
-      "type: bug"
-    ],
-    "author": "iambibi"
   },
   "5591": {
     "title": "Weird Performance on itemsadder.m.oi.a()",
@@ -580,7 +572,7 @@
   },
   "5533": {
     "title": "Restructure the custom entities behaviours to be more clear and add examples",
-    "updated_at": "2026-09-17T14:08:15Z",
+    "updated_at": "2026-11-17T11:46:55Z",
     "comments": 0,
     "labels": [
       "type: enhancement"
