@@ -1,4 +1,14 @@
 {
+  "5601": {
+    "title": "Iazip issues",
+    "updated_at": "2026-11-17T21:16:13Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "NotEklavya"
+  },
   "5600": {
     "title": "Custom Armor Textures Display as Diamond Armor in ItemsAdder 5.0.0 Beta 7/8 (Minecraft 26.2)",
     "updated_at": "2026-11-17T17:46:59Z",
