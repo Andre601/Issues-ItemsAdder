@@ -1,10 +1,20 @@
 {
+  "5602": {
+    "title": "CustomBlock not textured in geneation",
+    "updated_at": "2026-11-19T18:26:59Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5601": {
     "title": "Iazip issues",
-    "updated_at": "2026-11-17T21:16:13Z",
+    "updated_at": "2026-11-18T21:05:07Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "NotEklavya"
