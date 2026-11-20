@@ -1,8 +1,24 @@
 {
+  "5604": {
+    "title": "PlayerEditBookEvent",
+    "updated_at": "2026-11-20T15:56:22Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Savranchuk"
+  },
+  "5603": {
+    "title": "Resource pack not sent on join after /iazip repairs vanilla assets (NullPointerException: \"hash\" is null)",
+    "updated_at": "2026-11-20T15:52:17Z",
+    "comments": 0,
+    "labels": [],
+    "author": "atomfitz"
+  },
   "5602": {
     "title": "CustomBlock not textured in geneation",
-    "updated_at": "2026-11-19T18:26:59Z",
-    "comments": 1,
+    "updated_at": "2026-11-20T16:06:53Z",
+    "comments": 2,
     "labels": [
       "type: bug"
     ],
@@ -10,8 +26,8 @@
   },
   "5601": {
     "title": "Iazip issues",
-    "updated_at": "2026-11-18T21:05:07Z",
-    "comments": 0,
+    "updated_at": "2026-11-20T16:06:02Z",
+    "comments": 1,
     "labels": [
       "env: BETA",
       "env: paper",
@@ -29,17 +45,6 @@
       "type: bug"
     ],
     "author": "al1sonsz"
-  },
-  "5599": {
-    "title": "New items made during beta doesn't work as drop in mythicmobs",
-    "updated_at": "2026-11-17T07:48:45Z",
-    "comments": 0,
-    "labels": [
-      "env: BETA",
-      "env: paper",
-      "type: bug"
-    ],
-    "author": "Apiz05"
   },
   "5598": {
     "title": "Inject custom blocks without ItemsAdderBlocksInjector",
