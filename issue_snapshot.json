@@ -10,8 +10,8 @@
   },
   "5603": {
     "title": "Resource pack not sent on join after /iazip repairs vanilla assets (NullPointerException: \"hash\" is null)",
-    "updated_at": "2026-11-20T15:52:17Z",
-    "comments": 0,
+    "updated_at": "2026-11-20T20:46:58Z",
+    "comments": 1,
     "labels": [],
     "author": "atomfitz"
   },
