@@ -1,4 +1,14 @@
 {
+  "5605": {
+    "title": "CustomBlock reset to Note Block if hand interact",
+    "updated_at": "2026-11-22T10:39:30Z",
+    "comments": 0,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "iambibi"
+  },
   "5604": {
     "title": "PlayerEditBookEvent",
     "updated_at": "2026-11-20T15:56:22Z",
@@ -17,8 +27,8 @@
   },
   "5602": {
     "title": "CustomBlock not textured in geneation",
-    "updated_at": "2026-11-20T16:06:53Z",
-    "comments": 2,
+    "updated_at": "2026-11-22T09:33:19Z",
+    "comments": 5,
     "labels": [
       "type: bug"
     ],
@@ -1706,7 +1716,7 @@
     "labels": [
       "type: feature request"
     ],
-    "author": "dudullle"
+    "author": "PX-Ikwor"
   },
   "5061": {
     "title": "Auto play emotes on certain events (join, leave, afk, leave, teleport, respawn)",
