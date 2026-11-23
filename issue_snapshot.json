@@ -1,10 +1,30 @@
 {
+  "5607": {
+    "title": "NoSuchMethodError: legacyHoverEventSerializer on servers with newer Adventure (Folia fork, MC 26.3)",
+    "updated_at": "2026-11-23T17:12:35Z",
+    "comments": 1,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "Adixon0"
+  },
+  "5606": {
+    "title": "5.0.0-beta-8: generated pack is 22 MB (vs 15 MB on 4.0.16), client load 103 s vs 41 s \u2013 9 duplicated ia_item_merge overlays + \"entity\" atlas source",
+    "updated_at": "2026-11-23T16:35:00Z",
+    "comments": 1,
+    "labels": [
+      "env: BETA",
+      "type: bug"
+    ],
+    "author": "naikyys"
+  },
   "5605": {
-    "title": "CustomBlock reset to Note Block if hand interact",
-    "updated_at": "2026-11-22T10:39:30Z",
+    "title": "Composter - customBlock reset to Note Block if hand interact",
+    "updated_at": "2026-11-23T14:14:50Z",
     "comments": 0,
     "labels": [
       "env: BETA",
+      "env: paper",
       "type: bug"
     ],
     "author": "iambibi"
@@ -47,8 +67,8 @@
   },
   "5600": {
     "title": "Custom Armor Textures Display as Diamond Armor in ItemsAdder 5.0.0 Beta 7/8 (Minecraft 26.2)",
-    "updated_at": "2026-11-17T17:46:59Z",
-    "comments": 2,
+    "updated_at": "2026-11-23T14:21:16Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "env: unofficial spigot fork",
@@ -213,10 +233,11 @@
   },
   "5581": {
     "title": "Player turn invisible while rendering Custom block",
-    "updated_at": "2026-11-10T15:07:59Z",
+    "updated_at": "2026-11-23T16:33:54Z",
     "comments": 2,
     "labels": [
-      "type: bug"
+      "type: bug",
+      "verdict: can't reproduce"
     ],
     "author": "wawagmid-maker"
   },
