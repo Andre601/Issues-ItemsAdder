@@ -1,8 +1,8 @@
 {
   "5608": {
     "title": "Weird leathers armor textures",
-    "updated_at": "2026-11-24T14:35:26Z",
-    "comments": 1,
+    "updated_at": "2026-11-26T10:14:45Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "type: bug"
@@ -11,8 +11,8 @@
   },
   "5606": {
     "title": "5.0.0-beta-8: generated pack is 22 MB (vs 15 MB on 4.0.16), client load 103 s vs 41 s \u2013 9 duplicated ia_item_merge overlays + \"entity\" atlas source",
-    "updated_at": "2026-11-23T23:48:10Z",
-    "comments": 1,
+    "updated_at": "2026-11-26T09:44:23Z",
+    "comments": 3,
     "labels": [
       "env: BETA",
       "env: unofficial spigot fork",
