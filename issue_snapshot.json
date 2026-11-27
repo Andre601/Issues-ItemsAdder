@@ -1,4 +1,13 @@
 {
+  "5609": {
+    "title": "[CosmeticsCore 1.3.16] Random \"Invalid move player packet received\" kicks on Paper/Purpur 26.3 (sync movement listeners break move/tick-end order)",
+    "updated_at": "2026-11-27T18:00:34Z",
+    "comments": 0,
+    "labels": [
+      "type: bug"
+    ],
+    "author": "oguilhermeafonso"
+  },
   "5608": {
     "title": "Weird leathers armor textures",
     "updated_at": "2026-11-26T10:14:45Z",
@@ -58,8 +67,8 @@
   },
   "5601": {
     "title": "Iazip issues",
-    "updated_at": "2026-11-20T16:06:02Z",
-    "comments": 1,
+    "updated_at": "2026-11-26T21:14:59Z",
+    "comments": 2,
     "labels": [
       "env: BETA",
       "env: paper",
